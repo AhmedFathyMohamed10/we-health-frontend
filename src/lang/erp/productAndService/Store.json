@@ -1,0 +1,118 @@
+{
+    "en": {
+        "store":{
+            "header": "Stores",
+            "key":{
+                "name": "Name",
+                "address":"Address",
+                "employee":"Employee",
+                "createdBy":"Created by",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name": {
+                "label": "Name",
+                "placeholder": "Enter Name"
+            },
+            "address":{
+                "label":"Address",
+                "placeholder":"Enter Address"
+            },
+            "employee":{
+                "label":"Employee",
+                "placeholder":"Enter Employee"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Store",
+                "edit":"Edit Store",
+                "details":"Store Details"
+            }
+        },
+        "btns":{
+            "new":"New Store",
+            "all":"All Stores",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a address or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "store":{
+            "header":"المخازن",
+            "key":{
+                "name": "الاسم",
+                "address":"العنوان",
+                "employee":"الموظف",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name": {
+                "label": "الاسم",
+                "placeholder": "ادخل الاسم"
+            },
+            "address":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+            },
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"ادخل الموظف"
+            }          
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه مخزن جديد" ,
+                "edit":" تعديل مخزن",
+                "details":"تفاصيل مخزن",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه مخزن جديد",
+            "all":"كل المخازن",
+            "search": "بحث",
+            "delete": "حذف" ,
+            "active": "نشط",
+            "suspended":"غير نشط"           
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+         "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

@@ -1,0 +1,541 @@
+{
+    "en": {
+        "Employee":{
+            "header": "Employee",
+            "key":{
+                "name":"Name",
+                "group":"Group",
+                "gender":"Gender",
+                "dob":"dob",
+                "profession":"Profession",
+                "marital_status":"Marital Status",
+                "phone_number":"Phone Number",
+                "other_phone_number":"Other Phone Number",
+                "home_phone_number":"Home Phone Number",
+                "address":"Address",
+                "city":"City",
+                "files":"Files",
+                "serial":"Serial",
+                "treat_as_supplier":"Treat As Supplier",
+                "treat_as_client":"Treat As Client",
+                "prevent_dealing":"Prevent Dealing With",
+                "alert_dealing":"Alert When Dealing",
+                "prevent_give":"Prevent Give A Discount",
+                "alert_give":"Alert When Give A Discount",
+
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+
+            "graduation_date":{
+                "label":"Graduation Date",
+                "placeholder":"enter your graduation date"
+            }
+            ,
+            "job_end_date":{
+                "label":"Job End Date",
+                "placeholder":"enter your job end date"
+            },
+            "job_start_date":{
+                "label":"Job Start Date",
+                "placeholder":"Enter Your Job Start Date"
+                
+            },
+            "weekend_days":{
+                "label":"Weekend Days",
+                "placeholder":"Choose  your weekend days "
+            },
+            "direct_manager":{
+                "label":"Direct Manager",
+                "placeholder":"Search... "
+                
+            },
+            "hourly_pay":{
+                "label":"Hourly Pay",
+                "placeholder":"Enter Hourly Pay"
+                
+            },
+            "salary":{
+                "label":"Salary",
+                "placeholder":"Enter Salary"
+                
+            },
+            "password":{
+                "label":"Password",
+                "placeholder":"Enter password"
+                
+            },
+            "annual_increase":{
+                "label":"Annual Increase",
+                "placeholder":"Enter Annual Increase  %"
+            },
+            "username":{
+                "label":"Username",
+                "placeholder":"Enter Username "
+            },
+            "code":{
+                "label":"Employee Code",
+                "placeholder":"Enter Empolyee Code"
+            },
+            "accounting_code":{
+                "label":"Accounting Code",
+                "placeholder":"Enter Accounting Code"
+            },
+            "searchUser":{
+                "label":"Search by Phone/Name",
+                "placeholder":"Enter Phone Number / Name"
+            },
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+              "group":{
+                "label":"Group",
+                "placeholder":"Enter Group"
+            },
+            "gender":{
+                "label":"Gender",
+                "placeholder":"Enter Gender"
+            },
+            "dob":{
+                "label":"Date Of Birth",
+                "placeholder":"Enter Date Of Birth"
+            },
+            "profession":{
+                "label":"Profession",
+                "placeholder":"Enter Profession"
+            },
+           
+            "marital_status":{
+                "label":"Marital Status",
+                "placeholder":"Enter Marital Status"
+            },
+            "phone_number":{
+                "label":"Phone Number",
+                "placeholder":"Enter Phone Number"
+            },
+            "role":{
+                "label":" Role",
+                "placeholder":"Enter Role Name "
+            },
+            "department":{
+                "label":"Department",
+                "placeholder":"Enter Department Name"
+            },
+            "address":{
+                "label":"Address",
+                "placeholder":"Enter Address"
+            },
+           
+            "discount":{
+                "label":"Discount",
+                "placeholder":"Enter Discount  %"
+            },
+         
+            "profit":{
+                "label":"Profit",
+                "placeholder":"Enter Profit  %"
+            },
+            "max_debit":{
+                "label":"Max Debit",
+                "placeholder":"Enter Max Debit %"
+            },
+            "insurance_name":{
+                "label":"Insurance Name",
+                "placeholder":"Insurance Name"
+            },
+            "card_name":{
+                "label":"Card Name",
+                "placeholder":"Enter Card Name"
+            },
+            "member_id":{
+                "label":"Member Id",
+                "placeholder":"Enter Member Id"
+            },
+            "plan":{
+                "label":"Plan",
+                "placeholder":"Enter Plan"
+            },
+            "expiration_date":{
+                "label":"Expiration Date",
+                "placeholder":"Enter Expiration Date"
+            },
+            "payment_method":{
+                "label":"Payment Method",
+                "placeholder":"Enter Payment Method"
+            },
+            "files":{
+                "label":"Files",
+                "placeholder":"Enter Files"
+            },
+            "serial":{
+                "label":"Serial",
+                "placeholder":"Enter Serial"
+            },
+            "treat_as_supplier":{
+                "label":"Treat As Supplier",
+                "placeholder":"Enter Treat As Supplier"
+            },
+            "treat_as_client":{
+                "label":"Treat As Client",
+                "placeholder":"Enter Treat As Client"
+            },
+            "prevent_dealing":{
+                "label":"Prevent Dealing With",
+                "placeholder":"Enter Prevent Dealing With"
+            },
+            "alert_dealing":{
+                "label":"Alert When Dealing",
+                "placeholder":"Enter Alert When Dealing"
+            },
+            "prevent_give":{
+                "label":"Prevent Give A Discount",
+                "placeholder":"Enter Prevent Give A Discount"
+            },
+            "alert_give":{
+                "label":"Alert When Give A Discount",
+                "placeholder":"Enter Alert When Give A Discount"
+            },
+            "email":{
+                "label":"Email",
+                "placeholder":"Enter Email"
+            },
+            "emergency_numbers":{
+                "label":"Emergency",
+                "placeholder":"Emergency",
+                "name":{
+                    "label":"Name",
+                "placeholder":"Name"
+                },
+                "number":{
+                    "label":"Number",
+                "placeholder":"Number"
+                }
+            
+            },
+            
+            "status":{
+                "label":"Status",
+                "placeholder":"choose status"
+            }
+        },
+        "table":{
+            "thead":{
+                "controls":"controls"
+            }
+        },
+        "dialog":{
+            "header":{
+                "employee":"Employee",
+                "supplier":"Supplier",
+                "new":"New Employee",
+                "newSupplier":"New Supplier",
+                "move":"Move Employee",
+                "edit":"Edit Employee",
+                "editSupplier":"Edit Supplier",
+                "details":"Employee Details",
+                "status":"Status Employee"
+            }
+        },
+        "btns":{
+            "newEmployee":"New Employee",
+            "newSupplier":"New Supplier",
+            "all":"All Employees",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Employee":{
+            "header":"الموظفين",
+            "key":{
+                "name":"الاسم",
+                "group":"المجموعة",
+                "gender":"النوع",
+                "dob":"تاريخ الميلاد",
+                "profession":"المهنة",
+                "marital_status":"الحالة الاجتماعية",
+                "phone_number":"رقم التليفون",
+                "other_phone_number":"رقم تليفون اخر",
+                "home_phone_number":"رقم تليفون المنزل",
+                "address":"العنوان",
+                "city":"المدينة",
+                "files":"الملفات",
+                "serial":"الرقم التسلسلي",
+                "treat_as_supplier":"التعامل كمورد",
+                "treat_as_client":"التعامل ك عميل",
+                "prevent_dealing":"منع التعامل مع",
+                "alert_dealing":"تحذير التعامل مع",
+                "prevent_give":"منع اعطاء خصم",
+                "alert_give":"تحذير اعطاء خصم",
+
+                "createdBy":"تم الانشاء بواسطة",
+                "createdAt":"تاريخ الانشاء",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "graduation_date":{
+                "label":"تاريخ التخرج",
+                "placeholder":"ادخل تاريخ التخرج"
+            }
+            ,
+            "job_end_date":{
+                "label":"تاريخ الانتهاء",
+                "placeholder":"ادخل تاريخ الانتهاء"
+            },
+            "job_start_date":{
+                "label":"تاريخ بدء العمل",
+                "placeholder":"ادخل تاريخ بدء العمل"
+                
+            },
+            "weekend_days":{
+                "label":"ايام الاجازات",
+                "placeholder":"اختر ايام الاجازة"
+            },
+            "direct_manager":{
+                "label":"المدير المباشر",
+                "placeholder":"...البحث "
+                
+            },
+            "hourly_pay":{
+                "label":"الدفع بالساعة",
+                "placeholder":"ادخل الدفع بالساعة"
+                
+            },
+            "salary":{
+                "label":"الراتب",
+                "placeholder":"ادخل الراتب"
+                
+            },
+            "password":{
+                "label":"كلمة السر",
+                "placeholder":"ادخل كلمة السر "
+                
+            },
+            "annual_increase":{
+                "label":"الزيادة السنوية",
+                "placeholder":"ادخل الزيادة السنوية "
+            },
+            "username":{
+                "label":"اسم المستخدم",
+                "placeholder":" ادخل اسم المستخدم"
+            },
+            "code":{
+                "label":"كود الموظف",
+                "placeholder":"ادخل كودالموظف"
+            },
+            "accounting_code":{
+                "label":"كودالحساب",
+                "placeholder":"ادخل كود الحساب"
+            },
+            "searchUser":{
+                "label":"ابحث بالاسم او الموبايل",
+                "placeholder":"ادخل الاسم او رقم التليفون"
+            },
+            "name":{
+                "label":"الاسم",
+                "placeholder":"ادخل الاسم"
+            },
+              "group":{
+                "label":"المجموعة",
+                "placeholder":"ادخل المجموعة"
+            },
+            "gender":{
+                "label":"النوع",
+                "placeholder":"ادخل النوع"
+            },
+            "dob":{
+                "label":"تاريخ الميلاد",
+                "placeholder":"ادخل تاريخ الميلاد"
+            },
+            "profession":{
+                "label":"المهنة",
+                "placeholder":"ادخل المهنة"
+            },
+           
+            "marital_status":{
+                "label":"الحالة الاجتماعية",
+                "placeholder":"الحالة الاجتماعية"
+            },
+            "phone_number":{
+                "label":"رقم التليفون",
+                "placeholder":"ادخل رقم التليفون"
+            },
+            "role":{
+                "label":"الدور الوظيفي",
+                "placeholder":"ادخل الدور الوظيفي"
+            },
+            "department":{
+                "label":"القسم",
+                "placeholder":"ادخل القسم"
+            },
+            "address":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+            },
+           
+            "discount":{
+                "label":"التخفيض",
+                "placeholder":"ادخل نسبة التخفيض"
+            },
+         
+            "profit":{
+                "label":"Profit",
+                "placeholder":"Enter Profit  %"
+            },
+            "max_debit":{
+                "label":"Max Debit",
+                "placeholder":"Enter Max Debit %"
+            },
+            "insurance_name":{
+                "label":"Insurance Name",
+                "placeholder":"Insurance Name"
+            },
+            "card_name":{
+                "label":"Card Name",
+                "placeholder":"Enter Card Name"
+            },
+            "member_id":{
+                "label":"Member Id",
+                "placeholder":"Enter Member Id"
+            },
+            "plan":{
+                "label":"Plan",
+                "placeholder":"Enter Plan"
+            },
+            "expiration_date":{
+                "label":"Expiration Date",
+                "placeholder":"Enter Expiration Date"
+            },
+            "payment_method":{
+                "label":"Payment Method",
+                "placeholder":"Enter Payment Method"
+            },
+            "files":{
+                "label":"Files",
+                "placeholder":"Enter Files"
+            },
+            "serial":{
+                "label":"الرقم التسلسلي",
+                "placeholder":"ادخل الرقم التسلسلي"
+            },
+            "treat_as_supplier":{
+                "label":"التعامل ك مورد",
+                "placeholder":"ادخل التعامل كمورد"
+            },
+            "treat_as_client":{
+                "label":"التعامل ك عميل",
+                "placeholder":"ادخل التعامل ك عميل"
+            },
+            "prevent_dealing":{
+                "label":"منع التعامل مع",
+                "placeholder":"ادخل منع التعامل مع "
+            },
+            "alert_dealing":{
+                "label":"تحذير التعامل مع ",
+                "placeholder":"ادخل تحذير التعامل مع "
+            },
+            "prevent_give":{
+                "label":"منع اعطاء تخفيض",
+                "placeholder":"ادخل منع اعطاء تخفيض"
+            },
+            "alert_give":{
+                "label":"تحذير اعطاء تخفيض",
+                "placeholder":"ادخل تحذير اعطاء تخفيض"
+            },
+            "email":{
+                "label":"البريد الالكتروني",
+                "placeholder":"ادخل البريد الالكتروني"
+            },
+            "emergency_numbers":{
+                "label":"الطوارئ",
+                "placeholder":"الطوارئ",
+                "name":{
+                    "label":"الاسم",
+                "placeholder":"الاسم"
+                },
+                "number":{
+                    "label":"الرقم",
+                "placeholder":"الرقم"
+                }
+            
+            },
+            
+            "status":{
+                "label":"Status",
+                "placeholder":"choose status"
+            }
+        },
+        "table":{
+            "thead":{
+                "controls":"التحكم"
+            }
+        },
+        "dialog":{
+            "header":{
+                "employee":"الموظف",
+                "supplier":"المورد",
+                "new":"موظف جديد",
+                "newSupplier":"موظف جديد",
+                "move":"تحريك الموظف",
+                "edit":"تعديل الموظف",
+                "editSupplier":"تعديل المورد",
+                "details":"تفاصيل الموظف",
+                "status":"حالة الموظف"
+            }
+        },
+        "btns":{
+            "newEmployee":"موظف جديد",
+            "newSupplier":"مورد جديد",
+            "all":"كل الموظفين",
+            "search": "البحث",
+            "delete": "المسح",
+            "active": "التغعيل",
+            "suspended": "التعليق"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"معلق"
+        },
+       
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+  }
+  

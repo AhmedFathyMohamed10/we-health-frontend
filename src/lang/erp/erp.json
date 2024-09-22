@@ -1,0 +1,90 @@
+{
+    "en": {
+        "product":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Product Name"
+            },
+            "price":{
+                "label":"Price",
+                "placeholder":"Enter Product Price"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Product",
+                "edit":"Edit Product",
+                "details":"Product Details",
+                "delete":"Delete"
+            }
+        },
+        "btns":{
+            "new":"New Product",
+            "cancel":"Cancel",
+            "save":"Save",
+            "all":"All Products",
+            "close":"Close",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "search":{
+            "label":"Search by",
+            "placeholder":"search ..."
+        },
+        "table":{
+            "th":{
+                "name":"Name",
+                "price":"Price",
+                "controls":"controls"
+            }
+        },
+        "messages": {
+            "delete": "Are you sure, you want to delete this item?",
+            "resultsfound": "Results found"
+        }
+    },
+    "ar": {
+        "product":{
+            "name":{
+                "label":"الاسم",
+                "placeholder":"ادخل اسم المنتج"
+            },
+            "price":{
+                "label":"السعر",
+                "placeholder":"ادخل سعر المنتج"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"منتج جديد",
+                "edit":"تعديل المنتج",
+                "details":"تفاصيل المنتح",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"منتج جديد",
+            "cancel":"الغاء",
+            "save":"حفظ",
+            "all":"كل المنتحات",
+            "close":"غلق",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "search":{
+            "label":"ابحث بواسطة",
+            "placeholder":"بحث ..."
+        },
+        "table":{
+            "th":{
+                "name":"الاسم",
+                "price":"السعر",
+                "controls":"التحكم"
+            }
+        },
+        "messages": {
+            "delete": "تأكيد حذف هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        }
+    }
+}

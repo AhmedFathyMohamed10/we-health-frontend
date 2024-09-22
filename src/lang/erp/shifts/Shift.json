@@ -1,0 +1,159 @@
+{
+    "en": {
+        "am":"am",
+        "pm":"pm",
+        "Saturday":"Saturday",
+        "Sunday":"Sunday",
+        "Monday":"Monday",
+        "Tuesday":"Tuesday",
+        "Wednesday":"Wednesday",
+        "Thursday":"Thursday",
+        "Friday":"Friday",
+
+        "shift":{
+            "header": "Shifts",
+            "key":{
+                "name":"Name",
+                "start_hour":"Start_Hour",
+                "end_hour":"End_Hour",
+                "days":"Days",
+                "status":"Active",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "start_hour":{
+                "label":"Start Hour",
+                "placeholder":"Enter Start Hour"
+            },
+            "end_hour":{
+                "label":"End Hour",
+                "placeholder":"Enter End Hour"
+            },
+            "days":{
+                "label":"Days",
+                "placeholder":"Enter Days"
+            }
+
+        },
+        "dialog":{
+            "header":{
+                "new":"New Shift",
+                "edit":"Edit Shift",
+                "details":"Shift Details",
+                "status":"Status Shift"
+            }
+        },
+        "btns":{
+            "new":"New Shift",
+            "all":"All Shifts",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "am":"صباحا",
+        "pm":"مساء",
+        "Saturday":"السبت",
+        "Sunday":"الاحد",
+        "Monday":"الاثنين",
+        "Tuesday":"الثلاثاء",
+        "Wednesday":"الاربعاء",
+        "Thursday":"الخميس",
+        "Friday":"الجمعة",
+
+        "shift":{
+            "header":"الورديات",
+            "key":{
+                "name":"الاسم",
+                "start_hour":"بداية الوردية",
+                "end_hour":" نهاية الوردية",
+                "days":"ايام الوردية",
+                "status":"Active",
+                "created_by":"تم الانشاء بواسظة",
+                "created_at":"التاريخ",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم الوردية",
+                "placeholder":"ادخل اسم الوردية"
+            },
+            "start_hour":{
+                "label":" بداية الوردية",
+                "placeholder":"ادخل بداية الوردية "
+            },
+            "end_hour":{
+                "label":"نهاية الوردية ",
+                "placeholder":"ادخل نهاية الوردية"
+            },
+            "days":{
+                "label":"ايام الوردية ",
+                "placeholder":"ادخل الايام"
+            }
+
+        },
+        "dialog":{
+            "header":{
+                "new":"وردية جديدة",
+                "edit":"تعديل الوردية",
+                "details":"تفاصيل الوردية",
+                "delete":"حذف",
+                "status":"الحاله"
+            }
+        },
+        "btns":{
+            "new":"وردية جديد",
+            "all":"كل الورديات ",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

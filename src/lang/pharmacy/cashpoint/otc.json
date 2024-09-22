@@ -1,0 +1,505 @@
+{
+  "en": {
+    "header1": "Medical Instructions",
+    "header2": "Receipt",
+    "login":{
+        "name":" Hossam El-Bokhary Pharmacy",
+        "pharmacist":"Pharmacist Name",
+        "signin":"Sign in"
+
+    },
+    "patientName":{
+      "label": "Patient Name",
+      "placeholdere": "Patient Name"
+    },
+    "PatientComplaint":{
+      "label": "Patient Complaint"
+    },
+    
+    "PatientDiagnosis":{
+      "label": "Patient Diagnosis",
+      "clinicName":"Clinic Name",
+      "placeholdereValue": "Search",
+      "placeholdere": "Dr Bayoumi AbdelMejeid",
+      "request":"Request",
+      "nameRequest":"Mohamed Bayoumi request RX",
+      "nameDr":"Dr name:",
+      "date":"Date:",
+      "diagnosis":"Diagnosis:",
+      "icd":"Icd",
+      "name":"Name"
+    },
+
+    "PatientWallet":{
+      "label": "Patient Wallet",
+      "value":"-20",
+      "exp":"EGP"
+
+    }, 
+    "lastOperation":{
+      "label": "Last Operation",
+      "value":"14 May 2023 "
+    },
+    "insurancySync":{
+      "label": " Insurancy Sync",
+      "value":"axa "
+    },
+    "total":{
+      "label": "TOTAL",
+      "value":"45 EGP "
+    },
+    "perepation":{
+      "label": "perepation",
+      "add":"Add",
+      "printInstructions":"Print Instructions",
+      "receipt":"Receipt"
+    },
+    "PatientInfo":{
+      "label": "Patient Info",
+      "history":{     
+          "label": "History"
+      },
+      "allergies":{
+        "label": "Allergies"
+      },
+      "insurance":{
+          "label": "Insurance"
+      },
+      "PhPota":{
+          "label": "Ph.Pota"
+      }
+    },
+    "invoice":{
+        "header":"Invoice",
+        "invoiceNo":{
+          "label":"Invoice No.",
+          "value":"#1254841234451"
+        },
+        "date":{
+          "label":"Date:" 
+        },
+        "clientName":{
+          "label":"Client Name:" ,
+          "name":"Ahmed Mohesn"
+        },
+        "accountName":{
+          "label":"Account Name:" ,
+          "name":"Mohamed Mohesn"
+        },
+        "casherName":{
+          "label":"Casher Name:" ,
+          "name":"Ahmed Mohesn"
+        },
+        "itemNumber":{
+          "label":"Item Number:" ,
+          "num":" 3"
+        },
+        "sum":{
+          "label":"Sum:" ,
+          "value":" 200.00 EGP"
+        },
+        "vat":{
+          "label":"VAT:" ,
+          "value":" 30.00 EGP"
+        },
+        "totalDiscount":{
+          "label":"Total Discount" ,
+          "value":" 50.00 EGP"
+        },
+        "totalAmount":{
+          "label":"Total Amount:" ,
+          "value":" 180.00 EGP"
+        },
+        "remaining":{
+          "label":"Remaining",
+          "value":" 00.00 EGP"
+            
+
+        },
+        "preview":{
+          "label":"Preview" 
+        },
+        "print":{
+          "label":"Print" 
+        },
+        "done":{
+          "label":"Done" 
+        },
+        "cancel":{
+          "label":"Cancel"
+        }
+
+    },
+    
+    "otc": {
+      "headerMedical":"Medical Instructions",
+      "headerReceipt":"Receipt",
+      "drugName": {
+        "label": "Drug Name",
+        "placeholder": "Drug Name"
+      },
+      "permission": {
+        "label": "Substituent Permission",
+        "placeholder": "Select"
+      },
+      "frequency": {
+        "label": "Frequency",
+        "dropdownPlaceholder": "Dose"
+      },
+      "testName": {
+        "label": "Test Name",
+        "placeholder": "Search"
+      },
+      "sample":{
+        "label": "Sample Code",
+        "placeholder": "154548/123"
+     },
+      "assignedTechnician":{
+        "label": "Assigned Technician",
+        "placeholder": "Search"
+     },
+      "assignedNurse":{
+        "label": "Assigned Nurse",
+        "placeholder": "Search"
+     },
+      "reference":{
+        "label": "Reference",
+        "placeholder": "Select your reference type"
+     },
+      "subtest":{
+        "label": "Subtest",
+        "placeholder": "Wbc"
+     },
+      "result":{
+        "label": "Result",
+        "placeholder": "15"
+     },
+      "route": {
+        "label": "Route of Administration",
+        "placeholder": "Route"
+      },
+      "period": {
+        "label": "Period",
+        "valuePlaceholder": "Days",
+        "dropdownPlaceholder": "Times"
+      },
+      "dose": {
+        "label":"Dose",
+        "valuePlaceholder":"00.00",
+        "dropdownPlaceholder":"Taplet"
+      },
+    
+      "refill": {
+        "label": "Refill",
+        "placeholder": "Number"
+      },
+      "comment": {
+        "label": "Comment",
+        "placeholder": "Comment"
+      },
+      "unit": {
+        "label": "Unit",
+        "placeholder": "Strip",
+        "placeholdereValue":"15"
+      },
+      "price": {
+        "label": "Price",
+        "placeholder": "12   EGP",
+        "placeholdereValue":"Text..."
+      },
+      "total": {
+        "label": "Total",
+        "placeholder": "12 ج"
+      },
+      "batch": {
+        "label1": "Batch No.",
+        "label2": "Ex.Date",
+        "dropdownPlaceholder1": "#748155121 ",
+        "dropdownPlaceholder2": "13/3/2013 "
+      },
+      "amount": {
+        "label1": "Amount",
+        "label2": "Remaining",
+        "dropdownPlaceholder": "15 items ",
+        "placeholder": "00.00    EGP"
+
+
+      },
+      "discount": {
+        "label": "Discount",
+        "placeholder": "Amount",
+        "placeholderValue": "00 ",
+        "dropdownPlaceholder": "% "
+
+      },
+      "payment ": {
+        "label": "Payment Method",
+        "dropdownPlaceholder": "Cash "
+
+      },
+      "totalDiscount": {
+        "label": "Total Discount",
+        "placeholder": "00 ",
+        "dropdownPlaceholder": " % "
+
+      },
+      "vat": {
+        "label": "VAT",
+        "placeholder": "00 ",
+        "dropdownPlaceholder": "% "
+
+      },
+      "dueDate": {
+        "label": "Due Date",
+        "placeholder": "22/2/2023 "
+
+      },
+      "paymentMethod": {
+        "label": "Payment Method",
+        "dropdownPlaceholder": "Cash "
+
+      }
+    
+  
+
+    },
+    "analysis":{
+        "comment":{
+          "label":"Comment",
+          "placeholder":"text...."
+       }
+    }
+
+  },
+  
+  "ar": {
+    "header1": "تعليمات طبية",
+    "header2": "إيصال",
+    "login":{
+        "name":"صيدلية حسام البخارى",
+        "pharmacist":"اسم الصيدلي",
+        "signin":"تسجيل الدخول"
+
+    },
+    "patientName":{
+      "label": "اسم المريض",
+      "placeholdere": "اسم المريض"
+    },
+    "PatientComplaint":{
+      "label": "شكوى المريض",
+      "placeholdere": "شكوى المريض"
+      
+    },
+    
+    "PatientDiagnosis":{
+      "label": "تشخيص المريض",
+      "clinicName":"اسم العيادة",
+      "placeholdereValue": "يبحث",
+      "placeholdere": "بيومي عبد المجيد",
+      "request":"طلب",
+      "nameRequest":"محمد بيومي طلب RX",
+      "nameDr":"اسم الدكتور:",
+      "date":"تاريخ:",
+      "diagnosis":"تشخبص:",
+      "icd":"اي سي دي",
+      "name":"اسم"
+    },
+
+    "PatientWallet":{
+      "label": "محفظة المريض",
+      "value":"-20",
+      "exp":"جنيه مصري"
+
+    }, 
+    "lastOperation":{
+      "label": "العملية الأخيرة",
+      "value":"14 مايو 2023"
+    },
+    "insurancySync":{
+      "label": "  مزامنة التأمين",
+      "value":"أكسا "
+    },
+    "total":{
+      "label": "المجموع",
+      "value":"45 ج"
+    },
+    "perepation":{
+      "label": "جبر",
+      "add":" يضيف",
+      "printInstructions":"تعليمات الطباعة",
+      "receipt":" إيصال"
+    },
+    "PatientInfo":{
+      "label": "معلومات المريض",
+      "history":{     
+          "label": "تاريخ"
+      },
+      "allergies":{
+        "label": "الحساسية"
+      },
+      "insurance":{
+          "label": "تأمين"
+      },
+      "PhPota":{
+          "label": "Ph.Pota"
+      }
+    },
+    "invoice":{
+        "header":"فاتورة",
+        "invoiceNo":{
+          "label":"رقم الفاتورة.",
+          "value":"#1254841234451"
+        },
+        "date":{
+          "label":"تاريخ:" 
+        },
+        "clientName":{
+          "label":"اسم العميل:" ,
+          "name":"احمد محسن"
+        },
+        "casherName":{
+          "label":"اسم كاشير:" ,
+          "name":"احمد محسن"
+        },
+        "itemNumber":{
+          "label":"رقم الشيء:" ,
+          "num":" 3"
+        },
+        "sum":{
+          "label":"مجموع:" ,
+          "value":" 200.00 جنيه"
+        },
+        "vat":{
+          "label":" ضريبة القيمة المضافة:" ,
+          "value":"30.00 جنيه"
+        },
+        "totalDiscount":{
+          "label":"  إجمالي الخصم:" ,
+          "value":"50.00 جنيه مصري"
+        },
+        "totalAmount":{
+          "label":"المبلغ الإجمالي:" ,
+          "value":" 180.00 جنيه"
+        },
+        "remaining":{
+          "label":"متبقي",
+          "value":" 00.00 جنيه مصري"
+            
+
+        },
+        "preview":{
+          "label":"معاينة" 
+        },
+        "print":{
+          "label":"مطبعة" 
+        },
+        "done":{
+          "label":"منتهي" 
+        },
+        "cancel":{
+          "label":"يلغي"
+        }
+
+    },
+    
+    "otc": {
+      "headerMedical":" تعليمات طبية",
+      "headerReceipt":"إيصال",
+      "drugName": {
+        "label": "اسم الدواء",
+        "placeholder": "اسم الدواء"
+      },
+      "permission": {
+        "label": " إذن بديل",
+        "placeholder": "يختار"
+      },
+      "frequency": {
+        "label": "تكرار",
+        "dropdownPlaceholder": "جرعة"
+      },
+      "route": {
+        "label": "مسار الإدارة",
+        "placeholder": "طريق"
+      },
+      "period": {
+        "label": "فترة",
+        "valuePlaceholder": "أيام",
+        "dropdownPlaceholder": " مرات"
+      },
+      "dose": {
+        "label":"جرعة",
+        "valuePlaceholder":"00.00",
+        "dropdownPlaceholder":"تابليت"
+      },
+    
+      "refill": {
+        "label": "اعادة تعبئه",
+        "placeholder": " رقم"
+      },
+      "comment": {
+        "label": "تعليق",
+        "placeholder": "تعليق"
+      },
+      "unit": {
+        "label": "وحدة",
+        "placeholder": "يجرد"
+      },
+      "price": {
+        "label": "سعر",
+        "placeholder": "12 ج"
+      },
+      "total": {
+        "label": "المجموع",
+        "placeholder": "12 ج"
+      },
+      "batch": {
+        "label1": "رقم الحزمة.",
+        "label2": "مثال: التاريخ",
+        "dropdownPlaceholder1": "#748155121 ",
+        "dropdownPlaceholder2": "13/3/2013 "
+      },
+      "amount": {
+        "label1": "كمية",
+        "label2": "متبقي",
+        "dropdownPlaceholder": " 15 قطعة ",
+        "placeholder": "00.00 جنيه مصري"
+
+
+      },
+      "discount": {
+        "label": " تخفيض",
+        "placeholder": " كمية",
+        "dropdownPlaceholder": "% "
+
+      },
+      "paying": {
+        "label": "طريقة الدفع او السداد",
+        "dropdownPlaceholder": "نقدي "
+
+      },
+      "totalDiscount": {
+        "label": "إجمالي الخصم",
+        "placeholder": "00",
+        "dropdownPlaceholder": " % "
+
+      },
+      "vat": {
+        "label": "ضريبة القيمة المضافة",
+        "placeholder": "14",
+        "dropdownPlaceholder": "% "
+
+      },
+      "paymentMethod": {
+        "label": "طريقة الدفع او السداد",
+        "dropdownPlaceholder": " نقدي "
+
+      }
+    
+  
+
+    }
+  }
+  
+}
+  
+  

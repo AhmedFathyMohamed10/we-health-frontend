@@ -1,0 +1,102 @@
+{
+    "en": {
+        "status": {
+            "header": "status"
+        },
+        "form": {
+            "name": {
+                "label": "Name",
+                "placeholder": "Enter Name"
+            },
+            "createdBy": {
+                "label": "Created by"
+            },
+            "createdAt": {
+                "label": "Created at"
+            },
+            "updated_at": {
+                "label": "Updated at"
+            }
+        },
+        "dialog": {
+            "header": {
+                "new": "New Status",
+                "edit": "Edit Status",
+                "details": "Status Details"
+            }
+        },
+        "btns": {
+            "new": "New status",
+            "all": "All status",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a Name"
+            }
+        }
+    },
+    "ar": {
+        "status": {
+            "header": "تعريفات الحالة"
+        },
+        "form": {
+            "name": {
+                "label": "اسم الحالة",
+                "placeholder": "ادخل اسم الحالة"
+            },
+            "createdBy": {
+                "label": "أنشئت من قبل"
+            },
+            "createdAt": {
+                "label": "التاريخ"
+            },
+            "updated_at": {
+                "label": "تم التحديث في"
+            }
+        },
+        "dialog": {
+            "header": {
+                "new": "حالة جديدة",
+                "edit": "تعديل الحالة",
+                "details": "تفاصيل الحالة",
+                "delete": "حذف",
+                "status": "الحاله"
+            }
+        },
+        "btns": {
+            "new": "حالة جديدة",
+            "all": "كل المجموعات",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended": "غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم"
+            }
+        }
+    }
+}

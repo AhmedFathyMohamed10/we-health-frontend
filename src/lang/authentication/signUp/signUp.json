@@ -1,0 +1,125 @@
+{
+  "en": {
+    "signUp": "Sign up",
+    "slogan": "Simply get it done",
+    "haveAccount": "Already have account!",
+    "differentAccount": "Sign in with different account",
+    "step": "Step",
+    "verifyHeader": "Verify your phone number",
+    "verifyMessage": "Please check your phone inbox for a verification code, if you couldn't find it, click resend.",
+    "inputPlaceHolder": "Enter code",
+    "RemainingTime": "Remaining",
+    "done": "Done",
+    "verify": "Verify",
+    "verified": "Verified",
+    "send":"Send Code",
+    "resend": "Resend",
+    "second":"second",
+    "phoneOREmail": {
+      "label": "Email / Phone number",
+      "placeholder": "Enter email address or phone number"
+    },
+    "code":{
+      "label":"Code",
+      "placeholder":"Enter Code"
+    },
+    "form": {
+      "fullname": {
+        "label": "Full Name",
+        "placeholder": "Full Name"
+      },
+      "username": {
+        "label": "User Name",
+        "placeholder": "@username"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "user@example.com"
+      },
+      "mobile": {
+        "label": "Phone number",
+        "placeholder": "Phone number"
+      },
+      "dob": {
+        "label": "Birth Date",
+        "placeholder": "Birth Date"
+      },
+      "gender": {
+        "label": "Gender",
+        "placeholder": "Select"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password"
+      }
+    },
+    "continue": "Continue",
+    "or": "Or",
+    "business": {
+      "link": "Create a business page",
+      "text": " for your clinic, pharmacy, laboratory or etc."
+    }
+  },
+  "ar": {
+    "signUp": "انشاء حساب",
+    "slogan": " انشاء حساب  جديد بسهوله",
+    "haveAccount": "لديك حساب بالفعل",
+    "stay": "ابقي متصلا",
+    "differentAccount": "تسجيل الدخول عن طريق حساب اخر",
+    "step": "خطوة",
+    "verifyHeader": "التحقق من رقم الهاتف",
+    "verifyMessage": "من فضلك تحقق من رسائل هاتفك اذا لم تصلك الرساله اضغط اعاده ارسال",
+    "inputPlaceHolder": "ادخل الكود",
+    "RemainingTime": "باقي",
+    "done": "تسجيل جديد",
+    "send":"ارسال الكود",
+    "resend": "اعاده ارسال",
+    "verify": "تحقق",
+    "verified": "تم التحقق",
+    "second":" ثانية",
+    "phoneOREmail": {
+      "label": "البريد الالكتروني او رقم الهاتف",
+      "placeholder": "ادخل البريد الالكتروني او رقم الهاتف"
+    },
+    "code":{
+      "label":"كود",
+      "placeholder":"ادخل الكود"
+    },
+    "form": {
+      "fullname": {
+        "label": "الاسم بالكامل",
+        "placeholder": "الاسم بالكامل"
+      },
+      "username": {
+        "label": "اسم المستخدم",
+        "placeholder": "اسم المستخدم"
+      },
+      "email": {
+        "label": "البريد الالكتروني",
+        "placeholder": "user@example.com"
+      },
+      "mobile": {
+        "label": "رقم الهاتف",
+        "placeholder": "رقم الهاتف"
+      },
+      "dob": {
+        "label": "تاريخ الميلاد",
+        "placeholder": "تاريخ الميلاد"
+      },
+      "gender": {
+        "label": "الجنس",
+        "placeholder": "اختر"
+      },
+      "password": {
+        "label": "كلمة المرور",
+        "placeholder": "ادخل كلمة المرور"
+      }
+    },
+    "continue": "تسجيل جديد",
+    "or": "أو",
+    "business": {
+      "link": "أنشأ صفحة عمل ",
+      "text": "لعيادة أو صيدلية أو مختبر أو غيرها"
+    }
+  }
+}

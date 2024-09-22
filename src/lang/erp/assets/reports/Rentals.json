@@ -1,0 +1,74 @@
+{
+    "en": {
+      "rentals": {
+        "header": "Rentals",
+        "key": {
+          "name": "Name",
+         
+          "value_rent": "Value Rent",
+          "regular_rent": "Regular Rent"
+        }
+      },
+      "dialog": {
+        "header": {
+        "pay": "Pay"
+        }
+      },
+      "btns": {
+        "pay": "Pay",
+        "all_rentals": "All Rentals",
+        "search": "Search"
+      },
+   
+      "messages": {
+        "status": "Confirm that the status of this item has been permanently changed?",
+        "resultsfound": "result"
+      },
+      "toast": {
+        "select": {
+          "summery": "Select",
+          "details": "Please Select at Least One Record"
+        },
+        "search": {
+          "summery": "Search",
+          "details": "Please Write a Name or Mobile Number"
+        }
+      }
+    },
+    "ar": {
+      "rentals": {
+        "header": "الايجارات",
+        "key": {
+            "value_rent": "قيمة الإيجار",
+            "regular_rent": "إيجار منتظم",
+            "name": "الاسم"
+        }
+      },
+      "dialog": {
+        "header": {
+          "pay": "دفع",
+          "details": "تفاصيل اصول ثابته"
+        }
+      },
+      "btns": {
+        "pay": "دفع",
+        "all_rentals": "كل الايجارات",
+        "search": "بحث"
+      },
+      "messages": {
+        "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+        "resultsfound": "نتيجة"
+      },
+      "toast": {
+        "select": {
+          "summery": "تحديد",
+          "details": "الرجاء تحديد سجل واحد على الأقل"
+        },
+        "search": {
+          "summery": "بحث",
+          "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+        }
+      }
+    }
+  }
+  

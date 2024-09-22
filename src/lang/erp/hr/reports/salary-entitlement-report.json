@@ -1,0 +1,180 @@
+{
+    "en": {
+        "Vacation":{
+            "header": "Vacation",
+            "key":{
+                "job_start_date":"Job Start Date",
+                "name":"Name",
+                "salary":"Salary",
+                "total_bonus":"Total Bonus",
+                "total_imprests":"Total Imprests",
+                "total_liabilities":"Total Liabilities",
+                "total_overtime":"Total Overtime",
+                "net_Salary" :"Net Salary"
+            }
+        },
+        "form":{
+            "job_start_date":{
+                "label":"Job Start Date",
+                "placeholder":"Enter Job Start Date"
+            },
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "salary":{
+                "label":"Salary",
+                "placeholder":"Enter Salary"
+            },
+            "total_bonus":{
+                "label":"Total Bonus",
+                "placeholder":"Enter Total Bonus"
+            },
+            "total_imprests":{
+                "label":"Total Imprests",
+                "placeholder":"Total Imprests"
+            },
+            "total_liabilities":{
+                "label":"Total Liabilities",
+                "placeholder":"Enter Total Liabilities"
+            },
+            "total_overtime":{
+                "label":"Total Overtime",
+                "placeholder":"Enter Total Overtime"
+            },
+            "net_salary":{
+                "label":"Net Salary",
+                "placeholder":"Net Salary"
+            }
+            
+            
+        },
+        "dialog":{
+            "header":{
+                "new":"New Salary Report",
+                "edit":"Edit Salary Report",
+                "details":"Salary Report Details",
+                "status":"Status Salary Report"
+            }
+        },
+        "btns":{
+            "new":"New Salary Report",
+            "all":"All Salary Reports",
+            "search": "Search",
+            "delete": "Delete",
+            "approved":"approved",
+            "rejected":"rejected",
+            "new_Official_vacation":"New Official Vacation"
+        },
+        "status":{
+            "approved":"Approved",
+            "rejected":"Rejected",
+            "under_review":"Under Review",
+            "all":"all"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Vacation":{
+            "header":"تقرير استحقاق المرتبات",
+            "key":{
+                "job_start_date":"تاريخ بدء العمل",
+                "name":"اسم الموظف",
+                "salary":"الراتب",
+                "total_bonus":"المكافأت",
+                "total_imprests":"السلف",
+                "total_liabilities":"الخصومات",
+                "total_overtime":"الأضافات",
+                "net_Salary" :"صافي الراتب"
+            }
+        },
+        "form":{
+            "job_start_date":{
+                "label":"تاريخ بدء العمل",
+                "placeholder":"ادخل تاريخ بدء العمل"
+            },
+            "name":{
+                "label":"اسم الموظف",
+                "placeholder":"ادخل اسم الموظف"
+            },
+            "salary":{
+                "label":"الراتب",
+                "placeholder":"ادخل الراتب"
+            },
+            "total_bonus":{
+                "label":"المكافأت",
+                "placeholder":"ادخل المكافأت"
+            },
+            "total_imprests":{
+                "label":"السلف",
+                "placeholder":"ادخل السلف"
+            },
+            "total_liabilities":{
+                "label":"الخصومات",
+                "placeholder":"ادخل كل الخصومات"
+            },
+            "total_overtime":{
+                "label":"الأضافات",
+                "placeholder":"ادخل الأضافات"
+            },
+            "net_salary":{
+                "label":"صافي الراتب",
+                "placeholder":"ادخل صافي الراتب"
+            }
+            
+        },
+        "dialog":{
+            "header":{
+                "new":"تقرير جديد",
+                "edit":"تعديل التقرير",
+                "details":"تفاصيل التقرير",
+                "delete":"حذف",
+                "status":"تغيير الحالة"
+            }
+        },
+        "btns":{
+            "new":"تقرير جديد",
+            "all":"كل التقارير",
+            "search": "بحث",
+            "delete": "حذف",
+            "approved":"مقبولة",
+            "rejected":"مرفوضة",
+            "new_Official_vacation":"اضافة تقرير جديد"
+        },
+        "status":{
+            "approved":" مقبولة",
+            "rejected":"مرفوضة  ",
+            "under_review" :"تحت المراجعة",
+            "all":"الجميع"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

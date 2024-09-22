@@ -1,0 +1,62 @@
+{
+  "en": {
+    "diet":{
+      "header":"Diet",
+      "dietContent":{
+        "label": "Diet Content",
+        "placeholder": "Search or Insert"
+      },
+      "meal":{
+        "label": "Meal",
+        "placeholder": "Select"
+      },
+      "evaluation":{
+        "label": "Evaluation",
+        "placeholder": "Select"
+      },
+      "period": {
+        "label": "Period",
+        "valuePlaceholder": "Time",
+        "dropdownPlaceholder": "Unit"
+      },      
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      },
+      "status":{
+          "label":"Status",
+          "placeholder": "Select"
+      }
+    }
+  },
+  "ar": {
+    "diet":{
+      "header":"Diet",
+      "dietContent":{
+        "label": "Diet Content",
+        "placeholder": "Search or Insert"
+      },
+      "meal":{
+        "label": "Meal",
+        "placeholder": "Select"
+      },
+      "evaluation":{
+        "label": "Evaluation",
+        "placeholder": "Select"
+      },
+      "period": {
+        "label": "Period",
+        "valuePlaceholder": "Time",
+        "dropdownPlaceholder": "Unit"
+      },      
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      },
+      "status":{
+        "label":"Status",
+        "placeholder": "Select"
+      }
+    }
+  }
+}

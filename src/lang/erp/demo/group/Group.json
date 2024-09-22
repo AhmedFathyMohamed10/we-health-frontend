@@ -1,0 +1,133 @@
+{
+    "en": {
+        "group":{
+            "header": "Group",
+            "key":{
+                "name":"Name",
+                "group_serial":"Serial",
+                "description":"Description",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at",
+                "parent":"Parent"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "group_serial":{
+                "label":"Serial",
+                "placeholder":"Enter Serial"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            },
+            "parent":{
+                "label":"Parent",
+                "placeholder":"search..."
+            }
+            
+        },
+        "dialog":{
+            "header":{
+                "new":"New Group",
+                "edit":"Edit Group",
+                "details":"Group Details"
+            }
+        },
+        "btns":{
+            "new":"New Group",
+            "all":"All Groups",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "parent":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "parent": "Confirm that the parent of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "department":{
+            "header":"القسم",
+            "key":{
+                "name":"الاسم",
+                "group_serial":"الرقم التسلسلي",
+                "description":"الوصف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في",
+                "parent":"الحالة"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم المجموعة",
+                "placeholder":"ادخل اسم المجموعة"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "group_serial":{
+                "label":"الرقم التسلسلي",
+                "placeholder":"الرقم التسلسلي "
+            },
+            "parent":{
+                "label":"الاب",
+                "placeholder":"ابحث..."
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"مجموعه جديد",
+                "edit":"تعديل مجموعه",
+                "details":"تفاصيل مجموعه",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"مجموعه جديد",
+            "all":"كل مجموعه",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "parent":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "parent": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+
+

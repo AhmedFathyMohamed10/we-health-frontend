@@ -1,0 +1,115 @@
+{
+    "en": {
+        "restrictionsGroup":{
+            "header": "Restrictions Group",
+            "key":{
+                "name":"Name",
+                "description":"Description",
+                "parentGroup":"Group Parent",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "parentGroup":{
+                "label":"Parent Group",
+                "placeholder":"Enter Parent Group"
+            },
+            "description":{
+                "label":"description",
+                "placeholder":"Enter description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"New Restrictions Group",
+                "new":"New Restrictions Group",
+                "edit":"Edit Restrictions Group",
+                "details":"Restrictions Group Details"
+            }
+        },
+        "btns":{
+            "new":"New Restrictions Group",
+            "all":"All Restrictions Groups",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "restrictionsGroup":{
+            "header":"قيود السند",
+            "key":{
+                "name":"الاسم",
+                "description" :"الوصف",
+                "parentGroup":"المجموعه الاب",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم قيد السند",
+                "placeholder":"ادخل اسم قيد السند"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+          
+            "parentGroup":{
+                "label":"مجموعه قيد السند",
+                "placeholder":"ادخل مجموعه قيد السند"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"اضافه مجموعه قيد سند جديده",
+                "new":"اضافه مجموعه قيد سند جديده" ,
+                "edit":" تعديل مجموعه قيد سند",
+                "details":"تفاصيل مجموعه قيد سند",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه مجموعه قيد سند جديده",
+            "all":"كل مجموعات القيود",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

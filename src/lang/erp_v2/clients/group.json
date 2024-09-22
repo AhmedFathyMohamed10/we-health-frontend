@@ -1,0 +1,139 @@
+{
+    "en": {
+        "headerItems": "Clients",
+        "headerGroup": "Group",
+      "group": {
+
+        "key": {
+          "name_en": "Name EN",
+          "name_ar": "Name AR",
+          "serial": "Serial",
+          "parent": "Parent Group",
+          "createdBy": "Created by",
+          "createdAt": "Date",
+          "updated_at": "Updated at"
+        }
+      },
+      "form": {
+        "name_en": {
+          "label": "Name EN",
+          "placeholder": "Enter Name EN"
+        },
+        "name_ar": {
+          "label": "Name AR",
+          "placeholder": "Enter Other Name"
+        },
+        "serial": {
+          "label": "Serial",
+          "placeholder": "Enter Serial"
+        },
+        "parent": {
+          "label": "Parent Group",
+          "placeholder": "Enter Parent Group"
+        }
+      },
+      "dialog": {
+        "header": {
+          "new": "New Group",
+          "edit": "Edit Group",
+          "details": "Group Details",
+          "status": "Status Group"
+        }
+      },
+      "btns": {
+        "new": "New Group",
+        "all": "All Group",
+        "search": "Search",
+        "delete": "Delete",
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "status": {
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "messages": {
+        "status": "Confirm that the status of this item has been permanently changed?",
+        "resultsfound": "result"
+      },
+      "toast": {
+        "select": {
+          "summery": "Select",
+          "details": "Please Select at Least One Record"
+        },
+        "search": {
+          "summery": "Search",
+          "details": "Please Write a Name or Mobile Number"
+        }
+      }
+    },
+    "ar": {
+      "headerItems": "العملاء",
+      "headerGroup": "المجموعة",
+      "group": {
+        "header": "مجموعه",
+        "key": {
+          "name": "الاسم",
+          "parent": "الوصف",
+          "status": "الحاله",
+          "createdBy": "أنشئت من قبل",
+          "createdAt": "التاريخ",
+          "updated_at": "تم التحديث في"
+        }
+      },
+      "form": {
+        "name_en": {
+          "label": "اسم المجموعة باللغة الانجليزية",
+          "placeholder": "ادخل اسم المجموعة باللغة الانجليزية"
+        },
+        "name_ar": {
+          "label": "اسم المجموعة باللغة العربية",
+          "placeholder": "ادخل اسم المجموعة باللغة العربية"
+        },
+        "serial": {
+          "label": "الرقم التسلسلي",
+          "placeholder": "ادخل الرقم التسلسلي"
+        },
+        "parent": {
+          "label": "الاب",
+          "placeholder": "ادخل الاب"
+        }
+      },
+      "dialog": {
+        "header": {
+          "new": "مجموعه جديد",
+          "edit": "تعديل مجموعه",
+          "details": "تفاصيل مجموعه",
+          "delete": "حذف",
+          "status": "الحاله"
+        }
+      },
+      "btns": {
+        "new": "مجموعه جديد",
+        "all": "كل الحسابات الختاميه",
+        "search": "بحث",
+        "delete": "حذف",
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "status": {
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "messages": {
+        "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+        "resultsfound": "نتيجة"
+      },
+      "toast": {
+        "select": {
+          "summery": "تحديد",
+          "details": "الرجاء تحديد سجل واحد على الأقل"
+        },
+        "search": {
+          "summery": "بحث",
+          "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+        }
+      }
+    }
+  }
+  

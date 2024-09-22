@@ -1,0 +1,28 @@
+{
+  "en": {
+    "referral":{
+      "header":"Referral",
+      "recommendation":{
+        "label": "Recommended Hospital / Doctor",
+        "placeholder": "Search or Insert"
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "referral":{
+      "header":"Referral",
+      "recommendation":{
+        "label": "Recommended Hospital / Doctor",
+        "placeholder": "Search or Insert"
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

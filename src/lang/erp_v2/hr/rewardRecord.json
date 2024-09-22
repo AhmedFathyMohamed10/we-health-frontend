@@ -1,0 +1,182 @@
+{
+  "en": {  
+    "rewardRecord": {
+      "header": "Reward Record",
+      "key": {
+        "employee":"Employee",
+        "overTime":"Overtime",
+        "reward":"reward",
+        "account":"account",
+        "total_amount":"Total Amount",
+        "due_date":"Due Date",
+        "serial_code":"Overtime Code",
+        "notes":"Notes",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee",
+        "placeholder": "Enter Employee"
+      },
+      "overTime": {
+        "label": "Overtime",
+        "placeholder": "Enter Overtime"
+      },
+      "date": {
+        "label": "Date",
+        "placeholder": "Enter Date"
+      },
+      "reward": {
+        "label": "Reward",
+        "placeholder": "Enter Reward"
+      },
+      "account": {
+        "label": "Accounting Code",
+        "placeholder": "Enter Accounting Code"
+      },
+      "total_amount": {
+        "label": "Total Amount",
+        "placeholder": "Enter Total Amount"
+      },
+      "due_date": {
+        "label": "Due Date",
+        "placeholder": "Enter Due Date"
+      },
+      "serial_code": {
+        "label": "Overtime Code",
+        "placeholder": "Enter Overtime Code"
+      },
+    
+      "notes": {
+        "label": "Notes",
+        "placeholder": "Enter Notes"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Reward Record",
+        "send": "Send to Accounting",
+        "edit": "Edit Reward Record",
+        "details": "Reward Record Details",
+        "status": "Status"
+      }
+    },
+    "btns": {
+      "new": "New Reward Record",
+      "all": "All Reward Records",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "group": {
+      "header": "مجموعات",
+      "key": {
+        "name": "الاسم",
+        "parent": "الوصف",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "الموظف",
+        "placeholder": "ادخل الموظف"
+      },
+      "overTime": {
+        "label": "الوقت الإضافي",
+        "placeholder": "ادخل الوقت الإضافي"
+      },
+      
+      "reward": {
+        "label": "مكافأة",
+        "placeholder": "ادخل مكافأة"
+      },
+      "account": {
+        "label": "Accounting Code",
+        "placeholder": "ادخل Accounting Code"
+      },
+      "total_amount": {
+        "label": "المبلغ الإجمالي",
+        "placeholder": "ادخل المبلغ الإجمالي"
+      },
+      "due_date": {
+        "label": "تاريخ الاستحقاق",
+        "placeholder": "ادخل تاريخ الاستحقاق"
+      },
+      "date": {
+        "label": "تاريخ",
+        "placeholder": "ادخل تاريخ"
+      },
+      "serial_code": {
+        "label": "كود العمل الإضافي",
+        "placeholder": "ادخل كود العمل الإضافي"
+      },
+      "notes": {
+        "label": "ملاحظات",
+        "placeholder": "ادخل ملاحظات"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "مكافأة جديدة",
+        "edit": "تعديل المكافأة",
+        "details": "تفاصيل المكافأة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "مكافأة جديدة",
+      "all": "كل المكافآت",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "en": {
+    "attendanceAndDepartures": {
+      "headerAttendance": "Attendance",
+      "headerDeparture": "Departure",
+      "key": {
+        "employee": "Employee",
+        "date_time": "Date And Time",
+        "type": "Type",
+        "createdBy": "Created by",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee",
+        "placeholder": "Enter Employee"
+      },
+      "date_time": {
+        "label": "Date And Time",
+        "placeholder": "Enter Date And Time"
+      }
+    },
+    "dialog": {
+      "header": {
+        "newAttendance": "New Attendance",
+        "newDeparture": "New Departure",
+        "editAttendance": "Edit Attendance",
+        "editDeparture": "Edit Departure",
+        "detailsAttendance": "Details Attendance",
+        "detailsDeparture": "Details Departure"
+      }
+    },
+    "btns": {
+      "newAttendance": "New Attendance",
+      "newDeparture": "New Departure",
+      "allAttendance": "All Attendance",
+      "allDeparture": "All Departure",
+      "search": "Search",
+      "delete": "Delete"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Employee or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "attendanceAndDepartures": {
+      "headerAttendance": "الحضور",
+      "headerDeparture": "الانصراف",
+      "key": {
+        "employee": "الموظف",
+        "date_time": "التوقيت",
+        "type": "النوع",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "الموظف",
+        "placeholder": "ادخل الموظف"
+      },
+      "date_time": {
+        "label": "الفتره",
+        "placeholder": "ادخل الفتره"
+      }
+    },
+    "dialog": {
+      "header": {
+        "newAttendance": "حضور جديد",
+        "newDeparture": "انصراف جديد",
+        "editAttendance": "تعديل الحضور",
+        "editDeparture": "تعديل الانصراف",
+        "detailsAttendance": "تفاصيل الحضور",
+        "detailsDeparture": "تفاصيل الانصراف"
+      }
+    },
+    "btns": {
+      "newAttendance": "حضور جديد",
+      "newDeparture": "انصراف جديد",
+      "allAttendance": "كل الحضور",
+      "allDeparture": "كل الانصراف",
+      "search": "بحث",
+      "delete": "حذف"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

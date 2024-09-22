@@ -1,0 +1,615 @@
+{
+    "en": {
+        "list size must be less than or equal to 4":"list size must be less than or equal to 4",
+        "Emergency Numbers Are Invalid":"Emergency Numbers Are Invalid",
+        "Email Is Already Exists":"Email Is Already Exists",
+        "Mobile Is Already Exists":"Mobile Is Already Exists",
+        "Mobile Is Invalid":"Mobile Is Invalid",
+        "Enter a valid email address.":"Enter a valid email address.",
+        "Female":"Female",
+        "Male":"Male",
+        "Married":"Married",
+        "Single":"Single",
+        "days_used":"Days Used",
+        "available" :"Available",
+        "days_available":"Days Available",
+        "annual_vacation_days":"Annual Vacation Days",
+        "annual_days_scheduled":"Annual Days Schedule",
+        "request_change":"Request A Change",
+        "sections":{
+            "basic_information":"Basic Information",
+            "address":"Address",
+            "contact":"Contact",
+            "employment_status":"Employment Status",
+            "job_information" :"Job Information",
+            "compensation":"Compensation",
+            "assets":"Assets",
+            "custodies" : "Custodies",
+            "title":"Title",
+            "invoice":"Invoice",
+            "bonds":"Bonds",
+            "receipt_date" : "Reciept Date",
+            "delivery_date" : "Delivery Date",
+            "overtime":"Overtime",
+            "imprests":"Imprests",
+            "liabilities":"Liabilities",
+            "bonus":"Bonus",
+            "promotions":"Promotions",
+            "upcoming_training":"Upcoming Training",
+            "completed":"Completed",
+            "insurances":"Insurances",
+            "current":"Current",
+            "time_off" :"Time Off",
+            "vacation":"Vacations"
+
+        },
+        "table_headers":{
+            "effective_date":"Effective Date ",
+            "employment_status":"Employment Status",
+            "department":"Department",
+            "pay_schedule":"Pay Schedule",
+            "pay_type":"Pay Type",
+            "pay_rate":"Pay Rate",
+            "custody_type":"Custody Type",
+            "custody_description":"Custody Description",
+            "serial":"Serial",
+            "reciept_date":"Reciept Date",
+            "title":"Title",
+            "invoice":"Invoice",
+            "bonds":"Bonds",
+            "assets":"Assets",
+            "receipt_date" : "Reciept Date",
+            "delivery_date" : "Delivery Date",
+            "reason__name" :"Reason",
+            "amount":"Amount",
+            "due_date":"Due Date",
+            "group__name" :"Group",
+            "role__name" :"Role",
+            "salary":"Salary",
+            "end_date":"End Date",
+            "start_date":"Start Date",
+            "policy__title":"Policy Title",
+            "policy__insurance_agent__name":"Insurance Agent",
+            "policy__insurance_amount" :"Amount",
+            "reason":"Reason",
+            "status":"Status",
+            "liability_amount":"Liability Amount"
+
+        },
+        "tabs":{
+            "Personal":"Personal",
+            "Job":"Job",
+            "TimeOff":"Time Off",
+            "Documents":"Documents",
+            "Benefits":"Benefits",
+            "Training":"Training",
+            "Assets":"Assets",
+            "Notes":"Notes",
+            "Custodies" :"Custodies"
+            
+        },
+        "side_bar":{
+            "header": "Employee",
+            "key":{
+                "hire_date":"Hire Date",
+                "Manager":"Manager",
+                "Direct_Reports":"Direct Reports",
+                "dob":"Date Of Birth",
+                "gender":"Gender",
+                "email":"E-mail",
+                "marital_status":"Marital Status",
+                "image":"Image",
+                "role":"Role",
+                "username":"Username",
+                "salary":"Salary",
+                "job_start_date":"Job Start Date",
+                "shift":"Shift",
+                "direct_manager":"Direct Manager",
+                "education":"Education",
+                "created_by":"Created By",
+                "created_at":"Created At",
+                "updated_at":"Updated At",
+                "status":"Status"
+            }
+        },
+        "employee":{
+            "header": "Employee",
+            "key":{
+                "name":"Name",
+                "mobile":"Mobile",
+                "address":"Address",
+                "dob":"Date Of Birth",
+                "gender":"Gender",
+                "email":"E-mail",
+                "marital_status":"Marital Status",
+                "image":"Image",
+                "role":"Role",
+                "username":"Username",
+                "salary":"Salary",
+                "job_start_date":"Job Start Date",
+                "shift":"Shift",
+                "direct_manager":"Direct Manager",
+                "education":"Education",
+                "created_by":"Created By",
+                "created_at":"Created At",
+                "updated_at":"Updated At",
+                "status":"Status"
+            }
+        },
+        "form":{
+        "mainInfo":"The Main Information",
+        "employmentInfo":"Employment Information",
+        "otherInfo":"Other Information",
+        "age":{
+            "label":"Age",
+            "placeholder":"Enter Age "
+        },
+        "employee":{
+            "label":"Employee",
+            "placeholder":"Enter Employee Name"
+        },            
+        "emergency_numbers":{
+            "label":"Emergency Numbers",
+            "placeholder":"Enter Emergency Numbers"
+        }, 
+        "preferred_name":{
+            "label":"Preferred Name",
+            "placeholder":"Enter Preferred Name "
+        },             
+        "name":{
+            "label":"Name",
+            "placeholder":"Enter Name"
+        },
+        "mobile":{
+            "label":"Mobile",
+            "placeholder":"Enter Mobile"
+        },
+        
+        "address":{
+            "label":"Address",
+            "placeholder":"Enter Address"
+            
+        },
+        "dob":{
+            "label":"Date Of Birth",
+            "placeholder":"Enter Your Date Of Birth"
+            
+        },
+        "gender":{
+            "label":"Gender",
+            "placeholder":"Enter Your Gender"
+            
+        },
+        
+        "email":{
+            "label":"E-mail",
+            "placeholder":"Enter Your E-mail"
+            
+        },
+        "marital_status":{
+            "label":"Marital Status",
+            "placeholder":"Enter Your Marital Status"
+            
+        },
+        "image":{
+            "label":"Image",
+            "placeholder":"Upload Your Image"
+            
+        },
+        "role":{
+            "label":"Role",
+            "placeholder":"Choose Your Role Name"
+            
+        },
+        "username":{
+            "label":"User Name",
+            "placeholder":"Enter Your User Name"
+            
+        },
+        "salary":{
+            "label":"Salary",
+            "placeholder":"Enter Salary"
+            
+        },
+        "password":{
+            "label":"Password",
+            "placeholder":"Enter password"
+            
+        },
+        "job_start_date":{
+            "label":"Job Start Date",
+            "placeholder":"Enter Your Job Start Date"
+            
+        },
+        "shift":{
+            "label":"Shift",
+            "placeholder":"choose Your shift "
+        },
+        "direct_manager":{
+            "label":"Direct Manager",
+            "placeholder":"choose your directManager "
+            
+        },
+        "education":{
+            "label":"Education",
+            "placeholder":"choose Your education "
+            
+        },
+        "code":{
+            "label":"code"
+            
+        },
+        "created_By":{
+            "label":"created By"
+            
+        },
+        "orgId_id":{
+            "label":"organization Id"
+            
+        },
+        "status":{
+        "label":"Status",
+        "placeholder":"choose Status "
+        
+    },
+        "created_at":{
+            "label":"created At"
+            
+        },
+        "updated_at":{
+            "label":"updated At"
+            
+        }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Employee",
+                "edit":"Edit Employee",
+                "details":"Employee Details",
+                "status":"Status Employee"
+            }
+        },
+        "btns":{
+            "new":"New Employee",
+            "all":"All Employees",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended",
+            "addInternship" : "Record a Training"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "list size must be less than or equal to 4":"عدد ارقام الطوارئ لا يمكن ان يزيد عن 4 ارقام",
+        "Emergency Numbers Are Invalid":"ارقام الطوارئ غير صحيحة",
+        "Email Is Already Exists":"الايميل موجود بالفعل",
+        "Mobile Is Invalid":"الموبايل غير صحيح",
+        "Mobile Is Already Exists":"رقم التليفون موجود بالفعل",
+        "Enter a valid email address.":"الايميل غير صحيح",
+        "Female":"انثي",
+        "Male":"ذكر",
+        "Married":"متزوج",
+        "Single":"اعزب",
+        "days_used":"الايام المستخدمة",
+        "available" :"الاجازات المتاحة",
+        "days_available":"المتاحة الايام",
+        "annual_vacation_days":"عدد ايام الاجازة سنويا",
+        "annual_days_scheduled":"الايام المجدولة سنويا",
+        "request_change":"ارسال طلب للتغير",
+        "sections":{
+            "basic_information":"المعلومات الرئيسية",
+            "address":"العنوان",
+            "contact":"معلومات التواصل",
+            "employment_status":"الحالة الوظيفية",
+            "job_information" :"معلومات الوظيفة",
+            "compensation":"التعويضات",
+            "assets":"الاصول",
+            "custodies" : "العهد",
+            "overtime":"الوقت الاضافي",
+            "imprests":"السلف",
+            "liabilities":"الخصومات",
+            "bonus":"الحوافز",
+            "promotions":"الترقيات",
+            "upcoming_training":"التدريبات القادمة",
+            "completed":"التدريبات المكتملة",
+            "insurances":"التأمينات",
+            "current":"التدريبات الحالية",
+            "vacation":"الاجازات"
+
+        },
+        "table_headers":{
+            "effective_date":"تاريخ النفاذ",
+            "employment_status":"الحالة الوظيفية",
+            "department":"القسم",
+            "pay_schedule":"جدولة الدفع",
+            "pay_type":"نوع الدفع",
+            "pay_rate":"معدل الدفع",
+            "custody_type":"فئة العهدة",
+            "custody_description":"وصف العهدة",
+            "serial":"الرقم التسلسلي",
+            "reciept_date":"تاريخ الاستلام",
+            "title":"عنوان العهدة",
+            "invoice":"الفاتورة",
+            "bonds":"السندات",
+            "assets":"الاصول",
+            "receipt_date":"تاريخ الاستلام",
+            "delivery_date" : "تاريخ التسليم",
+            "reason__name" :"السبب",
+            "amount":"القيمة",
+            "due_date":"تاريخ الاستحقاق",
+            "group__name" :"المجموعة",
+            "role__name" :"الدور الوظيفي",
+            "salary":"الراتب",
+            "end_date":"تاريخ الانتهاء",
+            "start_date":"تاريخ البداية",
+            "policy__title":"عقد التامين",
+            "policy__insurance_agent__name":"اسم شركة التأمين",
+            "policy__insurance_amount" :"القيمة",
+            "reason":"السبب",
+            "status":"الحالة",
+            "liability_amount" :"قسمة الخصم"
+
+
+        },
+        "tabs":{
+            "Personal":"البيانات الشخصية",
+            "Job":"الوظيفة",
+            "TimeOff":"الاجازات",
+            "Documents":"الوثائق",
+            "Benefits":"الفوائد",
+            "Training":"التدريبات",
+            "Assets":"الاصول",
+            "Notes":"الملاحظات",
+            "Custodies" :"العهد"
+            
+        },
+        "side_bar":{
+            "header": "Employee",
+            "key":{
+                "hire_date":"تاريخ التعيين",
+                "Manager":"المدير",
+                "Direct_Reports":"التقريرات المباشرة",
+                "dob":"Date Of Birth",
+                "gender":"Gender",
+                "email":"E-mail",
+                "marital_status":"Marital Status",
+                "image":"Image",
+                "role":"Role",
+                "username":"Username",
+                "salary":"Salary",
+                "job_start_date":"Job Start Date",
+                "shift":"Shift",
+                "direct_manager":"Direct Manager",
+                "education":"Education",
+                "created_by":"Created By",
+                "created_at":"Created At",
+                "updated_at":"Updated At",
+                "status":"Status"
+            }},
+        "employee":{
+            "header":"الموظفين",
+            "key":{
+                "name":"الاسم",
+                "mobile":"رقم التليفون",
+                "address":"العنوان",
+                "dob":"تاريخ الميلاد",
+                "gender":"النوع",
+                "email":"البريد الالكتروني",
+                "marital_status":"الحالة الاجتماعيه",
+                "image":"صورة",
+                "role":"الدور الوظيفي",
+                "username":"اسم المستخدم",
+                "salary":"الراتب",
+                "job_start_date":"تاريخ بدء العمل",
+                "shift":"الوردية",
+                "direct_manager":"الرئيس المباشر",
+                "education":"المؤهل العلمي",
+                "status":"الحالة",
+                "created_by":"انشأ من قبل",
+                "created_at":"أنشئت في",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "age":{
+                "label":"السن",
+                "placeholder":"ادخل السن"
+            },
+            "mainInfo":"البيانات الاساسية",
+            "employmentInfo":"بيانات التوظيف",
+            "otherInfo":"بيانات اخري",
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"ادخل اسم الموظف"
+            },   
+            "preferred_name":{
+                "label":"الاسم المفضل",
+                "placeholder":"ادخل الاسم المفضل"
+            },     
+            "role_name":{
+                "label":"الدور الوظيفي"
+                
+            },
+            "shift_name":{
+                "label":"الوردية"
+                
+            },
+            "EmergencyNumbers":{
+                "label":"ارقام طوارئ",
+                "placeholder":"ادخل رقم طوارئ"
+            },   
+            "name":{
+                "label":"الاسم",
+                "placeholder":"ادخل الاسم"
+            },
+            "mobile":{
+                "label":"رقم التليفون",
+                "placeholder":"ادخل رقم التليفون"
+            },
+            
+            "address":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+                
+            },
+            "dob":{
+                "label":"تاريخ الميلاد",
+                "placeholder":"ادخل تاريخ الميلاد"
+                
+            },
+            "gender":{
+                "label":"النوع",
+                "placeholder":"ادخل النوع"
+                
+            },
+            
+            "email":{
+                "label":"البريد الالكتروني",
+                "placeholder":"ادخل البريد الالكتروني"
+                
+            },
+            "marital_status":{
+                "label":"الحالة الاجتماعيه",
+                "placeholder":"ادخل الحالة الاجتماعيه"
+                
+            },
+            "image":{
+                "label":"الصورة",
+                "placeholder":"رفع الصورة"
+                
+            },
+            "role":{
+                "label":"الدور الوظيفي",
+                "placeholder":"اختر دورك الوظيفي"
+                
+            },
+            "username":{
+                "label":"اسم المستخدم",
+                "placeholder":"ادخل اسم المستخدم"
+                
+            },
+            "salary":{
+                "label":"الراتب",
+                "placeholder":"ادخل الراتب"
+                
+            },
+            "password":{
+                "label":"كلمة السر",
+                "placeholder":"ادخل كلمة السر"
+                
+            },
+            "job_start_date":{
+                "label":"تاريخ بدء العمل",
+                "placeholder":"ادخل تاريخ بدء العمل"
+                
+            },
+            "shift":{
+                "label":"الوردية",
+                "placeholder":"اختر الوردية "
+            },
+            "direct_manager":{
+                "label":"المدير المباشر",
+                "placeholder":"اختر المدير الباشر "
+                
+            },
+            "education":{
+                "label":"المؤهل العلمي",
+                "placeholder":"ادخل المؤهل العلمي "
+                
+            },
+            "emergency_numbers":{
+                "label":" ارقام طوارئ",
+                "placeholder":"ادخل رقم الطوارئ "
+            },
+            "files":{
+                "label":" ارفع ملف"
+                
+            },
+            "code":{
+                "label":"الكود"
+                
+            },
+            "created_by":{
+                "label":"تم الانشاء بواسطة"
+                
+            },
+            "orgId_id":{
+                "label":"اسم المنظمة"
+                
+            },
+            "status":{
+            "label":"الحالة",
+            "placeholder":"اختر الحالة"
+
+            
+        },
+            "created_at":{
+                "label":"تاريخ الانشاء"
+                
+            },
+            "updated_at":{
+                "label":"تاريخ التعديل"
+                
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"موظف جديد",
+                "edit":"تعديل الموظف",
+                "details":"تفاصيل موظف",
+                "delete":"حذف",
+                "status":"الحاله"
+            }
+        },
+        "btns":{
+            "new":"موظف جديد",
+            "all":"كل الموظفين",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط",
+            "addInternship" : "اضافة تدريب"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+  }
+  
+
+
+
+  

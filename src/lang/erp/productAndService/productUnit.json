@@ -1,0 +1,121 @@
+{
+    "en": {
+        "productUnit":{
+
+            "header": "Product Unit",
+            "key":{
+                "name":"Name",
+                "description":"Description",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Product Unit",
+                "edit":"Edit Product Unit",
+                "details":"Product Unit Details",
+                "status":"Status Product Unit"
+            }
+        },
+        "btns":{
+            "new":"New Product Unit",
+            "all":"All Product Unit",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "productUnit":{
+            "header":"وحدة المنتج",
+            "key":{
+                "name":"الاسم",
+                "description":"الوصف",
+                "status":"الحاله",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم الوحده",
+                "placeholder":"ادخل اسم الوحده"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "status":{
+                "label":"نشط",
+                "placeholder":"ادخل النشاط"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"وحدة منتج جديده",
+                "edit":"تعديل وحدة المنتج",
+                "details":"تفاصيل وحدة المنتج",
+                "delete":"حذف",
+                "status":"الحاله"
+            }
+        },
+        "btns":{
+            "new":"وحدة منتج جديده",
+            "all":"كل وحدات المنتج",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

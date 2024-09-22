@@ -1,0 +1,92 @@
+{
+  "en": {
+      "form":{
+        "products":{
+            "label":"Products"
+        },
+        "product":{
+          "label": "Product",
+          "placeholder": "Search by name or code..."
+        },
+        "unit":{
+          "label": "Unit",
+          "placeholder": "Select"
+        },
+        "quantity":{
+          "label": "Quantity",
+          "placeholder": "Quantity"
+        },
+        "discount_method": {
+            "label": "Discount Method",
+            "placeholder":"Select"
+        },
+        "discount_value": {
+            "label": "Discount Value",
+            "placeholder":"Enter Number"
+        },        
+        "discount": {
+          "label": "Discount",
+          "valuePlaceholder": "Amount",
+          "dropdownPlaceholder": "Unit"
+        },
+        "expiration_date":{
+          "label": "Expiration Date",
+          "placeholder": "Expiration Date"
+        },
+        "unit_price":{
+          "label": "Unit Price",
+          "placeholder": "Unit Price"
+        },
+        "total_price":{
+          "label": "Total Price",
+          "placeholder": "Total Price"
+        }
+        
+      }
+  },
+  "ar": {
+    "form":{
+        "products":{
+            "label":"المنتجات"
+        },
+        "product":{
+          "label": "المنتج",
+          "placeholder": "البحث بالاسم أو الكود..."
+        },
+        "unit":{
+          "label": "الوحدة",
+          "placeholder": "اختر"
+        },
+        "quantity":{
+          "label": "الكمية",
+          "placeholder": "الكمية"
+        },
+        "discount_method": {
+            "label": "طريقة الخصم",
+            "placeholder":"اختر"
+        },
+        "discount_value": {
+            "label": "قيمة الخصم",
+            "placeholder":"أدخل رقم"
+        },        
+        "discount": {
+          "label": "الخصم",
+          "valuePlaceholder": "مبلغ",
+          "dropdownPlaceholder": "الوحدة"
+        },
+        "expiration_date":{
+          "label": "تاريخ الإنتهاء",
+          "placeholder": "تاريخ الإنتهاء"
+        },
+        "unit_price":{
+          "label": "سعر الوحدة",
+          "placeholder": "سعر الوحدة"
+        },
+        "total_price":{
+          "label": "السعر الكلي",
+          "placeholder": "السعر الكلي"
+        }
+        
+      }
+  }
+}

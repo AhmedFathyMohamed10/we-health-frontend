@@ -1,0 +1,64 @@
+{
+  "en": {
+ 
+    "formula":{
+      "header":"Feeding",
+      "formula":{
+        "label": "Formula",
+        "placeholder": "Search or Insert"
+      },
+      "meal":{
+        "label": "Meal",
+        "placeholder": "Select"
+      },
+      "period": {
+        "label": "Period",
+        "valuePlaceholder": "Time",
+        "dropdownPlaceholder": "Unit"
+      },
+      "dose": {
+        "label": "Dose",
+        "valuePlaceholder": "Value",
+        "dropdownPlaceholder": "Type"
+      },            
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "breast":{
+      "label":"Breast Feeding Instructions",
+      "placeholder":"Text.."
+    }
+  },
+  "ar": {
+    "formula":{
+      "formula":{
+        "label": "Formula",
+        "placeholder": "Search or Insert"
+      },
+      "meal":{
+        "label": "Meal",
+        "placeholder": "Select"
+      },
+      "period": {
+        "label": "Period",
+        "valuePlaceholder": "Time",
+        "dropdownPlaceholder": "Unit"
+      },
+      "dose": {
+        "label": "Dose",
+        "valuePlaceholder": "Value",
+        "dropdownPlaceholder": "Type"
+      },             
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "breast":{
+      "label":"Breast Feeding Instructions",
+      "placeholder":"Text.."
+    }
+  }
+}

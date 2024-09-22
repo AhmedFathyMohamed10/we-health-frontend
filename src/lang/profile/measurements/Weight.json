@@ -1,0 +1,78 @@
+{
+  "en":{
+    "header":{
+      "title":"Weight",
+      "insert":"New Weight Record",
+      "update":"Update Weight Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "weight":{
+        "label":"Weight",
+        "placeholderValue":" Weight ",
+        "dropdownPlaceholder":"cm "
+       
+      },
+      "height":{
+        "label":"Height",
+        "placeholderValue":"Height",
+        "dropdownPlaceholder":"kg "
+      },
+      "reference":{
+        "title":"Reference",
+        "value":"130 Kg ",
+        "result":"Result"
+      }
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result :"
+    
+  },
+  "ar":{
+    "header":{
+      "title":"وزن",
+      "insert":"سجل الوزن الجديد",
+      "update":"تحديث سجل الوزن"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "weight":{
+        "label":"وزن",
+        "placeholderValue":" وزن ",
+        "dropdownPlaceholder":"سم "
+       
+      },
+      "height":{
+        "label":"ارتفاع",
+        "placeholderValue":"ارتفاع",
+        "dropdownPlaceholder":"كلغ "
+      },
+      "reference":{
+        "title":"مرجع",
+        "value":"130 كجم ",
+        "result":"نتيجة"
+      }
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة :"
+    
+  }
+}

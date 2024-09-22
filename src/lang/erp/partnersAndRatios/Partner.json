@@ -1,0 +1,104 @@
+{
+    "en": {
+        "partner":{
+            "header": "Partners",
+            "key":{
+                "name":"Name",
+                "description":"Description",
+                "parentGroup":"Group Parent",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "description":{
+                "label":"description",
+                "placeholder":"Enter description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"New Partner",
+                "new":"New Partner",
+                "edit":"Edit Partner",
+                "details":"Partner Details"
+            }
+        },
+        "btns":{
+            "new":"New Partner",
+            "all":"All Partners",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "partner":{
+            "header":"الشركاء",
+            "key":{
+                "name":"الاسم",
+                "description" :"الوصف",
+                "parentGroup":"المجموعه الاب",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم شريك",
+                "placeholder":"ادخل اسم شريك"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه شريك جديد" ,
+                "edit":" تعديل شريك",
+                "details":"تفاصيل شريك",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه شريك جديد",
+            "all":"كل الشركاء",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

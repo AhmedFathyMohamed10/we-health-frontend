@@ -1,0 +1,123 @@
+{
+    "en": {
+        "typesOfSecurities":{
+            "header": "Types Of Securities",
+            "key":{
+                "name":"Paper Name",
+                "type":"Type",
+                "checkStorageAccount":"Check Storage Account",
+                "bankCashAccount":"Bank Cash Account",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Paper Name",
+                "placeholder":"Enter Paper Name"
+            },
+            "type":{
+                "label":"Type",
+                "placeholder":"Enter Type"
+            },
+            "checkStorageAccount":{
+                "label":"Check Storage Account",
+                "placeholder":"Enter Check Storage Account"
+            },
+            "bankCashAccount":{
+                "label":"Bank Cash Account",
+                "placeholder":"Enter Bank Cash Account"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Type Of Securities",
+                "edit":"Edit Type Of Securities",
+                "details":"Type Of Securities Details"
+            }
+        },
+        "btns":{
+            "new":"New Type Of Securities",
+            "all":"All Type Of Securities",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "typesOfSecurities":{
+            "header":"انواع الاوراق الماليه",
+            "key":{
+                "name":"اسم الورقه",
+                "type":"نوع الورقه",
+                "checkStorageAccount":"حساب الاوراق حافظه الشيكات",
+                "bankCashAccount":"حساب النقضيه البنك",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم الورقه",
+                "placeholder":"ادخل اسم الورقه"
+            },
+           
+            "type":{
+                "label":"نوع الورقه",
+                "placeholder":"ادخل نوع الورقه"
+            },
+
+            "checkStorageAccount":{
+                "label":"حساب الاوراق حافظه الشيكات",
+                "placeholder":"ادخل حساب الاوراق حافظه الشيكات"
+            },
+            "bankCashAccount":{
+                "label":"حساب النقضيه البنك",
+                "placeholder":"ادخل حساب النقضيه البنك"
+            }             
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه نوع الاوراق الماليه" ,
+                "edit":" تعديل نوع الاوراق الماليه",
+                "details":"تفاصيل نوع الاوراق الماليه",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه نوع الاوراق الماليه",
+            "all":"كل انواع الاوراق الماليه",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

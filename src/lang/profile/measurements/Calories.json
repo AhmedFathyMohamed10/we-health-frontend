@@ -1,0 +1,86 @@
+{
+  "en":{
+    "header":{
+      "title":"Calories",
+      "insert":"New Calories Record",
+      "update":"Update Calories Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm" 
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "type":{
+        "label":"Type",
+        "placeholder":" Type Of Exercies"
+      },
+      "times":{
+        "label":"Times",
+        "placeholder":"Dialy/Weekly"
+      },
+      "duration":{
+        "label":"Duration",
+        "placeholder":"Minutes/Hours"
+      }
+      
+    },
+
+    "meals":"Meals",
+    "exercies":"Exercies",
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result:",
+    "overallProgress":"Overall Progress",
+    "kcal":"kcal",
+    "kcalValue":"843",
+    "calories":"CaloriesBurnt",
+    "num":"21",
+    "weight":"Weight Loss" ,
+    "valueWeight":"1.6Kg",
+    "total":"Total Days"
+  },
+  "ar":{
+    "header":{
+      "title":"سعرات حرارية",
+      "insert":"رقم قياسي جديد للسعرات الحرارية",
+      "update":"تحديث سجل السعرات الحرارية"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون" 
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "type":{
+        "label":"نوع",
+        "placeholder":" نوع التمارين"
+      },
+      "times":{
+        "label":"مواعيد",
+        "placeholder":"Dialy/Weekly"
+      },
+      "duration":{
+        "label":"مدة",
+        "placeholder":"Minutes/Hours"
+      }
+      
+    },
+
+    "meals":"وجبات الطعام",
+    "exercies":"تمارين",
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة:"    
+    
+  }
+
+}

@@ -1,0 +1,125 @@
+{
+    "en": {
+        "withdrawalAndDeposit":{
+            "header": "Withdrawal And Deposit",
+            "key":{
+                "operation":"Operation",
+                "cabinet":"Cabinet",
+                "bond":"Bond",
+                "value":"Value",
+                "createdBy":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "operation":{
+                "label":"Operation",
+                "placeholder":"Enter Operation"
+            },
+            "cabinet":{
+                "label":"Cabinet",
+                "placeholder":"Enter Cabinet"
+            },
+
+            "bond":{
+                "label":"Bond",
+                "placeholder":"Enter Bond"
+            },
+            "value":{
+                "label":"Value",
+                "placeholder":"Enter Value"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Withdrawal And Deposit",
+                "edit":"Edit Withdrawal And Deposit",
+                "details":"Withdrawal And Deposit Details"
+            }
+        },
+        "btns":{
+            "new":"New Withdrawal And Deposit",
+            "all":"All Withdrawal And Deposits",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "withdrawalAndDeposit":{
+            "header":"السحب والايداع",
+            "key":{
+                "operation":"العمليه",
+                "cabinet":"الخزينه",
+                "bond":"السند",
+                "value":"القيمه",
+                "createdBy":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "operation":{
+                "label":"العمليه",
+                "placeholder":"ادخل العمليه"
+            },
+            "cabinet":{
+                "label":"الخزينه",
+                "placeholder":"ادخل الخزينه"
+            },
+            "bond":{
+                "label":"السند",
+                "placeholder":"ادخل السند"
+            },
+            "value":{
+                "label":"القيمه",
+                "placeholder":"ادخل القيمه"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه سحب وايداع جديد" ,
+                "edit":" تعديل سحب وايداع",
+                "details":"تفاصيل سحب وايداع",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه سحب وايداع جديد",
+            "all":"كل السحب والايداع",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

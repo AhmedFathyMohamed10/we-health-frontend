@@ -1,0 +1,128 @@
+{
+  "en": {  
+    "paymentType": {
+      "header": "payment Type",
+      "key": {
+        "name_en": "Name EN",
+        "name_ar": "Name AR",
+        "serial": "Serial",
+        "parent": "Parent Group",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "Name EN",
+        "placeholder": "Enter Name EN"
+      },
+      "account": {
+        "label": "Account",
+        "placeholder": "Enter Account"
+      },
+      "name_ar": {
+        "label": "Name AR",
+        "placeholder": "Enter Name AR"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New payment Type",
+        "edit": "Edit payment Type",
+        "details": "payment Type Details",
+        "status": "Status payment Type"
+      }
+    },
+    "btns": {
+      "new": "New payment Type",
+      "all": "All payment Type",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "paymentType": {
+      "header": "نوع الدفع",
+      "key": {
+        "name_en": "اسم إنجليزي",
+        "account": "حساب",
+        "name_ar":  "اسم عربي",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "اسم إنجليزي",
+        "placeholder": "ادخل اسم إنجليزي"
+      },
+      "account": {
+        "label": "حساب",
+        "placeholder": "ادخل حساب"
+      },
+      "name_ar": {
+        "label": "اسم عربي",
+        "placeholder": "ادخل اسم عربي"
+      }
+
+    },
+    "dialog": {
+      "header": {
+        "new": "نوع دفع جديد",
+        "edit": "تعديل نوع الدفع",
+        "details": "تفاصيل نوع الدفع",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "نوع دفع جديد",
+      "all": "كل أنواع الدفع",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "en": {
+    "account": {
+      "header": "Accounts",
+      "search": "Search",
+      "key": {
+        "account_name_ar": "Account Name Ar",
+        "account_name_en": "Account Name En",
+        "account_type": "Type of account",
+        "account_code": "Account Code",
+        "parent_account": "Parent Account",
+        "final_account": "Final Account",
+        "description": "Description",
+        "account_disposition": "Account Disposition",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "account_name_ar": {
+        "label": "Account Name Ar",
+        "placeholder": "Enter Account Name Ar"
+      },
+      "account_name_en": {
+        "label": "Account Name En",
+        "placeholder": "Enter Account Name En"
+      },
+      "account_code": {
+        "label": "Account Code",
+        "placeholder": "Enter Account Code"
+      },
+      "final_account": {
+        "label": "Final Account",
+        "placeholder": "Enter Final Account"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      },
+      "account_type": {
+        "label": "Type of account",
+        "placeholder": "Enter Type of account"
+      },
+      "parent_account": {
+        "label": "Parent Account",
+        "placeholder": "Enter Parent Account"
+      },
+      "account_disposition": {
+        "label": "Account Disposition",
+        "placeholder": "Enter Account Disposition"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "Account",
+        "edit": "Edit Account",
+        "details": "Account Details"
+      }
+    },
+    "btns": {
+      "new": "New Account",
+      "all": "All Accounts",
+      "search": "Search",
+      "delete": "Delete"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "account": {
+      "header": "الحساب",
+      "key": {
+        "description": "الوصف",
+        "name": "الاسم",
+        "account_name_ar": "اسم الحساب Ar",
+        "account_name_en": "اسم الحساب En",
+        "account_type": "نوع الحساب",
+        "account_code": "رمز الحساب",
+        "parent_account": "الحساب الاب",
+        "account_disposition": "طبيعه الحساب",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "final_account": "الحساب الختامي",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "account_name_ar": {
+        "label": "اسم الحساب Ar",
+        "placeholder": "ادخل اسم الحساب Ar"
+      },
+      "account_name_en": {
+        "label": "اسم الحساب En",
+        "placeholder": "ادخل اسم الحساب En"
+      },
+
+      "account_code": {
+        "label": "رمز الحساب",
+        "placeholder": "ادخل رمز الحساب"
+      },
+      "final_account": {
+        "label": "الحساب الختامي",
+        "placeholder": "ادخل الحساب الختامي"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      },
+      "account_type": {
+        "label": "نوع الحساب",
+        "placeholder": "ادخل نوع الحساب"
+      },
+      "parent_account": {
+        "label": "الحساب الاب",
+        "placeholder": "ادخل الحساب الاب"
+      },
+      "account_disposition": {
+        "label": "طبيعه الحساب",
+        "placeholder": "ادخل طبيعه الحساب"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "اضافه حساب جديد",
+        "edit": " تعديل الحساب",
+        "details": "تفاصيل الحساب",
+        "delete": "حذف"
+      }
+    },
+    "btns": {
+      "new": "اضافه حساب جديد",
+      "all": "كل الحسابات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "final_account": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

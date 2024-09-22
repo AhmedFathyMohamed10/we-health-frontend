@@ -1,0 +1,120 @@
+{
+    "en": {
+        "pricingPolicy": {
+            "header": "Pricing Policy",
+            "key": {
+                "name": "Name",
+                "description": "Description",
+                "createdBy": "Created by",
+                "createdAt": "Date",
+                "updated_at": "Updated at"
+            }
+        },
+        "form": {
+            "name": {
+                "label": "Name",
+                "placeholder": "Enter Name"
+            },
+            "description": {
+                "label": "Description",
+                "placeholder": "Enter Description"
+            }
+        },
+        "dialog": {
+            "header": {
+                "new": "New Pricing Policy",
+                "edit": "Edit Pricing Policy",
+                "details": "Pricing Policy Details",
+                "status": "Status Pricing Policy"
+            }
+        },
+        "btns": {
+            "new": "New Pricing Policy",
+            "all": "All Pricing Policy",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status": {
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "pricingPolicy": {
+            "header": "سياسة الاسعار",
+            "key": {
+                "name": "الاسم",
+                "description": "الوصف",
+                "status": "الحاله",
+                "createdBy": "أنشئت من قبل",
+                "createdAt": "التاريخ",
+                "updated_at": "تم التحديث في"
+            }
+        },
+        "form": {
+            "name": {
+                "label": "اسم سياسة اسعار",
+                "placeholder": "ادخل اسم سياسة اسعار"
+            },
+            "description": {
+                "label": "الوصف",
+                "placeholder": "ادخل الوصف"
+            },
+            "status": {
+                "label": "نشط",
+                "placeholder": "ادخل النشاط"
+            }
+        },
+        "dialog": {
+            "header": {
+                "new": "سياسة اسعار جديد",
+                "edit": "تعديل سياسة اسعار",
+                "details": "تفاصيل سياسة اسعار",
+                "delete": "حذف",
+                "status": "الحاله"
+            }
+        },
+        "btns": {
+            "new": "سياسة اسعار جديد",
+            "all": "كل سياسة الاسعار",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended": "غير نشط"
+        },
+        "status": {
+            "active": "نشط",
+            "suspended": "غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

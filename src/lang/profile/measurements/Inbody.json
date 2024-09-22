@@ -1,0 +1,20 @@
+{
+  "en":{
+    "header":{
+      "title":"Inbody",
+      "insert":"New Inbody Record",
+      "update":"Update Inbody Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      }
+    },
+    "last":"Last Result:"
+  }
+}

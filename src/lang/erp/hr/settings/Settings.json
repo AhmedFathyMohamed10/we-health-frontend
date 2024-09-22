@@ -1,0 +1,135 @@
+{
+    "en": {
+        "in_month":"in month",
+        "day":"day",
+        "settings":{
+            "header": "Settings",
+            "key":{
+                "salary_due_date":"Salary Due Date",
+                "reminder_salary_due_Date":"Reminder Salary Due Date",
+                "annual_vacations_days":"Annual Vacations Days",
+                "report_apperance_duration" :"Report Apperance Duration",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "salary_due_date":{
+                "label":"Salary Due Date",
+                "placeholder":"Enter Salary Due Date"
+            },
+            "reminder_salary_due_Date":{
+                "label":"Reminder Salary Due Date",
+                "placeholder":"Enter Reminder Salary Due Date"
+            },
+            "annual_vacations_days":{
+                "label":"Annual Vacations Days",
+                "placeholder":"Enter Annual Vacations Days"
+            },
+            "report_apperance_duration":{
+                "label":"Report Apperance Duration",
+                "placeholder":"Enter Report Apperance Duration"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Setting",
+                "edit":"Edit Setting",
+                "details":"Setting Details"
+            }
+        },
+        "btns":{
+            "new":"New Setting",
+            "all":"All Settings",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "day":"يوم",
+        "in_month":"في الشهر",
+        "settings":{
+            "header":"الاعدادات",
+            "key":{
+                "salary_due_date":"ميعاد استحقاق الرواتب",
+                "reminder_salary_due_Date":"التذكير بتقرير الرواتب قبل الاستحقاق",
+                "annual_vacations_days":"عدد ايام الاجازة المتاح سنويا",
+                "report_apperance_duration":"مدة اظهار التقرير",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "salary_due_date":{
+                "label":"ميعاد استحقاق الرواتب",
+                "placeholder":"ميعاد استحقاق الرواتب"
+            },
+            "reminder_salary_due_Date":{
+                "label":"التذكير بتقرير الرواتب قبل الاستحقاق",
+                "placeholder":" التذكير بتقرير الرواتب قبل الاستحقاق"
+                
+            },
+            "annual_vacations_days":{
+                "label":"عدد ايام الاجازة المتاح سنويا ",
+                "placeholder":"عدد ايام الاجازة المتاح سنويا"
+                
+            },
+            "report_apperance_duration":{
+                "label":"مدة اظهار التقرير",
+                "placeholder":"ادخل مدة اظهار التقرير"
+            }
+        },
+        "dialog":{
+            "title":{
+                "new":"اعداد جديد",
+                "edit":"تعديل الاعداد",
+                "details":"تفاصيل الاعداد",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اعداد جديد",
+            "all":"كل الاعدادات",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

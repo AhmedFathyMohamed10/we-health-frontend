@@ -1,0 +1,136 @@
+{
+  "en": {  
+    "dayOff": {
+      "header": "Day Off Definition",
+      "key": {
+        "day_off_name": "Day Off Name",
+        "day_off_code": "Day Off Code",
+        "day_off_type": "Day Off Type",
+        "description": "Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "day_off_name": {
+        "label": "Day Off Name",
+        "placeholder": "Enter Day Off Name"
+      },
+      "day_off_code": {
+        "label": "Day Off Code",
+        "placeholder": "Enter Day Off Code"
+      },
+      "day_off_type": {
+        "label": "Day Off Type",
+        "placeholder": "Enter Day Off Type"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Day Off",
+        "edit": "Edit Day Off",
+        "details": "Day Off Details",
+        "status": "Status Day Off"
+      }
+    },
+    "btns": {
+      "new": "New Day Off",
+      "all": "All Day Off",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "dayOff": {
+      "header": "تعريف يوم العطلة",
+      "key": {
+        "day_off_name":"اسم يوم العطلة",
+        "day_off_code": "رمز يوم العطلة",
+        "day_off_type":"نوع يوم العطلة",
+        "description":"الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "day_off_name": {
+        "label": "اسم يوم العطلة",
+        "placeholder": "ادخل اسم يوم العطلة"
+      },
+      "day_off_code": {
+        "label": "رمز يوم العطلة",
+        "placeholder": "ادخل رمز يوم العطلة"
+      },
+      "day_off_type": {
+        "label": "نوع يوم العطلة",
+        "placeholder": "ادخل نوع يوم العطلة"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "يوم عطلة جديد",
+        "edit": "تعديل يوم العطلة",
+        "details": "تفاصيل يوم العطلة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "يوم عطلة جديد",
+      "all": "كل أيام العطلة",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

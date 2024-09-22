@@ -1,0 +1,148 @@
+{
+  "en": {
+    "maintenance": {
+      "header": "Maintenance",
+      "key": {
+        "name": "Name",
+        "cost": "Cost",
+        "group": "Group",
+        "period":"Period",
+        "group_data":"Group",
+        "period ": {
+          "label": "Period",
+          "value": "Value",
+          "selection": "Selection"
+        },
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter Name"
+      },
+      "cost": {
+        "label": "Cost",
+        "placeholder": "Enter Cost"
+      },
+      "group": {
+        "label": "Maintenance Group",
+        "placeholder": "Enter Maintenance Group"
+      },
+      "period": {
+        "label": "Period",
+        "value": {
+          "label": "Value",
+          "placeholder": "Enter Value"
+        },
+        "selection": {
+          "label": "Selection",
+          "placeholder": "Enter Selection"
+        }
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Maintenance",
+        "edit": "Edit Maintenance",
+        "details": "Maintenance Details",
+        "delete": "Delete"
+      }
+    },
+    "btns": {
+      "new": "New Maintenance",
+      "all": "All Maintenances",
+      "search": "Search",
+      "delete": "Delete"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "maintenance": {
+      "header": "الصيانات",
+      "key": {
+        "name": "الاسم",
+        "cost": "التكلفه",
+        "group": "مجموعه الصيانات",
+        "period":"مواعيد الصيانات",
+        "group_data":"مجموعه الصيانات",
+        "period ": {
+          "label": "مواعيد الصيانه",
+          "value": "الوقت",
+          "selection": "الوحده"
+        },
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "اسم الصيانه",
+        "placeholder": "ادخل اسم الصيانه"
+      },
+      "cost": {
+        "label": "التكلفه",
+        "placeholder": "ادخل التكلفه"
+      },
+      "group": {
+        "label": "مجموعه الصيانات",
+        "placeholder": "ادخل مجموعه الصيانات"
+      },
+      "period": {
+        "label": "مواعيد الصيانه",
+        "value": {
+          "label": "الوقت",
+          "placeholder": "ادخل الوقت"
+        },
+        "selection": {
+          "label": "الوحده",
+          "placeholder": "ادخل الوحده"
+        }
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "اضافه صيانه جديده",
+        "edit": " تعديل صيانه",
+        "details": "تفاصيل صيانه",
+        "delete": "حذف"
+      }
+    },
+    "btns": {
+      "new": "اضافه صيانه جديده",
+      "all": "كل الصيانات",
+      "search": "بحث",
+      "delete": "حذف"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

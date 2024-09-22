@@ -1,0 +1,76 @@
+{
+    "en":{
+        "motion":{
+            "header":"Range of motion"
+        },
+        "activeMovements":{
+            "label":"Active Movements",
+            "placeholder":"Select"
+        },
+        "normal":{
+            "label":"Normal",
+            "placeholder":"No."
+        },
+        "right":{
+            "label":"Right",
+            "placeholder":"R"
+        },
+        "left":{
+            "label":"Left",
+            "placeholder":"L"
+        },
+        "passive":{
+            "label":"Passive"
+        },
+        "active":{
+            "label":"Active"
+        },
+        "muscle":{
+            "label":"Muscle Power"
+        },
+        "end":{
+            "label":"End Feel"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+    },
+    "ar":{
+        "motion":{
+            "header":"Range of motion"
+        },
+        "activeMovements":{
+            "label":"Active Movements",
+            "placeholder":"Select"
+        },
+        "normal":{
+            "label":"Normal",
+            "placeholder":"No."
+        },
+        "right":{
+            "label":"Right",
+            "placeholder":"R"
+        },
+        "left":{
+            "label":"Left",
+            "placeholder":"L"
+        },
+        "passive":{
+            "label":"Passive"
+        },
+        "active":{
+            "label":"Active"
+        },
+        "muscle":{
+            "label":"Muscle Power"
+        },
+        "end":{
+            "label":"End Feel"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+    }
+}

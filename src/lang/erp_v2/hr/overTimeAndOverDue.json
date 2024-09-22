@@ -1,0 +1,164 @@
+{
+  "en": {  
+    "overTimeAndOverDue": {
+      "header": "Overtime and Overdue",
+      "key": {
+        "over_time_name":"Overtime Name",
+        "account":"Accounting code",
+        "serial_code":"Overtime Code",
+        "hour_equivalency":"Hour Equivalency",
+        "description":"Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "over_time_name": {
+        "label": "Overtime Name",
+        "placeholder": "Enter Overtime Name"
+      },
+      "account": {
+        "label": "Accounting code",
+        "placeholder": "Enter Accounting code"
+      },
+      "serial_code": {
+        "label": "Overtime Code",
+        "placeholder": "Enter Overtime Code"
+      },
+      "hour_equivalency": {
+        "label": "Hour Equivalency",
+        "placeholder": "Enter Hour Equivalency"
+      },
+      "hour": {
+        "label": "Hour",
+        "placeholder": "Enter Hour"
+      },
+      "equivalency": {
+        "label": "Equivalency",
+        "placeholder": "Enter Equivalency"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Overtime And Overtime",
+        "edit": "Edit Overtime And Overtime",
+        "details": "Overtime And Overtime Details",
+        "status": "Status Overtime And Overtime"
+      }
+    },
+    "btns": {
+      "new": "New Overtime And Overtime",
+      "all": "All Overtime And Overtimes",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "overTimeAndOverDue": {
+      "header": "وقت إضافي او متأخر",
+      "key": {
+        "over_time_name":"اسم الوقت الإضافي",
+        "account": "كود الحساب",
+        "serial_code": "كود الوقت الإضافي",
+        "hour_equivalency": "معادلة الساعة",
+        "hour":"الساعة",
+        "equivalency": "التكافؤ",
+        "description":"الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "over_time_name": {
+        "label": "اسم الوقت الإضافي",
+        "placeholder": "ادخل اسم الوقت الإضافي"
+      },
+      "account": {
+        "label": "كود الحساب",
+        "placeholder": "ادخل كود الحساب"
+      },
+      "serial_code": {
+        "label": "كود الوقت الإضافي",
+        "placeholder": "ادخل كود الوقت الإضافي"
+      },
+      "hour_equivalency": {
+        "label": "معادلة الساعة",
+        "placeholder": "ادخل معادلة الساعة"
+      },
+      "hour": {
+        "label": "الساعة",
+        "placeholder": "ادخل الساعة"
+      },
+      "equivalency": {
+        "label": "التكافؤ",
+        "placeholder": "ادخل التكافؤ"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "وقت إضافي او متأخر جديد",
+        "edit": "تعديل وقت إضافي او متأخر",
+        "details": "تفاصيل وقت إضافي او متأخر",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "وقت إضافي اومتأخر جديد",
+      "all": "كل الوقت الإضافي والمتأخر",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

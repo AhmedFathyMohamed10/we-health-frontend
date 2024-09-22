@@ -1,0 +1,147 @@
+{
+  "en": {  
+    "package": {
+      "header": "Package",
+      "key": {
+        "package_name":"Package Name",
+        "money_per_employee":"Money Per Employee",
+        "employee_no":"Employee No",
+        "account":"Package Account",
+        "description":"Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "package_name": {
+        "label": "Package Name",
+        "placeholder": "Enter Package Name"
+      },
+      "money_per_employee": {
+        "label": "Money Per Employee",
+        "placeholder": "Enter Money Per Employee"
+      },
+      "employee_no": {
+        "label": "Employee No",
+        "placeholder": "Enter Employee No"
+      },
+      "account": {
+        "label": "Package Account",
+        "placeholder": "Enter Package Account"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "Add Package",
+        "edit": "Edit Package",
+        "send": "Send to Accounting",
+        "details": "Package Details",
+        "status": "Status Package"
+      }
+    },
+    "btns": {
+      "new": "New Package",
+      "all": "All Packages",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "package": {
+      "header": "طَرد",
+      "key": {
+        "package_name":"إسم الحزمة",
+        "money_per_employee": "المال لكل موظف",
+        "employee_no":"رقم الموظف",
+        "account": "حساب الحزمة",
+        "description":"الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "package_name": {
+        "label": "إسم طَرد",
+        "placeholder": "ادخل إسم طَرد"
+      },
+      "money_per_employee": {
+        "label": "المال لكل موظف",
+        "placeholder": "ادخل المال لكل موظف"
+      },
+      "employee_no": {
+        "label": "رقم الموظف",
+        "placeholder": "ادخل رقم الموظف"
+      },
+      "account": {
+        "label": "حساب طَرد",
+        "placeholder": "ادخل حساب طَرد"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "طَرد جديد",
+        "edit": "تعديل طَرد",
+        "details": "تفاصيل طَرد",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "طَرد جديد",
+      "all": "كل طَرود",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

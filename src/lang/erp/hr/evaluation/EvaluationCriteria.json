@@ -1,0 +1,125 @@
+{
+    "en": {
+        "evaluationCriteria":{
+            "header": "Evaluation Criteria",
+            "key":{
+                "title":"Title",
+                "description":"Description",
+                "status":"Active",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "title":{
+                "label":"Title",
+                "placeholder":"Enter Title"
+            },
+            "status":{
+                "label":"Active",
+                "placeholder":"Enter Active"
+            },
+            "description":{
+                "label":"description",
+                "placeholder":"Enter description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"New Evaluation Criteria",
+                "new":"New Evaluation Criteria",
+                "edit":"Edit Evaluation Criteria",
+                "details":"Evaluation Criteria Details"
+            }
+        },
+        "btns":{
+            "new":"New Evaluation Criteria",
+            "all":"All Evaluation Criteria",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+          "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Title or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "evaluationCriteria":{
+            "header":"معاير التقيم",
+            "key":{
+                "title":"العنوان",
+                "description" :"الوصف",
+                "status":"الحاله",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "title":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "status":{
+                "label":"نشط",
+                "placeholder":"ادخل النشاط"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه معاير تقيم جديده" ,
+                "edit":" تعديل معاير تقيم",
+                "details":"تفاصيل معاير تقيم",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه معاير تقيم جديده",
+            "all":"كل معاير التقيم",
+            "search": "بحث",
+            "delete": "حذف" ,
+            "active": "نشط",
+            "suspended":"غير نشط"           
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+         "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

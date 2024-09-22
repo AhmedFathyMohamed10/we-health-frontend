@@ -1,0 +1,14 @@
+{
+    "en": {
+          "deleted":"Deleted Successfully",
+          "edite":"Edite Successfully",
+          "added":"Added Successfully",
+          "warning":"warning"
+    },
+    "ar": {
+      "deleted":"تم الحذف بنجاح",
+      "edite":"تم التعديل بنجاح",
+      "added":"تم الاضافه بنجاح",
+      "warning":"تحذير"
+  }
+}

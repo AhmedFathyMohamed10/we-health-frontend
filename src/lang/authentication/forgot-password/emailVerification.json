@@ -1,0 +1,18 @@
+{
+  "en": {
+    "title": "Find your account",
+    "text": "Verify your email address",
+    "hint": "Please check your email for a verification link, if you couldn't find it, click resend.",
+    "remaining": "Remaining",
+    "second": "second",
+    "resend": "Resend"
+  },
+  "ar": {
+    "title": "ابحث عن حسابك",
+    "text": "تحقق من بريدك لالكتروني",
+    "hint": "من فضلك تحقق بريدك الالكتروني من اجل رابط التحقق , اذا لم تحصل عليه اضغط اعادة الارسال",
+    "remaining": "متبقي",
+    "second": "ثانية",
+    "resend": "اعادة الارسال"
+  }
+}

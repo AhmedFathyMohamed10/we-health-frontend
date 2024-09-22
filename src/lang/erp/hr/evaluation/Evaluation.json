@@ -1,0 +1,120 @@
+{
+    "en": {
+        "evaluation":{
+            "header": "Evaluation",
+            "key":{
+                "evaluationrating":"Evaluation Rating",
+                "employee":"Employee",
+                "period":"period",
+                "period_title":"period",
+                "createdBy":"Created by",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "title":{
+                "label":"title",
+                "placeholder":"Enter title"
+            },
+            "degree":{
+                "label":"Degree",
+                "placeholder":"Enter Degree"
+            },
+            "employee":{
+                "label":"Employee",
+                "placeholder":"Enter Employee"
+            },
+            "period":{
+                "label":"period",
+                "placeholder":"Enter period"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Evaluation",
+                "edit":"Edit Evaluation",
+                "details":"Evaluation Details"
+            }
+        },
+        "btns":{
+            "new":"New Evaluation",
+            "all":"All Evaluation",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Employee or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "evaluation":{
+            "header":"التقيم",
+            "key":{
+                "evaluationrating":"تصنيف التقييم",
+                "employee":"الموظف",
+                "period" :"الفتره",
+                "period_title":"الفتره",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "degree":{
+                "label":"الدرجه",
+                "placeholder":"ادخل الدرجه"
+            },
+            "title":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+            },
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"ادخل الموظف"
+            },
+            "period":{
+                "label":"الفتره",
+                "placeholder":"ادخل الفتره"
+            }          
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه التقيم جديده" ,
+                "edit":" تعديل التقيم",
+                "details":"تفاصيل التقيم",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه التقيم جديده",
+            "all":"كل التقيم",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

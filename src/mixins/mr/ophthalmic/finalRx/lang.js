@@ -1,0 +1,56 @@
+export default {
+    data(){
+        return {
+            lang:{
+                en:{
+                    finalRx:{
+                        note:{
+                            label:"Comment",
+                            placeholder:"text..."
+                        },
+                    },
+                    pd:{
+                        note:{
+                            label:"Comment",
+                            placeholder:"text..."
+                        },
+                    },
+                    recommendation:{
+                        lensType:{
+                            label:"Lens Type",
+                            placeholder:"Select"
+                        },
+                        note:{
+                            label:"Comment",
+                            placeholder:"text..."
+                        },
+                    },
+                },
+                ar:{
+                    finalRx:{
+                        note:{
+                            label:"Comment",
+                            placeholder:"text..."
+                        },
+                    },
+                    pd:{
+                        note:{
+                            label:"Comment",
+                            placeholder:"text..."
+                        },
+                    },
+                    recommendation:{
+                        lensType:{
+                            label:"Lens Type",
+                            placeholder:"Select"
+                        },
+                        note:{
+                            label:"Comment",
+                            placeholder:"text..."
+                        },
+                    },
+                },
+            },
+        }
+    },
+}

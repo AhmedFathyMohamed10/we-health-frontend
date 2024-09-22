@@ -1,0 +1,146 @@
+{
+  "en": {  
+    "employeeDayOff": {
+      "header": "Employee Day Off",
+      "key": {
+        "from_date": "Period From",
+        "to_date": "Period To",
+        "reason": "Reason",
+        "type_day_off": "type",
+        "description": "Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "new_Official_vacation":{
+        "label":"Official Vacation",
+        "placeholder":"Search..."
+    },
+      "from_date": {
+        "label": "Period From",
+        "placeholder": "Enter Period From"
+      },
+      "to_date": {
+        "label": "Period To",
+        "placeholder": "Enter Period To"
+      },
+      "reason": {
+        "label": "Reason",
+        "placeholder": "Enter Reason"
+      },
+      "type": {
+        "label": "Type",
+        "placeholder": "Enter Type"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Employee Day Off",
+        "send": "Send to Hr",
+        "edit": "Edit Employee Day Off",
+        "details": "Employee Day Off  Details",
+        "status": "Status"
+      }
+    },
+    "btns": {
+      "new": "New Employee Day Off ",
+      "all": "All Employees Day Off ",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "employeeDayOff": {
+      "header": "يوم أجازه",
+      "key": {
+        "from_date":"الفترة من",
+        "to_date": "الفترة الى",
+        "reason": "السبب",
+        "type_day_off": "النوع",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "new_Official_vacation":{
+        "label":"اجازة رسمية",
+        "placeholder":"...بحث"
+    },
+      "from_date": {
+        "label": "الفترة من",
+        "placeholder": "ادخل الفترة من"
+      },
+      "to_date": {
+        "label": "الفترة الى",
+        "placeholder": "ادخل الفترة الى"
+      },
+      "reason": {
+        "label": "السبب",
+        "placeholder": "ادخل السبب"
+      },
+      "type": {
+        "label": "النوع",
+        "placeholder": "ادخل النوع"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "يوم عطلة جديد",
+        "edit": "تعديل يوم العطلة",
+        "details": "تفاصيل يوم العطلة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "يوم عطلة جديد",
+      "all": "كل أيام العطلة",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "en": {
+    "header": "Reason For Visit",
+     
+    "reasonForVisit": {
+      "label": "Reason For Visit",
+      "placeholder": "Select",
+      "otherPlaceholder": "Other Value"
+    },
+    "lastEyeExam": {
+      "label": "Last Eye Exam",
+      "placeholder": "mm-dd-yy"
+    },
+    "comment": {
+      "label": "Comment",
+      "placeholder": "Text..."
+    },
+    "chiefComplaint": {
+      "header": "Chief Complaint",
+      "chiefComplaint": {
+        "label": "Chief Complaint",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "location": {
+        "label": "Location",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "quality": {
+        "label": "Quality",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "severity": {
+        "label": "Severity",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "timing": {
+        "label": "Timing",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "duration": {
+        "label": "Duration",
+        "placeholder": "Select",
+        "valuePlaceholder": "Value"
+      },
+      "context": {
+        "label": "Context",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "modifyingFactor": {
+        "label": "Modifying Factor",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "associationSign": {
+        "label": "Association Sign",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "table": {
+      "thead": {
+        "count": "#",
+        "controls": "Controls"
+      }
+    },
+
+    "btns": {
+      "new": "New Product",
+      "cancel": "Cancel",
+      "save": "Save",
+      "all": "All Products",
+      "close": "Close",
+      "search": "Search",
+      "delete": "Delete"
+    }
+  },
+  "ar": {
+    "header": "Reason For Visit",
+     
+    "reasonForVisit": {
+      "label": "Reason For Visit",
+      "placeholder": "Select",
+      "otherPlaceholder": "Other Value"
+    },
+    "lastEyeExam": {
+      "label": "Last Eye Exam",
+      "placeholder": "mm-dd-yy"
+    },
+    "comment": {
+      "label": "Comment",
+      "placeholder": "Text..."
+    },
+    "chiefComplaint": {
+      "header": "Chief Complaint",
+      "chiefComplaint": {
+        "label": "Chief Complaint",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "location": {
+        "label": "Location",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "quality": {
+        "label": "Quality",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "severity": {
+        "label": "Severity",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "timing": {
+        "label": "Timing",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "duration": {
+        "label": "Duration",
+        "placeholder": "Select",
+        "valuePlaceholder": "Value"
+      },
+      "context": {
+        "label": "Context",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "modifyingFactor": {
+        "label": "Modifying Factor",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "associationSign": {
+        "label": "Association Sign",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "table": {
+      "thead": {
+        "count": "#",
+        "controls": "Controls"
+      }
+    },
+
+    "btns": {
+      "new": "New Product",
+      "cancel": "Cancel",
+      "save": "Save",
+      "all": "All Products",
+      "close": "Close",
+      "search": "Search",
+      "delete": "Delete"
+    }
+  }
+}

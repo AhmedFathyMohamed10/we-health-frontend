@@ -1,0 +1,439 @@
+{
+    "en": {
+        "Client":{
+            "basic_info":"Basic Information",
+            "permissions":"Permissions",
+            "insurance":"Insurance",
+            "header": "Clients",
+            "key":{
+                "name":"Name",
+                "group":"Group",
+                "gender":"Gender",
+                "dob":"dob",
+                "profession":"Profession",
+                "marital_status":"Marital Status",
+                "phone_number":"Phone Number",
+                "other_phone_number":"Other Phone Number",
+                "home_phone_number":"Home Phone Number",
+                "address":"Address",
+                "city":"City",
+                "discount":"Discount",
+                "profit":"Profit",
+                "max_debit":"Max Debit",
+                "insurance_name":"Insurance Name",
+                "card_name":"Card Name",
+                "member_id":"Member Id",
+                "plan":"Plan",
+                "expiration_date":"Expiration Date",
+                "payment_method":"Payment Method",
+                "files":"Files",
+                "serial":"Serial",
+                "treat_as_supplier":"Treat As Supplier",
+                "treat_as_client":"Treat As Client",
+                "prevent_dealing":"Prevent Dealing With",
+                "alert_dealing":"Alert When Dealing",
+                "prevent_give":"Prevent Give A Discount",
+                "alert_give":"Alert When Give A Discount",
+
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "client_code":{
+                "label":"Client Code",
+                "placeholder":"Enter Client Code"
+            },
+            "accounting_code":{
+                "label":"Accounting Code",
+                "placeholder":"Enter Accounting Code"
+            },
+            "searchUser":{
+                "label":"Search by Phone/Name",
+                "placeholder":"Enter Phone Number / Name"
+            },
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+              "group":{
+                "label":"Group",
+                "placeholder":"Enter Group"
+            },
+            "gender":{
+                "label":"Gender",
+                "placeholder":"Enter Gender"
+            },
+            "dob":{
+                "label":"Date Of Birth",
+                "placeholder":"Enter Date Of Birth"
+            },
+            "profession":{
+                "label":"Profession",
+                "placeholder":"Enter Profession"
+            },
+            "marital_status":{
+                "label":"Marital Status",
+                "placeholder":"Enter Marital Status"
+            },
+            "phone_number":{
+                "label":"Phone Number",
+                "placeholder":"Enter Phone Number"
+            },
+            "other_phone_number":{
+                "label":"Other Phone Number",
+                "placeholder":"Enter Other Phone Number"
+            },
+            "home_phone_number":{
+                "label":"Home Phone Number",
+                "placeholder":"Enter Home Phone Number"
+            },
+            "address":{
+                "label":"Address",
+                "placeholder":"Enter Address"
+            },
+            "city":{
+                "label":"City",
+                "placeholder":"Enter City"
+            },
+            "discount":{
+                "label":"Discount",
+                "placeholder":"Enter Discount  %"
+            },
+         
+            "profit":{
+                "label":"Profit",
+                "placeholder":"Enter Profit  %"
+            },
+            "max_debit":{
+                "label":"Max Debit",
+                "placeholder":"Enter Max Debit %"
+            },
+            "insurance_name":{
+                "label":"Insurance Name",
+                "placeholder":"Insurance Name"
+            },
+            "card_name":{
+                "label":"Card Name",
+                "placeholder":"Enter Card Name"
+            },
+            "member_id":{
+                "label":"Member Id",
+                "placeholder":"Enter Member Id"
+            },
+            "plan":{
+                "label":"Plan",
+                "placeholder":"Enter Plan"
+            },
+            "expiration_date":{
+                "label":"Expiration Date",
+                "placeholder":"Enter Expiration Date"
+            },
+            "payment_method":{
+                "label":"Payment Method",
+                "placeholder":"Enter Payment Method"
+            },
+            "files":{
+                "label":"Files",
+                "placeholder":"Enter Files"
+            },
+            "serial":{
+                "label":"Serial",
+                "placeholder":"Enter Serial"
+            },
+            "treat_as_supplier":{
+                "label":"Treat As Supplier",
+                "placeholder":"Enter Treat As Supplier"
+            },
+            "treat_as_client":{
+                "label":"Treat As Client",
+                "placeholder":"Enter Treat As Client"
+            },
+            "prevent_dealing":{
+                "label":"Prevent Dealing With",
+                "placeholder":"Enter Prevent Dealing With"
+            },
+            "alert_dealing":{
+                "label":"Alert When Dealing",
+                "placeholder":"Enter Alert When Dealing"
+            },
+            "prevent_give":{
+                "label":"Prevent Give A Discount",
+                "placeholder":"Enter Prevent Give A Discount"
+            },
+            "alert_give":{
+                "label":"Alert When Give A Discount",
+                "placeholder":"Enter Alert When Give A Discount"
+            },
+            "email":{
+                "label":"Email",
+                "placeholder":"Enter Email"
+            },
+            
+            "status":{
+                "label":"Active",
+                "placeholder":"Enter Active"
+            }
+        },
+        "dialog":{
+            "header":{
+                "client":"Client",
+                "supplier":"Supplier",
+                "new":"New Client",
+                "newSupplier":"New Supplier",
+                "move":"Move Client",
+                "edit":"Edit Client",
+                "editSupplier":"Edit Supplier",
+                "details":"Client Details",
+                "status":"Status Client"
+            }
+        },
+        "btns":{
+            "newClient":"New Client",
+            "newSupplier":"New Supplier",
+            "all":"All Clients",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Client":{
+            "permissions":"الاذونات",
+            "basic_info":"معلومات أساسية",
+            "insurance":"التامينات",
+            "header": "العملاء",
+            "key":{
+                "name":"الاسم",
+                "group":"المجموعة",
+                "gender":"النوع",
+                "dob":"تاريخ الميلاد",
+                "profession":"المهنة",
+                "marital_status":"الحالة الاجتماعية",
+                "phone_number":"رقم التليفون",
+                "other_phone_number":"رقم تليفون اخر",
+                "home_phone_number":"رقم تليون المنزل",
+                "address":"العنوان",
+                "city":"المدينة",
+                "discount":"الخصم",
+                "profit":"الربح",
+                "max_debit":"الحد الاقصي للخصم",
+                "insurance_name":"اسم التامين",
+                "card_name":"اسم الكارت",
+                "member_id":"رقم العضوية",
+                "plan":"خظة",
+                "expiration_date":"تاريخ الانتهاء",
+                "payment_method":"طريقة الدفع",
+                "files":"الملفات",
+                "serial":"الرقم التسلسلي",
+                "treat_as_supplier":"التعامل كمورد",
+                "treat_as_client":"التعامل كعميل",
+                "prevent_dealing":"منع التعامل معه",
+                "alert_dealing":"تحذير التعامل معه",
+                "prevent_give":"منع اعطاء خصم",
+                "alert_give":"تحذير اعطاء خصم",
+
+                "createdBy":"انشاء بواسطة",
+                "createdAt":"تاريخ الانشاء",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "client_code":{
+                "label":"كود العميل",
+                "placeholder":"طود العميل"
+            },
+            "accounting_code":{
+                "label":"كود الحساب",
+                "placeholder":"كود الحساب"
+            },
+            "searchUser":{
+                "label":"يبحث بواسطة التيلفون/الاسم",
+                "placeholder":"ادخل رقم التليفون/الاسم "
+            },
+            "name":{
+                "label":"الاسم",
+                "placeholder":"ادخل الاسم"
+            },
+              "group":{
+                "label":"المجموعة",
+                "placeholder":"ادخل المجموعة"
+            },
+            "gender":{
+                "label":"النوع",
+                "placeholder":"ادخل النوع"
+            },
+            "dob":{
+                "label":"تاريخ الميلاد",
+                "placeholder":"ادخل تاريخ الميلاد"
+            },
+            "profession":{
+                "label":"المهنة",
+                "placeholder":"ادخل المهنة"
+            },
+            "marital_status":{
+                "label":"الحالة الاجتماعية",
+                "placeholder":"ادخل الحالة الاجتماعية"
+            },
+            "phone_number":{
+                "label":"رقم التليفون",
+                "placeholder":"ادخل رقم التليفون"
+            },
+            "other_phone_number":{
+                "label":"رقم تليفون اخر",
+                "placeholder":"ادخل رقم تليفون اخر"
+            },
+            "home_phone_number":{
+                "label":"رقم تليفون المنزل",
+                "placeholder":"ادخل رقم تليفون المنزل"
+            },
+            "address":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+            },
+            "city":{
+                "label":"المدينة",
+                "placeholder":"ادخل المدينة"
+            },
+            "discount":{
+                "label":"الخصم",
+                "placeholder":"% ادخل الخصم"
+            },
+         
+            "profit":{
+                "label":"الربح",
+                "placeholder":"% ادخل الربح"
+            },
+            "max_debit":{
+                "label":"الحد الاقصي للخصم",
+                "placeholder":"% ادخل الحد الاقصي للخصم"
+            },
+            "insurance_name":{
+                "label":"اسم التامين",
+                "placeholder":"ادخل اسم التامين"
+            },
+            "card_name":{
+                "label":"اسم الكارت",
+                "placeholder":"ادخل اسم الكارت"
+            },
+            "member_id":{
+                "label":"رقم العضوية",
+                "placeholder":"ادخل رقم العضوية"
+            },
+            "plan":{
+                "label":"الخطة",
+                "placeholder":"ادخل الخطة"
+            },
+            "expiration_date":{
+                "label":"تاريخ الانتهاء",
+                "placeholder":"ادخل تاريخ الانتهاء"
+            },
+            "payment_method":{
+                "label":"وسائل الدفع",
+                "placeholder":"ادخل وسيلة الدفع"
+            },
+            "files":{
+                "label":"الملفات",
+                "placeholder":"ادخل الملفات"
+            },
+            "serial":{
+                "label":"الرقم التسلسلي",
+                "placeholder":"ادخل الرقم التسلسلي"
+            },
+            "treat_as_supplier":{
+                "label":"التعامل كمورد",
+                "placeholder":"اختر التعامل كمورد"
+            },
+            "treat_as_client":{
+                "label":"التعامل كعميل",
+                "placeholder":"اختر التعامل كعميل"
+            },
+            "prevent_dealing":{
+                "label":"منع التعامل معه",
+                "placeholder":"اختر منع التعامل معه"
+            },
+            "alert_dealing":{
+                "label":"تحذير التعامل معه",
+                "placeholder":"اختر تحذير التعامل"
+            },
+            "prevent_give":{
+                "label":"منع اعطاء تخفيض",
+                "placeholder":"اختر اعطاء تخفيض"
+            },
+            "alert_give":{
+                "label":"تحذير اعطاء تحفيض",
+                "placeholder":"اختر تحذير اعطاء تخفيض"
+            },
+            "email":{
+                "label":"البريد الالكتروني",
+                "placeholder":"ادخل البريد الالكتروني"
+            },
+            
+            "status":{
+                "label":"نشط",
+                "placeholder":"نشط"
+            }
+        },
+        "dialog":{
+            "header":{
+                "client":"العميل",
+                "supplier":"المورد",
+                "new":"عميل جديد",
+                "newSupplier":"مورد جديد",
+                "move":"تحريك العميل",
+                "edit":"تعديل العميل",
+                "editSupplier":"تعديل المورد",
+                "details":"تفاصيل العميل",
+                "status":"الحالة"
+            }
+        },
+        "btns":{
+            "newClient":"عميل جديد",
+            "newSupplier":"مورد جديد",
+            "all":"كل العملاء",
+            "search": "البحث",
+            "delete": "مسح",
+            "active": "تنشيط",
+            "suspended": "غير نشط"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+          },
+          "toast": {
+            "select": {
+              "summery": "تحديد",
+              "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+              "summery": "بحث",
+              "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+          }
+    }
+  }
+  

@@ -1,0 +1,16 @@
+{
+  "en": {
+    "title": "Find your account",
+    "text": "Fine, choose receiving activation code method:",
+    "email":"Email",
+    "phone":"Phone",
+    "next": "Next"
+  },
+  "ar": {
+    "title": "ابحث عن حسابك",
+    "text": "حسنا, اختر طريقة التحقق",
+    "email":"البريد الالكتروني",
+    "phone":"الهاتف",
+    "next": "التالى"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "en":{
+    "header":{
+      "title":"Period",
+      "insert":"New Period Record",
+      "update":"Update Period Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm" 
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+     
+      "cycleDuration":{
+        "label":"Cycle Duration",
+        "placeholder":"21-35 days"
+      },
+      "periodDuration":{
+        "label":"Period Duration",
+        "placeholder":"3-8 days"
+      },
+      "lastPeriod":{
+        "label":"Last Period",
+        "placeholder":"25/12/2022"
+      },
+      "firstDay":{
+        "label":"First Day",
+        "placeholder":"25/12/2022"
+      },
+      "lastDay":{
+        "label":"Last Day",
+        "placeholder":"25/12/2022"
+      },
+      "nextPeriod":{
+        "title":"Next Period",
+        "placeholder":"25/12/2022"
+      }
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result:"
+      
+    },
+  "ar":{
+    "header":{
+      "title":"فترة",
+      "insert":"سجل الفترة الجديدة",
+      "update":"تحديث سجل الفترة"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون" 
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+     
+      "cycleDuration":{
+        "label":"مدة الدورة",
+        "placeholder":"21-35 يوما"
+      },
+      "periodDuration":{
+        "label":"مدة الفترة",
+        "placeholder":"3-8 أيام"
+      },
+      "lastPeriod":{
+        "label":"الفترة الاخيرة",
+        "placeholder":"25/12/2022"
+      },
+      "firstDay":{
+        "label":"اليوم الأول",
+        "placeholder":"25/12/2022"
+      },
+      "lastDay":{
+        "label":"آخر يوم",
+        "placeholder":"25/12/2022"
+      },
+      "nextPeriod":{
+        "title":"الفترة القادمة",
+        "placeholder":"25/12/2022"
+      }
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة:"
+      
+    }
+ 
+  }

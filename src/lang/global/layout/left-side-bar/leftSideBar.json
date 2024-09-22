@@ -1,0 +1,696 @@
+{
+    "en": {
+        "businessItems": {
+            "home": {
+                "title": "Home"
+            },
+            "clinics": {
+                "title": "Clinics"
+            },
+            "erp": {
+                "title": "ERP",
+                "clients": {
+                    "title": "Clients"
+                },
+                "clients_groups": {
+                    "title": "Groups"
+                },
+                "clients_provider": {
+                    "title": "Clients And Provider"
+                },
+                "insurance": {
+                    "title": "Insurance Agent"
+                },
+                "provider": {
+                    "title": "Provider"
+                },
+                "product": {
+                    "title": "Product or Service",
+                    "productClassification": {
+                        "title": "Product Classification"
+                    },
+                    "subCategory": {
+                        "title": "Sub Category"
+                    },
+                    "category": {
+                        "title": "Category"
+                    },
+                    "mainCategory": {
+                        "title": "Main Category"
+                    },
+                    "pricingPolicy": {
+                        "title": "Pricing Policy"
+                    },
+                    "product": {
+                        "title": "Product"
+                    },
+                    "store": {
+                        "title": "Stores"
+                    },
+                    "productUnit": {
+                        "title": "Product Unit"
+                    }
+                },
+                "assets": {
+                    "title": "Assets",
+                    "reports": {
+                        "title": "Reports",
+                        "rentals": {
+                            "title": "Rentals"
+                        },
+                        "installments": {
+                            "title": "Installments"
+                        },
+                        "maintenance": {
+                            "title": "Maintenance"
+                        }
+                    },
+                    "settings": {
+                        "title": "Settings",
+                        "rentals": {
+                            "title": "Rentals"
+                        },
+                        "installments": {
+                            "title": "Installments"
+                        },
+                        "maintenance": {
+                            "title": "Maintenance"
+                        }
+                    },
+                    "fixedAssets": {
+                        "title": "Fixed Assets"
+                    },
+                    "depreciationTable": {
+                        "title": "Depreciation Table"
+                    },
+                    "assetsGroup": {
+                        "title": "Assets Group"
+                    },
+                    "destruction": {
+                        "title": "Destruction"
+                    }
+                },
+                "cabinets": {
+                    "title": "Cabinets",
+                    "cabinet": {
+                        "title": "Cabinet"
+                    },
+                    "WithdrawalAndDeposit": {
+                        "title": "Withdrawal And Deposit"
+                    }
+                },
+                "partnersAndRatios": {
+                    "title": "partners and Ratios",
+                    "partnerRatios": {
+                        "title": "Partner Ratios"
+                    },
+                    "partner": {
+                        "title": "Partner"
+                    }
+                },
+                "regularPeriodicMaintenance": {
+                    "title": "Regular Periodic Maintenance",
+                    "MaintenanceGroup": {
+                        "title": "Maintenance Group"
+                    },
+                    "Maintenance": {
+                        "title": "Maintenance"
+                    }
+                },
+                "restrictions": {
+                    "title": "Bonds and Restrictions",
+                    "group": {
+                        "title": "Group"
+                    },
+                    "typeRestrictions": {
+                        "title": "Type Restrictions"
+                    },
+                    "typeSecurities": {
+                        "title": "Type Securities"
+                    },
+                    "bonds": {
+                        "title": "Bonds"
+                    }
+                },
+                "accounts": {
+                    "title": "Accounts",
+                    "account": {
+                        "title": "Account"
+                    },
+                    "finalAccount": {
+                        "title": "Final Account"
+                    },
+                    "accountingPeriod": {
+                        "title": "Accounting Period"
+                    }
+                },
+                "accounting": {
+                    "title": "Accounting",
+                    "invoicesDefinitions": {
+                        "title": "Invoices Definitions",
+                        "groups": {
+                            "title": "Groups"
+                        },
+                        "invoices": {
+                            "title": "Invoices Definitions"
+                        },
+                        "orders": {
+                            "title": "Orders Definitions"
+                        },
+                        "offers": {
+                            "title": "Offers Definitions"
+                        }
+                    },
+                    "balances": {
+                        "title": "Balances",
+                        "accountStatement": {
+                            "detailed": {
+                                "title": "Detailed Account Statement"
+                            },
+                            "mini": {
+                                "title": "Mini Account Statement"
+                            }
+                        },
+                        "productStatement": {
+                            "detailed": {
+                                "title": "Detailed Product Statement"
+                            },
+                            "mini": {
+                                "title": "Mini Product Statement"
+                            }
+                        },
+                        "productProfit": {
+                            "detailed": {
+                                "title": "Detailed Product Profit"
+                            },
+                            "mini": {
+                                "title": "Mini Product Profit"
+                            }
+                        },
+                        "invoiceStatement": {
+                            "purchases": {
+                                "detailed": {
+                                    "title": "Detailed Purchases Statement"
+                                },
+                                "mini": {
+                                    "title": "Mini Purchases Statement"
+                                }
+                            },
+                            "sales": {
+                                "detailed": {
+                                    "title": "Detailed Sales Statement"
+                                },
+                                "mini": {
+                                    "title": "Mini Sales Statement"
+                                }
+                            }
+                        }
+                    },
+                    "invoices": {
+                        "title": "Invoices",
+                        "sales": {
+                            "title": "Sales"
+                        },
+                        "saleReturns": {
+                            "title": "Sale Returns"
+                        },
+                        "purchase": {
+                            "title": "Purchase"
+                        },
+                        "purchaseReturns": {
+                            "title": "Purchase Returns"
+                        },
+                        "transports": {
+                            "title": "Transports"
+                        },
+                        "input": {
+                            "title": "Input"
+                        },
+                        "output": {
+                            "title": "Output"
+                        },
+                        "itemsOfOpeningInventory": {
+                            "title": "Items Of Opening Inventory"
+                        },
+                        "salesOrder": {
+                            "title": "Sales Order"
+                        },
+                        "purchaseOrder": {
+                            "title": "Purchase Order"
+                        }
+                    }
+                },
+                "management": {
+                    "title": "Management",
+                    "tasks": {
+                        "title": "Tasks",
+                        "group": {
+                            "title": "Group"
+                        },
+                        "status": {
+                            "title": "Status"
+                        },
+                        "task": {
+                            "title": "Task"
+                        }
+                    }
+                },
+                "hr": {
+                    "title": "HR",
+                    "attendance_departure": {
+                        "title": "Attendance Departure",
+                        "attendance": {
+                            "title": "Attendance"
+                        },
+
+                        "departure": {
+                            "title": "Departure"
+                        }
+                    },
+                    "departments": {
+                        "title": "Departments"
+                    },
+                    "roles": {
+                        "title": "Roles"
+                    },
+                    "employees": {
+                        "title": "Employees"
+                    },
+                    "shifts": {
+                        "title": "Shifts"
+                    },
+                    "courses": {
+                        "title": "Courses"
+                    },
+                    "internships": {
+                        "title": "Internships"
+                    },
+                    "liabilities": {
+                        "title": "Liabilities"
+                    },
+                    "liabilities_categories": {
+                        "title": "Liabilities Categories"
+                    },
+                    "overtime": {
+                        "title": "Overtime"
+                    },
+                    "overtime_categories": {
+                        "title": "Overtime Categories"
+                    },
+                    "hr_vacations": {
+                        "title": "HR Vacations"
+                    },
+                    "vacations": {
+                        "title": "Employees Vacations"
+                    },
+                    "promotions": {
+                        "title": "Promotions"
+                    },
+                    "insurances": {
+                        "title": "Insurances"
+                    },
+                    "insurance_policies": {
+                        "title": "Insurance Policies"
+                    },
+
+                    "settings": {
+                        "title": "Settings",
+                        "vacation_settings": {
+                            "title": "Vacation Settings"
+                        },
+                        "salary": {
+                            "title": "Salary Settings"
+                        }
+                    },
+                    "bonus": {
+                        "title": "Bonus"
+                    },
+                    "bonus_groups": {
+                        "title": "Bonus Groups"
+                    },
+                    "imprests": {
+                        "title": "Imprests"
+                    },
+                    "imprests_reports": {
+                        "title": "Imprests Reports"
+                    },
+                    "errands": {
+                        "title": "Errands"
+                    },
+                    "custodies": {
+                        "title": "Custodies"
+                    },
+                    "salary_entitlement_report": {
+                        "title": "Salary Entitlement Report"
+                    }
+                }
+            }
+        },
+        "profileItems": {
+            "business": {
+                "title": "Business"
+            },
+            "social": {
+                "title": "Social"
+            },
+            "search": {
+                "title": "Search"
+            },
+            "medicalHistory": {
+                "title": "Medical History"
+            }
+        }
+    },
+    "ar": {
+        "businessItems": {
+            "home": {
+                "title": "الرئيسية"
+            },
+            "clinics": {
+                "title": "العيادات"
+            },
+            "erp": {
+                "title": "ادارة موارد الشركة",
+                "clients": {
+                    "title": "العملاء"
+                },
+                "clients_groups": {
+                    "title": "مجموعات العملاء"
+                },
+                "clients_provider": {
+                    "title": "العملاء و الموردين "
+                },
+                "insurance": {
+                    "title": "شركات التأمين"
+                },
+                "provider": {
+                    "title": "المورد"
+                },
+                "product": {
+                    "title": "المنتج أو الخدمة",
+                    "productClassification": {
+                        "title": "تصنيف المنتج"
+                    },
+                    "subCategory": {
+                        "title": "الفئة الفرعيه"
+                    },
+                    "category": {
+                        "title": "الفئة"
+                    },
+                    "mainCategory": {
+                        "title": "الفئة الرئيسية"
+                    },
+                    "pricingPolicy": {
+                        "title": "سياسة التسعير"
+                    },
+                    "product": {
+                        "title": "المنتج أو الخدمة"
+                    },
+                    "store": {
+                        "title": "المخازن"
+                    },
+                    "productUnit": {
+                        "title": "وحدة المنتج"
+                    }
+                },
+                "assets": {
+                    "title": "الاصول",
+                    "reports": {
+                        "title": "التقارير",
+                        "rentals": {
+                            "title": "الايجارات"
+                        },
+                        "installments": {
+                            "title": "الاقساط"
+                        },
+                        "maintenance": {
+                            "title": "الصيانات"
+                        }
+                    },
+                    "settings": {
+                        "title": "الاعدادات",
+                        "rentals": {
+                            "title": "الايجارات"
+                        },
+
+                        "installments": {
+                            "title": "الاقساط"
+                        },
+                        "maintenance": {
+                            "title": "الصيانات"
+                        }
+                    },
+                    "fixedAssets": {
+                        "title": "أصول ثابتة"
+                    },
+                    "depreciationTable": {
+                        "title": "جدول الإهلاك"
+                    },
+                    "assetsGroup": {
+                        "title": "مجموعة الأصول"
+                    },
+                    "destruction": {
+                        "title": "اهلاك"
+                    }
+                },
+                "cabinets": {
+                    "title": "الخزائن",
+                    "cabinet": {
+                        "title": "الخزائن"
+                    },
+                    "WithdrawalAndDeposit": {
+                        "title": "السحب والايداع"
+                    }
+                },
+                "partnersAndRatios": {
+                    "title": "نسب الشركاء",
+                    "partnerRatios": {
+                        "title": "نسبه الشركاء"
+                    },
+                    "partner": {
+                        "title": "الشركاء"
+                    }
+                },
+                "regularPeriodicMaintenance": {
+                    "title": "صيانات دوريه منتظمه",
+                    "MaintenanceGroup": {
+                        "title": "مجموعه صيانات"
+                    },
+                    "Maintenance": {
+                        "title": "الصيانات"
+                    }
+                },
+                "restrictions": {
+                    "title": "السندات والقيود",
+                    "group": {
+                        "title": "مجموعة القيود"
+                    },
+                    "typeRestrictions": {
+                        "title": "نوع القيود"
+                    },
+                    "typeSecurities": {
+                        "title": "الأوراق المالية"
+                    },
+                    "bonds": {
+                        "title": "سندات"
+                    }
+                },
+                "accounts": {
+                    "title": "الحسابات",
+                    "account": {
+                        "title": "حساب"
+                    },
+                    "finalAccount": {
+                        "title": "حساب ختامي"
+                    },
+                    "accountingPeriod": {
+                        "title": "فترة المحاسبة"
+                    }
+                },
+                "accounting": {
+                    "title": "الحسابات",
+                    "invoices": {
+                        "title": "الحسابات",
+                        "groups": {
+                            "title": "المجموعات"
+                        },
+                        "invoices": {
+                            "title": "الفواتير"
+                        },
+                        "orders": {
+                            "title": "الطلبات"
+                        },
+                        "offers": {
+                            "title": "العروض"
+                        }
+                    }
+                },
+                "hr": {
+                    "title": "الموارد البشرية",
+                    "attendance_departure": {
+                        "title": "حضور وانصراف",
+                        "attendance": {
+                            "title": "حضور"
+                        },
+                        "departure": {
+                            "title": "انصراف"
+                        }
+                    },
+                    "accounting": {
+                        "title": "الحسابات",
+                        "invoicesDefinitions": {
+                            "title": "تعريفات الفواتير",
+                            "groups": {
+                                "title": "المجموعات"
+                            },
+                            "invoices": {
+                                "title": "تعريفات الفواتير"
+                            },
+                            "orders": {
+                                "title": "تعريفات الطلبات"
+                            },
+                            "offers": {
+                                "title": "تعريفات العروض"
+                            }
+                        },
+                        "invoices": {
+                            "title": "الفواتير",
+                            "sales": {
+                                "title": "المبيعات"
+                            },
+                            "saleReturns": {
+                                "title": "مرتجعات البيع"
+                            },
+                            "purchase": {
+                                "title": "الشراء"
+                            },
+                            "purchaseReturns": {
+                                "title": "مرتجعات الشراء"
+                            },
+                            "transports": {
+                                "title": "النقل"
+                            },
+                            "input": {
+                                "title": "الإدخال"
+                            },
+                            "output": {
+                                "title": "الإخراج"
+                            },
+                            "itemsOfOpeningInventory": {
+                                "title": "بنود المخزون الافتتاحي"
+                            },
+                            "salesOrder": {
+                                "title": "طلب بيع"
+                            },
+                            "purchaseOrder": {
+                                "title": "طلب شراء"
+                            }
+                        }
+                    },
+                    "management": {
+                        "title": "الإدارة",
+                        "tasks": {
+                            "title": "المهام",
+                            "group": {
+                                "title": "المجموعة"
+                            },
+                            "status": {
+                                "title": "الحالة"
+                            },
+                            "task": {
+                                "title": "المهمة"
+                            }
+                        }
+                    },
+                    "hr": {
+                        "title": "الموارد البشرية",
+                        "departments": {
+                            "title": "الاقسام"
+                        },
+                        "roles": {
+                            "title": "الادوار"
+                        },
+                        "employees": {
+                            "title": "الموظفين"
+                        },
+                        "shifts": {
+                            "title": "الورديات"
+                        },
+                        "courses": {
+                            "title": "الكورسات"
+                        },
+                        "internships": {
+                            "title": "التدريبات"
+                        },
+                        "liabilities": {
+                            "title": "الخصومات"
+                        },
+                        "liabilities_categories": {
+                            "title": "فئات الخصم"
+                        },
+                        "overtime": {
+                            "title": "الاضافات"
+                        },
+                        "overtime_categories": {
+                            "title": "فئات الاضافي"
+                        },
+                        "hr_vacations": {
+                            "title": "اجازات"
+                        },
+                        "vacations": {
+                            "title": "اجازات الموظفين"
+                        },
+                        "promotions": {
+                            "title": "الترقيات"
+                        },
+                        "insurances": {
+                            "title": "التأمينات"
+                        },
+                        "insurance_policies": {
+                            "title": "عقود التأمينات"
+                        },
+                        "settings": {
+                            "title": "الأعدادات"
+                        },
+                        "bonus": {
+                            "title": "المكافأت"
+                        },
+                        "bonus_groups": {
+                            "title": "مجموعات المكافأت"
+                        },
+                        "imprests": {
+                            "title": "السلف"
+                        },
+                        "imprests_reports": {
+                            "title": "تقرير السلف"
+                        },
+                        "errands": {
+                            "title": "المأموريات"
+                        },
+                        "custodies": {
+                            "title": "العهد"
+                        },
+
+                        "salary_entitlement_report": {
+                            "title": "تقرير استحقاق المرتبات"
+                        }
+                    }
+                }
+            },
+            "profileItems": {
+                "business": {
+                    "title": "الاعمال"
+                },
+                "social": {
+                    "title": "التواصل الاجتماعي"
+                },
+                "search": {
+                    "title": "البحث"
+                },
+                "medicalHistory": {
+                    "title": "التاريخ المرضي"
+                }
+            }
+        }
+    }
+}

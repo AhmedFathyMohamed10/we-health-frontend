@@ -1,0 +1,205 @@
+{
+    "en": {
+        "definition":{
+            "header": "Invoices Definitions"
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "category":{
+                "label":"Category",
+                "placeholder":"Category"
+            },
+            "invoice_type":{
+                "label":"Invoice Type",
+                "placeholder":"Select Invoice Type"
+            },
+            "group":{
+                "label":"Group",
+                "placeholder":"Select Group"
+            },
+            "customer_account":{
+                "label":"Customer Account",
+                "placeholder":"Enter Customer Account"
+            },
+            "cash_account":{
+                "label":"Cash Account",
+                "placeholder":"Enter Cash Account"
+            },
+            "material_account":{
+                "label":"Material Account",
+                "placeholder":"Enter Material Account"
+            },
+            "discount_account":{
+                "label":"Discount Account",
+                "placeholder":"Enter Discount Account"
+            },
+            "tax_account":{
+                "label":"Tax Account",
+                "placeholder":"Enter Tax Account"
+            },
+            "policy":{
+                "label":"Pricing Policy",
+                "placeholder":"Select Pricing Policy"
+            },
+            "method":{
+                "label":"Payment Method",
+                "placeholder":"Select Payment Method"
+            },
+            "start_code":{
+                "label":"Start Code",
+                "placeholder":"Enter Code"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            },
+            "updated_at":{
+                "label":"updated at",
+                "placeholder":"updated_at"
+            },
+            "status":{
+                "label":"Status",
+                "placeholder":"Status"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Invoice Definition",
+                "edit":"Edit Invoice Definition",
+                "details":"Invoice Definition Details",
+                "status":"Status"
+            }
+        },
+        "btns":{
+            "new":"New Invoice Definition",
+            "all":"All Invoices Definitions",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name"
+            }
+        }
+    },
+    "ar": {
+        "definition":{
+            "header":"تعريفات الفواتير"
+        },
+        "form":{
+            "name":{
+                "label":"اسم الفاتورة",
+                "placeholder":"ادخل اسم الفاتورة"
+            },
+            "category":{
+                "label":"النوع",
+                "placeholder":"النوع"
+            },
+            "invoice_type":{
+                "label":"نوع الفاتورة",
+                "placeholder":"اختر نوع الفاتورة"
+            },
+            "group":{
+                "label":"مجموعة",
+                "placeholder":"اختر مجموعة"
+            },
+            "customer_account":{
+                "label":"حساب العميل",
+                "placeholder":"ادخل حساب العميل"
+            },
+            "cash_account":{
+                "label":"الحساب النقدي",
+                "placeholder":"ادخل الحساب النقدي"
+            },
+            "material_account":{
+                "label":"حساب المواد",
+                "placeholder":"ادخل حساب المواد"
+            },
+            "discount_account":{
+                "label":"حساب الخصم",
+                "placeholder":"ادخل حساب الخصم"
+            },
+            "tax_account":{
+                "label":"حساب الضريبة",
+                "placeholder":"ادخل حساب الضريبة"
+            },
+            "policy":{
+                "label":"سياسة التسعير",
+                "placeholder":"اختر سياسة التسعير"
+            },
+            "method":{
+                "label":"طريقة الدفع",
+                "placeholder":"اختر طريقة الدفع"
+            },
+            "start_code":{
+                "label":"رمز البدء",
+                "placeholder":"ادخل رمز البدء"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "updated_at":{
+                "label":"تم التحديث في",
+                "placeholder":"تم التحديث في"
+            },
+            "status":{
+                "label":"الحالة",
+                "placeholder":"الحالة"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"تعريف فاتورة جديدة",
+                "edit":"تعديل تعريف الفاتورة",
+                "details":"تفاصيل تعريف الفاتورة",
+                "delete":"حذف",
+                "status":"الحاله"
+            }
+        },
+        "btns":{
+            "new":"تعريف فاتورة جديدة",
+            "all":"كل تعريفات الفواتير",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة حقل واحد على الأقل"
+            }
+        }
+    }
+}

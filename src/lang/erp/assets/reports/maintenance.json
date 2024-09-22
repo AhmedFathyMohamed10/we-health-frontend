@@ -1,0 +1,82 @@
+{
+    "en": {
+      "maintenance": {
+        "header": "Regular Periodic Maintenance",
+        "key": {
+          "nameAsset": "Asset",
+          "name": "Maintenance",
+          "cost":"Cost",
+          "updated_at": "Updated at",
+          "period":"period",
+          "starting_date":"Starting Date"
+        }
+      },
+      "dialog": {
+        "header": {
+        "details": "Maintenance Details",
+        "pay": "Pay"
+        }
+      },
+      "btns": {
+        "pay": "Pay",
+        "all": "All Maintenances",
+        "search": "Search"
+      },
+   
+      "messages": {
+        "status": "Confirm that the status of this item has been permanently changed?",
+        "resultsfound": "result"
+      },
+      "toast": {
+        "select": {
+          "summery": "Select",
+          "details": "Please Select at Least One Record"
+        },
+        "search": {
+          "summery": "Search",
+          "details": "Please Write a Name or Mobile Number"
+        }
+      }
+    },
+    "ar": {
+      "rentals": {
+        "header": "الصيانات",
+        "key": {
+
+            "nameAsset": "الاصل",
+            "name": "الصيانه",
+            "cost":"التكلفه",
+            "createdAt": "التاريخ",
+            "updated_at": "تم التحديث في",
+            "period":"الفتره",
+            "starting_date":"تاريخ البداء"
+        }
+      },
+      "dialog": {
+        "header": {
+          "pay": "دفع",
+          "details": "تفاصيل اصول ثابته"
+        }
+      },
+      "btns": {
+        "pay": "دفع",
+        "all": "كل الصيانات",
+        "search": "بحث"
+      },
+      "messages": {
+        "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+        "resultsfound": "نتيجة"
+      },
+      "toast": {
+        "select": {
+          "summery": "تحديد",
+          "details": "الرجاء تحديد سجل واحد على الأقل"
+        },
+        "search": {
+          "summery": "بحث",
+          "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+        }
+      }
+    }
+  }
+  

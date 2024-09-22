@@ -1,0 +1,201 @@
+{
+    "en": {
+        "Errand":{
+            "header": "Errands",
+            "key":{
+                "custody_title":"Custody Title",
+                "result":"Result",
+                "from_date":"From",
+                "location_name" : "Location Name",
+                "location" : "Location",
+                "to_date":"To",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at",
+                "reason":"Name",
+                "custody":"Custody"
+                
+
+
+
+            }
+        },
+        "form":{
+            "result":{
+                "label":"Result",
+                "placeholder":"Enter Result"
+            },
+            "location_name":{
+                "label":"Location Name",
+                "placeholder":"Enter Location Name"
+            },
+            "from_date":{
+                "label":"From Date",
+                "placeholder":"Enter From Date"
+            },
+            "to_date":{
+                "label":"To Date",
+                "placeholder":"Enter To Date"
+            },
+            "location":{
+                "label":"Location",
+                "placeholder":"Enter Location"
+            },
+            "reason":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "custody":{
+                "label":"Custody",
+                "placeholder":"Choose Custody"
+            },
+            "status":{
+                "label":"Status",
+                "placeholder":"Enter Status"
+            },
+            "department_name":{
+                "label":"Department",
+                "placeholder":"Enter Department Name"
+            },
+            "direct_manager":{
+                "label":"Direct Manager",
+                "placeholder":"Enter Direct Manager"
+            },
+            "reviewer":{
+                "label":"Reviewer",
+                "placeholder":"Reviewer"
+            },
+            "beneficiary":{
+                "label":"Beneficiary",
+                "placeholder":"Beneficiary"
+            }
+            
+            
+            
+        },
+        "dialog":{
+            "header":{
+                "new":"New Errand",
+                "edit":"Edit Errand",
+                "details":"Errand Details",
+                "status":"Status Errand"
+            }
+        },
+        "btns":{
+            "new":"New Errand",
+            "all":"All Errands",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Errand":{
+            "header":"مأمورية",
+            "key":{
+                "custody_title":"عنوان العهدة",
+                "result":"سبب المأمورية",
+                "from_date":"تاريخ بدء المأمورية",
+                "location_name" : "اسم موقع الزيارة",
+                "location" : "عنوان موقع الزيارة",
+                "to_date":"تاريخ انتهاء المأمورية",
+                "created_by":"تم الانشاء بواسطة",
+                "created_at":"تاريخ الانشاء",
+                "updated_at":"تاريخ التعديل",
+                "reason":"الاسم",
+                "custody":"العهدة"
+            }
+        },
+        "form":{
+            "result":{
+                "label":"نتيجة الزيارة",
+                "placeholder":"ادخل نتيجة الزيارة"
+            },
+            "location_name":{
+                "label":"اسم موقع الزيارة",
+                "placeholder":"ادخل اسم موقع الزيارة"
+            },
+            "from_date":{
+                "label":"تاريخ البدء",
+                "placeholder":"ادخل تاريخ البدء"
+            },
+            "to_date":{
+                "label":"تاريخ انتهاء الزيارة",
+                "placeholder":"ادخل تاريخ انتهاء الزيارة"
+            },
+            "status":{
+                "label":"الحالة",
+                "placeholder":"ادخل الحالة"
+            },
+            "location":{
+                "label":"عنوان موقع الزيارة",
+                "placeholder":"ادخل عنوان موقع الزيارة"
+            },
+            "reason":{
+                "label":"الأسم",
+                "placeholder":"ادخل الاسم"
+            },
+            "custody":{
+                "label":"العهدة",
+                "placeholder":"اختر العهدة"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"مأمورية جديد",
+                "edit":"تعديل المأموربة",
+                "details":"تفاصيل المأموربة",
+                "delete":"حذف",
+                "status":"تغيير الحالة"
+            }
+        },
+        "btns":{
+            "new":"مأمورية جديد",
+            "all":"كل المأموريات",
+            "search": "بحث",
+            "delete": "حذف",
+            "approved":"مقبولة",
+            "rejected":"مرفوضة",
+            "new_Official_vacation":"اضافة اجازة رسمية"
+        },
+        "status":{
+            "approved":" مقبولة",
+            "rejected":"مرفوضة  ",
+            "under_review" :"تحت المراجعة",
+            "all":"الجميع"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

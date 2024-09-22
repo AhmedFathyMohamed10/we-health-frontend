@@ -1,0 +1,134 @@
+{
+    "en": {
+        "typesOfRestrictions":{
+            "header": "Type of Restrictions",
+            "key":{
+                "bondName":"Bond Name",
+                "bondType":"Bond Type",
+                "group":"Group",
+                "groupName":"Group",
+                "taxAccount":"Tax Account",
+                "correspondingAccount":"Corresponding Account",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "bondName":{
+                "label":"Bond Name",
+                "placeholder":"Enter Bond Name"
+            },
+            "bondType":{
+                "label":"Bond Type",
+                "placeholder":"Enter Bond Type"
+            },
+            "group":{
+                "label":"Group",
+                "placeholder":"Enter Group"
+            },
+            "taxAccount":{
+                "label":"Tax Account",
+                "placeholder":"Enter Tax Account"
+            },
+            "correspondingAccount":{
+                "label":"Corresponding Account",
+                "placeholder":"Enter Corresponding Account"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Type of Restrictions",
+                "edit":"Edit Type of Restrictions",
+                "details":"Type of Restrictions Details"
+            }
+        },
+        "btns":{
+            "new":"New Type of Restrictions",
+            "all":"All Type of Restrictions",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "typesOfRestrictions":{
+            "header":"انواع القيود",
+            "key":{
+                "bondName":"اسم السند",
+                "bondType":"نوع السند",
+                "group":"المجموعه",
+                "groupName":"المجموعه",
+                "taxAccount":"حساب الضريبه",
+                "correspondingAccount":"الجساب المقابل",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "bondName":{
+                "label":"اسم السند",
+                "placeholder":"ادخل اسم السند"
+            },
+            "group":{
+                "label":"مجموعه",
+                "placeholder":"ادخل المجموعه"
+            },
+            "bondType":{
+                "label":"نوع السند",
+                "placeholder":"ادخل نوع السند"
+            },
+
+            "taxAccount":{
+                "label":"حساب الضريبه",
+                "placeholder":"ادخل حساب الضريبه"
+            },
+            "correspondingAccount":{
+                "label":"الجساب المقابل",
+                "placeholder":"ادخل الجساب المقابل"
+            }             
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه نوع قيد جديد" ,
+                "edit":" تعديل نوع قيد",
+                "details":"تفاصيل نوع قيد",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه نوع قيد جديد",
+            "all":"كل انواع القيود",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

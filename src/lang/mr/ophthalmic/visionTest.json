@@ -1,0 +1,160 @@
+{
+  "en": { 
+    "overRefraction": {
+      "header": "Over Refraction",
+      "near":"Near",
+        "distant":"Distant",
+        "simple":"Simple",
+        "advanced":"Advanced",
+        "note": {
+          "label": "Comment",
+          "placeholder": "Text...",
+          "heading": "Note"
+        }
+      },
+      "refraction": {
+        "header": "Refraction",
+        "near":"Near",
+        "distant":"Distant",
+        "simple":"Simple",
+        "advanced":"Advanced",
+        "type":{
+          "label": "Type",
+          "placeholder": "Select"
+        },
+        "note": {
+          "label": "Comment",
+          "placeholder": "Text...",
+          "heading": "Note"
+        }
+    }, 
+    "binoculor": {
+      "header": "Binoculor ",
+      "phorias": {
+        "heading": "Phorias"
+      },
+      "pursuits": {
+        "heading": "Pursuits"
+      },
+      "saccades": {
+        "heading": "Saccades"
+      },
+      "accomodation": {
+        "heading": "Accomodation"
+      },
+      "vergence": {
+        "heading": "Vergence"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "vaCc": {
+      "header": "VA CC",
+      "heading": "Aided Acuities",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "vaSc": {
+      "header": "VA SC",
+      "heading": "Unaided Acuities",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "lensometry": {
+      "header": "Lensometry",
+      "lensType": {
+        "label": "Lens Type",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": { 
+    "overRefraction": {
+      "header": "Over Refraction",
+      "near":"Near",
+        "distant":"Distant",
+        "simple":"Simple",
+        "advanced":"Advanced",
+        "note": {
+          "label": "Comment",
+          "placeholder": "Text...",
+          "heading": "Note"
+        }
+      },
+      "refraction": {
+        "header": "Refraction",
+        "near":"Near",
+        "distant":"Distant",
+        "simple":"Simple",
+        "advanced":"Advanced",
+        "type":{
+          "label": "Type",
+          "placeholder": "Select"
+        },
+        "note": {
+          "label": "Comment",
+          "placeholder": "Text...",
+          "heading": "Note"
+        }
+    }, 
+    "binoculor": {
+      "header": "Binoculor ",
+      "phorias": {
+        "heading": "Phorias"
+      },
+      "pursuits": {
+        "heading": "Pursuits"
+      },
+      "saccades": {
+        "heading": "Saccades"
+      },
+      "accomodation": {
+        "heading": "Accomodation"
+      },
+      "vergence": {
+        "heading": "Vergence"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "vaCc": {
+      "header": "VA CC",
+      "heading": "Aided Acuities",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "vaSc": {
+      "header": "VA SC",
+      "heading": "Unaided Acuities",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "lensometry": {
+      "header": "Lensometry",
+      "lensType": {
+        "label": "Lens Type",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+    "en": {
+        "Vacation":{
+            "header": "Vacation",
+            "key":{
+                "reason":"Reason",
+                "from_date":"From",
+                "to_date":"To",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at",
+                "description":"Description"
+                
+
+
+
+            }
+        },
+        "form":{
+            "reason":{
+                "label":"Reason",
+                "placeholder":"Enter Reason"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            },
+            "from_date":{
+                "label":"From Date",
+                "placeholder":"Enter From Date"
+            },
+            "to_date":{
+                "label":"To Date",
+                "placeholder":"Enter To Date"
+            },
+            "status":{
+                "label":"Status",
+                "placeholder":"Enter Status"
+            },
+            "employee_name":{
+                "label":"Employee",
+                "placeholder":"Enter Employee Name"
+            },
+            "department_name":{
+                "label":"Department",
+                "placeholder":"Enter Department Name"
+            },
+            "direct_manager":{
+                "label":"Direct Manager",
+                "placeholder":"Enter Direct Manager"
+            },
+            "reviewer":{
+                "label":"Reviewer",
+                "placeholder":"Reviewer"
+            },
+            "beneficiary":{
+                "label":"Beneficiary",
+                "placeholder":"Beneficiary"
+            }
+            
+            
+            
+        },
+        "dialog":{
+            "header":{
+                "new":"New Vacation",
+                "edit":"Edit Vacation",
+                "details":"Vacation Details",
+                "status":"Status Vacation"
+            }
+        },
+        "btns":{
+            "new":"New Vacation",
+            "all":"All Vacations",
+            "search": "Search",
+            "delete": "Delete",
+            "approved":"approved",
+            "rejected":"rejected",
+            "new_Official_vacation":"New Official Vacation"
+        },
+        "status":{
+            "approved":"Approved",
+            "rejected":"Rejected",
+            "under_review":"Under Review",
+            "all":"all"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Vacation":{
+            "header":"الاجازة",
+            "key":{
+                "reason":"اسم الاجازة",
+                "from_date":"من",
+                "to_date":"الي",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في",
+                "description":"الوصف"
+            }
+        },
+        "form":{
+            "reason":{
+                "label":"اسم الاجازة",
+                "placeholder":"ادخل اسم الاجازة"
+            },
+            "from_date":{
+                "label":"من",
+                "placeholder":"ادخل تاريخ بدء الاجازة"
+            },
+            "to_date":{
+                "label":"الي",
+                "placeholder":"ادخل تاريخ انتهاء الاجازة"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "status":{
+                "label":"الحالة",
+                "placeholder":"الحالة"
+            },
+            "employee_name":{
+                "label":"اسم الموظف",
+                "placeholder":"اسم الموظف"
+            },
+            "department_name":{
+                "label":"القسم",
+                "placeholder":"القسم"
+            },
+            "direct_manager":{
+                "label":"المدير المباشر",
+                "placeholder":"المباشر المدير"
+            },
+            "reviewer":{
+                "label":"المراجع",
+                "placeholder":"المراجع "
+            },
+            "beneficiary":{
+                "label":"المستفيد",
+                "placeholder":"المستفيد"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"اجازة جديد",
+                "edit":"تعديل الاجازة",
+                "details":"تفاصيل الاجازة",
+                "delete":"حذف",
+                "status":"تغيير الحالة"
+            }
+        },
+        "btns":{
+            "new":"اجازة جديد",
+            "all":"كل الاجازات",
+            "search": "بحث",
+            "delete": "حذف",
+            "approved":"مقبولة",
+            "rejected":"مرفوضة",
+            "new_Official_vacation":"اضافة اجازة رسمية"
+        },
+        "status":{
+            "approved":" مقبولة",
+            "rejected":"مرفوضة  ",
+            "under_review" :"تحت المراجعة",
+            "all":"الجميع"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

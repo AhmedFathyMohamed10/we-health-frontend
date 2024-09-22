@@ -1,0 +1,152 @@
+{
+    "en": {
+        "destruction":{
+            "header": "Destruction",
+            "key":{
+                "asset":"Asset",
+                "operation":"Operation",
+                "total_cost":"Total Cost",
+                "reason":"Reason",
+                "title":"Title",
+                "value":"Value",
+                "detailed_cost":"Detailed_cost",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "asset":{
+                "label":"Asset",
+                "placeholder":"Enter Asset"
+            },
+            "operation":{
+                "label":"Operation",
+                "placeholder":"Enter Operation"
+            },
+        
+            "total_cost":{
+                "label":"Total Cost",
+                "placeholder":"Enter Total Cost"
+            },
+        
+            "reason":{
+                "label":"Reason",
+                "placeholder":"Enter Reason"
+            },
+        
+            "title":{
+                "label":"Title",
+                "placeholder":"Enter Title"
+            },
+        
+        
+            "value":{
+                "label":"Value",
+                "placeholder":"Enter Value"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newTable":"New Destruction" ,
+                "new":"New Destruction",
+                "edit":"Edit Destruction",
+                "details":"Destruction Details"
+            }
+        },
+        "btns":{
+            "new":"New Destruction",
+            "all":"All Destructions",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "destruction":{
+            "header": "الاهلاك",
+            "key":{
+                "asset":"الاصل",
+                "operation":"العمليه",
+                "total_cost":"القيمه الكليه",
+                "reason":"السبب",
+                "detailed_cost":"التكلفه التفصيليه",
+                "title":"العنوان",
+                "value":"القيمه",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "asset":{
+                "label":"الاصل",
+                "placeholder":"ادخل الاصل"
+            },
+            "operation":{
+                "label":"العمليه",
+                "placeholder":"ادخل العمليه"
+            },
+            "total_cost":{
+                "label":"القيمه الكليه",
+                "placeholder":"ادخل القيمه الكليه"
+            },
+            "reason":{
+                "label":"السبب",
+                "placeholder":"ادخل السبب"
+            },
+            "title":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+            },
+            "value":{
+                "label":"القيمه",
+                "placeholder":"ادخل القيمه"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه اهلاك جديد" ,
+                "edit":" تعديل اهلاك",
+                "details":"تفاصيل اهلاك",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه اهلاك جديد",
+            "all":"كل الاهتلاكات",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

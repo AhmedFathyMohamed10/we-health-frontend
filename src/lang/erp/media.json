@@ -1,0 +1,50 @@
+{
+    "en":{
+        "header":"Files",
+        "title":{
+            "label":"Title",
+            "placeholder":"File Title"
+        },
+        "section":{
+            "label":"Section",
+            "placeholder":"Select"
+        },
+        "status":{
+            "label":"Status",
+            "placeholder":"Select"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"text ..."
+        },
+        "file":{
+            "label":"File",
+            "placeholder":""
+        },
+        "uploadedDocs":"Uploaded Documents"
+    },
+    "ar":{
+        "header":"الملفات",
+        "title":{
+            "label":"عنوان الملف",
+            "placeholder":"عنوان الملف"
+        },
+        "section":{
+            "label":"القسم",
+            "placeholder":"اختر القسم..."
+        },
+        "status":{
+            "label":"الحالة",
+            "placeholder":"اختر القسم..."
+        },
+        "comment":{
+            "label":"التعليق",
+            "placeholder":"النص ..."
+        },
+        "file":{
+            "label":"الملف",
+            "placeholder":""
+        },
+        "uploadedDocs":"الملفات المرفوعة"
+    }
+}

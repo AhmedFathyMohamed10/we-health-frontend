@@ -1,0 +1,46 @@
+import {axiosBusinessRegistration} from '@/plugins/axios/axiosBusinessRegistration'
+export default {
+  namespaced: true,
+  state: {
+    search: null,
+    searchLoading: false,
+    searchError: false,
+  },
+  // get the currant state value
+  getters: { 
+    searchData: state => state.search,
+    searchLoading: state => state.searchLoading,
+    searchError: state => state.searchError,
+  },
+  // use to perform un mutate or change states
+  mutations: {
+    setSearch (state, data) {
+      state.search = data
+    },
+    setSearchLoading (state, loading) {
+      state.searchLoading = loading
+    },
+    setSearchError (state, error) {
+      state.searchError = error
+    },
+  }, 
+  // use to perform un asynchronous tasks
+  actions: { 
+    async search ({ commit },payload) {
+      commit('setSearchLoading', true)
+      try {
+        const response = await axiosBusinessRegistration.get(payload.url,{ params:{name:payload.name} })
+        // console.log(response)
+        commit('setSearch', response.data)
+        commit('setSearchError', false)
+        return Promise.resolve(response.data)
+      } catch (error) {
+        commit('setSearchError',error.response.data)
+        return Promise.reject(error.response.data)
+      }
+      finally {
+          commit('setSearchLoading', false)
+      }
+    },
+  },
+};

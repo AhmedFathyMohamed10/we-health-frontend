@@ -1,0 +1,126 @@
+{
+    "en": {
+        "bond":{
+            "header": "Bonds",
+            "key":{
+                "number":"Number",
+                "value":"Value",
+                "time_date":"Date/Time",  
+                "type_of_restriction":"type Of Restriction",            
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "number":{
+                "label":"Number",
+                "placeholder":"Enter Number"
+            },
+            "value":{
+                "label":"Value",
+                "placeholder":"Enter Value"
+            },  
+            "type_of_restriction":{
+                "label":"type Of Restriction",
+                "placeholder":"Enter type Of Restriction"
+            },  
+            "time_date":{
+                "label":"Date/Time",
+                "placeholder":"Enter Date/Time"
+            }
+         
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"New Bond",
+                "new":"New Bond",
+                "edit":"Edit Bond",
+                "details":"Bond Details"
+            }
+        },
+        "btns":{
+            "new":"New Bond",
+            "all":"All Bonds",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a number or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "bond":{
+            "header":"السندات",
+            "key":{
+                "number":"الرقم",
+                "value":"القيمه",
+                "time_date":"التاريخ",
+                "type_of_restriction":"القيد",            
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "number":{
+                "label":"رقم السند",
+                "placeholder":"ادخل رقم السند"
+            },
+           
+            "value":{
+                "label":"القيمه",
+                "placeholder":"ادخل القيمه"
+            },
+            "type_of_restriction":{
+                "label":"القيد",
+                "placeholder":"ادخل القيد"
+            },
+            "time_date":{
+                "label":"التاريخ",
+                "placeholder":"ادخل التاريخ"
+            }
+        
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"اضافه سند جديده",
+                "new":"اضافه سند جديده" ,
+                "edit":" تعديل سند",
+                "details":"تفاصيل سند",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه سند جديده",
+            "all":"كل السندات",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

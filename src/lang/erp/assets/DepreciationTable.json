@@ -1,0 +1,119 @@
+{
+    "en": {
+        "depreciationTable":{
+            "header": "Depreciation Table",
+            "key":{
+                "name":"Name",
+                "year":"Year",
+                "value":"Value",
+                "category":"Category",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "year":{
+                "label":"Year",
+                "placeholder":"Enter Year"
+            },
+        
+            "value":{
+                "label":"Value",
+                "placeholder":"Enter Value"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newTable":"New Depreciation Table" ,
+                "new":"New Depreciation Table",
+                "edit":"Edit Depreciation Table",
+                "details":"Depreciation Table Details"
+            }
+        },
+        "btns":{
+            "new":"New Depreciation Table",
+            "all":"All Depreciation Tables",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "depreciationTable":{
+            "header":"جدول الاهتلاك",
+            "key":{
+                "name":"الاسم",
+                "year":"السنه",
+                "value":"القيمه",
+                "category":"الوحده",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم جدول الاهتلاك",
+                "placeholder":"ادخل اسم جدول الاهتلاك"
+            },
+            "year":{
+                "label":"السنه",
+                "placeholder":"ادخل السنه"
+            },
+            "value":{
+                "label":"القيمه",
+                "placeholder":"ادخل القيمه"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "newTable":"اضافه جدول الاهتلاك جديد" ,
+                "new":"اضافه جدول الاهتلاك جديد" ,
+                "edit":" تعديل جدول الاهتلاك",
+                "details":"تفاصيل جدول الاهتلاك",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه جدول الاهتلاك جديد",
+            "all":"كل جداول الاهتلاك",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

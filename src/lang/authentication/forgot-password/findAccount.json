@@ -1,0 +1,24 @@
+{
+  "en": {
+    "title": "Find your account",
+    "text": "Please enter your email, phone number or your username ",
+    "form": {
+      "phoneOrEmailOrUsername": {
+        "label": "Email / Phone / Username",
+        "placeholder": "Enter Email, Phone, Username"
+      }
+    },
+    "next": "Next"
+  },
+  "ar": {
+    "title": "ابحث عن حسابك",
+    "text": "برجاء ادخال البريد الالكترونى , رقم الهاتف او اسم المستخدم ",
+    "form": {
+      "phoneOrEmailOrUsername": {
+        "label": "اسم المسنخدم / البريد الالكتروني / رقم الهاتف",
+        "placeholder": " ادخل اسم المسنخدم/ البريد الالكتروني / رقم الهاتف"
+      }
+    },
+    "next": "التالى"
+  }
+}

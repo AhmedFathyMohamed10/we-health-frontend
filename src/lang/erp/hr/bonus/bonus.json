@@ -1,0 +1,143 @@
+{
+    "en": {
+        "Bonus":{
+            "header": "Bonus",
+            "key":{
+                "amount":"Amount",
+                "reason" :"Reason",
+                "group":"Group",
+                "due_date":"Due Date",
+                "group_name":"group",
+                "employee_name":"Employee",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "amount":{
+                "label":"Amount",
+                "placeholder":"Enter Amount"
+            },
+            "reason":{
+                "label":"Reason",
+                "placeholder":"Enter Reason"
+            },
+            "group":{
+                "label":"group",
+                "placeholder":"Enter group"
+            },
+            "employee":{
+                "label":"Employee",
+                "placeholder":"Enter Employee"
+            },
+            "due_date":{
+                "label":"Due Date",
+                "placeholder":"Enter Due Date"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Bonus",
+                "edit":"Edit Bonus",
+                "details":"Bonus Details"
+            }
+        },
+        "btns":{
+            "new":"New Bonus",
+            "all":"All Bonuses",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Bonus":{
+            "header":"الوقت الاضافي",
+            "key":{
+                "amount":"القيمة",
+                "group":"المجموعة",
+                "reason" :"السبب",
+                "due_date":"تاريخ الاستحقاق",
+                "group_name":"الاب",
+                "employee_name":"الموظف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "amount":{
+                "label":"القيمة",
+                "placeholder":"ادخل القيمة"
+            },
+            "reason":{
+                "label":"السبب",
+                "placeholder":"ادخل السبب"
+            },
+            "due_date":{
+                "label":"تاريخ الاستحقاق",
+                "placeholder":"ادخل تاريخ الاستحقاق"
+            },
+            "group":{
+                "label":"الاب",
+                "placeholder":"ادخل الاب"
+            },
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"اختر الموظف"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"مكافأة جديدة",
+                "edit":"تعديل المكافأة ",
+                "details":"تفاصيل المكافأة ",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافة مكافأة ",
+            "all":"كل المكافأات ",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

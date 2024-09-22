@@ -1,0 +1,164 @@
+{
+    "en": {
+        "month":"months",
+        "Indoor":"Indoor",
+        "Outdoor":"Outdoor",
+        "Online":"Online",
+        "course":{
+            "header": "Course",
+            "key":{
+                "name":"Name",
+                "entity_name":"Entity Name",
+                "duration":"Duration",
+                "hours":"Hours",
+                "price" : "Price",
+                "course_type":"Course Type",
+                "status":"Status",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+                
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "entity_name":{
+                "label":"Entity Name",
+                "placeholder":"Enter Entity Name"
+            },
+            "course_type":{
+                "label":"Course Type",
+                "placeholder":"Enter Course Type"
+            },
+            "duration":{
+                "label":"Duration",
+                "placeholder":"Enter Duration"
+            },
+            "hours":{
+                "label":"Hours",
+                "placeholder":"Enter Hours"
+            },
+            "price":{
+                "label":"Price",
+                "placeholder":"Enter Price"
+            }
+           
+        },
+        "dialog":{
+            "header":{
+                "new":"New Course",
+                "edit":"Edit Course",
+                "details":"Course Details"
+            }
+        },
+        "btns":{
+            "new":"New Course",
+            "all":"All Courses",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "month":"شهرا",
+      
+        "Indoor":"داخلي",
+        "Outdoor":"خارجي",
+        "Online":"عن بعد",
+        "course":{
+            "header":"الكورس",
+            "key":{
+                "name":"الاسم",
+                "entity_name":"اسم الجهة",
+                "duration":"مدة الكورس",
+                "hours":"ساعات الكورس",
+                "price" : "سعر الكورس",
+                "course_type":"طبيعة الكورس",
+                "status":"الحالة",
+                "created_by":"تم الانشاء بواسطة",
+                "created_at":"التاريخ",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم الكورس",
+                "placeholder":"ادخل اسم الكورس"
+            },
+            "entity_name":{
+                "label":" اسم الجهة",
+                "placeholder":"  ادخل اسم الجهة"
+            },
+            "course_type":{
+                "label":"طبيعة الكورس",
+                "placeholder":"  ادخل طبيعة الكورس"
+            },
+            "duration":{
+                "label":"مدة الكورس",
+                "placeholder":"ادخل المدة"
+            },
+            "hours":{
+                "label":"ساعات الكورس",
+                "placeholder":" ادخل ساعات الكورس "
+            },
+            "price":{
+                "label":"سعر الكورس",
+                "placeholder":"ادخل سعر الكورس"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"كورس جديد",
+                "edit":"تعديل الكورس",
+                "details":"تفاصيل الكورس",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"الكورس جديد",
+            "all":"كل الكورسات",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

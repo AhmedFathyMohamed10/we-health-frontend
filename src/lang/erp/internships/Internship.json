@@ -1,0 +1,255 @@
+{
+    "en": {
+        "month":"months",
+        "Indoor":"Indoor",
+        "Outdoor":"Outdoor",
+        "Online":"Online",
+        "employee":{
+            "header": "Employee",
+            "key":{
+                "name":"Name",
+                "mobile":"Mobile",
+                "address":"Address",
+                "dob":"Date Of Birth",
+                "gender":"Gender",
+                "email":"E-mail",
+                "marital_status":"Marital Status",
+                "image":"Image",
+                "role":"Role",
+                "username":"Username",
+                "salary":"Salary",
+                "job_start_date":"Job Start Date",
+                "shift":"Shift",
+                "direct_manager":"Direct Manager",
+                "education":"Education",
+                "created_by":"Created By",
+                "created_at":"Created At",
+                "updated_at":"Updated At",
+                "status":"Status"
+            }
+        },
+        "internship":{
+            
+            "header": "Internship",
+            "key":{
+                "course":"Course",
+                "employee":"Employee",
+                "start_date":"Start Date",
+                "end_date":"End Date",
+                "entity_name":"Entity Name",
+                "course_name" :" Course Name",
+                "employee_name" :"Employee Name",
+                "department_name" :"Department Name",
+                "course_duration":"Duration",
+                "hours":"Hours",
+                "course_type":"Course Type",
+                "status":"Status",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+                
+            }
+        },
+        "form":{
+            "course":{
+                "label":"Course",
+                "placeholder":"Enter Course"
+            },
+            "employee":{
+                "label":"Employee",
+                "placeholder":"Enter Employee"
+            },
+            "start_date":{
+                "label":"Start Date",
+                "placeholder":"Enter Start Date"
+            },
+            "end_date":{
+                "label":"End Date",
+                "placeholder":"Enter End Date"
+            },
+            "entity_name":{
+                "label":"Entity Name",
+                "placeholder":"Enter Entity Name"
+            },
+            "course_name":{
+                "label":"Course Name",
+                "placeholder":"Enter Course Name"
+            },
+            "department_name":{
+                "label":"Department Name",
+                "placeholder":"Enter Department Name"
+            },
+            "course_type":{
+                "label":"Course Type",
+                "placeholder":"Enter Course Type"
+            },
+            "course_duration":{
+                "label":"Course Duration",
+                "placeholder":"Enter Course Duration"
+            }
+           
+
+
+        },
+        "dialog":{
+            "title":{
+                "details":"Employee Details"
+            },
+            "header":{
+                "new":"New Internship",
+                "edit":"Edit Internship",
+                "details":"Internship Details"
+            }
+        },
+        "btns":{
+            "new":"New Internship",
+            "all":"All Internships",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "month":"شهرا",
+        "Indoor":"داخلي",
+        "Outdoor":"خارجي",
+        "Online":"عن بعد",
+        "employee":{
+            "header":"الموظفين",
+            "key":{
+                "name":"الاسم",
+                "mobile":"رقم التليفون",
+                "address":"العنوان",
+                "dob":"تاريخ الميلاد",
+                "gender":"النوع",
+                "email":"البريد الالكتروني",
+                "marital_status":"الحالة الاجتماعيه",
+                "image":"صورة",
+                "role":"الدور الوظيفي",
+                "username":"اسم المستخدم",
+                "salary":"الراتب",
+                "job_start_date":"تاريخ بدء العمل",
+                "shift":"الوردية",
+                "direct_manager":"الرئيس المباشر",
+                "education":"المؤهل العلمي",
+                "status":"الحالة",
+                "created_by":"انشأ من قبل",
+                "created_at":"أنشئت في",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "internship":{
+            "header":"التدريب",
+            "key":{
+                "course":"اسم الكورس",
+                "employee":"الموظف",
+                "start_date":"تاريخ البدء",
+                "end_date":"تاريخ الانتهاء",
+                "entity_name":"اسم الجهة",
+                "course_name" :"اسم الكورس",
+                "employee_name" :"اسم الموظف",
+                "department_name" :"اسم القسم",
+                "course_duration":"مدة الكورس",
+                "hours":"ساعات الكورس",
+                "course_type":"طبيعة الكورس",
+                "status":"الحالة",
+                "created_by":"تم الانشاء بواسطة",
+                "created_at":"التاريخ",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "course":{
+                "label":"اسم الكورس",
+                "placeholder":"ادخل اسم الكورس"
+            },
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"اختر الموظف"
+            },
+            "start_date":{
+                "label":"تاريخ البدء",
+                "placeholder":"ادخل تاريخ البدء"
+            },
+            "end_date":{
+                "label":"تاريخ الانتهاء",
+                "placeholder":"ادخل تاريخ الانتهاء"
+            },
+            "entity_name":{
+                "label":"اسم الجهة",
+                "placeholder":"ادخل اسم الجهة"
+            },
+            "course_name":{
+                "label":"اسم الكورس",
+                "placeholder":"ادخل اسم الكورس"
+            },
+            "department_name":{
+                "label":"اسم القسم",
+                "placeholder":"ادخل اسم القسم"
+            },
+            "course_type":{
+                "label":"طبيعة الكورس",
+                "placeholder":"ادخل طبيعة الكورس"
+            },
+            "course_duration":{
+                "label":"مدة الكورس",
+                "placeholder":"ادخل مدة الكورس"
+            }
+          
+        },
+        "dialog":{
+            "title":{
+                "details":"تفاصيل الموظف"
+            },
+            "header":{
+                "new":"تدريب جديد",
+                "edit":"تعديل التدريب",
+                "details":"تفاصيل التدريب",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"تدريب جديد",
+            "all":"كل التدريبات",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

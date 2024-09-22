@@ -1,0 +1,83 @@
+{
+  "en":{
+    "borns":{
+      "header":"Borns",
+      "bornPlace": {
+        "label": "Born Place",
+        "placeholder": "Text..."
+      },  
+      "bornMethod": {
+        "label": "Born Method",
+        "placeholder": "Text..."
+      },  
+      "bornResult": {
+        "label": "Born Result",
+        "placeholder": "Text..."
+      },  
+      "childComplications": {
+        "label": "Child Complications",
+        "placeholder": "Text..."
+      },  
+      "motherComplications": {
+        "label": "Mother Complications",
+        "placeholder": "Text..."
+      },  
+      "pregnancyNumber": {
+        "label": "Pregnancy No.",
+        "placeholder": "No."
+      },  
+      "pregnancyPeriod": {
+        "label": "Pregnancy Period",
+        "placeholder": "No."
+      },  
+      "ago": {
+        "label": "Ago",
+        "placeholder": "Text..."
+      },
+      "remarks": {
+        "label": "Remarks",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar":{
+    "borns":{
+      "bornPlace": {
+        "label": "Born Place",
+        "placeholder": "Text..."
+      },  
+      "bornMethod": {
+        "label": "Born Method",
+        "placeholder": "Text..."
+      },  
+      "bornResult": {
+        "label": "Born Result",
+        "placeholder": "Text..."
+      },  
+      "childComplications": {
+        "label": "Child Complications",
+        "placeholder": "Text..."
+      },  
+      "motherComplications": {
+        "label": "Mother Complications",
+        "placeholder": "Text..."
+      },  
+      "pregnancyNumber": {
+        "label": "Pregnancy No.",
+        "placeholder": "No."
+      },  
+      "pregnancyPeriod": {
+        "label": "Pregnancy Period",
+        "placeholder": "No."
+      },  
+      "ago": {
+        "label": "Ago",
+        "placeholder": "Text..."
+      },
+      "remarks": {
+        "label": "Remarks",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

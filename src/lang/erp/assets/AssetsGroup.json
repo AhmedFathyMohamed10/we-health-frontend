@@ -1,0 +1,123 @@
+{
+    "en": {
+        "assetsGroup":{
+            "header": "Assets Group",
+            "key":{
+                "name":"Name",
+                "parentGroup_name":"Parent Group",
+                "parentGroup":"Parent Group",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "description" :"Description",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            },
+        
+            "parentGroup":{
+                "label":"Parent Group",
+                "placeholder":"Enter Parent Group"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"New Assets Group",
+                "new":"New Assets Group",
+                "edit":"Edit Assets Group",
+                "details":"Assets Group Details"
+            }
+        },
+        "btns":{
+            "new":"New Assets Group",
+            "all":"All Assets Groups",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "assetsGroup":{
+            "header":"مجموعه الاصول",
+            "key":{
+                "description" :"الوصف",
+                "name":"الاسم",
+                "parentGroup_name":"مجموعه الاصول",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم المجموعه",
+                "placeholder":"ادخل اسم المجموعه"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+          
+            "parentGroup":{
+                "label":"مجموعه الاصول",
+                "placeholder":"ادخل مجموعه الاصول"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "newGroup":"اضافه مجموعه اصول جديد",
+                "new":"اضافه مجموعه اصول جديد" ,
+                "edit":" تعديل مجموعه اصول",
+                "details":"تفاصيل مجموعه اصول",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه مجموعه اصول جديد",
+            "all":"كل مجموعات الاصول",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "finalGroup":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

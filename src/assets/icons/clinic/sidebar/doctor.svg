@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.115" height="32" viewBox="0 0 30.115 32">
+  <g id="doctor" transform="translate(-0.001)">
+    <path id="Path_301" data-name="Path 301" d="M14.058,20h2l1-2h-4Z" fill="#205072"/>
+    <path id="Path_302" data-name="Path 302" d="M16.058,21h-2l-1,2,1,9h2l1-9Z" fill="#205072"/>
+    <ellipse id="Ellipse_37" data-name="Ellipse 37" cx="6" cy="8" rx="6" ry="8" transform="translate(9.058)" fill="#205072"/>
+    <path id="Path_303" data-name="Path 303" d="M9.011,17.008A9.547,9.547,0,0,0,1.4,23.8L.112,28.313A2.892,2.892,0,0,0,2.893,32H13.232L9.308,16.958Z" fill="#205072"/>
+    <path id="Path_304" data-name="Path 304" d="M30,28.313,28.716,23.8a9.552,9.552,0,0,0-7.611-6.8l-.3-.05L16.884,32H27.223A2.891,2.891,0,0,0,30,28.313ZM26.058,28h-1v1a1,1,0,0,1-2,0V28h-1a1,1,0,1,1,0-2h1V25a1,1,0,0,1,2,0v1h1a1,1,0,0,1,0,2Z" fill="#205072"/>
+  </g>
+</svg>

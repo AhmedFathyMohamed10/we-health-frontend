@@ -1,0 +1,88 @@
+{
+    "en":{
+        "bodyChart":{
+            "header":"Body Of Chart"
+        }       
+        ,
+        "partName":{
+            "label":"Part Name",
+            "placeholder":"Click on The Chart"
+        },
+        "typeOfPain":{
+            "label": "Type Of Pain",
+            "placeholder": "Select",
+            "otherPlaceholder": "Other Value"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        },
+        "levelOfPain":{
+            "current":{
+                "label":"Current Level Of Pain",
+                "placeholder":"Current"
+            },
+            "worst":{
+                "label":"Worst Level Of Pain In Last 24 hours",
+                "placeholder":"Worst/24h"
+            },
+            "best":{
+                "label":"Best Level Of Pain In Last 24 hours",
+                "placeholder":"Best/24h"
+            }
+        },
+        "neurodynamics":{
+            "neurodynamics":{
+                "header":"Neurodynamics"
+            },
+            "test":{
+                "label":"Test",
+                "placeholder":"Select"
+            },
+            "right":{
+                "label":"Right",
+                "placeholder":"Text..."
+            },
+            "left":{
+                "label":"Left",
+                "placeholder":"Text..."
+            },
+            "specification":{
+                "label":"Specification",
+                "placeholder":"Text..."
+            }
+        }          
+    },
+    "ar":{
+        "bodyChart":{
+            "header":"Body Of Chart"
+        },
+        "partName":{
+            "label":"Part Name",
+            "placeholder":"Click on The Chart"
+        },
+        "typeOfPain":{
+            "label": "Type Of Pain",
+            "placeholder": "Select",
+            "otherPlaceholder": "Other Value"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        },
+        "levelOfPain":{
+            "current":{
+                "label":"Current Level Of Pain",
+                "placeholder":"Current"
+            },
+            "worst":{
+                "label":"Worst Level Of Pain In Last 24 hours",
+                "placeholder":"Worst/24h"
+            },
+            "best":{
+                "label":"Best Level Of Pain In Last 24 hours",
+                "placeholder":"Best/24h"
+            }
+        }        
+    }
+}

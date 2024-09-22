@@ -1,0 +1,173 @@
+{
+  "en": {  
+    "group": {
+      "header": "Group",
+      "key": {
+        "name_en": "Name EN",
+        "name_ar": "Name AR",
+        "serial": "Serial",
+        "parent": "Parent Group",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "Name EN",
+        "placeholder": "Enter Name EN"
+      },
+      "code": {
+        "label": "Code",
+        "placeholder": "Enter Code"
+      },
+      "account": {
+        "label": "Account",
+        "placeholder": "Enter Account"
+      },
+      "name_ar": {
+        "label": "Name AR",
+        "placeholder": "Enter Name AR"
+      },
+      "serial": {
+        "label": "Serial",
+        "placeholder": "Enter Serial"
+      },
+      "parent": {
+        "label": "Parent Group",
+        "placeholder": "Enter Parent Group"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter description"
+      },
+      "note": {
+        "label": "Note",
+        "placeholder": "Enter note"
+      },
+      "no_items": {
+        "label": "No.items"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Asset Pricing",
+        "edit": "Edit Asset Pricing",
+        "details": "Asset Pricing Details",
+        "status": "Status Asset Pricing"
+      }
+    },
+    "btns": {
+      "new": "New Asset Pricing",
+      "all": "All Asset Pricing",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "group": {
+      "header": "مجموعات",
+      "key": {
+        "name": "الاسم",
+        "parent": "الوصف",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "اسم إنجليزي",
+        "placeholder": "ادخل اسم إنجليزي"
+      },
+      "code": {
+        "label": "رمز",
+        "placeholder": "ادخل رمز"
+      },
+      "account": {
+        "label": "حساب",
+        "placeholder": "ادخل حساب"
+      },
+      "name_ar": {
+        "label": "اسم عربي",
+        "placeholder": "ادخل اسم عربي"
+      },
+      "serial": {
+        "label": "المسلسل",
+        "placeholder": "ادخل المسلسل"
+      },
+      "parent": {
+        "label": "المجموعة الأم",
+        "placeholder": "ادخل المجموعة الأم"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      },
+      "note": {
+        "label": "ملحوظة",
+        "placeholder": "ادخل ملحوظة"
+      },
+      "no_items": {
+        "label": "رقم العناصر"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "تسعير الأصول جديده",
+        "edit": "تعديل تسعير الأصول",
+        "details": "تفاصيل تسعير الأصول",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "تسعير الأصول جديده",
+      "all": "كل تسعيرات الأصول",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

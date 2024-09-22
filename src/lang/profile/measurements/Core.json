@@ -1,0 +1,51 @@
+{
+  "en":{
+    "measurements":{
+      "header":"Measurements",
+      "overAll":{
+        "title":"Over All",
+        "titleShort":"Chart"
+      },
+      "bloodPressure":{
+        "title":"Blood Pressure",
+        "titleShort":"Chart"
+      },
+      "weight":{
+        "title":"Weight",
+        "titleShort":"Chart" 
+      },
+      "btns":{
+        "titelSave":"Save",
+        "titelEdit":"Edit"
+
+      }
+     
+
+    }
+  },
+  "ar":{
+     "measurements":{
+      "header":"قياسات",
+      "overAll":{
+        "title":"إجمالي",
+        "titleShort":"جدول"
+      },
+      "bloodPressure":{
+        "title":"ضغط الدم",
+        "titleShort":"جدول"
+      },
+      "weight":{
+        "title":"وزن",
+        "titleShort":"جدول" 
+      },
+      "btns":{
+        "titelSave":"يحفظ",
+        "titelEdit":"يحرر"
+
+      }
+    
+
+    }
+    
+  }
+}

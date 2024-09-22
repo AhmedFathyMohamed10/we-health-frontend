@@ -1,0 +1,156 @@
+{
+  "en": {  
+    "courses": {
+      "header": "Course",
+      "key": {
+        "name":"Name",
+        "course_type":"Course Type",
+        "duration":"Duration",
+        "payment_type":"Payment Type",
+        "entity_name":"Entity Name",
+        "description":"Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter Name"
+      },
+      "course_type": {
+        "label": "Course Type",
+        "placeholder": "Enter Course Type"
+      },
+      "duration": {
+        "label": "Duration",
+        "placeholder": "Enter Duration"
+      },
+      "payment_type": {
+        "label": "Payment Type",
+        "placeholder": "Enter Payment Type"
+      },
+      "entity_name": {
+        "label": "Entity Name",
+        "placeholder": "Enter Entity Name"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Course",
+        "edit": "Edit Course",
+        "details": "Course  Details",
+        "status": "Status Course "
+      }
+    },
+    "btns": {
+      "new": "New Course ",
+      "all": "All Courses ",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "courses": {
+      "header": "الدورات",
+      "key": {
+        "name": "الاسم",
+        "course_type":"نوع الدورة",
+        "duration": "المدة",
+        "payment_type":"نوع الدفع",
+        "entity_name": "إسم الكيان",
+        "description": "الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "الاسم",
+        "placeholder": "ادخل الاسم "
+      },
+      "course_type": {
+        "label": "نوع الدورة",
+        "placeholder": "ادخل نوع الدورة"
+      },
+      "duration": {
+        "label": "المدة",
+        "placeholder": "ادخل المدة"
+      },
+      "payment_type": {
+        "label": "نوع الدفع",
+        "placeholder": "ادخل نوع الدفع"
+      },
+      "entity_name": {
+        "label": "إسم الكيان",
+        "placeholder": "ادخل إسم الكيان"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "دورة جديده",
+        "edit": "تعديل دورة",
+        "details": "تفاصيل دورة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "دورة جديده",
+      "all": "كل الدورات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

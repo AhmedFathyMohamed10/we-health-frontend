@@ -1,0 +1,90 @@
+{
+  "en":{
+    "header":{
+      "title":"BMI",
+      "insert":"New BMI Record",
+      "update":"Update BMI Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "weight":{
+        "label":"Weight",
+        "placeholderValue":" Weight ",
+        "placeholder":"select "
+       
+      },
+      "height":{
+        "label":"Height",
+        "placeholderValue":"Height",
+        "placeholder":"select "
+      },
+      "bmi":{
+        "label":"BMI",
+        "placeholder":"BMI"
+      
+      },
+      "reference":{
+        "title":"Reference",
+        "value":"18.5:24.9 ",
+        "result":"Result"
+      }
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result:"
+  
+    },
+  "ar":{
+    "header":{
+      "title":"مؤشر كتلة الجسم",
+      "insert":"سجل مؤشر كتلة الجسم الجديد",
+      "update":"تحديث سجل مؤشر كتلة الجسم"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "weight":{
+        "label":"وزن",
+        "placeholderValue":" وزن ",
+        "placeholder":"يختار "
+       
+      },
+      "height":{
+        "label":"ارتفاع",
+        "placeholderValue":"ارتفاع",
+        "placeholder":"يختار "
+      },
+      "bmi":{
+        "label":"مؤشر كتلة الجسم",
+        "placeholder":"مؤشر كتلة الجسم"
+      
+      },
+      "reference":{
+        "title":"مرجع",
+        "value":"18.5:24.9 ",
+        "result":"نتيجة"
+      }
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة : (جزء في المليون)"
+  
+    }
+   
+ 
+}

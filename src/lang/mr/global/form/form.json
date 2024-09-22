@@ -1,0 +1,50 @@
+{
+    "en":{
+        "header":"Form",
+        "title":{
+            "label":"Title",
+            "placeholder":"File Title"
+        },
+        "section":{
+            "label":"Section",
+            "placeholder":"Select"
+        },
+        "status":{
+            "label":"Status",
+            "placeholder":"Select"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"text ..."
+        },
+        "file":{
+            "label":"File",
+            "placeholder":""
+        },
+        "uploadedDocs":"Uploaded Documents"
+    },
+    "ar":{
+        "header":"Form",
+        "title":{
+            "label":"Title",
+            "placeholder":"File Title"
+        },
+        "section":{
+            "label":"Section",
+            "placeholder":"Select"
+        },
+        "status":{
+            "label":"Status",
+            "placeholder":"Select"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"text ..."
+        },
+        "file":{
+            "label":"File",
+            "placeholder":""
+        },
+        "uploadedDocs":"Uploaded Documents"
+    }
+}

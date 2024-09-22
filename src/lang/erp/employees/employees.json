@@ -1,0 +1,393 @@
+{
+    "en": {
+        "list size must be less than or equal to 4":"list size must be less than or equal to 4",
+        "Emergency Numbers Are Invalid":"Emergency Numbers Are Invalid",
+        "Email Is Already Exists":"Email Is Already Exists",
+        "Mobile Is Already Exists":"Mobile Is Already Exists",
+        "Mobile Is Invalid":"Mobile Is Invalid",
+        "Enter a valid email address.":"Enter a valid email address.",
+        "Female":"Female",
+        "Male":"Male",
+        "Married":"Married",
+        "Single":"Single",
+        "employee":{
+            "header": "Employee",
+            "key":{
+                "name":"Name",
+                "mobile":"Mobile",
+                "address":"Address",
+                "dob":"Date Of Birth",
+                "gender":"Gender",
+                "email":"E-mail",
+                "marital_status":"Marital Status",
+                "image":"Image",
+                "role":"Role",
+                "username":"Username",
+                "salary":"Salary",
+                "job_start_date":"Job Start Date",
+                "shift":"Shift",
+                "direct_manager":"Direct Manager",
+                "education":"Education",
+                "created_by":"Created By",
+                "created_at":"Created At",
+                "updated_at":"Updated At",
+                "status":"Status"
+            }
+        },
+        "form":{
+        "mainInfo":"The Main Information",
+        "employmentInfo":"Employment Information",
+        "otherInfo":"Other Information",
+        
+        "emergency_numbers":{
+            "label":"Emergency Numbers",
+            "placeholder":"Enter Emergency Numbers"
+        },            
+        "name":{
+            "label":"Name",
+            "placeholder":"Enter Name"
+        },
+        "mobile":{
+            "label":"Mobile",
+            "placeholder":"Enter Mobile"
+        },
+        
+        "address":{
+            "label":"Address",
+            "placeholder":"Enter Address"
+            
+        },
+        "dob":{
+            "label":"Date Of Birth",
+            "placeholder":"Enter Your Date Of Birth"
+            
+        },
+        "gender":{
+            "label":"Gender",
+            "placeholder":"Enter Your Gender"
+            
+        },
+        
+        "email":{
+            "label":"E-mail",
+            "placeholder":"Enter Your E-mail"
+            
+        },
+        "marital_status":{
+            "label":"Marital Status",
+            "placeholder":"Enter Your Marital Status"
+            
+        },
+        "image":{
+            "label":"Image",
+            "placeholder":"Upload Your Image"
+            
+        },
+        "role":{
+            "label":"Role",
+            "placeholder":"Choose Your Role Name"
+            
+        },
+        "username":{
+            "label":"User Name",
+            "placeholder":"Enter Your User Name"
+            
+        },
+        "salary":{
+            "label":"Salary",
+            "placeholder":"Enter Salary"
+            
+        },
+        "password":{
+            "label":"Password",
+            "placeholder":"Enter password"
+            
+        },
+        "job_start_date":{
+            "label":"Job Start Date",
+            "placeholder":"Enter Your Job Start Date"
+            
+        },
+        "shift":{
+            "label":"Shift",
+            "placeholder":"choose Your shift "
+        },
+        "direct_manager":{
+            "label":"Direct Manager",
+            "placeholder":"Search for your directManager "
+            
+        },
+        "education":{
+            "label":"Education",
+            "placeholder":"choose Your education "
+            
+        },
+        "code":{
+            "label":"code"
+            
+        },
+        "created_By":{
+            "label":"created By"
+            
+        },
+        "orgId_id":{
+            "label":"organization Id"
+            
+        },
+        "status":{
+        "label":"Status",
+        "placeholder":"choose Status "
+        
+    },
+        "created_at":{
+            "label":"created At"
+            
+        },
+        "updated_at":{
+            "label":"updated At"
+            
+        }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Employee",
+                "edit":"Edit Employee",
+                "details":"Employee Details",
+                "status":"Status Employee"
+            }
+        },
+        "btns":{
+            "new":"New Employee",
+            "all":"All Employees",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "list size must be less than or equal to 4":"عدد ارقام الطوارئ لا يمكن ان يزيد عن 4 ارقام",
+        "Emergency Numbers Are Invalid":"ارقام الطوارئ غير صحيحة",
+        "Email Is Already Exists":"الايميل موجود بالفعل",
+        "Mobile Is Invalid":"الموبايل غير صحيح",
+        "Mobile Is Already Exists":"رقم التليفون موجود بالفعل",
+        "Enter a valid email address.":"الايميل غير صحيح",
+        "Female":"انثي",
+        "Male":"ذكر",
+        "Married":"متزوج",
+        "Single":"اعزب",
+        "employee":{
+            "header":"الموظفين",
+            "key":{
+                "name":"الاسم",
+                "mobile":"رقم التليفون",
+                "address":"العنوان",
+                "dob":"تاريخ الميلاد",
+                "gender":"النوع",
+                "email":"البريد الالكتروني",
+                "marital_status":"الحالة الاجتماعيه",
+                "image":"صورة",
+                "role":"الدور الوظيفي",
+                "username":"اسم المستخدم",
+                "salary":"الراتب",
+                "job_start_date":"تاريخ بدء العمل",
+                "shift":"الوردية",
+                "direct_manager":"الرئيس المباشر",
+                "education":"المؤهل العلمي",
+                "status":"الحالة",
+                "created_by":"انشأ من قبل",
+                "created_at":"أنشئت في",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "mainInfo":"البيانات الاساسية",
+            "employmentInfo":"بيانات التوظيف",
+            "otherInfo":"بيانات اخري",
+            
+            "role_name":{
+                "label":"الدور الوظيفي"
+                
+            },
+            "shift_name":{
+                "label":"الوردية"
+                
+            },
+            "EmergencyNumbers":{
+                "label":"ارقام طوارئ",
+                "placeholder":"ادخل رقم طوارئ"
+            },   
+            "name":{
+                "label":"الاسم",
+                "placeholder":"ادخل الاسم"
+            },
+            "mobile":{
+                "label":"رقم التليفون",
+                "placeholder":"ادخل رقم التليفون"
+            },
+            
+            "address":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+                
+            },
+            "dob":{
+                "label":"تاريخ الميلاد",
+                "placeholder":"ادخل تاريخ الميلاد"
+                
+            },
+            "gender":{
+                "label":"النوع",
+                "placeholder":"ادخل النوع"
+                
+            },
+            
+            "email":{
+                "label":"البريد الالكتروني",
+                "placeholder":"ادخل البريد الالكتروني"
+                
+            },
+            "marital_status":{
+                "label":"الحالة الاجتماعيه",
+                "placeholder":"ادخل الحالة الاجتماعيه"
+                
+            },
+            "image":{
+                "label":"الصورة",
+                "placeholder":"رفع الصورة"
+                
+            },
+            "role":{
+                "label":"الدور الوظيفي",
+                "placeholder":"اختر دورك الوظيفي"
+                
+            },
+            "username":{
+                "label":"اسم المستخدم",
+                "placeholder":"ادخل اسم المستخدم"
+                
+            },
+            "salary":{
+                "label":"الراتب",
+                "placeholder":"ادخل الراتب"
+                
+            },
+            "password":{
+                "label":"كلمة السر",
+                "placeholder":"ادخل كلمة السر"
+                
+            },
+            "job_start_date":{
+                "label":"تاريخ بدء العمل",
+                "placeholder":"ادخل تاريخ بدء العمل"
+                
+            },
+            "shift":{
+                "label":"الوردية",
+                "placeholder":"اختر الوردية "
+            },
+            "direct_manager":{
+                "label":"المدير المباشر",
+                "placeholder":"اختر المدير الباشر "
+                
+            },
+            "education":{
+                "label":"المؤهل العلمي",
+                "placeholder":"ادخل المؤهل العلمي "
+                
+            },
+            "emergency_numbers":{
+                "label":" ارقام طوارئ",
+                "placeholder":"ادخل رقم الطوارئ "
+            },
+            "files":{
+                "label":" ارفع ملف"
+                
+            },
+            "code":{
+                "label":"الكود"
+                
+            },
+            "created_by":{
+                "label":"تم الانشاء بواسطة"
+                
+            },
+            "orgId_id":{
+                "label":"اسم المنظمة"
+                
+            },
+            "status":{
+            "label":"الحالة",
+            "placeholder":"اختر الحالة"
+
+            
+        },
+            "created_at":{
+                "label":"تاريخ الانشاء"
+                
+            },
+            "updated_at":{
+                "label":"تاريخ التعديل"
+                
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"موظف جديد",
+                "edit":"تعديل الموظف",
+                "details":"تفاصيل موظف",
+                "delete":"حذف",
+                "status":"الحاله"
+            }
+        },
+        "btns":{
+            "new":"موظف جديد",
+            "all":"كل الموظفين",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+  }
+  
+
+
+
+  

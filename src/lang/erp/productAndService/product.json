@@ -1,0 +1,458 @@
+{
+  "en": {
+    "product": {
+      "header": "Product and service",
+      "key": {
+        "mainData": {
+          "name_en": "Name En",
+          "name_ar": "Name Ar",
+          "codeProduct": "code product",
+          "productClassification": "Product Classification",
+          "subCategory": "Sub Category",
+          "status": "Active",
+          "createdBy": "Created by",
+          "createdAt": "Date",
+          "updated_at": "Updated at"
+        },
+        "medical": {
+          "indications": "Indications",
+          "sideEffects": "Side Effects",
+          "chemicalComposition": "Chemical Composition"
+        },
+        "general": {
+          "provider": "Provider",
+          "mainCompany": "Main Company",
+          "materialType": "Material Type",
+          "shortcutKey": "Shortcut Key",
+          "checkExpiryDate": "Check Expiry Date",
+          "negativeDrawPrevention": "Negative Draw Prevention",
+          "stopSelling": "Stop Selling"
+        },
+        "unit": {
+          "profitRatio": "Profit Ratio",
+          "name": "Name",
+          "price": "Price",
+          "barcode": "Barcode",
+          "lastPurchase": "Last Purchase",
+          "unit": "Unit",
+          "equivalentQuantity": "Equivalent Quantity",
+
+          "equivalentQuantity_value": "Equivalent Quantity Value",
+          "equivalentQuantity_unit": "Equivalent Quantity Unit"
+        },
+        "alternativeMaterial": {
+          "material": "Material",
+          "use": "Use",
+          "codeMaterial": "Code Material"
+        },
+        "materialPicture": {
+          "file": "File",
+          "comment": "Comment",
+          "title": "Title"
+        },
+        "alternativeBarcode": {
+          "unit": "Unit",
+          "barcode": "Barcode"
+        }
+      }
+    },
+    "alternativeBarcode": {
+      "unit": {
+        "label": "Unit",
+        "placeholder": "Enter Unit"
+      }
+    },
+    "medical": {
+      "indications": {
+        "label": "Indications",
+        "placeholder": "Enter Indications"
+      },
+      "sideEffects": {
+        "label": "Side Effects",
+        "placeholder": "Enter Side Effects"
+      },
+      "chemicalComposition": {
+        "label": "Chemical Composition",
+        "placeholder": "Enter Chemical Composition"
+      }
+    },
+    "materialPicture": {
+      "file": {
+        "label": "File",
+        "placeholder": "Drop Image"
+      },
+      "title": {
+        "label": "Title",
+        "placeholder": "Enter Title"
+      },
+      "comment": {
+        "label": "Comment",
+        "placeholder": "Enter Comment"
+      }
+    },
+    "mainData": {
+      "name_en": {
+        "label": "Name En",
+        "placeholder": "Enter Name En"
+      },
+      "name_ar": {
+        "label": "Name Ar",
+        "placeholder": "Enter Name Ar"
+      },
+      "codeProduct": {
+        "label": "code product",
+        "placeholder": "Enter code product"
+      },
+      "subCategory": {
+        "label": "Sub Category",
+        "placeholder": "Enter Sub Category"
+      },
+      "productClassification": {
+        "label": "Product Classification",
+        "placeholder": "Enter Product Classification"
+      },
+      "status": {
+        "label": "Active",
+        "placeholder": "Enter Active"
+      }
+    },
+    "general": {
+      "provider": {
+        "label": "Provider",
+        "placeholder": "Enter Provider"
+      },
+      "mainCompany": {
+        "label": "Main Company",
+        "placeholder": "Enter Main Company"
+      },
+      "materialType": {
+        "label": "Material Type",
+        "placeholder": "Enter Material Type"
+      },
+      "shortcutKey": {
+        "label": "Shortcut Key",
+        "placeholder": "Enter Shortcut Key"
+      },
+      "checkExpiryDate": {
+        "label": "Check Expiry Date",
+        "placeholder": "Enter Check Expiry Date"
+      },
+      "negativeDrawPrevention": {
+        "label": "Negative Draw Prevention",
+        "placeholder": "Enter Negative Draw Prevention"
+      },
+      "stopSelling": {
+        "label": "Stop Selling",
+        "placeholder": "Enter Stop Selling"
+      }
+    },
+    "unit": {
+      "header": "Unit",
+      "type": {
+        "label": "Type of Enter Unit",
+        "placeholder": "Enter Type of Enter Unit"
+      },
+      "profitRatio": {
+        "label": "Profit Ratio",
+        "placeholder": "Enter Profit Ratio"
+      },
+      "equivalentQuantity_unit": {
+        "label": "Equivalent Quantity for unit",
+        "placeholder": "Enter Unit"
+      },
+      "equivalentQuantity_value": {
+        "label": "Equivalent Quantity",
+        "placeholder": "Enter Equivalent Quantity"
+      },
+
+      "unit": {
+        "label": "Unit",
+        "placeholder": "Enter Unit"
+      },
+      "price": {
+        "label": "Price",
+        "placeholder": "Enter Price"
+      },
+      "barcode": {
+        "label": "Barcode",
+        "placeholder": "Enter Barcode"
+      },
+      "lastPurchase": {
+        "label": "Last Purchase",
+        "placeholder": "Enter Last Purchase"
+      }
+    },
+    "alternativeMaterial": {
+      "header": "Alternative Material",
+      "material": {
+        "label": "Material",
+        "placeholder": "Enter Product name_en or name_ar or code product"
+      },
+      "use": {
+        "label": "Use",
+        "placeholder": "Enter Use"
+      },
+      "codeMaterial": {
+        "label": "Code Material",
+        "placeholder": "Enter Code Material"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Product or service",
+        "details": "Product or Service Details",
+        "edit": "Edit Product or service",
+        "status": "Status Product or service",
+        "unitDetails": "Unit Details"
+      }
+    },
+    "btns": {
+      "new": "New Product or service",
+      "all": "All Product And Service",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+
+  "ar": {
+    "product": {
+      "header": "المنتجات والخدمات",
+      "key": {
+        "mainData": {
+          "name_en": "الاسم بالانجليزي",
+          "name_ar": "الاسم بالعربي",
+          "codeProduct": "كود المنتج",
+          "subCategory": "فئة فرعيه",
+          "productClassification": "تصنيف المنتج",
+          "status": "الحاله",
+          "createdBy": "أنشئت من قبل",
+          "createdAt": "التاريخ",
+          "updated_at": "التاريخ"
+        },
+        "medical": {
+          "indications": "الاستطبابات",
+          "sideEffects": "التأثيرات الجانبية",
+          "chemicalComposition": "التركيب الكيميائي"
+        },
+        "alternativeBarcode": {
+          "unit": "الوحده",
+          "barcode": "الباركود"
+        },
+        "general": {
+          "provider": "المورد",
+          "mainCompany": "الشركه الرئيسية",
+          "materialType": "النوع",
+          "shortcutKey": "مفتاح الاختصار",
+          "checkExpiryDate": "تدقبق تاريخ الصلاحيه",
+          "negativeDrawPrevention": "منع السحب بالسالب",
+          "stopSelling": "إيقاف البيع"
+        },
+        "unit": {
+          "name": "الاسم",
+          "equivalentQuantity": "تعادل الكميه",
+          "kumbaEqualized": "تعادل الكميه",
+          "price": "السعر",
+          "barcode": "الباركود",
+          "lastPurchase": "اخر شراء"
+        },
+        "alternativeMaterial": {
+          "material": "الماده",
+          "use": "الاستخدام",
+          "codeMaterial": "كود الماده"
+        },
+        "materialPicture": {
+          "file": "الملف",
+          "comment": "تعليق",
+          "title": "عنوان"
+        }
+      }
+    },
+    "alternativeBarcode": {
+      "unit": {
+        "label": "الوحده",
+        "placeholder": "ادخل الوحده"
+      }
+    },
+    "medical": {
+      "indications": {
+        "label": "الاستطبابات",
+        "placeholder": "ادخل الاستطبابات"
+      },
+      "sideEffects": {
+        "label": "التأثيرات الجانبية",
+        "placeholder": "ادخل التأثيرات الجانبية"
+      },
+      "chemicalComposition": {
+        "label": "التركيب الكيميائي",
+        "placeholder": "ادخل التركيب الكيميائي"
+      }
+    },
+    "materialPicture": {
+      "file": {
+        "label": "الملف",
+        "placeholder": "اسحب الملف"
+      },
+      "title": {
+        "label": "عنوان",
+        "placeholder": "ادخل عنوان"
+      },
+      "comment": {
+        "label": "تعليق",
+        "placeholder": "ادخل تعليق"
+      }
+    },
+    "mainData": {
+      "name_en": {
+        "label": "الاسم بالانجليزي",
+        "placeholder": "ادخل الاسم بالانجليزي"
+      },
+      "name_ar": {
+        "label": "الاسم بالعربي",
+        "placeholder": "ادخل الاسم بالعربي"
+      },
+      "codeProduct": {
+        "label": "كود المنتج",
+        "placeholder": "ادخل كود المنتج"
+      },
+      "subCategory": {
+        "label": "الفئة الفرعيه",
+        "placeholder": "ادخل الفئة الفرعيه"
+      },
+      "productClassification": {
+        "label": "تصنيف المنتج",
+        "placeholder": "ادخل تصنيف المنتج"
+      },
+      "status": {
+        "label": "الحاله",
+        "placeholder": "ادخل الحاله"
+      }
+    },
+    "general": {
+      "provider": {
+        "label": "المورد",
+        "placeholder": "ادخل المورد"
+      },
+      "mainCompany": {
+        "label": "الشركه الرئيسية",
+        "placeholder": "ادخل الشركه الرئيسية"
+      },
+      "materialType": {
+        "label": "النوع",
+        "placeholder": "ادحل النوع"
+      },
+      "shortcutKey": {
+        "label": "مفتاح الاختصار",
+        "placeholder": "ادخل مفتاح الاختصار"
+      },
+      "checkExpiryDate": {
+        "label": "تدقبق تاريخ الصلاحيه",
+        "placeholder": "تدقبق تاريخ الصلاحيه"
+      },
+      "negativeDrawPrevention": {
+        "label": "منع السحب بالسالب",
+        "placeholder": "منع السحب بالسالب"
+      },
+      "stopSelling": {
+        "label": "إيقاف البيع",
+        "placeholder": "إيقاف البيع"
+      }
+    },
+    "unit": {
+      "header": "الوحده",
+      "type": {
+        "label": "نوع الترتيب",
+        "placeholder": "ادخل نوع الترتيب"
+      },
+      "unit": {
+        "label": "الوحده",
+        "placeholder": "ادخل الوحده"
+      },
+      "equivalentQuantity_unit": {
+        "label": "تعادل الكميه بالوحده",
+        "placeholder": " تعادل الكميه"
+      },
+      "equivalentQuantity_value": {
+        "label": "تعادل الكميه",
+        "placeholder": "ادخل تعادل الكميه"
+      },
+      "price": {
+        "label": "السعر",
+        "placeholder": "ادخل السعر"
+      },
+      "profitRatio": {
+        "label": "نسبة الربح",
+        "placeholder": "ادخل نسبة الربح"
+      },
+      "barcode": {
+        "label": "الباركود",
+        "placeholder": "ادخل الباركود"
+      },
+      "lastPurchase": {
+        "label": "اخر شراء",
+        "placeholder": "ادخل اخر شراء"
+      }
+    },
+    "alternativeMaterial": {
+      "header": "المواد البديله",
+      "material": {
+        "label": "الماده",
+        "placeholder": " ادخل اسم الماده بالعربي او بالانجليزي او الكود"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "خدمه او منتج جديد",
+        "edit": "تعديل خدمه او منتج",
+        "details": "تفاصيل خدمه او منتج",
+        "status": " حاله خدمه او منتج",
+        "unitDetails": "تفاصيل الوحده"
+      }
+    },
+    "btns": {
+      "new": "خدمه او منتج جديد",
+      "all": "كل الخدمات والمنتجات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

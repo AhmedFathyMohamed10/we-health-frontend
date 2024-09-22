@@ -1,0 +1,121 @@
+{
+    "en": {
+        "mainCategory":{
+
+            "header": "Main Category",
+            "key":{
+                "name":"Name",
+                "description":"Description",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Main Category",
+                "edit":"Edit Main Category",
+                "details":"Main Category Details",
+                "status":"Status Main Category"
+            }
+        },
+        "btns":{
+            "new":"New Main Category",
+            "all":"All Main Category",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "mainCategory":{
+            "header":"الفئات الرئيسية",
+            "key":{
+                "name":"الاسم",
+                "description":"الوصف",
+                "status":"الحاله",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم الفئة الرئيسية",
+                "placeholder":"ادخل اسم الفئة الرئيسية"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "status":{
+                "label":"نشط",
+                "placeholder":"ادخل النشاط"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"فئة رئيسية جديد",
+                "edit":"تعديل الفئة الرئيسية",
+                "details":"تفاصيل الفئة الرئيسية",
+                "delete":"حذف",
+                "status":"الحاله"
+            }
+        },
+        "btns":{
+            "new":"فئة رئيسية جديد",
+            "all":"كل الفئات الرئيسية",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

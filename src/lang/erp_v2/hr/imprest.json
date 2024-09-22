@@ -1,0 +1,157 @@
+{
+  "en": {  
+    "imprest": {
+      "header": "Imprest",
+      "key": {
+        "imprest_reason":"Imprest Reason",
+        "due_date":"Due Date",
+        "imprest_amount":"Imprest Amount",
+        "employee": "Employee Account",
+        "account": "Account",
+        "description":"Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "imprest_reason": {
+        "label": "Imprest Reason",
+        "placeholder": "Enter Imprest Reason"
+      },
+      "due_date": {
+        "label": "Due Date",
+        "placeholder": "Enter Due Date"
+      },
+      "imprest_amount": {
+        "label": "Imprest Amount",
+        "placeholder": "Enter Imprest Amount"
+      },
+      "employee": {
+        "label": "Employee Account",
+        "placeholder": "Enter Employee Account"
+      },
+      "saved_account": {
+        "label": "Saved Account",
+        "placeholder": "Enter Saved Account"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "Add Imprest",
+        "edit": "Edit Imprest",
+        "send": "Send to Accounting",
+        "details": "Imprest Details",
+        "status": "Status Imprest"
+      }
+    },
+    "btns": {
+      "new": "New Imprest",
+      "all": "All Imprest",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "imprest": {
+      "header": "السلف",
+      "key": {
+        "imprest_reason":  "سبب السلفة",
+        "due_date":  "تاريخ الاستحقاق",
+        "imprest_amount": "مبلغ السلفة",
+        "employee":  "حساب الموظف",
+        "account":  "الحساب",
+        "description":  "الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "imprest_reason": {
+        "label": "سبب السلفة",
+        "placeholder": "ادخل سبب السلفة"
+      },
+      "due_date": {
+        "label": "تاريخ الاستحقاق",
+        "placeholder": "ادخل تاريخ الاستحقاق"
+      },
+      "imprest_amount": {
+        "label": "مبلغ السلفة",
+        "placeholder": "ادخل مبلغ السلفة"
+      },
+      "employee": {
+        "label": "حساب الموظف",
+        "placeholder": "ادخل حساب الموظف"
+      },
+      "saved_account": {
+        "label": "الحساب",
+        "placeholder": "ادخل الحساب"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "سلفة جديده",
+        "edit": "تعديل سلفة",
+        "details": "تفاصيل سلفة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "سلفة جديده",
+      "all": "كل السلف",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

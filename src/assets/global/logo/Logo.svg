@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="308.176" height="55.95" viewBox="0 0 308.176 55.95">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#56c596"/>
+      <stop offset="1" stop-color="#2b634b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#205072"/>
+      <stop offset="1" stop-color="#102839"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="maroon"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec300"/>
+      <stop offset="1" stop-color="#804900"/>
+    </linearGradient>
+  </defs>
+  <g id="Logo" transform="translate(0)">
+    <text id="WE_HEALTH_iT" data-name="WE HEALTH iT" transform="translate(109.176 48.95)" fill="#205072" font-size="27" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">WE HEALTH iT</tspan></text>
+    <g id="Group_1288" data-name="Group 1288" transform="translate(0 0)">
+      <g id="CIRCLES_" data-name="CIRCLES " transform="translate(2.076 2.143)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.42" cy="5.42" r="5.42" transform="translate(0 0)" fill="#fbde7f"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="5.42" cy="5.42" r="5.42" transform="translate(24.111 35.699)" fill="#aa6a3f"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="5.42" cy="5.42" r="5.42" transform="translate(48.221 0)" fill="#4e4859"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="5.42" cy="5.42" r="5.42" transform="translate(96.442 0)" fill="#a8dcc6"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="5.42" cy="5.42" r="5.42" transform="translate(72.332 35.699)" fill="#547174"/>
+      </g>
+      <g id="BONDS" transform="translate(0 0)">
+        <path id="Path_34" data-name="Path 34" d="M5.42,0a5.42,5.42,0,0,1,5.42,5.42S3.9,16.961,4.622,28.6a44.823,44.823,0,0,0,6.218,20A5.42,5.42,0,0,1,0,48.6s6.177-8.15,6.447-21.227A37.859,37.859,0,0,0,0,5.42,5.42,5.42,0,0,1,5.42,0Z" transform="translate(102.537 0) rotate(34)" fill="url(#linear-gradient)"/>
+        <path id="Path_44" data-name="Path 44" d="M5.42,54.015a5.42,5.42,0,0,0,5.42-5.42S3.9,37.054,4.622,25.416a44.823,44.823,0,0,1,6.218-20A5.42,5.42,0,1,0,0,5.42s6.177,8.15,6.447,21.227A37.859,37.859,0,0,1,0,48.6,5.42,5.42,0,0,0,5.42,54.015Z" transform="translate(87.413 44.781) rotate(146)" fill="url(#linear-gradient-2)"/>
+        <path id="Path_43" data-name="Path 43" d="M5.42,0a5.42,5.42,0,0,1,5.42,5.42S3.9,16.961,4.622,28.6a44.823,44.823,0,0,0,6.218,20A5.42,5.42,0,0,1,0,48.6s6.177-8.15,6.447-21.227A37.859,37.859,0,0,0,0,5.42,5.42,5.42,0,0,1,5.42,0Z" transform="translate(54.315 0) rotate(34)" fill="url(#linear-gradient-3)"/>
+        <path id="Path_45" data-name="Path 45" d="M5.42,54.015a5.42,5.42,0,0,0,5.42-5.42S3.9,37.054,4.622,25.416a44.823,44.823,0,0,1,6.218-20A5.42,5.42,0,1,0,0,5.42s6.177,8.15,6.447,21.227A37.859,37.859,0,0,1,0,48.6,5.42,5.42,0,0,0,5.42,54.015Z" transform="translate(39.192 44.781) rotate(146)" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+  </g>
+</svg>

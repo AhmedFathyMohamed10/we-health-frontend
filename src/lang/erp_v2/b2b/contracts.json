@@ -1,0 +1,232 @@
+{
+    "en": {  
+      "contracts": {
+        "header": "Contracts",
+        "key": {
+          "number": "Number",
+          "type": "Type",
+          "reason": "Reason",
+          "total_cost": "Total Cost",
+          "start_date": "Start Date",
+          "end_date": "Start Date",
+          "accrual_amount":"Accrual Amount",
+          "every":"Every",
+          "randomly":"Randomly",
+          "created_by":"Created by",
+          "created_at": "Date",
+          "updated_at": "Updated at"
+        }
+      },
+      "form": {
+        "accurals":{
+          "label": "Accurals",
+          "placeholder": "Enter Accurals"
+        },
+        "contracts":{
+          "label": "Contracts",
+          "placeholder": "Enter Contracts"
+        },
+        "number": {
+          "label": "Number",
+          "placeholder": "Enter Number"
+        },
+        "type": {
+          "label": "Type",
+          "placeholder": "Enter Type"
+        },
+        "reason": {
+          "label": "Reason",
+          "placeholder": "Enter Reason"
+        },
+        "total_cost": {
+          "label": "Total Cost",
+          "placeholder": "Enter Total Cost"
+        },
+        "start_date": {
+          "label": "Start Date",
+          "placeholder": "Enter Start Date"
+        },
+        "end_date": {
+          "label": "End Date",
+          "placeholder": "Enter End Date"
+        },
+        "expiration_date": {
+          "label": "Expiration Date",
+          "placeholder": "Enter Expiration Date"
+        },
+        "accruals": {
+          "label": "Accruals",
+          "placeholder": "Enter Accruals"
+        },
+        "accrual_amount": {
+          "label": "Accrual Amount",
+          "placeholder": "Enter Accrual Amount"
+        },
+        "randomly": {
+          "label": "Randomly",
+          "placeholder": "Enter Randomly"
+        },
+        "every": {
+          "label": "Every",
+          "placeholder": "Choose Every What"
+        },
+        "no_items": {
+          "label": "No.items"
+        }
+      },
+      "dialog": {
+        "header": {
+          "new": "New Contracts",
+          "edit": "Edit Contracts",
+          "details": "Contracts Details",
+          "status": "Status Contracts",
+          "Contract_type":"Contract Type"
+        }
+      },
+      "btns": {
+        "new": "New Contracts",
+        "all": "All Contractss",
+        "search": "Search",
+        "delete": "Delete",
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "status": {
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "messages": {
+        "status": "Confirm that the status of this item has been permanently changed?",
+        "resultsfound": "result"
+      },
+      "toast": {
+        "select": {
+          "summery": "Select",
+          "details": "Please Select at Least One Record"
+        },
+        "search": {
+          "summery": "Search",
+          "details": "Please Write a Name or Mobile Number"
+        }
+      }
+    },
+    "ar": {
+  
+      "contracts": {
+        "header": "العقود",
+        "key": {
+
+          "name": "الاسم",
+          "status": "الحاله",
+          "createdBy": "أنشئت من قبل",
+          "created_at": "التاريخ",
+          "updated_at": "تم التحديث في",
+          "number":"الاسم/الرقم",
+          "type":"نوع العقد",
+          "reason":"سبب العقد",
+          "total_cost":"التكلفة الكلية",
+          "start_date":"تاريخ بداية العقد",
+          "end_date":"تاريخ نهاية العقد",
+          "expiration_date":"",
+          "randomly":"عشوائي",
+          "accruals":"مستحقات",
+          "accrual_amount":"القيمة المستحقة",
+          "every":"كل"
+        }
+      },
+      "form": {
+        "accurals":{
+          "label": "مستحقات",
+          "placeholder": "ادخل المستحقات"
+        },
+        "contracts":{
+          "label": "العقود",
+          "placeholder": "اختر العقد"
+        },
+        "number": {
+          "label": "اسم/رقم العقد",
+          "placeholder": "ادخل رقم او اسم العقد"
+        },
+        "type": {
+          "label": "نوع العقد",
+          "placeholder": "ادخل نوع العقد"
+        },
+        "reason": {
+          "label": "السبب",
+          "placeholder": "ادخل السبب"
+        },
+        "total_cost": {
+          "label": "التكلفة الكلية",
+          "placeholder": "ادخل التكلفة الكلية"
+        },
+        "start_date": {
+          "label": "تاريخ بداية العقد",
+          "placeholder": "ادخل تاريخ بداية العقد"
+        },
+        "end_date": {
+          "label": "تاريخ نهاية العقد",
+          "placeholder": "ادخل تاريخ نهاية العقد"
+        },
+        "expiration_date": {
+          "label": "Expiration Date",
+          "placeholder": "Enter Expiration Date"
+        },
+        "accruals": {
+          "label": "المستحقات",
+          "placeholder": "ادخل المستحقات"
+        },
+        "accrual_amount": {
+          "label": "القيمة المستحقة",
+          "placeholder": "ادخل القيمة المستحقة"
+        },
+        "randomly": {
+          "label": "عشوائي",
+          "placeholder": "اختر العشوائي"
+        },
+        "every": {
+          "label": "كل",
+          "placeholder": "اختار كل اد ايه"
+        },
+        "no_items": {
+          "label": "No.items"
+        }
+      },
+      "dialog": {
+        "header": {
+          "new": "عقد جديد",
+          "edit": "تعديل عقد",
+          "details": "تفاصيل العقد",
+          "delete": "حذف",
+          "status": "الحاله",
+          "Contract_type":"نوع العقد"
+        }
+      },
+      "btns": {
+        "new": "عقد جديد",
+        "all": "كل العقود",
+        "search": "بحث",
+        "delete": "حذف",
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "status": {
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "messages": {
+        "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+        "resultsfound": "نتيجة"
+      },
+      "toast": {
+        "select": {
+          "summery": "تحديد",
+          "details": "الرجاء تحديد سجل واحد على الأقل"
+        },
+        "search": {
+          "summery": "بحث",
+          "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,111 @@
+{
+    "en": {
+        "partnerRatios":{
+            "header": "Partner Ratios",
+            "key":{
+                "partner":"Partner",
+                "accountingPeriod":"Accounting Period",
+                "ratio":"Ratio",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "partner":{
+                "label":"Partner",
+                "placeholder":"Enter Partner"
+            },
+            "accountingPeriod":{
+                "label":"Accounting Period",
+                "placeholder":"Enter Accounting Period"
+            },
+            "ratio":{
+                "label":"Ratio",
+                "placeholder":"Enter Ratio"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Partner Ratio",
+                "edit":"Edit Partner Ratio",
+                "details":"Partner Ratio Details"
+            }
+        },
+        "btns":{
+            "new":"New Partner Ratio",
+            "all":"All Partner Ratios",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "partnerRatios":{
+            "header":"نسبه الشركاء",
+            "key":{
+                "partner":"الشريك",
+                "accountingPeriod":"الفتره المحاسبيه",
+                "ratio":"النسبه",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "partner":{
+                "label":"الشريك",
+                "placeholder":"ادخل الشريك"
+            },
+            "accountingPeriod":{
+                "label":"الفتره المحاسبيه",
+                "placeholder":"ادخل الفتره المحاسبيه"
+            },
+            "ratio":{
+                "label":"النسبه",
+                "placeholder":"ادخل النسبه"
+            }           
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه نسبه الشريك" ,
+                "edit":" تعديل نسبه الشريك",
+                "details":"تفاصيل نسبه الشريك",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه نسبه الشريك",
+            "all":"كل نسبه الشركاء",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

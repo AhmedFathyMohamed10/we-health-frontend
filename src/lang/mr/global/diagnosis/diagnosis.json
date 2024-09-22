@@ -1,0 +1,74 @@
+{
+  "en": {
+    "chiefComplaint":{
+      "header":"Chief Complaint",
+      "complaint": {
+        "label": "Complaint",
+        "placeholder": "Complaint"
+      },
+      "date": {
+        "label": "Since",
+        "placeholder": "Select"
+      },
+      "comment": {
+        "label": "Comment",
+        "placeholder": "comment"
+      }
+    },
+    "diagnosis":{
+      "header":"Diagnosis",
+      "type":{
+        "label": "Type",
+        "placeholder": "Select"
+      },
+      "diagnose":{
+        "label": "Diagnose",
+        "placeholder": "Search or Insert"
+      },
+      "condition":{
+        "label": "Condition",
+        "placeholder": "Select"
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "chiefComplaint":{
+      "header":"Chief Complaint",
+      "complaint": {
+        "label": "Complaint",
+        "placeholder": "Complaint"
+      },
+      "date": {
+        "label": "Since",
+        "placeholder": "Select"
+      },
+      "comment": {
+        "label": "Comment",
+        "placeholder": "comment"
+      }
+    },
+    "diagnosis":{
+      "header":"التشخيصات",
+      "type":{
+        "label": "Type",
+        "placeholder": "Select"
+      },
+      "diagnose":{
+        "label": "Diagnose",
+        "placeholder": "Search or Insert"
+      },
+      "condition":{
+        "label": "Condition",
+        "placeholder": "Select"
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+    "en": {
+        "department":{
+            "title": "Department",
+            "key":{
+                "name":"Name",
+                "description":"Description",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+                
+
+
+
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            }
+        },
+        "dialog":{
+            "title":{
+                "new":"New Department",
+                "edit":"Edit Department",
+                "details":"Department Details"
+            }
+        },
+        "btns":{
+            "new":"New Department",
+            "all":"All Departments",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "department":{
+            "title":"القسم",
+            "key":{
+                "name":"الاسم",
+                "description":"الوصف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"الاسم",
+                "placeholder":"ادخل الاسم"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            }
+        },
+        "dialog":{
+            "title":{
+                "new":"قسم جديد",
+                "edit":"تعديل القسم",
+                "details":"تفاصيل القسم",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"قسم جديد",
+            "all":"كل الاقسام",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

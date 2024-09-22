@@ -1,0 +1,71 @@
+{
+  "en":{
+    "header":{
+      "title":"Length",
+      "insert":"New Length Record",
+      "update":"Update Length Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "cm":{
+        "label":"CM",
+        "placeholder":"CM"
+      },
+      "ft":{
+        "label":"FT",
+        "placeholder":"FT"
+      },
+       "reference":{
+        "title":"Reference",
+        "value":"170 cm ",
+        "result":"Result"
+      }
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result :"
+  },
+  "ar":{
+    "header":{
+      "title":"طول",
+      "insert":"سجل طول جديد",
+      "update":"تحديث سجل الطول"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "cm":{
+        "label":"سم",
+        "placeholder":"سم"
+      },
+      "ft":{
+        "label":"قدم",
+        "placeholder":"قدم"
+      },
+       "reference":{
+        "title":"مرجع",
+        "value":"170 سم ",
+        "result":"نتيجة"
+      }
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة : "
+  }
+  
+}

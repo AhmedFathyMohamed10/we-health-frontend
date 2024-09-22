@@ -1,0 +1,27 @@
+stages:
+  - deploy
+
+we_health_it:
+  stage: deploy
+  image: ubuntu
+  before_script:
+    - eval $(ssh-agent -s)
+    - mkdir -p ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+    - echo "$ID_ED25519" > ~/.ssh/id_ed25519.pub
+    - apt-get update -y
+    - apt-get install -y sshpass
+  script:
+    - REDFOXES_PATH="/home/bayomy/frontend/dev"  # Default path for dev branch
+
+    - if [ "$CI_COMMIT_BRANCH" == "main" ]; then REDFOXES_PATH="/home/bayomy/frontend/main"; else REDFOXES_PATH="/home/bayomy/frontend/dev"; fi
+    - REDFOXES_SCRIPT_PATH="$REDFOXES_PATH/enable_pub_key.sh"
+
+    - echo $CI_COMMIT_BRANCH
+    - sshpass -p $REDFOXES_SSH_PASSWORD ssh $REDFOXES_USERNAME@${REDFOXES_DOMAIN} "source $REDFOXES_SCRIPT_PATH && cd $REDFOXES_PATH/front-end && git pull origin $CI_COMMIT_BRANCH"
+    - sshpass -p $REDFOXES_SSH_PASSWORD ssh $REDFOXES_USERNAME@${REDFOXES_DOMAIN} "cd $REDFOXES_PATH/front-end && source ~/.nvm/nvm.sh && nvm use 14.17.3 && /home/bayomy/.nvm/versions/node/v14.17.3/bin/npm install && sudo service nginx restart"
+
+  only:
+    refs:
+      - main
+      - dev

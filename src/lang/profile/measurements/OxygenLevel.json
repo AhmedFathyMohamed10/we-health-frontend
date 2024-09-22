@@ -1,0 +1,78 @@
+{
+  "en":{
+    "header":{
+      "title":"Oxygen Level",
+      "insert":"New Oxygen Level Record",
+      "update":"Update Oxygen Level Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "spo2":{
+        "label":"Spo2",
+        "value":"Spo2",
+        "placeholder":"% "
+       
+      },
+      "breathing":{
+        "value":"Breathing",
+        "label":"Breathing",
+        "placeholder":"Beats / Minute"
+      },
+      "reference":{
+        "title":"Reference",
+        "valueBreathing":"12/18 breath/minute",
+        "valueSpo2":"+95%",
+        "result":"Result"
+      }
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result :"
+  },
+  "ar":{
+    "header":{
+      "title":"مستوى الأكسجين",
+      "insert":"سجل جديد لمستوى الأكسجين",
+      "update":"تحديث سجل مستوى الأكسجين"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "spo2":{
+        "label":"سبق",
+        "value":"سبق",
+        "placeholder":"% "
+       
+      },
+      "breathing":{
+        "value":"عمليه التنفس",
+        "label":"عمليه التنفس",
+        "placeholder":"يدق / دقيقة"
+      },
+      "reference":{
+        "title":"مرجع",
+        "valueBreathing":"12/18نفس/دقيقة",
+        "valueSpo2":"+٩٥%",
+        "result":"نتيجة"
+      }
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة : (جزء في المليون)"
+  }
+}

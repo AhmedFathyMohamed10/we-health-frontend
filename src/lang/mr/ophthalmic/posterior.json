@@ -1,0 +1,182 @@
+{
+  "en": {
+    "fundusExam": {
+      "header":"Fundus Exam",
+      "lens":{
+        "label": "Lens",
+        "placeholder": ""
+      },
+      "ophthalmoscopy": {
+        "label": "Ophthalmoscopy",
+        "placeholder": "Select"
+      },
+      "dilated":{
+    
+        "label": "Dilated",
+        "placeholder": ""
+      },
+      "pupillaryReflex": {
+        "label": "Pupillary Reflex",
+        "placeholder": "Select"
+      },
+      "vitreous": {
+        "label": "Vitreous",
+        "placeholder": "Select"
+      },
+      "opticDisc":{
+        "label": "Optic Disc",
+        "placeholder": "Select"
+      },
+      "cdRatio":{
+        "label": "C/D Ratio",
+        "placeholder": "Select"
+      },
+      "vessels": {
+        "label": "Vessels",
+        "placeholder": "Select"
+      },
+      "macula": {
+        "label": "Macula",
+        "placeholder": "Select"
+      },
+      "fovealReflex":{
+        "label": "Foveal Reflex",
+        "placeholder": ""
+      },
+       
+      "retina": {
+        "label": "Retina",
+        "placeholder": "Select"
+      },
+      "posteriorPole": {
+        "label": "Posterior Pole",
+        "placeholder": "Select"
+      },
+      "periphery": {
+        "label": "Periphery",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "dilation": {
+      "header":"Dilated",
+      "drug": {
+        "label": "Drug",
+        "placeholder": "Select"
+      },
+      "eye": {
+        "label": "Eye",
+        "placeholder": "Select"
+      },
+      "quantity": {
+        "label": "Quantity",
+        "placeholder": "Text"
+      },
+      "time": {
+        "label": "Time",
+        "placeholder": "--,--"
+      },
+      "informedPt": {
+        "label": "Informed PT of side effects",
+        "placeholder": ""
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "fundusExam": {
+      "header":"Fundus Exam",
+      "lens":{
+        "label": "Lens",
+        "placeholder": ""
+      },
+      "ophthalmoscopy": {
+        "label": "Ophthalmoscopy",
+        "placeholder": "Select"
+      },
+      "dilated":{
+    
+        "label": "Dilated",
+        "placeholder": ""
+      },
+      "pupillaryReflex": {
+        "label": "Pupillary Reflex",
+        "placeholder": "Select"
+      },
+      "vitreous": {
+        "label": "Vitreous",
+        "placeholder": "Select"
+      },
+      "opticDisc":{
+        "label": "Optic Disc",
+        "placeholder": "Select"
+      },
+      "cdRatio":{
+        "label": "C/D Ratio",
+        "placeholder": "Select"
+      },
+      "vessels": {
+        "label": "Vessels",
+        "placeholder": "Select"
+      },
+      "macula": {
+        "label": "Macula",
+        "placeholder": "Select"
+      },
+      "fovealReflex":{
+        "label": "Foveal Reflex",
+        "placeholder": ""
+      },
+       
+      "retina": {
+        "label": "Retina",
+        "placeholder": "Select"
+      },
+      "posteriorPole": {
+        "label": "Posterior Pole",
+        "placeholder": "Select"
+      },
+      "periphery": {
+        "label": "Periphery",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "dilation": {
+      "header":"Dilated",
+      "drug": {
+        "label": "Drug",
+        "placeholder": "Select"
+      },
+      "eye": {
+        "label": "Eye",
+        "placeholder": "Select"
+      },
+      "quantity": {
+        "label": "Quantity",
+        "placeholder": "Text"
+      },
+      "time": {
+        "label": "Time",
+        "placeholder": "--,--"
+      },
+      "informedPt": {
+        "label": "Informed PT of side effects",
+        "placeholder": ""
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

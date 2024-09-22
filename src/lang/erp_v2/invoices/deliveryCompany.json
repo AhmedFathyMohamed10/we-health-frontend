@@ -1,0 +1,279 @@
+{
+  "en": {  
+    "order": {
+      "header": "Order",
+      "details": "Details",
+      "order": "Order",
+      "invoice": "Invoice",
+      "key": {
+        "lastRequest":"Last Request",
+        "branchName":"Branch Name",
+        "requestVendor":"Request Vendor",
+        
+        "invoice_no":"Invoice No.",
+        "date":"Date",
+        "employee":"Employee",
+        "items_no":"Items No.",
+
+        "branch":"Branch",
+
+
+
+        "name_en": "Name EN",
+        "name_ar": "Name AR",
+        "no_item": "No_item",
+        "account": "Account",
+        "note": "Note",
+        "location_code": "Location code",
+        "employee_custody": "Employee custody",
+        "parent": "Parent Location",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "client":{
+        "label":"Client",
+        "placeholder":"Enter Client"
+      },
+
+      "company_name_en":{
+        "label":"Company Name En",
+        "placeholder":"Enter Company Name En"
+      },
+      "company_name_ar":{
+        "label":"Company Name Ar",
+        "placeholder":"Enter Company Name Ar"
+      },
+      "serial":{
+        "label":"Serial",
+        "placeholder":"Enter Serial"
+      },
+      "city":{
+        "label":"City",
+        "placeholder":"Enter City"
+      },
+      "phone_number":{
+        "label":"Phone Number",
+        "placeholder":"Enter Phone Number"
+      },
+      "other_phone_number":{
+        "label":"Other Phone Number",
+        "placeholder":"Enter Other Phone Number"
+      },
+      "email_address":{
+        "label":"Email Address",
+        "placeholder":"Enter Email Address"
+      },
+      "address":{
+        "label":"Address",
+        "placeholder":"Enter Address"
+      },
+      "vehicle_type":{
+        "label":"Vehicle Type",
+        "placeholder":"Enter Vehicle Type"
+      },
+      "vehicle_license":{
+        "label":"Vehicle License",
+        "placeholder":"Enter Vehicle License"
+      },
+      "expiration_date":{
+        "label":"Expiration Date",
+        "placeholder":"Enter Expiration Date"
+      },
+      "personal_license":{
+        "label":"Personal License",
+        "placeholder":"Enter Personal License"
+      },
+      "personal_license_attach":{
+        "label":"Personal License Attach",
+        "placeholder":"Enter Personal License Attach"
+      },
+      "national_id":{
+        "label":"National Id",
+        "placeholder":"Enter National Id"
+      },
+      "national_id_attach":{
+        "label":"National Id Attach",
+        "placeholder":"Enter National Id Attach"
+      },
+      "agreement":{
+        "label":"Agreement",
+        "placeholder":"Enter Agreement"
+      }
+
+
+
+
+    },
+    "dialog": {
+      "header": {
+        "new": "New Order",
+        "download": "Download Order",
+        "substituent":"Add Substituent",
+        "edit": "Edit Order",
+        "details": "Order Details",
+        "status": "Status Order"
+      }
+    },
+    "btns": {
+      "new": "New Order",
+      "all": "All Orders",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "invoice": {
+      "header": "تعريف الفاتورة",
+      "key": {
+        "invoice_name_en":"اسم الفاتورة بالانجليزي",
+        "invoice_name_ar":"اسم الفاتورة بالعربي",
+        "account":"الحساب",
+        "invoice_type":"نوع الفاتورة",
+        "group":"مجموعة الفاتورة",
+        "code":"رمز",
+        "invoice_parent":"فاتورة الاب",
+        "customer_account":"حساب العميل",
+        "items":"المواد",
+        "cash_account":"حساب نقدي",
+        "discount":"خصم",
+        "vat":"ضريبة القيمة المضافة",
+        "gift":"الهدية",
+        "description":"الوصف",
+        "pricing_policy":"سياسة التسعير",
+        "payment_type":"نوع الدفع",
+        "payment_method":"طريقة الدفع"
+      }
+    },
+    "form": {
+      "invoice_name_en":{
+        "label":"اسم الفاتورة بالانجليزي",
+        "placeholder":"أدخل اسم الفاتورة بالانجليزي"
+      },
+      "invoice_name_ar":{
+        "label":"اسم الفاتورة بالعربي",
+        "placeholder":"أدخل اسم الفاتورة بالعربي"
+      },
+      "account":{
+        "label":"الحساب",
+        "placeholder":"أدخل الحساب"
+      },
+      "invoice_type":{
+        "label":"نوع الفاتورة",
+        "placeholder":"أدخل نوع الفاتورة"
+      },
+      "group":{
+        "label":"مجموعة الفاتورة",
+        "placeholder":"أدخل مجموعة الفاتورة"
+      },
+      "code":{
+        "label":"رمز",
+        "placeholder":"أدخل رمز"
+      },
+      "invoice_parent":{
+        "label":"فاتورة الاب",
+        "placeholder":"أدخل فاتورة الاب"
+      },
+      "customer_account":{
+        "label":"حساب العميل",
+        "placeholder":"أدخل حساب العميل"
+      },
+      "items":{
+        "label":"المواد",
+        "placeholder":"أدخل المواد"
+      },
+      "cash_account":{
+        "label":"حساب نقدي",
+        "placeholder":"أدخل حساب نقدي"
+      },
+      "discount":{
+        "label":"خصم",
+        "placeholder":"أدخل خصم"
+      },
+      "vat":{
+        "label":"ضريبة القيمة المضافة",
+        "placeholder":"أدخل ضريبة القيمة المضافة",
+        "dropDownPlaceholder":"%"
+      },
+      "gift":{
+        "label":"الهدية",
+        "placeholder":"أدخل الهدية"
+      },
+      "description":{
+        "label":"الوصف",
+        "placeholder":"أدخل الوصف"
+      },
+      "pricing_policy":{
+        "label":"سياسة التسعير",
+        "placeholder":"أدخل سياسة التسعير"
+      },
+      "payment_type":{
+        "label":"نوع الدفع",
+        "placeholder":"أدخل نوع الدفع"
+      },
+      "payment_method":{
+        "label":"طريقة الدفع",
+        "placeholder":"أدخل طريقة الدفع"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "تعريف فاتورة جديد",
+        "download": "تعريف فاتورة جديد",
+        "edit": "تعديل تعريف الفاتورة",
+        "details": "تفاصيل تعريف الفاتورة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "تعريف فاتورة جديد",
+      "all": "كل المواقع",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

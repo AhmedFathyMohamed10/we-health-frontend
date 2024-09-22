@@ -1,0 +1,19 @@
+{
+    "en":{
+        "Behavioral":"Behavioral",
+        "Physical":"Physical",
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+        
+    },
+    "ar":{
+         "Behavioral":"Behavioral",
+        "Physical":"Physical",
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+    }
+}

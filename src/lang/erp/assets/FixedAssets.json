@@ -1,0 +1,343 @@
+{
+  "en": {
+    "asset": {"asset":"Asset",
+    "group": "Group"},
+    "fixedAssets": {
+      "age": "Month",
+      "header": "Fixed Assets",
+      "key": {
+        "name": "Name",
+        "number": "Number",
+        "group": "Group",
+        "site": "Site",
+        "age_assets": "Age Assets",
+        "starting_date": "Starting Date",
+        "Expiry_date": "Expiry Date",
+        "original_cost": "Original Cost",
+        "Estimated_value": "Estimated Value",
+        "originalAccount_data": "Original Account",
+        "value":"Number Times",
+        "selection":"Period",
+        "type_of_asset": "Type Of Asset",
+        "total_cost": "Total Cost",
+        "total_purchase_price": "Total Purchase Price",
+        "paid_from_the_purchase_price": "Paid From The Purchase Price",
+        "regular_installments": "Regular Installments",
+        "value_of_installment": "Value Of Installment",
+        "value_rent": "Value Rent",
+          "regular_rent": "Regular Rent",
+        "regular_periodic_maintenance": "Regular Periodic Maintenance",
+        "total_depreciation":"Total Depreciation",
+        "group_name": "Group",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "description": "Description",
+        "updated_at": "Updated at"
+        
+      }
+    },
+    "form": {
+      "type_of_asset": {
+        "label": "Type Of Asset",
+        "placeholder": "Enter Type Of Asset"
+      },
+      "total_depreciation": {
+        "label": "Total Depreciation",
+        "placeholder": "Enter Total Depreciation"
+      },
+      "total_cost": {
+        "label": "Total Cost",
+        "placeholder": "Enter Total Cost"
+      },
+      "total_purchase_price": {
+        "label": "Total Purchase Price",
+        "placeholder": "Enter Total Purchase Price"
+      },
+      "paid_from_the_purchase_price": {
+        "label": "Paid From The Purchase Price",
+        "placeholder": "Enter Paid From The Purchase Price"
+      },
+      "regular_installments": {
+        "label": "Regular Installments",
+        "placeholder": "Enter Regular Installments"
+      },
+      "value_of_installment": {
+        "label": "Value Of Installment",
+        "placeholder": "Enter Value Of Installment"
+      },
+      "value_rent": {
+        "label": "Value Rent",
+        "placeholder": "Enter Value Rent"
+      },
+      "regular_rent": {
+        "label": "Regular Rent",
+        "placeholder": "Enter Regular Rent"
+      },
+      "regular_periodic_maintenance": {
+        "label": "Regular Periodic Maintenance",
+        "placeholder": "Enter Regular Periodic Maintenance"
+      },
+
+      "nameAssets": {
+        "label": "Name",
+        "placeholder": "Enter Name"
+      },
+      "originalAccount": {
+        "label": "Original Account",
+        "placeholder": "Enter Original Account"
+      },
+      "site": {
+        "label": "Site",
+        "placeholder": "Enter Site"
+      },
+      "original_cost": {
+        "label": "Original Cost",
+        "placeholder": "Enter Original Cost"
+      },
+      "starting_date": {
+        "label": "Starting Date",
+        "placeholder": "Enter Starting Date"
+      },
+      "age_assets": {
+        "label": "Age Assets in months",
+        "placeholder": "Enter Age Assets"
+      },
+      "Expiry_date": {
+        "label": "Expiry Date",
+        "placeholder": "Enter Expiry Date"
+      },
+      "Estimated_value": {
+        "label": "Estimated Value",
+        "placeholder": "Enter Estimated Value"
+      },
+      "number": {
+        "label": "Number",
+        "placeholder": "Enter Number"
+      },
+
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      },
+
+      "group": {
+        "label": "Group",
+        "placeholder": "Enter Group"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Fixed Assets",
+        "edit": "Edit Fixed Assets",
+        "details": "Fixed Assets Details"
+      }
+    },
+    "btns": {
+      "new": "New Fixed Assets",
+      "all": "All Fixed Assets",
+      "search": "Search",
+      "delete": "Delete"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "fixedAssets": {
+      "age": "شهر",
+      "header": "الاصول الثابته",
+      "key": {
+        "number": "الرقم",
+        "group": "مجموعه الاصول",
+        "site": "الموقع",
+        "age_assets": "عمر الاصل",
+        "starting_date": "تاريخ البدء",
+        "Expiry_date": "تاريخ الانتهاء",
+        "original_cost": "التكلفه الاصليه",
+        "Estimated_value": "القيمه التقديريه",
+        "final_value": "القيمه النهائية",
+        "accumulated_depreciation": "اهتلاك منتظم",
+        "depreciationTable": "جدول الاهتلاك",
+        "depreciationTable_data": "جدول الاهتلاك",
+        "depreciationAccount_data": "حساب الاهتلاك",
+        "originalAccount_data": "حساب الاصل",
+        "regular_wear": "متراكم الاهتلاك",
+        "value":"عدد المرات",
+        "selection":"المدة",
+        "group_name": "مجموعه الاصول",
+        "description": "الوصف",
+        "type_of_asset": "نوع الأصول",
+        "total_cost": "التكلفة الإجمالية",
+        "total_purchase_price": "السعر الكلي للشراء",
+        "paid_from_the_purchase_price": "المدفوع من سعر الشراء",
+        "regular_installments": "أقساط منتظمة",
+        "value_of_installment": "قيمة القسط",
+        "value_rent": "قيمة الإيجار",
+        "regular_rent": "إيجار منتظم",
+        "regular_periodic_maintenance": "الصيانة الدورية المنتظمة",
+        "name": "الاسم",
+        "total_depreciation":"اهتلاك كلي",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "total_cost": {
+        "label": "التكلفة الإجمالية",
+        "placeholder": "ادخل التكلفة الإجمالية"
+      },
+      "total_depreciation": {
+        "label": "اهتلاك كلي",
+        "placeholder": "ادخل اهتلاك كلي"
+      },
+      "total_purchase_price": {
+        "label": "السعر الكلي للشراء",
+        "placeholder": "ادخل السعر الكلي للشراء"
+      },
+      "paid_from_the_purchase_price": {
+        "label": "المدفوع من سعر الشراء",
+        "placeholder": "ادخل المدفوع من سعر الشراء"
+      },
+      "regular_installments": {
+        "label": "أقساط منتظمة",
+        "placeholder": "ادخل أقساط منتظمة"
+      },
+      "value_of_installment": {
+        "label": "قيمة القسط",
+        "placeholder": "ادخل قيمة القسط"
+      },
+      "value_rent": {
+        "label": "قيمة الإيجار",
+        "placeholder": "ادخل قيمة الإيجار"
+      },
+      "regular_rent": {
+        "label": "إيجار منتظم",
+        "placeholder": "ادخل إيجار منتظم"
+      },
+      "regular_periodic_maintenance": {
+        "label": "الصيانة الدورية المنتظمة",
+        "placeholder": "ادخل الصيانة الدورية المنتظمة"
+      },
+
+      "type_of_asset": {
+        "label": "نوع الأصول",
+        "placeholder": "ادخل نوع الأصول"
+      },
+
+      "nameAssets": {
+        "label": "اسم الاصل",
+        "placeholder": "ادخل اسم الاصل"
+      },
+      "depreciationTable": {
+        "label": "جدول الاهتلاك",
+        "placeholder": "ادخل جدول الاهتلاك"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      },
+      "site": {
+        "label": "الموقع",
+        "placeholder": "ادخل الموقع"
+      },
+      "original_cost": {
+        "label": "التكلفه الاصليه",
+        "placeholder": "ادخل التكلفه الاصليه"
+      },
+      "starting_date": {
+        "label": "تاريخ البدء",
+        "placeholder": "ادخل تاريخ البدء"
+      },
+      "age_assets": {
+        "label": "عمر الاصل بالشهر",
+        "placeholder": "ادخل عمر الاصل"
+      },
+      "Expiry_date": {
+        "label": "تاريخ الانتهاء",
+        "placeholder": "ادخل تاريخ الانتهاء"
+      },
+      "Estimated_value": {
+        "label": "القيمه التقديريه",
+        "placeholder": "ادخل القيمه التقديريه"
+      },
+      "accumulated_depreciation": {
+        "label": "اهتلاك منتظم",
+        "placeholder": "ادخل اهتلاك منتظم"
+      },
+      "regular_wear": {
+        "label": "متراكم الاهتلاك",
+        "placeholder": "ادخل متراكم الاهتلاك"
+      },
+      "final_value": {
+        "label": "القيمه النهائية",
+        "placeholder": "ادخل القيمه النهائية"
+      },
+      "number": {
+        "label": "الرقم",
+        "placeholder": "ادخل الرقم"
+      },
+      "group": {
+        "label": "مجموعه الاصول",
+        "placeholder": "ادخل مجموعه الاصول"
+      },
+      "depreciationAccount": {
+        "label": "حساب الاهتلاك",
+        "placeholder": "ادخل حساب الاهتلاك"
+      },
+      "originalAccount": {
+        "label": "حساب الاصل",
+        "placeholder": "ادخل  حساب الاصل"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "اضافه اصول ثابته جديده",
+        "edit": " تعديل اصول ثابته",
+        "details": "تفاصيل اصول ثابته",
+        "delete": "حذف"
+      }
+    },
+    "btns": {
+      "new": "اضافه اصول ثابته",
+      "all": "كل الاصول الثابته",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

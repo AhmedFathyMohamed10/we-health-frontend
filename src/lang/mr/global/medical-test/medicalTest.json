@@ -1,0 +1,36 @@
+{
+  "en": {
+    "medicalTest":{
+      "header":"Medical Test",
+      "name":{
+        "label": "Test Name",
+        "placeholder": "Search or Insert"
+      },
+      "place":{
+        "label": "Lab Recommended Name",
+        "placeholder": "Search or Insert"
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "medicalTest":{
+      "header":"Medical Test",
+      "name":{
+        "label": "Test Name",
+        "placeholder": "Search or Insert"
+      },
+      "place":{
+        "label": "Lab Recommended Name",
+        "placeholder": "Search or Insert"
+      },           
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

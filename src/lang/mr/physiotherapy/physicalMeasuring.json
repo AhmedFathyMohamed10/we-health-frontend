@@ -1,0 +1,86 @@
+{
+    "en":{
+        "humerus":{
+            "label":"Humerus",
+            "placeholder":"No."
+        },
+        "thigh":{
+            "label":"Thigh Circumference",
+            "placeholder":"No."
+        },
+        "ventricle":{
+            "label":"Ventricle",
+            "placeholder":"No."
+        },
+        "chest":{
+            "label":"Chest Circumference",
+            "placeholder":"No."
+        },
+        "aquarium":{
+            "label":"Aquarium Perimeter",
+            "placeholder":"No."
+        },
+        "belly":{
+            "label":"Belly Circumference",
+            "placeholder":"No."
+        },
+        "center":{
+            "label":"Center Perimeter",
+            "placeholder":"No."
+        },
+        "right":{
+            "label":"Right",
+            "placeholder":"R"
+        },
+        "left":{
+            "label":"Left",
+            "placeholder":"L"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+    },
+    "ar":{
+        "humerus":{
+            "label":"Humerus",
+            "placeholder":"No."
+        },
+        "thigh":{
+            "label":"Thigh Circumference",
+            "placeholder":"No."
+        },
+        "ventricle":{
+            "label":"Ventricle",
+            "placeholder":"No."
+        },
+        "chest":{
+            "label":"Chest Circumference",
+            "placeholder":"No."
+        },
+        "aquarium":{
+            "label":"Aquarium Perimeter",
+            "placeholder":"No."
+        },
+        "belly":{
+            "label":"Belly Circumference",
+            "placeholder":"No."
+        },
+        "center":{
+            "label":"Center Perimeter",
+            "placeholder":"No."
+        },
+        "right":{
+            "label":"Right",
+            "placeholder":"R"
+        },
+        "left":{
+            "label":"Left",
+            "placeholder":"L"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+    }
+}

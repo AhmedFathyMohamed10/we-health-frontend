@@ -1,0 +1,118 @@
+{
+    "en": {
+        "cabinets":{
+            "header": "Cabinets",
+            "key":{
+                "name":"Name",
+                "employee_in_charge":"Employee in Charge",
+                "value":"Value",
+                "category":"Category",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "employee_in_charge":{
+                "label":"Employee in Charge",
+                "placeholder":"Enter Employee in Charge"
+            },
+        
+            "value":{
+                "label":"Value",
+                "placeholder":"Enter Value"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newTable":"New Cabinet" ,
+                "new":"New Cabinet",
+                "edit":"Edit Cabinet",
+                "details":"Cabinet Details"
+            }
+        },
+        "btns":{
+            "new":"New Cabinet",
+            "all":"All Cabinets",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "cabinets":{
+            "header":"الخزائن",
+            "key":{
+                "name":"الاسم",
+                "employee_in_charge":"الموظف المسؤول",
+                "value":"القيمه",
+                "category":"الوحده",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم خزنه",
+                "placeholder":"ادخل اسم الخزنه"
+            },
+            "employee_in_charge":{
+                "label":"الموظف المسؤول",
+                "placeholder":"ادخل الموظف المسؤول"
+            },
+            "value":{
+                "label":"القيمه",
+                "placeholder":"ادخل القيمه"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه خزنه جديده" ,
+                "edit":" تعديل خزنه",
+                "details":"تفاصيل خزنه",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه خزنه جديده",
+            "all":"كل الخزائن",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

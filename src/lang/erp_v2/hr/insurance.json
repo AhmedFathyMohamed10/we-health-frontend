@@ -1,0 +1,137 @@
+{
+  "en": {  
+    "insurance": {
+      "header": "Insurance",
+      "key": {
+        "employee":"Employee",
+        "start_date": "Start Date",
+        "end_date": "End Date",
+        "description":"Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee",
+        "placeholder": "Enter Employee"
+      },
+      "start_date": {
+        "label": "Start Date",
+        "placeholder": "Enter Start Date"
+      },
+      "end_date": {
+        "label": "End Date",
+        "placeholder": "Enter End Date"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Insurance",
+        "edit": "Edit Insurance",
+        "details": "Insurance Details",
+        "status": "Status Insurance"
+      }
+    },
+    "btns": {
+      "new": "New Insurance",
+      "all": "All Insurances",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "insurance": {
+      "header": "التأمين",
+      "key": {
+        "employee": "الموظف",
+        "start_date": "تاريخ البداية",
+        "end_date":  "تاريخ النهاية",    
+        "description": "الوصف",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "الموظف",
+        "placeholder": "ادخل الموظف"
+      },
+      "start_date": {
+        "label": "تاريخ البداية",
+        "placeholder": "ادخل تاريخ البداية"
+      },
+      "end_date": {
+        "label": "تاريخ النهاية",
+        "placeholder": "ادخل تاريخ النهاية"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "تأمين جديد",
+        "edit": "تعديل تأمين",
+        "details": "تفاصيل تأمين",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "تأمين جديد",
+      "all": "كل التأمينات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

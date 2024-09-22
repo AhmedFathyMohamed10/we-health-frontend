@@ -1,0 +1,161 @@
+{
+    "en": {
+        "month":"months",
+        "Indoor":"Indoor",
+        "Outdoor":"Outdoor",
+        "Online":"Online",
+       
+        "Policy":{
+            
+            "header": "Policy",
+            "key":{
+                "title":"Title",
+                "insurance_agent":"Insurance Agent",
+                "type":"Type",
+                "insurance_amount":"Insurance Amount",
+                "insuranceAgent_name":"Insurance Agent Name",
+                "status":"Status",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+                
+            }
+        },
+        "form":{
+            "title":{
+                "label":"Title",
+                "placeholder":"Enter Title"
+            },
+            "insurance_agent":{
+                "label":"Insurance Agent",
+                "placeholder":"Choose Insurance Agent"
+            },
+            "type":{
+                "label":"Type",
+                "placeholder":"Enter Type"
+            },
+            "insurance_amount":{
+                "label":"Insurance Amount",
+                "placeholder":"Enter Insurance Amount"
+            },
+            "insuranceAgent_name":{
+                "label":"Insurance Agent Name",
+                "placeholder":"Enter Insurance Agent Name"
+            }
+        },
+        "dialog":{
+            "title":{
+                "details":"Employee Details"
+            },
+            "header":{
+                "new":"New Policy",
+                "edit":"Edit Policy",
+                "details":"Policy Details"
+            }
+        },
+        "btns":{
+            "new":"New Policy",
+            "all":"All Policies",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "month":"شهرا",
+        "Indoor":"داخلي",
+        "Outdoor":"خارجي",
+        "Online":"عن بعد",
+        "Policy":{
+            "header":"الكورس",
+            "key":{
+                "title":"عنوان العقد",
+                "insurance_agent":"شركة التأمين",
+                "type":"نوغ التعاقد",
+                "insurance_amount":"مبلغ التأمين",
+                "insuranceAgent_name":"اسم شركة التأمين",
+                "status":"الحالة",
+                "created_by":"تم الانشاء بواسطة",
+                "created_at":"التاريخ",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "title":{
+                "label":"عنوان العقد",
+                "placeholder":"ادخل عنوان العقد"
+            },
+            "insurance_agent":{
+                "label":"شركة التأمين",
+                "placeholder":"اختر شركة التامين"
+            },
+            "type":{
+                "label":"نوع التعاقد",
+                "placeholder":"ادخل نوع التعاقد"
+            },
+            "insurance_amount":{
+                "label":"مبلغ التأمين",
+                "placeholder":"ادخل مبلغ التأمين"
+            },
+            "insuranceAgent_name":{
+                "label":"اسم شركة التأمين",
+                "placeholder":"ادخل اسم شركة التأمين"
+            }
+            
+        },
+        "dialog":{
+            "title":{
+                "details":"تفاصيل الموظف"
+            },
+            "header":{
+                "new":"عقد جديد",
+                "edit":"تعديل العقد",
+                "details":"تفاصيل العقد",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"عقد جديد",
+            "all":"كل العقود",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

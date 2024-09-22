@@ -1,0 +1,115 @@
+{
+    "en": {
+        "role":{
+            "header": "Role",
+            "key":{
+                "name":"Name",
+                "department_name":"Department",
+                "description":"Description",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "department":{
+                "label":"Department",
+                "placeholder":"Enter Department"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Role",
+                "edit":"Edit Role",
+                "details":"Role Details"
+            }
+        },
+        "btns":{
+            "new":"New Role",
+            "all":"All Role",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name "
+            }
+        }
+    },
+    "ar": {
+        "role":{
+            "header":"الدور الوظيفي",
+            "key":{
+                "name":"الاسم",
+                "department_name":"القسم",
+                "description":"الوصف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم الدور الوظيفي",
+                "placeholder":"ادخل اسم الدور الوظيفي"
+            },
+            "department":{
+                "label":"القسم",
+                "placeholder":"ادخل القسم"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":" دور جديد",
+                "edit":"تعديل  الدور",
+                "details":"تفاصيل الدور الوظيفي",
+                "delete":"حذف",
+                "status":"الحاله"
+            }
+        },
+        "btns":{
+            "new":"دور جديد",
+            "all":"كل  الادوار",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسمالدور الوظيفي"
+            }
+        }
+    }
+}
+

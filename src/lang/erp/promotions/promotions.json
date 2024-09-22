@@ -1,0 +1,133 @@
+{
+    "en": {
+        "Promotions":{
+            "header": "Promotions",
+            "key":{
+                "salary":"Salary",
+                "start_date":"Start Date",
+                "role_name":"Role",
+                "employee_name":"Employee",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at",
+                "end_date" : "End Date"
+            }
+        },
+        "form":{
+            "salary":{
+                "label":"Salary",
+                "placeholder":"Enter Salary"
+            },
+            "role":{
+                "label":"Role",
+                "placeholder":"Enter Role"
+            },
+            "employee":{
+                "label":"Empolyee",
+                "placeholder":"Enter Empolyee"
+            },
+            "start_date":{
+                "label":"Start Date",
+                "placeholder":"Enter Start Date"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Promotions",
+                "edit":"Edit Promotions",
+                "details":"Promotions Details"
+            }
+        },
+        "btns":{
+            "new":"New Promotions",
+            "all":"All Promotionss",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Promotions":{
+            "header":"الترقيات",
+            "key":{
+                "salary":"الراتب",
+                "start_date":"تاريخ البدء",
+                "role_name":"الدور الوظيفي",
+                "employee_name":"الموظف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في",
+                "end_date" : "تاريخ الانتهاء"
+            }
+        },
+        "form":{
+            "salary":{
+                "label":"الراتب",
+                "placeholder":"ادخل الراتب"
+            },
+            "start_date":{
+                "label":"تاريخ البدء",
+                "placeholder":"ادخل تاريخ البدء"
+            },
+            "role":{
+                "label":"الدور الوظيفي",
+                "placeholder":"ادخل الدور الوظيفي"
+            },
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"اختر الموظف"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":" ترقية جديدة",
+                "edit":"تعديل  الترقية",
+                "details":"تفاصيل الترقية ",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافة ترقية",
+            "all":"كل الترقيات",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223" height="115" viewBox="0 0 223 115">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.524" y1="0.624" x2="0.516" y2="-0.48" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7be495"/>
+      <stop offset="1" stop-color="#3e4772" stop-opacity="0.741"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_666" data-name="Group 666" transform="translate(-61 -136)">
+    <rect id="Rectangle_131" data-name="Rectangle 131" width="223" height="115" transform="translate(61 136)" fill="url(#linear-gradient)"/>
+    <text id="Low_Fat_Low_Weight" data-name="Low Fat
+Low Weight" transform="translate(105 230)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-9.722" y="0">Low Fat</tspan><tspan x="-14.885" y="5">Low Weight</tspan></text>
+    <text id="Low_Fat_Muscular" data-name="Low Fat
+Muscular" transform="translate(105 191)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-9.722" y="0">Low Fat</tspan><tspan x="-11.412" y="5">Muscular</tspan></text>
+    <text id="Athletic" transform="translate(105 154)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-9.607" y="0">Athletic</tspan></text>
+    <text id="Over_Weight_Muscular" data-name="Over Weight
+Muscular" transform="translate(180 154)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-15.632" y="0">Over Weight</tspan><tspan x="-11.412" y="5">Muscular</tspan></text>
+    <text id="Obese" transform="translate(254 154)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-7.963" y="0">Obese</tspan></text>
+    <text id="Over_Fat" data-name="Over Fat" transform="translate(252 196)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-10.47" y="0">Over Fat</tspan></text>
+    <text id="Thin_Fat" data-name="Thin Fat" transform="translate(252 233)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-10.04" y="0">Thin Fat</tspan></text>
+    <text id="Low_Weight" data-name="Low Weight" transform="translate(180 233)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-14.885" y="0">Low Weight</tspan></text>
+    <text id="Standerd" transform="translate(180 196)" fill="#fff" font-size="5" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-11.477" y="0">Standerd</tspan></text>
+    <line id="Line_146" data-name="Line 146" y2="5" transform="translate(216.5 170)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147" data-name="Line 147" y2="5" transform="translate(219 172.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_146-2" data-name="Line 146" y2="5" transform="translate(216.5 209)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147-2" data-name="Line 147" y2="5" transform="translate(219 211.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_146-3" data-name="Line 146" y2="5" transform="translate(142.5 209)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147-3" data-name="Line 147" y2="5" transform="translate(145 211.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_146-4" data-name="Line 146" y2="5" transform="translate(142.5 170)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147-4" data-name="Line 147" y2="5" transform="translate(145 172.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_146-5" data-name="Line 146" y2="5" transform="translate(142.5 142)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_146-6" data-name="Line 146" y2="5" transform="translate(216.5 142)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147-5" data-name="Line 147" y2="5" transform="translate(277 172.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147-6" data-name="Line 147" y2="5" transform="translate(277 211.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147-7" data-name="Line 147" y2="5" transform="translate(73 211.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_147-8" data-name="Line 147" y2="5" transform="translate(73 172.5) rotate(90)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_146-7" data-name="Line 146" y2="5" transform="translate(138.5 244)" fill="none" stroke="#fff" stroke-width="1"/>
+    <line id="Line_146-8" data-name="Line 146" y2="5" transform="translate(216.5 242)" fill="none" stroke="#fff" stroke-width="1"/>
+    <!-- <g id="Ellipse_45" data-name="Ellipse 45" transform="translate(166 167)" stroke="#000" stroke-width="1">
+      <circle cx="2" cy="2" r="2" stroke="none"/>
+      <circle cx="2" cy="2" r="1.5" fill="none"/>
+    </g>
+    <g id="Ellipse_46" data-name="Ellipse 46" transform="translate(164 165)" fill="none" stroke="#000" stroke-width="1">
+      <circle cx="4" cy="4" r="4" stroke="none"/>
+      <circle cx="4" cy="4" r="3.5" fill="none"/>
+    </g>
+    <line id="Line_158" data-name="Line 158" x1="7" transform="translate(164.5 169)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_159" data-name="Line 159" x1="7" transform="translate(170 165.5) rotate(90)" fill="none" stroke="#000" stroke-width="1"/> -->
+  </g>
+</svg>

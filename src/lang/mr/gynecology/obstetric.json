@@ -1,0 +1,314 @@
+{
+    "en": {
+        "pregFollowUp": {
+            "header":"Preg. Follow Up",
+            "pregNo": {
+                "label": "Preg. No",
+                "placeholder": "No."
+            },
+            "fetusesNo": {
+                "label": "Fetuses. No",
+                "placeholder": "No."
+            },
+            "bloodGroup": {
+                "label": "Blood Group",
+                "placeholder": "Select"
+            },
+            "rh": {
+                "label": "RH",
+                "placeholder": "Select"
+            },
+            "previousLabors": {
+                "label": "Previous Labors",
+                "placeholder": "Select"
+            },
+            "sex": {
+                "label": "Sex",
+                "placeholder": "Select"
+            }
+        },
+        "womanHealth": {
+            "header":"Woman Health",
+            "lmp": {
+                "label": "Lmp",
+                "placeholder": "Select"
+            },
+            "csDate": {
+                "label": "CsDate",
+                "placeholder": "Select"
+            },
+            "edd": {
+                "label": "Edd",
+                "placeholder": "Select"
+            },
+            "gravida": {
+                "label": "Gravida",
+                "placeholder": "text"
+            },
+            "term": {
+                "label": "Term",
+                "placeholder": "text"
+            },
+            "preterm": {
+                "label": "Preterm",
+                "placeholder": "text"
+            },
+            "abortion": {
+                "label": "Abortion",
+                "placeholder": "No."
+            },
+            "living": {
+                "label": "Living",
+                "placeholder": "No."
+            },
+            "mens": {
+                "label": "Mens",
+                "placeholder": "No."
+            },
+            "mp": {
+                "label": "Mp",
+                "placeholder": "No."
+            },
+            "csNo": {
+                "label": "csNo",
+                "placeholder": "No."
+            },
+            "gaDays": {
+                "label": "Ga Days",
+                "placeholder": "No."
+            },
+            "gaWeeks": {
+                "label": "Ga Weeks",
+                "placeholder": "No."
+            },
+            "comment": {
+                "label": "Comment",
+                "placeholder": "text"
+            },
+            "file": {
+                "upload":"Upload Birth Report",
+                "edit": "Change Birth Report",
+                "label": "File"
+            }
+        },
+        "antenatal": {
+            "header":"Antenatal",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },
+            "bp": {
+                "label": "B.P",
+                "placeholder": "No."
+            },
+            "urine": {
+                "label": "Urine",
+                "placeholder": "text"
+            },
+            "bloodSugar": {
+                "label": "Blood Sugar",
+                "placeholder": "text"
+            },
+            "hb": {
+                "label": "Hb",
+                "placeholder": "text"
+            },
+            "wt": {
+                "label": "Wt.(KG)",
+                "placeholder": "text"
+            },
+            "gestWks": {
+                "label": "Gest.Wks.",
+                "placeholder": "text"
+            },
+            "usGa": {
+                "label": "U/S G.A",
+                "placeholder": "text"
+            },
+            "fhr": {
+                "label": "FHR",
+                "placeholder": "text"
+            },
+            "llAedema": {
+                "label": "LL. Aedema",
+                "placeholder": "text"
+            },
+            "presentationAndPos": {
+                "label": "Presentation & Pos",
+                "placeholder": "text"
+            },
+            "vacInvestigation": {
+                "label": "Vac. Investigation",
+                "placeholder": "text"
+            },
+            "complaint": {
+                "label": "Complaint",
+                "placeholder": "text"
+            },
+            "riskFactor": {
+                "label": "Risk Factor",
+                "placeholder": "text"
+            },
+            "comment": {
+                "label": "Comment",
+                "placeholder": "comment"
+            }
+        }
+    },
+    "ar": {
+        "pregFollowUp": {
+            "header":"Preg. Follow Up",
+            "pregNo": {
+                "label": "Preg. No",
+                "placeholder": "No."
+            },
+            "fetusesNo": {
+                "label": "Fetuses. No",
+                "placeholder": "No."
+            },
+            "bloodGroup": {
+                "label": "Blood Group",
+                "placeholder": "Select"
+            },
+            "rh": {
+                "label": "RH",
+                "placeholder": "Select"
+            },
+            "previousLabors": {
+                "label": "Previous Labors",
+                "placeholder": "Select"
+            },
+            "sex": {
+                "label": "Sex",
+                "placeholder": "Select"
+            }
+        },
+        "womanHealth": {
+            "header":"Woman Health",
+            "lmp": {
+                "label": "Lmp",
+                "placeholder": "Select"
+            },
+            "csDate": {
+                "label": "CsDate",
+                "placeholder": "Select"
+            },
+            "edd": {
+                "label": "Edd",
+                "placeholder": "Select"
+            },
+            "gravida": {
+                "label": "Gravida",
+                "placeholder": "text"
+            },
+            "term": {
+                "label": "Term",
+                "placeholder": "text"
+            },
+            "preterm": {
+                "label": "Preterm",
+                "placeholder": "text"
+            },
+            "abortion": {
+                "label": "Abortion",
+                "placeholder": "No."
+            },
+            "living": {
+                "label": "Living",
+                "placeholder": "No."
+            },
+            "mens": {
+                "label": "Mens",
+                "placeholder": "No."
+            },
+            "mp": {
+                "label": "Mp",
+                "placeholder": "No."
+            },
+            "csNo": {
+                "label": "csNo",
+                "placeholder": "No."
+            },
+            "gaDays": {
+                "label": "Ga Days",
+                "placeholder": "No."
+            },
+            "gaWeeks": {
+                "label": "Ga Weeks",
+                "placeholder": "No."
+            },
+            "comment": {
+                "label": "Comment",
+                "placeholder": "text"
+            },
+            "file": {
+                "upload":"Upload Birth Report",
+                "edit": "Change Birth Report",
+                "label": "File"
+            }
+        },
+        "antenatal": {
+            "header":"Antenatal",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },
+            "bp": {
+                "label": "B.P",
+                "placeholder": "No."
+            },
+            "urine": {
+                "label": "Urine",
+                "placeholder": "text"
+            },
+            "bloodSugar": {
+                "label": "Blood Sugar",
+                "placeholder": "text"
+            },
+            "hb": {
+                "label": "Hb",
+                "placeholder": "text"
+            },
+            "wt": {
+                "label": "Wt.(KG)",
+                "placeholder": "text"
+            },
+            "gestWks": {
+                "label": "Gest.Wks.",
+                "placeholder": "text"
+            },
+            "usGa": {
+                "label": "U/S G.A",
+                "placeholder": "text"
+            },
+            "fhr": {
+                "label": "FHR",
+                "placeholder": "text"
+            },
+            "llAedema": {
+                "label": "LL. Aedema",
+                "placeholder": "text"
+            },
+            "presentationAndPos": {
+                "label": "Presentation & Pos",
+                "placeholder": "text"
+            },
+            "vacInvestigation": {
+                "label": "Vac. Investigation",
+                "placeholder": "text"
+            },
+            "complaint": {
+                "label": "Complaint",
+                "placeholder": "text"
+            },
+            "riskFactor": {
+                "label": "Risk Factor",
+                "placeholder": "text"
+            },
+            "comment": {
+                "label": "Comment",
+                "placeholder": "comment"
+            }
+        }
+    }
+}

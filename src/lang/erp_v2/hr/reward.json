@@ -1,0 +1,128 @@
+{
+  "en": {  
+    "reward": {
+      "header": "Reward Definition",
+      "key": {
+        "reward_name": "Reward Name",
+        "reward_code": "Reward Code",
+        "notes": "Notes",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "reward_name": {
+        "label": "Reward Name",
+        "placeholder": "Enter Reward Name"
+      },
+      "reward_code": {
+        "label": "Reward Code",
+        "placeholder": "Enter Reward Code"
+      },
+  
+      "notes": {
+        "label": "Notes",
+        "placeholder": "Enter notes"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Reward",
+        "edit": "Edit Reward",
+        "details": "Reward Details",
+        "status": "Status Reward"
+      }
+    },
+    "btns": {
+      "new": "New Reward",
+      "all": "All Rewards",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "reward": {
+      "header": "المكافآت",
+      "key": {
+        "reward_name": "اسم المكافأة",
+        "reward_code":"رمز المكافأة",
+        "notes": "ملاحظات",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "reward_name": {
+        "label": "اسم المكافأة",
+        "placeholder": "ادخل اسم المكافأة"
+      },
+      "reward_code": {
+        "label": "رمز المكافأة",
+        "placeholder": "ادخل رمز المكافأة"
+      },
+  
+      "notes": {
+        "label": "ملاحظات",
+        "placeholder": "ادخل ملاحظات"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "مكافأة جديدة",
+        "edit": "تعديل المكافأة",
+        "details": "تفاصيل المكافأة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "مكافأة جديدة",
+      "all": "كل المكافآت",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

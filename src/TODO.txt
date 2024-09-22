@@ -1,0 +1,141 @@
+****************************************************
+=============== Ophthalmic Logic  issues ===========
+****************************************************
+
+\\ check ==> nva , dva position in store and validation Object ??? remove ==> done
+\\ test by the backend api
+\\ display and highlight backend errors
+
+****************************************************
+=============== Ophthalmic Design  issues ==========
+****************************************************
+
+\\ anterior tab Boxes ????  ?? ??
+
+
+****************************************************
+=============== Global Logic  issues ===============
+****************************************************
+
+
+****************************************************
+=============== Global Design issues ===============
+****************************************************
+\\ typography issue 
+
+\\ dropdown scroll in edit dialog ??? ???
+
+\\ Auto-Growing Inputs & Textarea
+    https://css-tricks.com/auto-growing-inputs-textareas/
+
+\\ global circle action buttons (add,edit,delete,upload,etc..)
+
+\\ customdropmenu;
+    font-family:issue-in
+    \\ balance like ortho
+
+\\ Dosage Cascade Design Enhancement
+
+
+
+
+****************************************************
+RX,Referral,surgery book,form, ===> recall,summary
+****************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************
+=============== physiotherapy Logic  issues ===========
+****************************************************
+Body Composition Analysis {
+    h :"gradient bg,
+    table :{
+        staticText:"bold"
+        borders:"+width,color as text"
+        headings :"gradient bg",
+        normalRange:"gradient bg",
+        textResults:"success,bold,boxShadow",
+        units:"text-light-weight
+    }
+}
+Health Score:{
+    dividers,
+}
+Segmental Lean, Fat:{
+    indicators
+}
+
+****************************************************
+=============== physiotherapy Design  issues ==========
+****************************************************
+
+\\ anterior tab Boxes ????  ?? ??
+
+
+****************************************************
+=============== Global Logic  issues ===============
+****************************************************
+
+
+****************************************************
+=============== Global Design issues ===============
+****************************************************
+\\ typography issue 
+
+\\ dropdown scroll in edit dialog ??? ???
+
+\\ Auto-Growing Inputs & Textarea
+    https://css-tricks.com/auto-growing-inputs-textareas/
+
+\\ global circle action buttons (add,edit,delete,upload,etc..)
+
+\\ customdropmenu;
+    font-family:issue-in
+    \\ balance like ortho
+
+\\ Dosage Cascade Design Enhancement
+
+
+
+
+****************************************************
+RX,Referral,surgery book,form, ===> recall,summary
+****************************************************
+javascript interview questions
+
+http://es6-features.org/#StringSearching
+https://www.javascript.com/resources
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+https://www.udacity.com/course/intro-to-javascript--ud803
+https://www.geeksforgeeks.org/javascript-interview-questions-and-answers/
+https://www.interviewbit.com/javascript-interview-questions/
+https://www.toptal.com/javascript/interview-questions
+calculate steps to km
+https://www.thecalculatorsite.com/health/km-steps.php
+how to caculate MET?
+https://chat.openai.com/c/0a8d524f-f41b-4716-80fb-f9028cd59b41
+//////////////////////////vue.js/////////////////////////
+https://www.youtube.com/watch?v=77rJ4g_aElU&list=PLS1QulWo1RIZfX3S8jlqGC7vZrJd4QzBG&index=19
+////////////////////////vuejs website//////////////////////////
+https://www.koderhq.com/tutorial/vue/
+/////////////////console.cloud.google.com//////////////
+https://console.cloud.google.com/getting-started?hl=ar&pli=1
+////////////////////browserstack/////////////////////////////////////
+https://www.browserstack.com/guide/what-is-browser
+/////////////////////////////////////////////
+User
+render an item based on a condition and function returned value using v-if  use booking function

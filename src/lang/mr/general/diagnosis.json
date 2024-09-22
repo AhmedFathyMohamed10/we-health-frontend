@@ -1,0 +1,62 @@
+{
+  "en": {
+    "chiefComplaint":{
+      "complaint": {
+        "label": "Complaint",
+        "placeholder": "Complaint"
+      },
+      "comment": {
+        "label": "Comment",
+        "placeholder": "comment"
+      }
+    },
+    "diagnosis":{
+      "type":{
+        "label": "Type",
+        "placeholder": "Select"
+      },
+      "diagnose":{
+        "label": "Diagnose",
+        "placeholder": "Search Or Insert"
+      },
+      "condition":{
+        "label": "Condition",
+        "placeholder": "Select"
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "text..."
+      }
+    }
+  },
+  "ar": {
+    "chiefComplaint":{
+      "complaint": {
+        "label": "Complaint",
+        "placeholder": "Complaint"
+      },
+      "comment": {
+        "label": "Comment",
+        "placeholder": "comment"
+      }
+    },
+    "diagnosis":{
+      "type":{
+        "label": "Type",
+        "placeholder": "Select"
+      },
+      "diagnose":{
+        "label": "Diagnose",
+        "placeholder": "Search Or Insert"
+      },
+      "condition":{
+        "label": "Condition",
+        "placeholder": "Select"
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "text..."
+      }
+    }
+  }
+}

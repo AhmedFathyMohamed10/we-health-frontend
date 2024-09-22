@@ -1,0 +1,117 @@
+{
+  "en": {  
+    "unit": {
+      "header": "Unit",
+      "key": {
+        "name_en": "Name EN",
+        "name_ar": "Name AR",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "Name EN",
+        "placeholder": "Enter Name EN"
+      },
+      "name_ar": {
+        "label": "Name AR",
+        "placeholder": "Enter Other Name"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Unit",
+        "edit": "Edit Unit",
+        "details": "Unit Details",
+        "status": "Status Unit"
+      }
+    },
+    "btns": {
+      "new": "New Unit",
+      "all": "All Units",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "unit": {
+      "header": "وحدات",
+      "key": {
+        "name_en": "اسم إنجليزي",
+        "name_ar": "اسم عربي",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+      "form": {
+        "name_en": {
+          "label": "اسم إنجليزي",
+          "placeholder": "ادخل اسم إنجليزي"
+        },
+        "name_ar": {
+          "label": "اسم عربي",
+          "placeholder": "ادخل اسم عربي"
+        }
+    },
+    "dialog": {
+      "header": {
+        "new": "وحده جديده",
+        "edit": "تعديل الوحده",
+        "details": "تفاصيل الوحده",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "وحده جديده",
+      "all": "كل الوحدات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

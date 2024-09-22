@@ -1,0 +1,325 @@
+{
+    "en":{
+      "login":{
+        "drname":"Dr Wail's Lab ",
+        "CashierNamePlaceholder":"Cashier Name Ahmed Mohesn",
+        "CashierName":"Cashier Name  ",
+        "signin":"Sign in"
+
+      },
+      "cashPoint":{
+          "header":"CashPoint",
+          "patientName":{
+              "label":"Patient Name",
+              "placeholder":"Patient Name"
+
+          },
+          "insurance":"Insurance",
+          "labPatient":"LabPatient",
+          "PatientWallet":{
+              "label": "Patient Wallet",
+              "value":"00",
+              "exp":"EGP"
+        
+            } ,
+            "lastOperation":{
+              "label": "Last Operation",
+              "value":"D/M/Y "
+            },
+            "insurancySync":{
+              "label": " Insurancy Sync",
+              "value":"Comp "
+            },
+            "testName": {
+              "label": "Test Name",
+              "placeholder": "Search"
+            },
+            "sample":{
+              "label": "Test Code",
+              "placeholder": "154548/123"
+            },
+            "assignedTechnician":{
+              "label": "Assigned Technician",
+              "placeholder": "Search"
+            },
+            "assignedNurse":{
+              "label": "Assigned Nurse",
+              "placeholder": "Search"
+            },
+            "price": {
+              "label": "Price",
+              "placeholder": "12   EGP",
+              "placeholdereValue":"Text..."
+            },
+            "discount": {
+              "label": "Discount",
+              "placeholder": "Amount",
+              "placeholderValue": "00 ",
+              "dropdownPlaceholder": "% "
+      
+            },
+            "invoice":{
+              "header":"Invoice",
+              "invoiceNo":{
+                "label":"Invoice No.",
+                "value":"#1254841234451"
+              },
+              "date":{
+                "label":"Date:" 
+              },
+              "clientName":{
+                "label":"Client Name:" ,
+                "name":"Ahmed Mohesn"
+              },
+              "accountName":{
+                "label":"Account Name:" ,
+                "name":"Mohamed Mohesn"
+              },
+              "CashierName":{
+                "label":"Cashier Name:" ,
+                "name":"Ahmed Mohesn"
+              },
+              "itemNumber":{
+                "label":"Item Number:" ,
+                "num":" 3"
+              },
+              "sum":{
+                "label":"Sum:" ,
+                "value":" 200.00 EGP"
+              },
+          
+              "totalAmount":{
+                "label":"Total Amount:" ,
+                "value":" 180.00 EGP"
+              },
+              "remaining":{
+                "label":"Remaining",
+                "value":" 00.00 EGP"
+              },
+              "preview":{
+                "label":"Preview" 
+              },
+              "print":{
+                "label":"Print" 
+              },
+              "done":{
+                "label":"Done" 
+              },
+              "cancel":{
+                "label":"Cancel"
+              },
+              "totalDiscount": {
+                  "label": "Total Discount :",
+                  "labelhide":" ",
+                  "placeholder": "00 ",
+                  "dropdownPlaceholder": " % ",
+                  "value":" 50.00 EGP"
+                  
+          
+                },
+                "amount": {
+                  "label1": "Amount",
+                  "label2": "Remaining",
+                  "dropdownPlaceholder": "15 items ",
+                  "placeholder": "00.00    EGP",
+                  "value":" 180.00 EGP"
+          
+          
+                },
+                "vat": {
+                  "label": "VAT :",
+                  "labelhide":" ",
+                  "placeholder": "00 ",
+                  "dropdownPlaceholder": "% ",
+                  "value":" 30.00 EGP"
+          
+                },
+                "dueDate": {
+                  "label": "Due Date",
+                  "placeholder": "22/2/2023 "
+          
+                },
+                "note": {
+                  "label": "Invoice Note",
+                  "placeholder": "TEXT... "
+          
+                },
+                "paymentMethod": {
+                  "label": "Payment Method",
+                  "dropdownPlaceholder": "Cash "
+          
+                }
+      
+          },
+          "cashback":{
+            
+            "label":"CashBack",
+            "reviewer":"Reviewer",
+            "nameReviewer":"Hamo..",
+            "nameCashier":"Hamo...",
+            "Cashier":"Cashier",
+            "cashDoor":"Cash Door"
+            
+          }
+
+      },
+      "callCenter":{
+
+      },
+      "insurance":{
+
+      }
+
+    },
+
+    "ar":{
+      "login":{
+        "drname":"معمل الدكتور وائل ",
+        "CashierName":"اسم كاشير ",
+        "CashierNamePlaceholder":"اسم كاشير أحمد محسن",
+        "signin":"تسجيل الدخول"
+
+      },
+      "cashPoint":{
+          "header":"آلة صرف النقود",
+          "patientName":{
+              "label":"اسم المريض",
+              "placeholder":"اسم المريض"
+
+          },
+          "insurance":"تأمين",
+          "labPatient":"مريض المختبر",
+          "PatientWallet":{
+              "label": "محفظة المريض ",
+              "value":"00",
+              "exp":"جنيه مصري"
+        
+            } ,
+            "lastOperation":{
+              "label": "العملية الأخيرة",
+              "value":"D/M/Y"
+            },
+            "insurancySync":{
+              "label": " مزامنة التأمين",
+              "value":"شركات "
+            },
+            "testName": {
+              "label": "اسم الاختبار",
+              "placeholder": "يبحث"
+            },
+            "sample":{
+              "label": "عينة من الرموز",
+              "placeholder": "١٥٤٥٤٨/١٢٣"
+            },
+            "assignedTechnician":{
+              "label": "فني معين",
+              "placeholder": "يبحث"
+            },
+            "assignedNurse":{
+              "label": " ممرضة معينة",
+              "placeholder": "يبحث"
+            },
+            "price": {
+              "label": "سعر",
+              "placeholder": "12 ج",
+              "placeholdereValue":"نص..."
+            },
+            "discount": {
+              "label": "تخفيض",
+              "placeholder": "كمية",
+              "placeholderValue": "00 ",
+              "dropdownPlaceholder": "% "
+      
+            },
+            "invoice":{
+              "header":"فاتورة",
+              "invoiceNo":{
+                "label":"رقم الفاتورة.",
+                "value":"#١٢٥٤٨٤١٢٣٤٤٥١"
+              },
+              "accountName":{
+                "label":"اسم الحساب:" ,
+                "name":"محمد محسن"
+              },
+              "CashierName":{
+                "label":"اسم كاشير:" ,
+                "name":"احمد محسن"
+              },
+              "itemNumber":{
+                "label":"رقم الشيء:" ,
+                "num":" 3"
+              },
+              "sum":{
+                "label":"مجموع:" ,
+                "value":" 200.00 جنيه"
+              },
+          
+              "totalAmount":{
+                "label":"المبلغ الإجمالي:" ,
+                "value":" 180.00 جنيه"
+              },
+              "remaining":{
+                "label":"متبقي",
+                "value":" 00.00 جنيه"
+              },
+              "preview":{
+                "label":"معاينة" 
+              },
+              "print":{
+                "label":"طباعة" 
+              },
+              "done":{
+                "label":"حفظ" 
+              },
+              "cancel":{
+                "label":"يلغي"
+              },
+              "totalDiscount": {
+                  "label": " إجمالي الخصم:",
+                  "placeholder": "00.00    جنيه مصري",
+                  "dropdownPlaceholder": " % "
+          
+                },
+                "amount": {
+                  "label1": "كمية",
+                  "label2": "متبقي",
+                  "dropdownPlaceholder": "15 مادة ",
+                  "placeholder": "00.00    جنيه مصري"
+          
+          
+                },
+                "vat": {
+                  "label": "ضريبة القيمة المضافة:",
+                  "placeholder": "00 ",
+                  "dropdownPlaceholder": "% "
+          
+                },
+                "dueDate": {
+                  "label": "تاريخ الاستحقاق",
+                  "placeholder": "22/2/2023 "
+          
+                },
+                "note": {
+                  "label": "ملاحظة الفاتورة",
+                  "placeholder": "نص..."
+          
+                },
+                "paymentMethod": {
+                  "label": " طريقة الدفع او السداد",
+                  "dropdownPlaceholder": " نقدي "
+          
+                }
+      
+          },
+          "cashback":{
+            "label":"استرداد النقود",
+            "reviewer":"المراجع",
+            "nameReviewer":"حمو.",
+            "nameCashier":"حمو...",
+            "Cashier":" كاشير",
+            "cashDoor":"باب النقدية"
+          }
+
+      }
+    }
+}

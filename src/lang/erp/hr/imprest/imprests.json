@@ -1,0 +1,221 @@
+{
+    "en": {
+        "monthly":"monthly",
+        "Imprest":{
+            "header": "Imprest",
+            "key":{
+                "reason":"Reason",
+                "due_date":"Due Date",
+                "amount":"Amount",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at",
+                "description":"Description",
+                "liability_amount" :"Liability Amount"
+            }
+        },
+        "form":{
+            "reason":{
+                "label":"Reason",
+                "placeholder":"Enter Reason"
+            },
+            
+            "liability_amount":{
+                "label":"Liability Amount",
+                "placeholder":"Enter Liability Amount"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            },
+            "from_date":{
+                "label":"From"
+            },
+            "to_date":{
+                "label":"To"
+            },
+            "due_date":{
+                "label":"Due Date",
+                "placeholder":"Enter Due Date"
+            },
+            "amount":{
+                "label":"Amount",
+                "placeholder":"Enter Amount"
+            },
+            "status":{
+                "label":"Status",
+                "placeholder":"Enter Status"
+            },
+            "employee_name":{
+                "label":"Employee",
+                "placeholder":"Enter Employee Name"
+            },
+            "department_name":{
+                "label":"Department",
+                "placeholder":"Enter Department Name"
+            },
+            "direct_manager":{
+                "label":"Direct Manager",
+                "placeholder":"Enter Direct Manager"
+            },
+            "reviewer":{
+                "label":"Reviewer",
+                "placeholder":"Reviewer"
+            },
+            "beneficiary":{
+                "label":"Beneficiary",
+                "placeholder":"Beneficiary"
+            }
+            
+            
+            
+        },
+        "dialog":{
+            "header":{
+                "new":"New Imprest",
+                "edit":"Edit Imprest",
+                "details":"Imprest Details",
+                "status":"Status Imprest"
+            }
+        },
+        "btns":{
+            "new":"New Imprest",
+            "all":"All Imprests",
+            "search": "Search",
+            "delete": "Delete",
+            "details" : "Details",
+            "approved":"Approved",
+            "rejected":"Rejected",
+            "new_Official_Imprest":"New Official Imprest"
+        },
+        "status":{
+            "approved":"Approved",
+            "rejected":"Rejected",
+            "under_review":"Under Review",
+            "all":"all"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "monthly":"شهريا",
+        "Imprest":{
+            "header":"السلف",
+            "key":{
+                "reason":"سبب السلفة",
+                "due_date":"تاريخ استحقاق السلفة",
+                "amount":"قيمة السلفة",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في",
+                "description":"الوصف",
+                "liability_amount" :"قيمة الخصم"
+            }
+        },
+        "form":{
+            "reason":{
+                "label":"سبب السلفة",
+                "placeholder":"ادخل سبب السلفة"
+            },
+            "from_date":{
+                "label":"من"
+            },
+            "liability_amount":{
+                "label":"قيمة الخصم",
+                "placeholder":"ادخل قيمة الخصم"
+            },
+            "to_date":{
+                "label":"الي"
+            },
+            "due_date":{
+                "label":"تاريخ السلفة",
+                "placeholder":"ادخل تاريخ السفة"
+            },
+            "amount":{
+                "label":"قيمة السلفة",
+                "placeholder":"ادخل قيمة السلفة "
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "status":{
+                "label":"الحالة",
+                "placeholder":"الحالة"
+            },
+            "employee_name":{
+                "label":"اسم الموظف",
+                "placeholder":"اسم الموظف"
+            },
+            "department_name":{
+                "label":"القسم",
+                "placeholder":"القسم"
+            },
+            "direct_manager":{
+                "label":"المدير المباشر",
+                "placeholder":"المباشر المدير"
+            },
+            "reviewer":{
+                "label":"المراجع",
+                "placeholder":"المراجع "
+            },
+            "beneficiary":{
+                "label":"المستفيد",
+                "placeholder":"المستفيد"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"سلفة جديد",
+                "edit":"تعديل السلفة",
+                "details":"تفاصيل السلفة",
+                "delete":"حذف",
+                "status":"تغيير الحالة"
+            }
+        },
+        "btns":{
+            "new":"سلفة جديد",
+            "all":"كل السلف",
+            "search": "بحث",
+            "delete": "حذف",
+            "approved":"مقبولة",
+            "rejected":"مرفوضة",
+            "details" : "تفاصيل",
+            "new_Official_vacation":"اضافة سلفة رسمية"
+        },
+        "status":{
+            "approved":" مقبولة",
+            "rejected":"مرفوضة  ",
+            "under_review" :"تحت المراجعة",
+            "all":"الجميع"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

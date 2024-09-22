@@ -1,0 +1,188 @@
+{
+  "en": {
+    "tonometry": {
+      "header": "Tonometry",
+      "heading": "Tonometry IOP",
+      "test": {
+        "label": "Test",
+        "placeholder": "Select"
+      },
+      "drug": {
+        "label": "Drug",
+        "placeholder": "Select"
+      },
+      "time": {
+        "label": "Time",
+        "placeholder": "--,--"
+      },
+      "pachymetry": {
+        "label": "Pachymetry",
+        "placeholder": "Enter No."
+      },
+      "pachCor": {
+        "label": "PachCor",
+        "placeholder": "Enter No."
+      },
+      "tension": {
+        "label": "Tension"
+      },
+      "adjTn": {
+        "label": "ADJ Tn"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      },
+      "eyesLabels": {
+        "od": {
+            "label": "O.D"
+        },
+        "os": {
+            "label": "O.S"
+        }
+      }
+    },
+    "biomicroscopy": {
+      "header": "Biomicroscopy",
+      "odImage": "O.D",
+      "osImage": "O.S",
+      "odSegImage": "O.D Seg",
+      "osSegImage": "O.S Seg",
+      "notationOsImage": "O.S",
+      "lid": "Lid/Lashes",
+      "conjunctiva": "Conjunctiva",
+      "cornea": "Cornea",
+      "ac": "AC",
+      "viterous": "Vitreous",
+      "iris": "Iris",
+      "eyeColour": "Eye Colour",
+      "lens": "Lens",
+      "angle": "Angle",
+      "tbut": "TBUT",
+      "tvol": "TVOL",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "gonioscopy": {
+      "header": "Gonioscopy",
+      "odImage": "O.D",
+      "osImage": "O.S",
+      "selection": {
+        "placeholder": "Select",
+        "label": "Select"
+      },
+      "number": {
+        "placeholder": "+1",
+        "label": "number"
+      },
+      "iris": {
+        "label": "Iris",
+        "placeholder": "Flat / Clear"
+      },
+      "lens": {
+        "label": "Lens",
+        "placeholder": "Clear"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+
+    }
+  },
+  "ar": {
+    "tonometry": {
+      "header": "Tonometry",
+      "heading": "Tonometry IOP",
+      "test": {
+        "label": "Test",
+        "placeholder": "Select"
+      },
+      "drug": {
+        "label": "Drug",
+        "placeholder": "Select"
+      },
+      "time": {
+        "label": "Time",
+        "placeholder": "--,--"
+      },
+      "pachymetry": {
+        "label": "Pachymetry",
+        "placeholder": "Enter No."
+      },
+      "pachCor": {
+        "label": "PachCor",
+        "placeholder": "Enter No."
+      },
+      "tension": {
+        "label": "Tension"
+      },
+      "adjTn": {
+        "label": "ADJ Tn"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      },
+      "eyesLabels": {
+        "od": {
+            "label": "O.D"
+        },
+        "os": {
+            "label": "O.S"
+        }
+      }
+    },
+    "biomicroscopy": {
+      "header": "Biomicroscopy",
+      "odImage": "O.D",
+      "osImage": "O.S",
+      "odSegImage": "O.D Seg",
+      "osSegImage": "O.S Seg",
+      "notationOsImage": "O.S",
+      "lid": "Lid/Lashes",
+      "conjunctiva": "Conjunctiva",
+      "cornea": "Cornea",
+      "ac": "AC",
+      "viterous": "Vitreous",
+      "iris": "Iris",
+      "eyeColour": "Eye Colour",
+      "lens": "Lens",
+      "angle": "Angle",
+      "tbut": "TBUT",
+      "tvol": "TVOL",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "gonioscopy": {
+      "header": "Gonioscopy",
+      "odImage": "O.D",
+      "osImage": "O.S",
+      "selection": {
+        "placeholder": "Select",
+        "label": "Select"
+      },
+      "number": {
+        "placeholder": "+1",
+        "label": "number"
+      },
+      "iris": {
+        "label": "Iris",
+        "placeholder": "Flat / Clear"
+      },
+      "lens": {
+        "label": "Lens",
+        "placeholder": "Clear"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+
+    }
+  }
+}

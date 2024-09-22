@@ -1,0 +1,56 @@
+{
+  "en":{
+    "header":{
+      "title":"Pulse Rate",
+      "insert":"New Pulse Rate Record",
+      "update":"Update Pulse Rate Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      }
+    },
+    "reference":{
+      "title":"Reference",
+      "value":"60 - 100 beat/minute",
+      "result":"Result"
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+
+    "last":"Last Result:"
+  },
+  "ar":{
+    "header":{
+      "title":"معدل النبض",
+      "insert":"سجل معدل النبض الجديد",
+      "update":"تحديث سجل معدل النبض"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "Note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      }
+    },
+    "reference":{
+      "title":"مرجع",
+      "value":"60 - 100 نبضة/دقيقة",
+      "result":"نتيجة"
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة :"
+  }
+  
+}

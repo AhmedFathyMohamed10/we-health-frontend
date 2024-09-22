@@ -1,0 +1,512 @@
+{
+    "en": {
+        "infertility": {
+            "header":"Infertility",
+            "duration": {
+                "label": "Duration",
+                "valuePlaceholder": "No.",
+                "dropdownPlaceholder": "Select"
+            },
+            "semen": {
+                "label": "Semen",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "wife": {
+                "label": "Wife",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "cycle": {
+                "label": "Cycle",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "ultraSound": {
+                "label": "UltraSound",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "hsg": {
+                "label": "Hsg",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "rightTube": {
+                "label": "RightTube",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "leftTube": {
+                "label": "LeftTube",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "laparoscopy": {
+                "label": "Laparoscopy",
+                "placeholder": "Select"
+            }
+        },
+        "hormone": {
+            "header":"Hormones Proportions",
+            "count": {
+                "label": "Count",
+                "placeholder": "No."
+            },
+            "gradeA": {
+                "label": "GradeA",
+                "placeholder": "No."
+            },
+            "gradeB": {
+                "label": "GradeB",
+                "placeholder": "No."
+            },
+            "other": {
+                "label": "Other",
+                "placeholder": "Text..."
+            },
+            "lh": {
+                "label": "Lh",
+                "placeholder": "No."
+            },
+            "fsh": {
+                "label": "Fsh",
+                "placeholder": "No."
+            },
+            "tsh": {
+                "label": "Tsh",
+                "placeholder": "No."
+            },
+            "amh": {
+                "label": "Amh",
+                "placeholder": "No."
+            },
+            "prolactin": {
+                "label": "Prolactin",
+                "placeholder": "No."
+            },
+            "progestron": {
+                "label": "Progestron",
+                "placeholder": "No."
+            },
+            "e2": {
+                "label": "E2",
+                "placeholder": "No."
+            }
+        },
+        "folliculometry": {
+            "header":"Folliculometry",
+            "lmp": {
+                "label": "Lmp",
+                "placeholder": "Select"
+            },
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },
+            "day": {
+                "label": "Day",
+                "placeholder": "No."
+            },
+            "rightOv": {
+                "label": "RightOv",
+                "placeholder": "text"
+            },
+            "rFollicles": {
+                "label": "R.Follicles",
+                "placeholder": "text"
+            },
+            "rSize": {
+                "label": "R. Size",
+                "placeholder": "text"
+            },
+            "leftOv": {
+                "label": "Left Ov",
+                "placeholder": "text"
+            },
+            "lFollicles": {
+                "label": "L.Follicles",
+                "placeholder": "text"
+            },
+            "lSize": {
+                "label": "L.Size",
+                "placeholder": "text"
+            },
+            "endometrium": {
+                "label": "Endometrium",
+                "placeholder": "text"
+            },
+            "dp": {
+                "label": "Dp",
+                "placeholder": "text"
+            },
+            "modifications": {
+                "label": "Modifications",
+                "placeholder": "text"
+            },
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "pid": {
+            "header":"PID",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "cervix": {
+                "label": "Cervix",
+                "placeholder": "Text..."
+            },  
+            "uterus": {
+                "label": "Uterus",
+                "placeholder": "Text..."
+            }, 
+            "ovaries": {
+                "label": "Ovaries",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "contraception": {
+            "header":"Contraception",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "pills": {
+                "label": "Pills",
+                "placeholder": "Text..."
+            },  
+            "loop": {
+                "label": "Loop",
+                "placeholder": "Text..."
+            }, 
+            "injection": {
+                "label": "Injection",
+                "placeholder": "Text..."
+            }, 
+            "implanon": {
+                "label": "Implanon",
+                "placeholder": "Text..."
+            }, 
+            "local": {
+                "label": "Local",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "pBleeding": {
+            "header":"P Bleeding",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "fibroid": {
+                "label": "Fibroid",
+                "placeholder": "Text..."
+            },  
+            "endometrium": {
+                "label": "Endometrium",
+                "placeholder": "Text..."
+            }, 
+            "rightOv": {
+                "label": "Right OV",
+                "placeholder": "Text..."
+            }, 
+            "leftOv": {
+                "label": "Left OV",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "pmBleeding": {
+            "header":"PM Bleeding",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "fibroid": {
+                "label": "Fibroid",
+                "placeholder": "Text..."
+            },  
+            "endometrium": {
+                "label": "Endometrium",
+                "placeholder": "Text..."
+            }, 
+            "ovaries": {
+                "label": "Ovaries",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        }
+    },
+    "ar": {
+        "infertility": {
+            "header":"Infertility",
+            "duration": {
+                "label": "Duration",
+                "valuePlaceholder": "No.",
+                "dropdownPlaceholder": "Select"
+            },
+            "semen": {
+                "label": "Semen",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "wife": {
+                "label": "Wife",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "cycle": {
+                "label": "Cycle",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "ultraSound": {
+                "label": "UltraSound",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "hsg": {
+                "label": "Hsg",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "rightTube": {
+                "label": "RightTube",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "leftTube": {
+                "label": "LeftTube",
+                "placeholder": "Select",
+                "otherPlaceholder": "Other Value"
+            },
+            "laparoscopy": {
+                "label": "Laparoscopy",
+                "placeholder": "Select"
+            }
+        },
+        "hormone": {
+            "header":"Hormones Proportions",
+            "count": {
+                "label": "Count",
+                "placeholder": "No."
+            },
+            "gradeA": {
+                "label": "GradeA",
+                "placeholder": "No."
+            },
+            "gradeB": {
+                "label": "GradeB",
+                "placeholder": "No."
+            },
+            "other": {
+                "label": "Other",
+                "placeholder": "Text..."
+            },
+            "lh": {
+                "label": "Lh",
+                "placeholder": "No."
+            },
+            "fsh": {
+                "label": "Fsh",
+                "placeholder": "No."
+            },
+            "tsh": {
+                "label": "Tsh",
+                "placeholder": "No."
+            },
+            "amh": {
+                "label": "Amh",
+                "placeholder": "No."
+            },
+            "prolactin": {
+                "label": "Prolactin",
+                "placeholder": "No."
+            },
+            "progestron": {
+                "label": "Progestron",
+                "placeholder": "No."
+            },
+            "e2": {
+                "label": "E2",
+                "placeholder": "No."
+            }
+        },
+        "folliculometry": {
+            "header":"Folliculometry",
+            "lmp": {
+                "label": "Lmp",
+                "placeholder": "Select"
+            },
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },
+            "day": {
+                "label": "Day",
+                "placeholder": "No."
+            },
+            "rightOv": {
+                "label": "RightOv",
+                "placeholder": "text"
+            },
+            "rFollicles": {
+                "label": "R.Follicles",
+                "placeholder": "text"
+            },
+            "rSize": {
+                "label": "R. Size",
+                "placeholder": "text"
+            },
+            "leftOv": {
+                "label": "Left Ov",
+                "placeholder": "text"
+            },
+            "lFollicles": {
+                "label": "L.Follicles",
+                "placeholder": "text"
+            },
+            "lSize": {
+                "label": "L.Size",
+                "placeholder": "text"
+            },
+            "endometrium": {
+                "label": "Endometrium",
+                "placeholder": "text"
+            },
+            "dp": {
+                "label": "Dp",
+                "placeholder": "text"
+            },
+            "modifications": {
+                "label": "Modifications",
+                "placeholder": "text"
+            },
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "pid": {
+            "header":"PID",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "cervix": {
+                "label": "Cervix",
+                "placeholder": "Text..."
+            },  
+            "uterus": {
+                "label": "Uterus",
+                "placeholder": "Text..."
+            }, 
+            "ovaries": {
+                "label": "Ovaries",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "contraception": {
+            "header":"Contraception",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "pills": {
+                "label": "Pills",
+                "placeholder": "Text..."
+            },  
+            "loop": {
+                "label": "Loop",
+                "placeholder": "Text..."
+            }, 
+            "injection": {
+                "label": "Injection",
+                "placeholder": "Text..."
+            }, 
+            "implanon": {
+                "label": "Implanon",
+                "placeholder": "Text..."
+            }, 
+            "local": {
+                "label": "Local",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "pBleeding": {
+            "header":"P Bleeding",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "fibroid": {
+                "label": "Fibroid",
+                "placeholder": "Text..."
+            },  
+            "endometrium": {
+                "label": "Endometrium",
+                "placeholder": "Text..."
+            }, 
+            "rightOv": {
+                "label": "Right OV",
+                "placeholder": "Text..."
+            }, 
+            "leftOv": {
+                "label": "Left OV",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        },
+        "pmBleeding": {
+            "header":"PM Bleeding",
+            "date": {
+                "label": "Date",
+                "placeholder": "Select"
+            },  
+            "fibroid": {
+                "label": "Cervix",
+                "placeholder": "Text..."
+            },  
+            "endometrium": {
+                "label": "Uterus",
+                "placeholder": "Text..."
+            }, 
+            "ovaries": {
+                "label": "Ovaries",
+                "placeholder": "Text..."
+            }, 
+            "nextVisit": {
+                "label": "Next Visit",
+                "placeholder": "Select"
+            }
+        }
+    }
+}

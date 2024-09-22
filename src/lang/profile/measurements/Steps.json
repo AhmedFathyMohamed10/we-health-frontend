@@ -1,0 +1,97 @@
+{
+  "en":{
+    "header":{
+      "title":"Steps",
+      "insert":"New Steps Record",
+      "update":"Update Steps Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "averageSteps":{
+        "label":"Average Steps",
+        "placeholder":"No."
+      },
+      "distant":{
+        "label":"Distant",
+        "placeholderValue":"Miles",
+        "placeholder":"Km/h"
+      },
+      "speed":{
+        "label":"Speed",
+        "placeholder":"Normal"
+      },
+      "time":{
+        "label":"Time",
+        "placeholder":"00:00"
+      },
+      "caloriesBurnt":{
+        "label":"Calories Burnt",
+        "placeholder":"Kcal"
+      }
+
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "steps":"Steps",
+    "kcal":"Kcal",
+    "valueSteps":"0.47",
+    "valueKcal":"30",
+
+    "last":"Last Result:"
+  },
+  "ar":{
+    "header":{
+      "title":"خطوات",
+      "insert":"سجل الخطوات الجديدة",
+      "update":"تحديث سجل الخطوات"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "averageSteps":{
+        "label":"متوسط ​​الخطوات",
+        "placeholder":"لا."
+      },
+      "distant":{
+        "label":"بعيد",
+        "placeholderValue":"اميال",
+        "placeholder":"كم/ساعة"
+      },
+      "speed":{
+        "label":"سرعة",
+        "placeholder":"طبيعي"
+      },
+      "time":{
+        "label":"وقت",
+        "placeholder":"00:00"
+      },
+      "caloriesBurnt":{
+        "label":"سعرات حرارية محروقة",
+        "placeholder":"سعر حراري"
+      }
+
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "steps":"خطوات",
+    "kcal":"سعر حراري",
+    "valueSteps":"0.47",
+    "valueKcal":"30",
+    "last":"النتيجة الاخيرة:"
+  }
+}

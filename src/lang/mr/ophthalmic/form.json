@@ -1,0 +1,38 @@
+{
+    "en":{
+        "title":{
+            "label":"Title",
+            "placeholder":"Image Title"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"text ..."
+        },
+        "file":{
+            "label":"File",
+            "placeholder":""
+        },
+        "overAllComment":{
+            "label":"Over all comment",
+            "placeholder":"text ..."
+        }
+    },
+    "ar":{
+        "title":{
+            "label":"Title",
+            "placeholder":"Image Title"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"text ..."
+        },
+        "file":{
+            "label":"File",
+            "placeholder":""
+        },
+        "overAllComment":{
+            "label":"Over all comment",
+            "placeholder":"text ..."
+        }
+    }
+}

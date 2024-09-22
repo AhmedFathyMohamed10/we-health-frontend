@@ -1,0 +1,257 @@
+{
+  "en": {  
+    "invoice": {
+      "header": "Invoice Definitions",
+      "information": "Information",
+      "category": "Category",
+      "value": "Value",
+      "key": {
+        "name_en": "Name EN",
+        "name_ar": "Name AR",
+        "no_item": "No_item",
+        "account": "Account",
+        "note": "Note",
+        "location_code": "Location code",
+        "employee_custody": "Employee custody",
+        "parent": "Parent Location",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "invoice_name_en":{
+        "label":"Invoice Name En",
+        "placeholder":"Enter Invoice Name En"
+      },
+      "invoice_name_ar":{
+        "label":"Invoice Name Ar",
+        "placeholder":"Enter Invoice Name Ar"
+      },
+      "account":{
+        "label":"Account",
+        "placeholder":"Enter Account"
+      },
+      "invoice_type":{
+        "label":"Invoice Type",
+        "placeholder":"Enter Invoice Type"
+      },
+      "group":{
+        "label":"Group",
+        "placeholder":"Enter Group"
+      },
+      "code":{
+        "label":"Code",
+        "placeholder":"Enter Code"
+      },
+      "invoice_parent":{
+        "label":"Invoice Parent",
+        "placeholder":"Enter Invoice Parent"
+      },
+      "customer_account":{
+        "label":"Customer Account",
+        "placeholder":"Enter Customer Account"
+      },
+      "items":{
+        "label":"Items",
+        "placeholder":"Enter Items"
+      },
+      "cash_account":{
+        "label":"Cash Account",
+        "placeholder":"Enter Cash Account"
+      },
+      "discount":{
+        "label":"Discount",
+        "placeholder":"Enter Discount"
+      },
+      "vat":{
+        "label":"Vat",
+        "placeholder":"Enter Vat"
+      },
+      "gift":{
+        "label":"Gift",
+        "placeholder":"Enter Gift"
+      },
+      "description":{
+        "label":"Description",
+        "placeholder":"Enter Description"
+      },
+      "pricing_policy":{
+        "label":"Pricing Policy",
+        "placeholder":"Enter Pricing Policy"
+      },
+      "payment_type":{
+        "label":"Payment Type",
+        "placeholder":"Enter Payment Type"
+      },
+      "payment_method":{
+        "label":"Payment Method",
+        "placeholder":"Enter Payment Method"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Invoice Definition",
+        "edit": "Edit Invoice Definition",
+        "details": "Invoice Definition Details",
+        "status": "Status Invoice Definition"
+      }
+    },
+    "btns": {
+      "new": "New Invoice Definition",
+      "all": "All Invoice Definitions",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "invoice": {
+      "header": "تعريف الفاتورة",
+      "key": {
+        "invoice_name_en":"اسم الفاتورة بالانجليزي",
+        "invoice_name_ar":"اسم الفاتورة بالعربي",
+        "account":"الحساب",
+        "invoice_type":"نوع الفاتورة",
+        "group":"مجموعة الفاتورة",
+        "code":"رمز",
+        "invoice_parent":"فاتورة الاب",
+        "customer_account":"حساب العميل",
+        "items":"المواد",
+        "cash_account":"حساب نقدي",
+        "discount":"خصم",
+        "vat":"ضريبة القيمة المضافة",
+        "gift":"الهدية",
+        "description":"الوصف",
+        "pricing_policy":"سياسة التسعير",
+        "payment_type":"نوع الدفع",
+        "payment_method":"طريقة الدفع"
+      }
+    },
+    "form": {
+      "invoice_name_en":{
+        "label":"اسم الفاتورة بالانجليزي",
+        "placeholder":"أدخل اسم الفاتورة بالانجليزي"
+      },
+      "invoice_name_ar":{
+        "label":"اسم الفاتورة بالعربي",
+        "placeholder":"أدخل اسم الفاتورة بالعربي"
+      },
+      "account":{
+        "label":"الحساب",
+        "placeholder":"أدخل الحساب"
+      },
+      "invoice_type":{
+        "label":"نوع الفاتورة",
+        "placeholder":"أدخل نوع الفاتورة"
+      },
+      "group":{
+        "label":"مجموعة الفاتورة",
+        "placeholder":"أدخل مجموعة الفاتورة"
+      },
+      "code":{
+        "label":"رمز",
+        "placeholder":"أدخل رمز"
+      },
+      "invoice_parent":{
+        "label":"فاتورة الاب",
+        "placeholder":"أدخل فاتورة الاب"
+      },
+      "customer_account":{
+        "label":"حساب العميل",
+        "placeholder":"أدخل حساب العميل"
+      },
+      "items":{
+        "label":"المواد",
+        "placeholder":"أدخل المواد"
+      },
+      "cash_account":{
+        "label":"حساب نقدي",
+        "placeholder":"أدخل حساب نقدي"
+      },
+      "discount":{
+        "label":"خصم",
+        "placeholder":"أدخل خصم"
+      },
+      "vat":{
+        "label":"ضريبة القيمة المضافة",
+        "placeholder":"أدخل ضريبة القيمة المضافة"
+      },
+      "gift":{
+        "label":"الهدية",
+        "placeholder":"أدخل الهدية"
+      },
+      "description":{
+        "label":"الوصف",
+        "placeholder":"أدخل الوصف"
+      },
+      "pricing_policy":{
+        "label":"سياسة التسعير",
+        "placeholder":"أدخل سياسة التسعير"
+      },
+      "payment_type":{
+        "label":"نوع الدفع",
+        "placeholder":"أدخل نوع الدفع"
+      },
+      "payment_method":{
+        "label":"طريقة الدفع",
+        "placeholder":"أدخل طريقة الدفع"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "تعريف فاتورة جديد",
+        "edit": "تعديل تعريف الفاتورة",
+        "details": "تفاصيل تعريف الفاتورة",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "تعريف فاتورة جديد",
+      "all": "كل المواقع",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

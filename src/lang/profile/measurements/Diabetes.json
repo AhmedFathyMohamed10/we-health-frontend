@@ -1,0 +1,108 @@
+{
+  "en":{
+    "header":{
+      "title":" Diabetes ",
+      "insert":"New Diabetes Record",
+      "update":"Update Diabetes Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "random":{
+        "label":"Random",
+        "value":"Random",
+        "placeholder":"mg/dl "
+       
+      },
+      "fasting":{
+        "label":"Fasting",
+        "value":"Fasting",
+        "placeholder":"mg/dl "
+       
+      },
+      "a1c":{
+        "label":"A1C",
+        "value":"A1C",
+        "placeholder":"mg/dl "
+       
+      },
+      "glucose":{
+        "label":"Glucose",
+        "value":"Glucose",
+        "placeholder":"Beats / Minute"
+      },
+      "reference":{
+        "title":"Reference",
+        "valueRandom":"100 mg/dl ",
+        "valueFasting":"95 mg/dl ",
+        "valueA1c":"5.8%-6.2% ",
+        "valueGlucose":"110-130 mg/dl",
+        "result":"Result"
+      } 
+        
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result :" 
+  },
+  "ar":{
+    "header":{
+      "title":" السكري ",
+      "insert":"سجل جديد لمرض السكري",
+      "update":"تحديث سجل مرض السكري"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":" 85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "random":{
+        "label":"عشوائي",
+        "value":"عشوائي",
+        "placeholder":"ملجم / ديسيلتر "
+       
+      },
+      "fasting":{
+        "label":"صيام",
+        "value":"صيام",
+        "placeholder":"ملجم / ديسيلتر "
+       
+      },
+      "a1c":{
+        "label":"A1C",
+        "value":"A1C",
+        "placeholder":"ملجم / ديسيلتر "
+       
+      },
+      "glucose":{
+        "label":"الجلوكوز",
+        "value":"الجلوكوز",
+        "placeholder":"يدق / دقيقة"
+      },
+      "reference":{
+        "title":"مرجع",
+        "valueRandom":"100 ملجم/ديسيلتر ",
+        "valueFasting":"95 ملجم/ديسيلتر",
+        "valueA1c":"5.8%-6.2% ",
+        "valueGlucose":"110-130 ملجم/ديسيلتر",
+        "result":"نتيجة"
+      }
+        
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة :" 
+  }
+}

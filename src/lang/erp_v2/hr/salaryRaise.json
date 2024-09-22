@@ -1,0 +1,138 @@
+{
+  "en": {  
+    "salaryRaise": {
+      "header": "Salary Raise",
+      "key": {
+        "employee":"Employee",
+        "overTime":"Overtime",
+        "new_salary":"New Salary",
+        "due_date":"Due Date",
+        "reason":"Reason",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee",
+        "placeholder": "Enter Employee"
+      },
+      "new_salary": {
+        "label": "New Salary",
+        "placeholder": "Enter New Salary"
+      },
+      "due_date": {
+        "label": "Due Date",
+        "placeholder": "Enter Due Date"
+      },
+      "reason": {
+        "label": "Reason",
+        "placeholder": "Enter Reason"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Salary Raise",
+        "edit": "Edit Salary Raise",
+        "details": "Salary Raise Details",
+        "status": "Status Salary Raise"
+      }
+    },
+    "btns": {
+      "new": "New Salary Raise",
+      "all": "All Salary Raises",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "salaryRaise": {
+      "header": "زيادة الراتب",
+      "key": {
+        "employee":"الموظف",
+        "new_salary": "الراتب الجديد",
+        "due_date":"تاريخ الاستحقاق",
+        "reason": "السبب",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "الموظف",
+        "placeholder": "ادخل الموظف"
+      },
+      "new_salary": {
+        "label": "الراتب الجديد",
+        "placeholder": "ادخل الراتب الجديد"
+      },
+      "due_date": {
+        "label": "تاريخ الاستحقاق",
+        "placeholder": "ادخل تاريخ الاستحقاق"
+      },
+      "reason": {
+        "label": "السبب",
+        "placeholder": "ادخل السبب"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "زيادة راتب جديده",
+        "edit": "تعديل زيادة الراتب",
+        "details": "تفاصيل زيادة الراتب",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "زيادة الراتب جديده",
+      "all": "كل المجموعات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

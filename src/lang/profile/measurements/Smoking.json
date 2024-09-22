@@ -1,0 +1,137 @@
+{
+  "en":{
+    "header":{
+      "title":" Smoking ",
+      "insert":"New Smoking Record",
+      "update":"Update Smoking Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+     
+      "smoking":{
+        "value":"Smoking",
+        "label":"Smoking",
+        "placeholder":"Cigarette "
+       
+      },
+      "unit":{
+        "label":"Unit",
+        "placeholder":"Daily "
+       
+      },
+      "duration":{
+        "labelFrom":"Duration From",
+        "labelTo":"Duration To",
+        "placeholderOne":"From ",
+        "placeholderTwo":"To "
+       
+      },
+     
+      "unitRecovery":{
+        "value":"Recovery",
+        "label":"Unit ",
+        "placeholderOne":"Cigarette/Pack",
+        "placeholderTwo":"Hour/Day/Week"
+     
+      },
+     
+      "smokingScince":{
+        "label":"Smoking Scince",
+        "placeholder":"25/12/2022"
+     
+      },
+      "quittedOn":{
+        "label":"Quitted On",
+        "placeholder":"25/12/2023"
+      },
+      "lifeGained":{
+        "label":"Life Gained",
+        "placeholder":"Months"
+      }
+ 
+   },
+   "view":"View",
+   "chart":"Chart",
+   "report":"Report",
+   "last":"Last Result:" ,
+   "overallProgress":"Overall Progress",
+   "months":"3 Months",
+   "days":"17 Days",
+   "hours":"12 Hours"
+
+  },
+  "ar":{
+    "header":{
+      "title":" التدخين ",
+      "insert":"رقم قياسي جديد للتدخين",
+      "update":"تحديث سجل التدخين"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+     
+      "smoking":{
+        "label":"التدخين",
+        "value":"التدخين",
+        "placeholder":"سيجارة "
+       
+      },
+      "unit":{
+        "label":"وحدة",
+        "placeholder":"يوميًا "
+       
+      },
+      "duration":{
+        "labelFrom":"المدة من",
+        "labelTo":"المدة إلى",
+        "placeholderOne":"من ",
+        "placeholderTwo":"إلى "
+       
+      },
+     
+      "unitRecovery":{
+        "label":"وحدة ",
+        "value":"وحدة ",
+        "placeholderOne":"علبة سجائر",
+        "placeholderTwo":"ساعة/يوم/أسبوع"
+     
+      },
+     
+      "smokingScince":{
+        "label":"علم التدخين",
+        "placeholder":"25/12/2022"
+     
+      },
+      "quittedOn":{
+        "label":"استقال على",
+        "placeholder":"25/12/2023"
+      },
+      "lifeGained":{
+        "label":"الحياة المكتسبة",
+        "placeholder":"شهور"
+      }
+ 
+   },
+   "view":"منظر",
+   "chart":"جدول",
+   "report":"تقرير",
+   "last":"النتيجة الاخيرة:" ,
+   "overallProgress":"التقدم العام",
+   "months":"3 Months",
+   "days":"17 Days",
+   "hours":"12 Hours"
+  }
+}

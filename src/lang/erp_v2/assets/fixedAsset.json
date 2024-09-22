@@ -1,0 +1,345 @@
+{
+  "en": {
+    "asset": {
+      "asset": "Asset",
+      "group": "Group"
+    },
+    "fixedAssets": {
+      "age": "Month",
+      "header": "Fixed Assets",
+      "key": {
+        "name": "Name",
+        "number": "Number",
+        "group": "Group",
+        "site": "Site",
+        "age_assets": "Age Assets",
+        "starting_date": "Starting Date",
+        "Expiry_date": "Expiry Date",
+        "original_cost": "Original Cost",
+        "Estimated_value": "Estimated Value",
+        "originalAccount_data": "Original Account",
+        "value": "Number Times",
+        "selection": "Period",
+        "type_of_asset": "Type Of Asset",
+        "total_cost": "Total Cost",
+        "total_purchase_price": "Total Purchase Price",
+        "paid_from_the_purchase_price": "Paid From The Purchase Price",
+        "regular_installments": "Regular Installments",
+        "value_of_installment": "Value Of Installment",
+        "value_rent": "Value Rent",
+        "regular_rent": "Regular Rent",
+        "regular_periodic_maintenance": "Regular Periodic Maintenance",
+        "total_depreciation": "Total Depreciation",
+        "group_name": "Group",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "description": "Description",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "asset": {
+        "assetOperations": "Asset Operations",
+        "assetStatus": "Asset Status"
+      },
+      "item_name_ar": {
+        "label": "Item Name Ar",
+        "placeholder": "Enter Item Name Ar"
+      },
+      "item_name_en": {
+        "label": "Item Name En",
+        "placeholder": "Enter Item Name En"
+      },
+      "location": {
+        "label": "Location",
+        "placeholder": "Enter Location"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      },
+      "group": {
+        "label": "Group",
+        "placeholder": "Enter Group"
+      },
+      "serial": {
+        "label": "Serial",
+        "placeholder": "Enter Serial"
+      },
+      "account": {
+        "label": "Account",
+        "placeholder": "Enter Account"
+      },
+      "in_active": {
+        "label": "In Active",
+        "placeholder": "Enter In Active"
+      },
+      "in_maintenance": {
+        "label": "In Maintenance",
+        "placeholder": "Enter In Maintenance"
+      },
+      "total_destruction": {
+        "label": "Total Destruction",
+        "placeholder": "Enter Total Destruction"
+      },
+      "last_supplier": {
+        "label": "Last Supplier",
+        "placeholder": "Enter Last Supplier"
+      },
+      "employee_custody": {
+        "label": "Employee Custody",
+        "placeholder": "Enter Employee Custody"
+      },
+      "purchasing_date": {
+        "label": "Purchasing Date",
+        "placeholder": "Enter Purchasing Date"
+      },
+      "expiration_date": {
+        "label": "Expiration Date",
+        "placeholder": "Enter Expiration Date"
+      }
+    },
+    "warranty": {
+      "last_purchasing_date": {
+        "label": "Last Purchasing Date",
+        "placeholder": "Enter Last Purchasing Date"
+      },
+      "ended_in": {
+        "label": "Ended In",
+        "placeholder": "Enter Ended In"
+      }
+    },
+    "pricing": {
+      "price": {
+        "label": "Price",
+        "placeholder": "Enter Price"
+      },
+      "barcode": {
+        "label": "Barcode",
+        "placeholder": "Enter Barcode"
+      }
+    },
+    "maintenance": {
+      "last_purchasing_date": {
+        "label": "Last Purchasing Date",
+        "placeholder": "Enter Last Purchasing Date"
+      },
+      "maintenance_every": {
+        "label": "Maintenance Every",
+        "placeholder": "Enter Maintenance Every"
+      },
+      "next_maintenance": {
+        "label": "Next Maintenance",
+        "placeholder": "Enter Next Maintenance"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Fixed Assets",
+        "moveGroup": "Move Assets Group",
+        "edit": "Edit Fixed Assets",
+        "details": "Fixed Assets Details"
+      }
+    },
+    "btns": {
+      "new": "New Fixed Assets",
+      "all": "All Fixed Assets",
+      "search": "Search",
+      "delete": "Delete",
+      "show": "Show"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "asset": {
+      "asset": "الاصول",
+      "group": "مجموعه"
+    },
+    "fixedAssets": {
+      "age": "شهر",
+      "header": "الاصول الثابته",
+      "key": {
+        "number": "الرقم",
+        "group": "مجموعه الاصول",
+        "site": "الموقع",
+        "age_assets": "عمر الاصل",
+        "starting_date": "تاريخ البدء",
+        "Expiry_date": "تاريخ الانتهاء",
+        "original_cost": "التكلفه الاصليه",
+        "Estimated_value": "القيمه التقديريه",
+        "final_value": "القيمه النهائية",
+        "accumulated_depreciation": "اهتلاك منتظم",
+        "depreciationTable": "جدول الاهتلاك",
+        "depreciationTable_data": "جدول الاهتلاك",
+        "depreciationAccount_data": "حساب الاهتلاك",
+        "originalAccount_data": "حساب الاصل",
+        "regular_wear": "متراكم الاهتلاك",
+        "value": "عدد المرات",
+        "selection": "المدة",
+        "group_name": "مجموعه الاصول",
+        "description": "الوصف",
+        "type_of_asset": "نوع الأصول",
+        "total_cost": "التكلفة الإجمالية",
+        "total_purchase_price": "السعر الكلي للشراء",
+        "paid_from_the_purchase_price": "المدفوع من سعر الشراء",
+        "regular_installments": "أقساط منتظمة",
+        "value_of_installment": "قيمة القسط",
+        "value_rent": "قيمة الإيجار",
+        "regular_rent": "إيجار منتظم",
+        "regular_periodic_maintenance": "الصيانة الدورية المنتظمة",
+        "name": "الاسم",
+        "total_depreciation": "اهتلاك كلي",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "asset": {
+        "assetOperations": "عمليات الاصول",
+        "assetStatus": "حالة الأصل"
+      },
+      "item_name_ar": {
+        "label": "اسم العنصر عربي" ,
+        "placeholder": "ادخل اسم العنصر عربي"
+      },
+      "item_name_en": {
+        "label": "اسم العنصر انجليزي",
+        "placeholder": "ادخل اسم العنصر انجليزي"
+      },
+      "location": {
+        "label": "الموقع",
+        "placeholder": "ادخل الموقع"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      },
+      "group": {
+        "label": "مجموعة",
+        "placeholder": "ادخل مجموعة"
+      },
+      "serial": {
+        "label": "كود السلعة",
+        "placeholder": "ادخل كود السلعة"
+      },
+      "account": {
+        "label": "كود المحاسبة",
+        "placeholder": "ادخل كود المحاسبة"
+      },
+      "in_active": {
+        "label": "غير نشط",
+        "placeholder": "ادخل غير نشط"
+      },
+      "in_maintenance": {
+        "label": "في الصيانة",
+        "placeholder": "ادخل في الصيانة"
+      },
+      "total_destruction": {
+        "label": "تدمير كامل",
+        "placeholder": "ادخل تدمير كامل"
+      },
+      "last_supplier": {
+        "label": "المورد الأخير",
+        "placeholder": "ادخل المورد الأخير"
+      },
+      "employee_custody": {
+        "label": "عهده الموظف",
+        "placeholder": "ادخل عهده الموظف"
+      },
+      "purchasing_date": {
+        "label": "تاريخ الشراء",
+        "placeholder": "ادخل تاريخ الشراء"
+      },
+      "expiration_date": {
+        "label": "تاريخ انتهاء الصلاحية",
+        "placeholder": "ادخل تاريخ انتهاء الصلاحية"
+      }
+    },
+    "warranty": {
+      "last_purchasing_date": {
+        "label": "تاريخ الشراء الأخير",
+        "placeholder": "ادخل تاريخ الشراء الأخير"
+      },
+      "ended_in": {
+        "label": "انتهى في",
+        "placeholder": "ادخل انتهى في"
+      }
+    },
+    "pricing": {
+      "price": {
+        "label": "السعر",
+        "placeholder": "ادخل السعر"
+      },
+      "barcode": {
+        "label": "الباركود",
+        "placeholder": "ادخل الباركود"
+      }
+    },
+    "maintenance": {
+      "last_purchasing_date": {
+        "label": "تاريخ الشراء الأخير",
+        "placeholder": "ادخل تاريخ الشراء الأخير"
+      },
+      "maintenance_every": {
+        "label": "الصيانة للكل",
+        "placeholder": "ادخل الصيانة للكل"
+      },
+      "next_maintenance": {
+        "label": "الصيانة التالية",
+        "placeholder": "ادخل الصيانة التالية"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "اضافه اصول ثابته جديده",
+        "edit": " تعديل اصول ثابته",
+        "details": "تفاصيل اصول ثابته",
+        "delete": "حذف"
+      }
+    },
+    "btns": {
+      "new": "اضافه اصول ثابته",
+      "all": "كل الاصول الثابته",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+    "en":{
+      "Enter a valid email address.":"Enter a valid email address.",
+      "Updated Successfully":"Updated Successfully",
+      "Added Successfully":"Added Successfully",
+      "Deleted Successfully":"Deleted Successfully",
+      "status has been changed Successfully":"status has been changed Successfully",
+      "please select at least one record":"please select at least one record",
+        "table": {
+            "thead": {
+              "count": "#",
+              "controls": "Controls"
+            }
+          },
+          "btns": {
+            "all": "All", 
+            "add":"Add",
+            "clear":"Clear",
+            "cancel": "Cancel",
+            "save": "Save",
+            "move": "Move",
+            "close": "Close",
+            "delete": "Delete",
+            "template":"Template",
+            "no":"No",
+            "yes":"Yes"
+          },
+          "input":{
+            "value":{
+              "placeholder":"Value"
+            },
+            "selection":{"placeholder":"Select"
+            }
+
+          },
+          "dialog":{
+            "warning":"Warning!",
+            "deleteMsg":"Are You Sure You Want Delete Your Entry?",
+            "list":"List"
+
+          }
+        },
+        "ar":{
+          "Updated Successfully":"تم التعديل بنجاح",
+          "Added Successfully":"تمت الاضافة بنجاح",
+          "Deleted Successfully":"تم الحذف بنجاح",
+          "status has been changed Successfully":"تم تعديل الحالة بنجاح",
+          "please select at least one record":"من فضلك اختر علي الاقل عنصر واحد",
+          "table": {
+            "thead": {
+              "count": "#",
+              "controls": "التحكم"
+            }
+          },
+          "btns": {
+            "all": "الكل", 
+            "add":"اضافة",
+            "clear":"Clear",
+            "cancel": "الغاء",
+            "save": "حفظ",
+            "move": "تحريك",
+            "close": "غلق",
+            "delete": "مسح",
+            "template":"قالب"
+          },
+          "dialog":{
+            "warning":"تحذير!",
+            "deleteMsg":"هل انت متاكد من حذف هذا العنصر؟",
+            "list":"قائمة"
+          }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "en": {
+        "Overtime":{
+            "header": "Overtime",
+            "key":{
+                "amount":"Amount",
+                "due_date":"Due Date",
+                "reason_name":"Reason",
+                "employee_name":"Employee",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "amount":{
+                "label":"Amount",
+                "placeholder":"Enter Amount"
+            },
+            "reason":{
+                "label":"Reason",
+                "placeholder":"Enter Reason"
+            },
+            "employee":{
+                "label":"Employee",
+                "placeholder":"Enter Employee"
+            },
+            "due_date":{
+                "label":"Due Date",
+                "placeholder":"Enter Due Date"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Overtime",
+                "edit":"Edit Overtime",
+                "details":"Overtime Details"
+            }
+        },
+        "btns":{
+            "new":"New Overtime",
+            "all":"All Overtimes",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "Overtime":{
+            "header":"الوقت الاضافي",
+            "key":{
+                "amount":"القيمة",
+                "due_date":"تاريخ الاستحقاق",
+                "reason_name":"الاب",
+                "employee_name":"الموظف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "amount":{
+                "label":"القيمة",
+                "placeholder":"ادخل القيمة"
+            },
+            "due_date":{
+                "label":"تاريخ الاستحقاق",
+                "placeholder":"ادخل تاريخ الاستحقاق"
+            },
+            "reason":{
+                "label":"الاب",
+                "placeholder":"ادخل الاب"
+            },
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"اختر الموظف"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"وقت إضافي جديد",
+                "edit":"تعديل الوقت الإضافي",
+                "details":"تفاصيل الوقت الإضافي",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافة وقت إضافي",
+            "all":"كل الاوقات الإضافية",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

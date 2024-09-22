@@ -1,0 +1,504 @@
+{
+    "en": {
+      "Profile": {
+        "header": "Profile",
+        "key": {
+          "name": "Name",
+          "group": "Group",
+          "gender": "Gender",
+          "dob": "dob",
+          "profession": "Profession",
+          "marital_status": "Marital Status",
+          "phone_number": "Phone Number",
+          "other_phone_number": "Other Phone Number",
+          "home_phone_number": "Home Phone Number",
+          "address": "Address",
+          "city": "City",
+          "discount": "Discount",
+          "profit": "Profit",
+          "max_debit": "Max Debit",
+          "insurance_name": "Insurance Name",
+          "card_name": "Card Name",
+          "member_id": "Member Id",
+          "plan": "Plan",
+          "expiration_date": "Expiration Date",
+          "payment_method": "Payment Method",
+          "files": "Files",
+          "serial": "Serial",
+          "treat_as": "Treat As Client",
+          "prevent_dealing": "Prevent Dealing With",
+          "alert_dealing": "Alert When Dealing",
+          "prevent_give": "Prevent Give A Discount",
+          "alert_give": "Alert When Give A Discount",
+          "createdBy": "Created by",
+          "createdAt": "Date",
+          "updated_at": "Updated at"
+        }
+      },
+      "contract": {
+        "number": {
+          "label": "Number",
+          "placeholder": "Enter Number"
+        },
+        "type": {
+          "label": "Type",
+          "placeholder": "Enter Type"
+        },
+        "reason": {
+          "label": "Reason",
+          "placeholder": "Enter Reason"
+        },
+        "total_cost": {
+          "label": "Total Cost",
+          "placeholder": "Enter Total Cost"
+        },
+        "start_date": {
+          "label": "Start Date",
+          "placeholder": "Enter Start Date"
+        },
+        "end_date": {
+          "label": "End Date",
+          "placeholder": "Enter End Date"
+        },
+        "expiration_date": {
+          "label": "Expiration Date",
+          "placeholder": "Enter Expiration Date"
+        },
+        "accruals": {
+          "label": "Accruals",
+          "placeholder": "Enter Accruals"
+        },
+        "accrual_date": {
+          "label": "Accrual Date",
+          "placeholder": "Enter Accrual Date"
+        },
+        "randomly": {
+          "label": "Randomly",
+          "placeholder": "Enter Randomly"
+        }
+      },
+      "form": {
+        "discount": {
+          "label": "Discount",
+          "placeholder": "Enter Discount"
+        },
+        "company_name_en": {
+          "label": "Company Name En",
+          "placeholder": "Enter Company Name En"
+        },
+        "company_name_ar": {
+          "label": "Company Name Ar",
+          "placeholder": "Enter Company Name Ar"
+        },
+        "company_type": {
+          "label": "Company Type",
+          "placeholder": "Enter Company Type"
+        },
+        "company_code": {
+          "label": "Company Code",
+          "placeholder": "Enter Company Code"
+        },
+        "industry_type": {
+          "label": "Industry Type",
+          "placeholder": "Enter Industry Type"
+        },
+  
+        "group": {
+          "label": "Group",
+          "placeholder": "Enter Group"
+        },
+  
+        "phone_number": {
+          "label": "Phone Number",
+          "placeholder": "Enter Phone Number"
+        },
+        "other_phone_number": {
+          "label": "Other Phone Number",
+          "placeholder": "Enter Other Phone Number"
+        },
+  
+        "address": {
+          "label": "Address",
+          "placeholder": "Enter Address"
+        },
+        "city": {
+          "label": "City",
+          "placeholder": "Enter City"
+        },
+  
+        "profit": {
+          "label": "Profit",
+          "placeholder": "Enter Profit"
+        },
+        "max_debit": {
+          "label": "Max Debit",
+          "placeholder": "Enter Max Debit"
+        },
+        "insurance_name": {
+          "label": "Insurance Name",
+          "placeholder": "Enter Insurance Name"
+        },
+        "card_name": {
+          "label": "Card Name",
+          "placeholder": "Enter Card Name"
+        },
+        "member_id": {
+          "label": "Member Id",
+          "placeholder": "Enter Member Id"
+        },
+  
+        "expiration_date": {
+          "label": "Expiration Date",
+          "placeholder": "Enter Expiration Date"
+        },
+        "payment_method": {
+          "label": "Payment Method",
+          "placeholder": "Enter Payment Method"
+        },
+        "files": {
+          "label": "Files",
+          "placeholder": "Enter Files"
+        },
+  
+        "treat_as": {
+          "label": "Treat As Client",
+          "placeholder": "Enter Treat As Client"
+        },
+        "prevent_dealing": {
+          "label": "Prevent Dealing With",
+          "placeholder": "Enter Prevent Dealing With"
+        },
+        "alert_dealing": {
+          "label": "Alert When Dealing",
+          "placeholder": "Enter Alert When Dealing"
+        },
+        "prevent_give": {
+          "label": "Prevent Give A Discount",
+          "placeholder": "Enter Prevent Give A Discount"
+        },
+        "alert_give": {
+          "label": "Alert When Give A Discount",
+          "placeholder": "Enter Alert When Give A Discount"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Enter Email"
+        },
+        "status": {
+          "label": "Active",
+          "placeholder": "Enter Active"
+        }
+      },
+      "dialog": {
+        "b2b":{
+            "header": {
+                "b2b":"B2B",
+              "b2bGroup":"B2B Groups",
+              "new": "New B2B",
+              "move": "Move B2B",
+              "edit": "Edit B2B",
+              "details": "B2B Details",
+              "status": "Status B2B"
+            }
+        },
+        "client":{
+            "header": {
+                "clients":"Clients",
+            "clientGroup":"Client Groups",
+              "new": "New Client",
+              "move": "Move Client",
+              "edit": "Edit Client",
+              "details": "Client Details",
+              "status": "Status Client"
+            }
+        },
+        "supplier":{
+            "header": {
+                "suppliers":"Suppliers",
+            "supplierGroup":"Supplier Groups",
+              "new": "New Supplier",
+              "move": "Move Supplier",
+              "edit": "Edit Supplier",
+              "details": "Supplier Details",
+              "status": "Status Supplier"
+            }
+        },
+        "company_type": {
+            "header":{
+                "company_type":"Company Type",
+                "new": "New Company Type",
+                "edit": "Edit Company Type",
+                "details": "Company Type Details",
+                "status": "Status Company Type"
+            }
+        },
+        "contract_type": {
+            "header":{
+                "contract_type":"Contract Type",
+                "new": "New Contract Type",
+                "edit": "Edit Contract Type",
+                "details": "Contract Type Details",
+                "status": "Status Contract Type"
+            }
+        },
+        "contracts": {
+            "header":{
+                "contracts":"Contracts",
+                "new": "New Contract",
+                "edit": "Edit Contract",
+                "details": "Contract Details",
+                "status": "Status Contract"
+            }
+        }
+      },
+      "btns": {
+        "new": "New Profile",
+        "all": "All Profile",
+        "search": "Search",
+        "delete": "Delete",
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "status": {
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "messages": {
+        "status": "Confirm that the status of this item has been permanently changed?",
+        "resultsfound": "result"
+      },
+      "toast": {
+        "select": {
+          "summery": "Select",
+          "details": "Please Select at Least One Record"
+        },
+        "search": {
+          "summery": "Search",
+          "details": "Please Write a Name or Mobile Number"
+        }
+      }
+    },
+    "ar": {
+      "Profile": {
+        "header": "الشركات",
+        "key": {
+          "name": "الاسم",
+          "email": "الايميل",
+          "address": "العنوان",
+          "status": "الحاله",
+          "createdBy": "أنشئت من قبل",
+          "createdAt": "التاريخ",
+          "updated_at": "تم التحديث في"
+        }
+      },
+      "form": {
+        "discount": {
+          "label": "الخصم",
+          "placeholder": "ادخل الخصم"
+        },
+        "company_name_en": {
+          "label": "اسم الشركة باللغة الانجليزية",
+          "placeholder": "ادخل اسم الشركة باللغة الانجليزية"
+        },
+        "company_name_ar": {
+          "label": "اسم الشركة باللغة العربيه",
+          "placeholder": "ادخل اسم الشركة باللغة العربية"
+        },
+        "company_type": {
+          "label": "نوع الشركة",
+          "placeholder": "ادخل نوع الشركة"
+        },
+        "company_code": {
+          "label": "كود الشركة",
+          "placeholder": "كود الشركة"
+        },
+        "industry_type": {
+          "label": "نوع الصناعة",
+          "placeholder": "ادخل نوع الصناعة"
+        },
+  
+        "group": {
+          "label": "المجموعة",
+          "placeholder": "ادخل المجموعة"
+        },
+  
+        "phone_number": {
+          "label": "رقم التليفون",
+          "placeholder": "ادخل رقم التليفون"
+        },
+        "other_phone_number": {
+          "label": "رقم تليفون اخر",
+          "placeholder": "ادخل رقم التليفون الاخر"
+        },
+  
+        "address": {
+          "label": "العنوان",
+          "placeholder": "Enter Address"
+        },
+        "city": {
+          "label": "المدينة",
+          "placeholder": "اختر المدينة"
+        },
+  
+        "profit": {
+          "label": "الربح",
+          "placeholder": "ادخل الربح"
+        },
+        "max_debit": {
+          "label": "الحد الاقصي للخصم",
+          "placeholder": "ادخل الحد الاقصي للخصم"
+        },
+        "insurance_name": {
+          "label": "اسم التامين",
+          "placeholder": "ادخل اسم التامين"
+        },
+        "card_name": {
+          "label": "اسم الكارت",
+          "placeholder": "ادخل اسم الكارت"
+        },
+        "member_id": {
+          "label": "رقم العضو",
+          "placeholder": "ادخل رقم العضو"
+        },
+  
+        "expiration_date": {
+          "label": "تاريخ الانتهاء",
+          "placeholder": "ادخل تاريخ الانتهاء"
+        },
+        "payment_method": {
+          "label": "طرق الدفع",
+          "placeholder": "ادخل طرق الدفع"
+        },
+        "files": {
+          "label": "الملفات",
+          "placeholder": "ادخل الملفات"
+        },
+  
+        "treat_as": {
+          "label": "التعامل كعميل",
+          "placeholder": "ادخل التعامل كعميل"
+        },
+        "prevent_dealing": {
+          "label": "منع التعامل",
+          "placeholder": "ادخل منع التعامل"
+        },
+        "alert_dealing": {
+          "label": "تحذير التعامل",
+          "placeholder": "تحذير التعامل"
+        },
+        "prevent_give": {
+          "label": "منع اعطاء خصم",
+          "placeholder": "ادخل منع اعطاء خصم"
+        },
+        "alert_give": {
+          "label": "تحذير اعطاء خصم",
+          "placeholder": "ادخل تحذير اعطاء خصم"
+        },
+        "email": {
+          "label": "البريد الالكتروني",
+          "placeholder": "ادخل البريد الالكتروني"
+        },
+        "status": {
+          "label": "نشط",
+          "placeholder": "ادخل اذا كان نشط"
+        }
+      },
+      "dialog": {
+        "b2b":{
+            "header": {
+            "b2b":"الشركات",
+              "b2bGroup":"مجموعات الشركات",
+              "new": "شركة جديدة",
+              "move": "تحريك",
+              "edit": "تعديل الشركة",
+              "details": "تفاصيل الشركة",
+              "status": "حالة الشركة"
+            }
+        },
+      
+        "client":{
+            "header": {
+            "clients":"العملاء",
+                "clientGroup":"مجموعات العملاء",
+              "new": "عميل جديد",
+              "move": "تحريك العميل",
+              "edit": "تعديل العميل",
+              "details": "تفاصيل العميل",
+              "status": "حالة العميل"
+            }
+        },
+        "supplier":{
+            "header": {
+                "suppliers":"الموردين",
+                "supplierGroup":"مجموعات الموردين",
+              "new": "مورد جديد",
+              "move": "تحريك المورد",
+              "edit": "تعديل المورد",
+              "details": "تفاصيل المورد",
+              "status": "حالة المورد"
+            }
+        },
+        "header": {
+          "newProfile": "شركة جديدة",
+          "editProfile": "تعديل الشركة",
+          "details": "تفاصيل الشركة",
+          "delete": "حذف",
+          "status": "الحاله"
+        },
+        "company_type": {
+            "header":{
+            "company_type":"نوع الشركة",
+              "new": "اضافة نوع شركة جديد",
+              "edit": "تعديل نوع الشركة",
+              "details": "تفاصيل نوع الشركة",
+              "status": "حالة نوع الشركة"
+            }
+        },
+        "contract_type": {
+            "header":{
+            "contract_type":"نوع العقد",
+              "new": "اضافة نوع عقد جديد",
+              "edit": "تعديل نوع العقد",
+              "details": "تفاصيل نوع العقد",
+              "status": "حالة نوع العقد"
+            }
+        },
+        "contracts": {
+            "header":{
+                "contracts":"العقود",
+                "new": "عقد جديد",
+                "edit": "تعديل العقد",
+                "details": "تفاصيل العقد",
+                "status": "حالة العقد"
+            }
+        }
+      },
+      "btns": {
+        "new": "مورد جديد",
+        "all": "كل الموردين",
+        "search": "بحث",
+        "delete": "حذف",
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "status": {
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "messages": {
+        "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+        "resultsfound": "نتيجة"
+      },
+      "toast": {
+        "select": {
+          "summery": "تحديد",
+          "details": "الرجاء تحديد سجل واحد على الأقل"
+        },
+        "search": {
+          "summery": "بحث",
+          "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+        }
+      }
+    }
+  }
+  

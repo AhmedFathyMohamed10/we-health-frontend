@@ -1,0 +1,76 @@
+{
+  "en":{
+    "header":{
+      "title":"Blood Pressure",
+      "insert":"New Blood Pressure Record",
+      "update":"Update Blood Pressure Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "systolic":{
+        "label":"Systolic",
+        "placeholder":"85 ppm"
+       
+      },
+      "diastolic":{
+        "label":"Diastolic",
+        "placeholder":"Numbers"
+      }
+    
+    },
+    "reference":{
+      "title":"Reference",
+      "value":"120/80 mm",
+      "result":"Result"
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+
+    "last":"Last Result:"
+  },
+  "ar":{
+    "header":{
+      "title":"ضغط الدم",
+      "insert":"سجل ضغط الدم الجديد",
+      "update":"تحديث سجل ضغط الدم"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "systolic":{
+        "label":"الانقباضي",
+        "placeholder":"85 جزء في المليون"
+       
+      },
+      "diastolic":{
+        "label":"الانبساطي",
+        "placeholder":"أعداد"
+      }
+    
+    },
+    "reference":{
+      "title":"مرجع",
+      "value":"120/80 ملم",
+      "result":"نتيجة"
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+
+    "last":"النتيجة الاخيرة : (جزء في المليون)"
+  }
+}

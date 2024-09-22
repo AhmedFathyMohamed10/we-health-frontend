@@ -1,0 +1,140 @@
+{
+  "en": {
+    "account":{
+      "primaryAccount":"Primary Account",
+      "finalAccount":"Final Account",
+      "account":"Account"},
+
+    
+    "finalAccount": {
+      "header": "Final Account",
+      "key": {
+        "name_en": "Name EN",
+        "name_ar": "Name AR",
+        "serial": "Serial",
+        "parent": "Parent Final Account",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "Name EN",
+        "placeholder": "Enter Name EN"
+      },
+      "name_ar": {
+        "label": "Name AR",
+        "placeholder": "Enter Other Name"
+      },
+      "serial": {
+        "label": "Serial",
+        "placeholder": "Enter Serial"
+      },
+      "parent": {
+        "label": "Parent Final Account",
+        "placeholder": "Enter Parent Final Account"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Final Account",
+        "edit": "Edit Final Account",
+        "details": "Final Account Details",
+        "status": "Status Final Account"
+      }
+    },
+    "btns": {
+      "new": "New Final Account",
+      "all": "All Final Account",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "account":{
+      "primaryAccount":"حساب اساسي",
+      "finalAccount":"حساب ختامي",
+      "account":"حساب"},
+    "finalAccount": {
+      "header": "حساب ختامي",
+      "key": {
+        "name": "الاسم",
+        "parent": "الوصف",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "اسم ",
+        "placeholder": "ادخل اسم "
+      },
+      "parent": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      },
+      "status": {
+        "label": "نشط",
+        "placeholder": "ادخل النشاط"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "حساب ختامي جديد",
+        "edit": "تعديل حساب ختامي",
+        "details": "تفاصيل حساب ختامي",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "حساب ختامي جديد",
+      "all": "كل الحسابات الختاميه",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "en": {  
+    "allowanceDefinition": {
+      "header": "Allowance Definition",
+      "key": {
+        "allowance_name": "Allowance Name",
+        "allowance_code": "Allowance Code",
+        "account": "Account Code",
+        "description": "Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+  
+      "allowance_name": {
+        "label": "Allowance Name",
+        "placeholder": "Enter Allowance Name"
+      },
+      "allowance_code": {
+        "label": "Allowance Code",
+        "placeholder": "Enter Allowance Code"
+      },
+      "account": {
+        "label": "Account Code",
+        "placeholder": "Enter Account Code"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Allowance Definition",
+        "edit": "Edit Allowance Definition",
+        "details": "Allowance Definition Details",
+        "status": "Status Allowance Definition "
+      }
+    },
+    "btns": {
+      "new": "New Allowance Definition ",
+      "all": "All Allowance Definitions",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "allowanceDefinition": {
+      "header": "مجموعات",
+      "key": {
+        "allowance_name": "اسم البدل",
+        "allowance_code": "رمز البدل",
+        "account": "كود الحساب",
+        "description":"الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "allowance_name": {
+        "label": "اسم البدل",
+        "placeholder": "ادخل اسم البدل"
+      },
+      "allowance_code": {
+        "label": "رمز البدل",
+        "placeholder": "ادخل رمز البدل"
+      },
+      "account": {
+        "label": "كود الحساب",
+        "placeholder": "ادخل كود الحساب"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "بدل جديد",
+        "edit": "تعديل بدل",
+        "details": "تفاصيل بدل",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "بدل جديد",
+      "all": "كل البدلات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

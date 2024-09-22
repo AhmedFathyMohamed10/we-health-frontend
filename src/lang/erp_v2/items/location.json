@@ -1,0 +1,161 @@
+{
+  "en": {  
+    "location": {
+      "header": "Location",
+      "key": {
+        "name_en": "Name EN",
+        "name_ar": "Name AR",
+        "no_item": "No_item",
+        "account": "Account",
+        "note": "Note",
+        "location_code": "Location code",
+        "employee_custody": "Employee custody",
+        "parent": "Parent Location",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "Name EN",
+        "placeholder": "Enter Name EN"
+      },
+      "name_ar": {
+        "label": "Name AR",
+        "placeholder": "Enter Name Ar"
+      },
+      "employee_custody": {
+        "label": "Employee custody",
+        "placeholder": "Enter Employee custody"
+      },
+      "account": {
+        "label": "Account",
+        "placeholder": "Enter Account"
+      },
+      "location_code": {
+        "label": "Location code",
+        "placeholder": "Enter Location code"
+      },
+      "note": {
+        "label": "Note",
+        "placeholder": "Enter note"
+      },
+      "no_items": {
+        "label": "No.items"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Location",
+        "edit": "Edit Location",
+        "details": "Location Details",
+        "status": "Status Location"
+      }
+    },
+    "btns": {
+      "new": "New Location",
+      "all": "All Locations",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "Location": {
+      "header": "مجموعات",
+      "key": {
+        "name": "الاسم",
+        "parent": "الوصف",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "name_en": {
+        "label": "الاسم بالانجليزي",
+        "placeholder": "ادخل الاسم بالانجليزي"
+      },
+      "name_ar": {
+        "label": "الاسم بالعربي",
+        "placeholder": "ادخل الاسم بالعربي"
+      },
+      "employee_custody": {
+        "label": "عهده الموظف",
+        "placeholder": "ادخل عهده الموظف"
+      },
+      "account": {
+        "label": "الحساب",
+        "placeholder": "ادخل الحساب"
+      },
+      "location_code": {
+        "label": "كود الموقع",
+        "placeholder": "ادخل كود الموقع"
+      },
+      "note": {
+        "label": "ملحوظة",
+        "placeholder": "ادخل ملحوظة"
+      },
+      "no_items": {
+        "label": "رقم العناصر"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "موقع جديد",
+        "edit": "تعديل الموقع",
+        "details": "تفاصيل الموقع",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "موقع جديد",
+      "all": "كل المواقع",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

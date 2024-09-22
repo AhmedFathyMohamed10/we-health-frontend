@@ -1,0 +1,152 @@
+{
+  "en": {  
+    "shiftDefinition": {
+      "header": "Shift Definition",
+      "key": {
+        "name":"Name",
+        "shift_day":"Shift Day",
+        "work_hour":"Work Hour",
+        "shift_day_from":"Shift Day From",
+        "shift_day_to":"Shift Day To",
+        "work_hour_from":"Work Hour From",
+        "work_hour_to":"Work Hour To",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter Name"
+      },
+    
+      "shift_day_from": {
+        "label": "Shift Day From",
+        "placeholder": "From"
+      },
+      "shift_day_to": {
+        "label": "Shift Day To",
+        "placeholder": "To"
+      },
+      "work_hour_from": {
+        "label": "Work Hour From",
+        "placeholder": "..,.."
+      },
+      "work_hour_to": {
+        "label": "Work Hour To",
+        "placeholder": "..,.."
+      }
+    
+    },
+    "dialog": {
+      "header": {
+        "new": "New Shift Definition",
+        "edit": "Edit Shift Definition",
+        "details": "Shift Definition Details",
+        "status": "Status Shift Definition"
+      }
+    },
+    "btns": {
+      "new": "New Shift Definition",
+      "all": "All Shift Definitions",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "shiftDefinition": {
+      "header": "تعريف الورديه",
+      "key": {
+        "name": "الاسم",
+        "shift_day_from": "يوم الورديه من",
+        "shift_day_to":"يوم الورديه الي",
+        "work_hour_from":"ساعة العمل من",
+        "work_hour_to":  "ساعة العمل الي",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "اسم ",
+        "placeholder": "ادخل اسم "
+      },
+  
+    
+      "shift_day_from": {
+        "label": "يوم الورديه من",
+        "placeholder": "من"
+      },
+      "shift_day_to": {
+        "label": "يوم الورديه الي",
+        "placeholder": "الي"
+      },
+      "work_hour_from": {
+        "label": "ساعة العمل من",
+        "placeholder": "..,.."
+      },
+      "work_hour_to": {
+        "label": "ساعة العمل الي",
+        "placeholder": "..,.."
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "ورديه جديده",
+        "edit": "تعديل الورديه",
+        "details": "تفاصيل الورديه",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "ورديه جديده",
+      "all": "كل الورديات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

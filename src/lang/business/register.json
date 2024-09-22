@@ -1,0 +1,308 @@
+
+{
+    "en":{
+        "profile":"Profile",
+        "registeration":" Registeration" ,
+        "form":{
+            "name":{
+                "label":"Name",
+                "englishPlaceholder":"Name in English",
+                "arabicPlaceholder":"Name in Arabic"
+            },
+            "type":{
+                "label":"Branch Type",
+                "placeholder":"Type"
+            },
+            "title":{
+                "label":"Title",
+                "placeholder":"Title"
+            },
+            "subspecialty":{
+                "label":"Subspecialty",
+                "placeholder":"Subspecialty",
+                "selectAll":"All Sub specialties"
+            },
+            "serviceType":{
+                "label":"Service Type",
+                "placeholder":"Service Type",
+                "selectAll":"All Services"
+            },
+            "bio":{
+                "label":"Bio",
+                "placeholder":"Business Bio Area"
+            },
+            "location":{
+                "head":"Location",
+                "map":"Map",
+                "hint":{
+                    "label":"Hint",
+                    "content":"Drag The logo pin to your business Location"
+                   
+                },
+                "address":{
+                    "label":"Address",
+                    "placeholder":"Address or street"
+                },
+                "city":{
+                    "label":"City",
+                    "placeholder":"City"
+                },
+                "zipCode":{
+                    "label":"Zip Code",
+                    "placeholder":"Zip Code"
+                },
+                "coordinates":{
+                    "label":"Coordinates",
+                    "placeholder":"Coordinates"
+                }
+            },
+            "email":{
+                "label":"Email Address",
+                "placeholder":"email@example.com",
+                "hint":{
+                    "label":"Hint",
+                    "content":"You can add 3 Emails  Only",
+                    "duplicateEmail":"Duplicate Emails cannot be allowed"
+                }
+            },
+            "phone":{
+                "label":"Phone Number",
+                "placeholder":"Phone Number",
+                "hint":{
+                    "label":"Hint",
+                    "content":"You can add 3 Phone Numbers Only",
+                    "duplicateNumber":"Duplicate number cannot be allowed"
+                }
+            },
+            "website":{
+                "label":"Websites & Social Accounts",
+                "placeholder":"Enter Websites And Social Accounts",
+                "invalidUrl":"Please enter a valid URL.",
+                "duplicateUrl":"Duplicate URL cannot be allowed",
+                "website":{
+                    "label":"website",
+                    "placeholder":"https://example.com"
+                },
+                "facebook":{
+                    "label":"facebook",
+                    "placeholder":"https://facebook.com"
+                },
+                "youtube":{
+                    "label":"youtube",
+                    "placeholder":"https://youtube.com"
+                },
+                "instagram":{
+                    "label":"instagram",
+                    "placeholder":"https://instagram.com"
+                },
+                "whatsapp":{
+                    "label":"whatsapp",
+                    "placeholder":"0123456789"
+                }
+            },
+            "businessHours":{
+                "header":"Business Hours",
+                "type":{
+                    "label":"Business Hours Type",
+                    "24/7":"24/7",
+                    "days":"Days"
+                },
+                "schedule":{
+                    "day":{
+                        "label":"Day",
+                        "placeholder":"Select a day",
+                        "daySchedule":"Day Schedule"
+                    },
+                    "opening":{
+                        "label":"Opening",
+                        "placeholder":"Opening time",
+                        "placeholderTime":"Time..."
+                    },
+                    "closing":{
+                        "label":"Closing",
+                        "placeholder":"Closing time",
+                        "placeholderTime":"Time..."
+                    }
+                }
+            },
+            "waitingTime":{
+                "label":"Time",
+                "placeholder":"time"
+            },
+            "insuranceCompanies":{
+                "label":"Insurance ",
+                "placeholder":"Search or write the company name"
+            },
+            "equipmentCompanies":{
+                "label":"Equipment",
+                "placeholder":"Equipment name"
+            },
+            "fees":{
+                "label":"Price",
+                "placeholder":"price"
+            },
+            "acceptanceAgreement": {
+                "text": "Accept",
+                "link": "Terms and Conditions",
+                "error":"required ............."
+
+            }
+        },
+        "next": "Next",
+        "asideOptions" : "AsideOptions",
+        "ImageExtension" : " Please select a valid image file (JPG, JPEG, PNG).",
+        "componentFuture" : "Not Found Component With Xd"
+         
+    },
+    "ar":{
+        "profile":"صورة جانبية",
+        "registeration":" تسجيل حساب ",
+        "form":{
+            "name":{
+                "label":"الاسم",
+                "englishPlaceholder":"الاسم بالانجليزية",
+                "arabicPlaceholder":"الاسم بالعربية"
+            },
+            "type":{
+                "label":"نوع الفرع",
+                "placeholder":"النوع"
+            },
+            "title":{
+                "label":"اللقب",
+                "placeholder":"اللقب"
+            },
+            "subspecialty":{
+                "label":"التخصصات الفرعية",
+                "placeholder":"التخصصات"
+            },
+            "serviceType":{
+                "label":"نوع الخدمة",
+                "placeholder":"نوع الخدمة",
+                "selectAll":"اختر الكل"
+            },
+            "bio":{
+                "label":"الوصف",
+                "placeholder":"مساحة لوصف العمل"
+            },
+            "location":{
+                "head":"موقع",
+                "map":"خريطة",
+                "hint":{
+                    "label":"ملحوظة",
+                    "content":"حرك دبوس الشعار علي الخريطة لتحديد مكان عملك"
+                },
+                "address":{
+                    "label":"العنوان",
+                    "placeholder":"العنوان"
+                },
+                "city":{
+                    "label":"المدينة",
+                    "placeholder":"المدينة"
+                },
+                "zipCode":{
+                    "label":"الكود البريدي",
+                    "placeholder":"الكود البريدي"
+                },
+                "coordinates":{
+                    "label":"coordinates",
+                    "placeholder":"coordinates"
+                }
+            },
+            "email":{
+                "label":"البريد الالكتروني",
+                "placeholder":"email@example.com",
+                "hint":{
+                    "label":"ملحوظة",
+                    "content":"يمكنك اضافة 3 رسائل البريد الإلكتروني فقط",
+                    "duplicateEmail":"لا يمكن السماح  بالبريد الإلكتروني مكرر"
+                }
+            },
+            "phone":{
+                "label":"رقم الهاتف",
+                "placeholder":"رقم الهاتف",
+                "hint":{
+                    "label":"ملحوظة",
+                    "content":"يمكنك اضافة 3 ارقام فقط",
+                    "duplicateNumber":"لا يمكن السماح برقم مكرر"
+                }
+            },
+            "website":{
+                "label":"الموقع الالكتروني",
+                "placeholder":" أدخل الموقع" ,
+                "invalidUrl":"أدخل رابط صحيح من فضلك",
+                "duplicateUrl":"لا يمكن السماح بتكرار عنوان URL",
+                "website":{
+                    "label":"الموقع الالكتروني",
+                    "placeholder":"https://example.com"
+                },
+                "facebook":{
+                    "label":"فيس بوك",
+                    "placeholder":"https://facebook.com"
+                },
+                "youtube":{
+                    "label":"يوتيوب",
+                    "placeholder":"https://youtube.com"
+                },
+                "instagram":{
+                    "label":"انستجرام",
+                    "placeholder":"https://instagram.com"
+                },
+                "whatsapp":{
+                    "label":"واتساب",
+                    "placeholder":"0123456789"
+                }
+            },
+            "businessHours":{
+                "header":"ساعات العمل",
+                "type":{
+                    "label":"نوع ساعات العمل",
+                    "24/7":"24/7",
+                    "days":"أيام"
+                },
+                "schedule":{
+                    "day":{
+                        "label":"يوم",
+                        "placeholder":"اخنر يوم",
+                        "daySchedule":"مطلوب جدول اليوم"
+                    },
+                    "opening":{
+                        "label":"فتح",
+                        "placeholder":"توقيت الفتح",
+                        "placeholderTime":"وقت..."
+                    },
+                    "closing":{
+                        "label":"غلق",
+                        "placeholder":"توقيت الغلق",
+                        "placeholderTime":"وقت..."
+                    }
+                }
+            },
+            "waitingTime":{
+                "label":"الوقت",
+                "placeholder":"الوقت"
+            },
+            "insuranceCompanies":{
+                "label":"التأمين",
+                "placeholder":"بحث او اكنب اسم الشركة"
+            },
+            "equipmentCompanies":{
+                "label":" المعدات",
+                "placeholder":"اسم الشركة"
+            },
+            "fees":{
+                "label":"السعر",
+                "placeholder":"السعر"
+            },
+            "acceptanceAgreement": {
+                "text": "اقبل",
+                "link": "الشروط و الاحكام",
+                "error":"required ............."
+            }
+        },
+        "next": "التالي",
+        "asideOptions" : "خيارات جانبية",
+        "ImageExtension" : " (JPG، JPEG، PNG) الرجاء تحديد ملف صورة صالح",
+        "componentFuture" : " XD لم يتم العثور على مكون مع "
+
+    }
+}

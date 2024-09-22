@@ -1,0 +1,44 @@
+{
+  "en": {
+    "surgery":{
+      "header":"Surgery",
+      "name":{
+        "label": "Name of Surgery",
+        "placeholder": "Search or Insert"
+      },
+      "place":{
+        "label": "Place/Hospital",
+        "placeholder": "Search or Insert"
+      },
+      "requirements":{
+        "label": "Requirements",
+        "placeholder": "Text..."
+      },
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "surgery":{
+      "header":"Surgery",
+      "name":{
+        "label": "Name of Surgery",
+        "placeholder": "Search or Insert"
+      },
+      "place":{
+        "label": "Place/Hospital",
+        "placeholder": "Search or Insert"
+      },
+      "requirements":{
+        "label": "Requirements",
+        "placeholder": "Text..."
+      },            
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

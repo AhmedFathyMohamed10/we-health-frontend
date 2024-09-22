@@ -1,0 +1,239 @@
+{
+    "en": {
+        "month":"months",
+        "Indoor":"Indoor",
+        "Outdoor":"Outdoor",
+        "Online":"Online",
+        "employee":{
+            "header": "Employee",
+            "key":{
+                "name":"Name",
+                "mobile":"Mobile",
+                "address":"Address",
+                "dob":"Date Of Birth",
+                "gender":"Gender",
+                "email":"E-mail",
+                "marital_status":"Marital Status",
+                "image":"Image",
+                "role":"Role",
+                "username":"Username",
+                "salary":"Salary",
+                "job_start_date":"Job Start Date",
+                "shift":"Shift",
+                "direct_manager":"Direct Manager",
+                "education":"Education",
+                "created_by":"Created By",
+                "created_at":"Created At",
+                "updated_at":"Updated At",
+                "status":"Status"
+            }
+        },
+        "custody":{
+            
+            "header": "Custody",
+            "key":{
+                "title" : "Title",
+                "receipt_date":"Receipt Date",
+                "delivery_date":"Delivery Date",
+                "assets":"Assets",
+                "invoice":"Invoices",
+                "bonds":"Bonds",
+                "employee" :"Employee",
+                "employee_name" :"Employee Name",
+                "status":"Status",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+                
+            }
+        },
+        "form":{
+            "title":{
+                "label":"Title",
+                "placeholder":"Enter Title"
+            },
+            "employee":{
+                "label":"Employee",
+                "placeholder":"Choose Employee"
+            },
+            "receipt_date":{
+                "label":"Receipt Date",
+                "placeholder":"Enter Receipt Date"
+            },
+            "delivery_date":{
+                "label":"Delivery Date",
+                "placeholder":"Enter Delivery Date"
+            },
+            "assets":{
+                "label":"Assets",
+                "placeholder":"Enter Entity Name"
+            },
+            "invoice":{
+                "label":"Invoice",
+                "placeholder":"Enter Invoice"
+            },
+            "bonds":{
+                "label":"Bonds",
+                "placeholder":"Enter Bonds Name"
+            },
+            "type":{
+                "label":"Type",
+                "placeholder":"Enter Type"
+            }
+            
+            
+           
+
+
+        },
+        "dialog":{
+            "title":{
+                "details":"Employee Details"
+            },
+            "header":{
+                "new":"New Custody",
+                "edit":"Edit Custody",
+                "details":"Custody Details"
+            }
+        },
+        "btns":{
+            "new":"New Custody",
+            "all":"All Custodies",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "month":"شهرا",
+        "Indoor":"داخلي",
+        "Outdoor":"خارجي",
+        "Online":"عن بعد",
+        "employee":{
+            "header":"الموظفين",
+            "key":{
+                "name":"الاسم",
+                "mobile":"رقم التليفون",
+                "address":"العنوان",
+                "dob":"تاريخ الميلاد",
+                "gender":"النوع",
+                "email":"البريد الالكتروني",
+                "marital_status":"الحالة الاجتماعيه",
+                "image":"صورة",
+                "role":"الدور الوظيفي",
+                "username":"اسم المستخدم",
+                "salary":"الراتب",
+                "job_start_date":"تاريخ بدء العمل",
+                "shift":"الوردية",
+                "direct_manager":"الرئيس المباشر",
+                "education":"المؤهل العلمي",
+                "status":"الحالة",
+                "created_by":"انشأ من قبل",
+                "created_at":"أنشئت في",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "custody":{
+            "header":"التدريب",
+            "key":{
+                "title" : "العنوان",
+                "receipt_date":"تاريخ الاستلام",
+                "delivery_date":"تاريخ التسليم",
+                "assets":"الاصول",
+                "invoice":"الفواتير",
+                "bonds":"السندات",
+                "employee" :"الموظف",
+                "employee_name" :"اسم الموظف",
+                "status":"الحالة",
+                "created_by":"تم الانشاء بواسطة",
+                "created_at":"التاريخ",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"اختر الموظف"
+            },
+            "receipt_date":{
+                "label":"تاريخ الاستلام",
+                "placeholder":"ادخل تاريخ الاستلام" 
+            },
+            "delivery_date":{
+                "label":"تاريخ التسليم",
+                "placeholder":"ادخل تاريخ التسليم"
+            },
+            "assets":{
+                "label":"الاصول",
+                "placeholder":"اختر الاصل"
+            },
+            "invoice":{
+                "label":"الفواتير",
+                "placeholder":"اختر فاتورة"
+            },
+            "bonds":{
+                "label":"السندات",
+                "placeholder":"اختر السند"
+            },
+            "type":{
+                "label":"نوع العهدة",
+                "placeholder":"اختر نوع العهدة"
+            }
+          
+        },
+        "dialog":{
+            "title":{
+                "details":"تفاصيل الموظف"
+            },
+            "header":{
+                "new":"عهدة جديدة",
+                "edit":"تعديل العهدة",
+                "details":"تفاصيل العهدة",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"عهدة جديد",
+            "all":"كل العهد",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

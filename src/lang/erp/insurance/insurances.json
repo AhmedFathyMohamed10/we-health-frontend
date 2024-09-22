@@ -1,0 +1,172 @@
+{
+    "en": {
+        "month":"months",
+        "Indoor":"Indoor",
+        "Outdoor":"Outdoor",
+        "Online":"Online",
+       
+        "Insurance":{
+            
+            "header": "Insurance",
+            "key":{
+                "policy":"Policy",
+                "employee":"Employee Name",
+                "start_date":"Start Date",
+                "end_date":"End Date",
+                "policy_title":"Policy Title",
+                "employee_name":"Employee Name",
+                "status":"Status",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+                
+            }
+        },
+        "form":{
+            "policy":{
+                "label":"policy",
+                "placeholder":"Choose policy"
+            },
+            "employee":{
+                "label":"Employee",
+                "placeholder":"Choose Employee "
+            },
+            "start_date":{
+                "label":"Start Date",
+                "placeholder":"Enter Start Date"
+            },
+            "end_date":{
+                "label":" End Date",
+                "placeholder":"Enter  End Date"
+            },
+            "policy_title":{
+                "label":"Policy Title",
+                "placeholder":"Enter Policy Title"
+            },
+            "employee_name":{
+                "label":"Employee Name",
+                "placeholder":"Enter Employee Name"
+            }
+            
+            },
+        "dialog":{
+            "title":{
+                "details":"Employee Details"
+            },
+            "header":{
+                "new":"New Insurance",
+                "edit":"Edit Insurance",
+                "details":"Insurance Details"
+            }
+        },
+        "btns":{
+            "new":"New Insurance",
+            "all":"All Insurances",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "month":"شهرا",
+        "Indoor":"داخلي",
+        "Outdoor":"خارجي",
+        "Online":"عن بعد",
+        "Insurance":{
+            "header":"التأمينات",
+            "key":{
+                "policy":"عقد التأمين",
+                "employee":"الموظف",
+                "start_date":"تاريخ البدء",
+                "end_date":"تاريخ الانتهاء",
+                "policy_title":"عنوان العقد",
+                "employee_name":"اسم الموظف",
+                "status":"الحالة",
+                "created_by":"تم الانشاء بواسطة",
+                "created_at":"تاريخ الانشاء",
+                "updated_at":"تاريخ التعديل"
+            }
+        },
+        "form":{
+            "policy":{
+                "label":"عقد التأمين",
+                "placeholder":"اختر عقد التأمين"
+            },
+            "employee":{
+                "label":"الموظف",
+                "placeholder":"اختر الموظف "
+            },
+            "start_date":{
+                "label":"تاريخ البدء",
+                "placeholder":"ادخل تاريخ البدء"
+            },
+            "end_date":{
+                "label":"تاريخ الانتهاء",
+                "placeholder":"ادخل تاريخ الانتهاء"
+            },
+            "policy_title":{
+                "label":"عنوان عقد التأمين",
+                "placeholder":"ادخل عنوان عقد التامين"
+            },
+            "employee_name":{
+                "label":"اسم الموظف",
+                "placeholder":"ادخل اسم الموظف"
+            }
+            
+        },
+        "dialog":{
+            "title":{
+                "details":"تفاصيل الموظف"
+            },
+            "header":{
+                "new":"تأمين جديد",
+                "edit":"تعديل التأمين",
+                "details":"تفاصيل التأمين",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"تامين جديد",
+            "all":"كل التأمينات",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

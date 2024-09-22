@@ -1,0 +1,113 @@
+{
+    "en": {
+        "accountingPeriod":{
+            "header": "Accounting Period",
+            "key":{
+                "name":"Name",
+                "periodTo":"Period To",
+                "periodFrom":"Period From",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "periodTo":{
+                "label":"Period To",
+                "placeholder":"Enter Period To"
+            },
+        
+            "periodFrom":{
+                "label":"Period From",
+                "placeholder":"Enter Period From"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Accounting Period",
+                "edit":"Edit Accounting Period",
+                "details":"Accounting Period Details"
+            }
+        },
+        "btns":{
+            "new":"New Accounting Period",
+            "all":"All Accounting Periods",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "accountingPeriod":{
+            "header":"الفتره المحاسبيه",
+            "key":{
+                "name":"الاسم",
+                "periodTo" :"الفتره الي",
+                "periodFrom":"الفتره من",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم الفتره المحاسبيه",
+                "placeholder":"ادخل اسم الفتره المحاسبيه"
+            },
+            "periodTo":{
+                "label":"الفتره الي",
+                "placeholder":"ادخل الفتره الي"
+            },
+            "periodFrom":{
+                "label":"الفتره من",
+                "placeholder":"ادخل الفتره من"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه فتره محاسبيه جديده" ,
+                "edit":" تعديل فتره محاسبيه",
+                "details":"تفاصيل فتره محاسبيه",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه فتره محاسبيه جديده",
+            "all":"كل الفترات المحاسبيه",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

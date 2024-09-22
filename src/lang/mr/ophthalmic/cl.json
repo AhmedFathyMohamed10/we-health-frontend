@@ -1,0 +1,232 @@
+{
+  "en": {
+    "fitting": {
+      "header": "Fitting",
+      "expirationDate": {
+        "label": "Expiration date",
+        "placeholder": "yyyy-mm-dd"
+      },
+      "type": {
+        "manufacturer": {
+          "label": "Manufacturer",
+          "placeholder": "Select"
+        },
+        "brand": {
+          "label": "Brand",
+          "placeholder": "Select"
+        },
+        "design": {
+          "label": "Design",
+          "placeholder": "Select"
+        },
+        "qtyBox": {
+          "label": "Qty/Box",
+          "placeholder": "Select"
+        },
+        "type": {
+          "label": "Type",
+          "placeholder": "Text..."
+        },
+        "material": {
+          "label": "Material",
+          "placeholder": "Text..."
+        },
+        "wearingPeriod": {
+          "label": "Wearing Period",
+          "placeholder": "Text..."
+        },
+        "replacement": {
+          "label": "Replacement",
+          "placeholder": "Text..."
+        },
+        "comfort": {
+          "label": "Comfort",
+          "placeholder": "Select"
+        },
+        "vision": {
+          "label": "Vision",
+          "placeholder": "Select"
+        },
+        "rotation": {
+          "label": "Rotation",
+          "placeholder": "Select"
+        },
+        "movement": {
+          "label": "Movement",
+          "placeholder": "Select"
+        },
+        "centration": {
+          "label": "Centration",
+          "placeholder": "Select"
+        },
+        "tear": {
+          "label": "Tear",
+          "placeholder": "Select"
+        },
+        "sclera": {
+          "label": "Sclera",
+          "placeholder": "Select"
+        },
+        "limbal": {
+          "label": "Limbal",
+          "placeholder": "Select"
+        },
+        "cornea": {
+          "label": "cornea",
+          "placeholder": "Select"
+        },
+        "lid": {
+          "label": "lid",
+          "placeholder": "Select"
+        }
+      },
+      "measurements": {
+        "bc": {
+          "label": "BC",
+          "placeholder": "--,--"
+        },
+        "dia": {
+          "label": "Dia",
+          "placeholder": "--,--"
+        },
+        "dn": {
+          "label": "DN",
+          "placeholder": "Select"
+        },
+        "solution": {
+          "label": "Solution",
+          "placeholder": "Select"
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "keratometry": {
+      "header": "keratometry",
+      "powerH": "Power H",
+      "powerV": "Power V",
+      "meridian": "Meridian",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "fitting": {
+      "header": "Fitting",
+      "expirationDate": {
+        "label": "Expiration date",
+        "placeholder": "yyyy-mm-dd"
+      },
+      "type": {
+        "manufacturer": {
+          "label": "Manufacturer",
+          "placeholder": "Select"
+        },
+        "brand": {
+          "label": "Brand",
+          "placeholder": "Select"
+        },
+        "design": {
+          "label": "Design",
+          "placeholder": "Select"
+        },
+        "qtyBox": {
+          "label": "Qty/Box",
+          "placeholder": "Select"
+        },
+        "type": {
+          "label": "Type",
+          "placeholder": "Text..."
+        },
+        "material": {
+          "label": "Material",
+          "placeholder": "Text..."
+        },
+        "wearingPeriod": {
+          "label": "Wearing Period",
+          "placeholder": "Text..."
+        },
+        "replacement": {
+          "label": "Replacement",
+          "placeholder": "Text..."
+        },
+        "comfort": {
+          "label": "Comfort",
+          "placeholder": "Select"
+        },
+        "vision": {
+          "label": "Vision",
+          "placeholder": "Select"
+        },
+        "rotation": {
+          "label": "Rotation",
+          "placeholder": "Select"
+        },
+        "movement": {
+          "label": "Movement",
+          "placeholder": "Select"
+        },
+        "centration": {
+          "label": "Centration",
+          "placeholder": "Select"
+        },
+        "tear": {
+          "label": "Tear",
+          "placeholder": "Select"
+        },
+        "sclera": {
+          "label": "Sclera",
+          "placeholder": "Select"
+        },
+        "limbal": {
+          "label": "Limbal",
+          "placeholder": "Select"
+        },
+        "cornea": {
+          "label": "cornea",
+          "placeholder": "Select"
+        },
+        "lid": {
+          "label": "lid",
+          "placeholder": "Select"
+        }
+      },
+      "measurements": {
+        "bc": {
+          "label": "BC",
+          "placeholder": "--,--"
+        },
+        "dia": {
+          "label": "Dia",
+          "placeholder": "--,--"
+        },
+        "dn": {
+          "label": "DN",
+          "placeholder": "Select"
+        },
+        "solution": {
+          "label": "Solution",
+          "placeholder": "Select"
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "keratometry": {
+      "header": "keratometry",
+      "powerH": "Power H",
+      "powerV": "Power V",
+      "meridian": "Meridian",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+    "en": {
+        "in_month":"in month",
+        "day":"day",
+        "settings":{
+            "header": "Settings Rental",
+            "key":{
+                "remind_before_appearing":"Remind before appearing",
+                "report_continues_to_appear":"The report continues to appear",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "remind_before_appearing":{
+                "label":"Remind before appearing",
+                "placeholder":"Enter Remind before appearing"
+            },
+            "report_continues_to_appear":{
+                "label":"The report continues to appear",
+                "placeholder":"Enter The report continues to appear"
+            }
+           
+        },
+        "dialog":{
+            "header":{
+                "new":"New Setting",
+                "edit":"Edit Setting",
+                "details":"Setting Details"
+            }
+        },
+        "btns":{
+            "new":"New Setting",
+            "all":"All Settings",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "day":"يوم",
+        "in_month":"في الشهر",
+        "settings":{
+            "header":"الاعدادات",
+            "key":{
+                "Remind before appearing":"معاد التذكير قبل الظهور",
+                "reminder_salary_due_Date":"استمرار ظهور التقرير",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "salary_due_date":{
+                "label":"ميعاد استحقاق الرواتب",
+                "placeholder":"ميعاد استحقاق الرواتب"
+            },
+            "reminder_salary_due_Date":{
+                "label":"التذكير بتقرير الرواتب قبل الاستحقاق",
+                "placeholder":" التذكير بتقرير الرواتب قبل الاستحقاق"
+                
+            },
+            "annual_vacations_days":{
+                "label":"عدد ايام الاجازة المتاح سنويا ",
+                "placeholder":"عدد ايام الاجازة المتاح سنويا"
+                
+            }
+        },
+        "dialog":{
+            "title":{
+                "new":"اعداد جديد",
+                "edit":"تعديل الاعداد",
+                "details":"تفاصيل الاعداد",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اعداد جديد",
+            "all":"كل الاعدادات",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

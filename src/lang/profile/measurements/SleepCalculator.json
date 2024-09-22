@@ -1,0 +1,95 @@
+{
+  "en":{
+    "header":{
+      "title":"Sleep Calculator",
+      "insert":"New Sleep Calculator Record",
+      "update":"Update Sleep Calculator Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm" 
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "sleepDuration":{
+        "label":"Sleep Duration",
+        "placeholder":"00:00"
+      },
+      "timeToFall":{
+        "label":"Time To Fall Asleep",
+        "placeholder":"Min/Hrs"
+      },
+      "wakeUpTime":{
+        "label":"Wake Up Time",
+        "placeholder":"00:00"
+      },
+      "sleepQuality":{
+        "label":"Sleep Quality",
+        "placeholder":"Good"
+      }
+     
+    },
+
+    "overallProgress":"Overall Progress",
+    "quality":"Quality",
+    "qualityValue":"80 %",
+    "good":"Good",
+    "goodMood":"Mood",
+    "num":"4",
+    "total":"Total Nights",
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result:"  
+    },
+  "ar":{
+    "header":{
+      "title":"حاسبة النوم",
+      "insert":"سجل حاسبة النوم الجديد",
+      "update":"تحديث سجل حاسبة النوم"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون" 
+      },
+      "note":{
+        "label":"ملحوظة",
+        "placeholder":"نص..."
+      },
+      "sleepDuration":{
+        "label":"مدة النوم",
+        "placeholder":"00:00"
+      },
+      "timeToFall":{
+        "label":"الوقت لتغفو",
+        "placeholder":"دقيقة / ساعة"
+      },
+      "wakeUpTime":{
+        "label":"وقت الاستيقاظ",
+        "placeholder":"00:00"
+      },
+      "sleepQuality":{
+        "label":"نوعية النوم",
+        "placeholder":"جيد"
+      }
+     
+    },
+
+    "overallProgress":"التقدم العام",
+    "quality":"جودة",
+    "qualityValue":"80 %",
+    "good":"جيد",
+    "goodMood":"مزاج",
+    "num":"4",
+    "total":"إجمالي الليالي",
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة:"  
+    }
+   
+  }

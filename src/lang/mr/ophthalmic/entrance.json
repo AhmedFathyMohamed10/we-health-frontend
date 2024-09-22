@@ -1,0 +1,602 @@
+{
+  "en": {
+    "eyesLabels": {
+
+      "od": "O.D.",
+      "os": "O.S."
+    },
+    "pupils": {
+      "header":"pupils",
+      "sizeInLight": {
+        "label": "Size in Light (mm)",
+        "placeholder": "--,-- mm"
+      },
+      "sizeInDark": {
+        "label": "Size in Dark (mm)",
+        "placeholder": "--,-- mm"
+      },
+      "shape": {
+        "label": "Shape",
+        "placeholder": "R"
+      },
+      "reaction": {
+        "label": "Reaction",
+        "placeholder": "6"
+      },
+      "mGunn": {
+        "label": "M.Gunn",
+        "placeholder": "Text..."
+      },
+      "accom": {
+        "label": "Accom",
+        "placeholder": "Select"
+      },
+      "diagnose": {
+        "label": "Diagnose",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "dominance": {
+      "header":"Dominance",
+      "method": {
+        "label": "Method",
+        "placeholder": "Select",
+        "otherplaceholder": "Other Value"
+      },
+      "dominantEye": {
+        "label": "Dominant Eye",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "eom": {
+      "header":"EMO",
+      "extraOcularMotilities": {
+        "heading": "Extra Ocular Motilities",
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select"
+        },
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select"
+        }
+      },
+      "npc": {
+        "heading": "NPC",
+        "npcWithEffect": {
+          "label": "With Effort"
+        },
+        "npcBreak": {
+          "label": "Break",
+          "placeholder": "Text..."
+        },
+        "npcRecovery": {
+          "label": "Recovery",
+          "placeholder": "Text..."
+        }
+      },
+      "broadHTest": {
+        "heading": "Broad H Test",
+        "sr": {
+          "label": "SR",
+          "placeholder": "Text..."
+        },
+        "lr": {
+          "label": "LR",
+          "placeholder": "Text..."
+        },
+        "ir": {
+          "label": "IR",
+          "placeholder": "Text..."
+        },
+        "io": {
+          "label": "IO",
+          "placeholder": "Text..."
+        },
+        "mr": {
+          "label": "MR",
+          "placeholder": "Text..."
+        },
+        "so": {
+          "label": "SO",
+          "placeholder": "Text..."
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "coverTest": {
+      "alternate":"Alternating",
+      "unilateral":"Unilateral",
+      "header":"Cover Test",
+      "hirschbergTest": {
+        "heading": "Hirschberg Test",
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select"
+        },
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select"
+        }
+      },
+      "brucknerTest": {
+        "heading": "Bruckner Test",
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select"
+        },
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select"
+        }
+      },
+      "unilateralCoverTest": {
+        "switchLabel": "Unilateral",
+        "heading": "Unilateral Cover Test",
+        "distantVision": "Distant Vision",
+        "nearVision": "Near Vision",
+        "uLateral": {
+          "label": "U Lateral",
+          "placeholder": "Text..."
+        },
+        "uVertical": {
+          "label": "U Vertical",
+          "placeholder": "Text..."
+        },
+        "uNoncomitant": {
+          "label": "U Noncomitant"
+        }
+      },
+      "alternatingCoverTest": {
+        "switchLabel": "Alternating",
+        "heading": "Alternating Cover Test",
+        "distantVision": "Distant Vision",
+        "nearVision": "Near Vision",
+        "lateral": {
+          "label": "Lateral",
+          "placeholder": "Text..."
+        },
+        "vertical": {
+          "label": "Vertical",
+          "placeholder": "Text..."
+        },
+        "aNoncomitant": {
+          "label": "A Noncomitant"
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "visualField": {
+      "header":"Visual Field ",
+      "confrontation": {
+        "heading": "Confrontation",
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        },
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        }
+      },
+      "autoPerimetry": {
+        "heading": "Auto Perimetry",
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        },
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        },
+        "instrument": {
+          "label": "Instrument",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        }
+      },
+      "amslerGrid": {
+        "heading": "Amsler Grid",
+        "od": "O.D.",
+        "os": "O.S.",
+        "otherPlaceholder": "Other Value"
+      },
+      "tangentScreen": {
+        "heading": "Tangent Screen",
+        "scale": {
+          "label": "Scale",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "colourVision": {
+      "header":"Colour Vision",
+      "test": {
+        "label": "Test",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "os": {
+        "label": "O.S.",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "od": {
+        "label": "O.D.",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "ou": {
+        "label": "O.U.",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "aquired": {
+        "label": "Aquired"
+      },
+      "d15": {
+        "heading": "D 15"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "stereopsis": {
+      "header":"stereopsis ",
+      "brewster": {
+        "label": "Brewster",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "stereoFly": {
+        "label": "Stereo Fly",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "circles": {
+        "label": "Circles",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "forms": {
+        "label": "Forms",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "animals": {
+        "label": "Animals",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+   
+  },
+  "ar": {
+    "eyesLabels": {
+
+      "od": "O.D.",
+      "os": "O.S."
+    },
+    "pupils": {
+      "header":"pupils",
+      "sizeInLight": {
+        "label": "Size in Light (mm)",
+        "placeholder": "--,-- mm"
+      },
+      "sizeInDark": {
+        "label": "Size in Dark (mm)",
+        "placeholder": "--,-- mm"
+      },
+      "shape": {
+        "label": "Shape",
+        "placeholder": "R"
+      },
+      "reaction": {
+        "label": "Reaction",
+        "placeholder": "6"
+      },
+      "mGunn": {
+        "label": "M.Gunn",
+        "placeholder": "Text..."
+      },
+      "accom": {
+        "label": "Accom",
+        "placeholder": "Text..."
+      },
+      "diagnose": {
+        "label": "Diagnose",
+        "placeholder": "Text..."
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "dominance": {
+      "header":"Dominance",
+      "method": {
+        "label": "Method",
+        "placeholder": "Select",
+        "otherplaceholder": "Other Value"
+      },
+      "dominantEye": {
+        "label": "Dominant Eye",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "eom": {
+      "header":"EMO",
+      "extraOcularMotilities": {
+        "heading": "Extra Ocular Motilities",
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Text..."
+        },
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Text..."
+        }
+      },
+      "npc": {
+        "heading": "NPC",
+        "npcWithEffect": {
+          "label": "With Effort"
+        },
+        "npcBreak": {
+          "label": "Break",
+          "placeholder": "Text..."
+        },
+        "npcRecovery": {
+          "label": "Recovery",
+          "placeholder": "Text..."
+        }
+      },
+      "broadHTest": {
+        "heading": "Broad H Test",
+        "sr": {
+          "label": "SR",
+          "placeholder": "Text..."
+        },
+        "lr": {
+          "label": "LR",
+          "placeholder": "Text..."
+        },
+        "ir": {
+          "label": "IR",
+          "placeholder": "Text..."
+        },
+        "io": {
+          "label": "IO",
+          "placeholder": "Text..."
+        },
+        "mr": {
+          "label": "MR",
+          "placeholder": "Text..."
+        },
+        "so": {
+          "label": "SO",
+          "placeholder": "Text..."
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "coverTest": {
+      "alternate":"Alternating",
+      "unilateral":"Unilateral",
+      "header":"Cover Test",
+      "hirschbergTest": {
+        "heading": "Hirschberg Test",
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select"
+        },
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select"
+        }
+      },
+      "brucknerTest": {
+        "heading": "Bruckner Test",
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select"
+        },
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select"
+        }
+      },
+      "unilateralCoverTest": {
+        "switchLabel": "Unilateral",
+        "heading": "Unilateral Cover Test",
+        "distantVision": "Distant Vision",
+        "nearVision": "Near Vision",
+        "uLateral": {
+          "label": "U Lateral",
+          "placeholder": "Text..."
+        },
+        "uVertical": {
+          "label": "U Vertical",
+          "placeholder": "Text..."
+        },
+        "uNoncomitant": {
+          "label": "U Noncomitant"
+        }
+      },
+      "alternatingCoverTest": {
+        "switchLabel": "Alternating",
+        "heading": "Alternating Cover Test",
+        "distantVision": "Distant Vision",
+        "nearVision": "Near Vision",
+        "lateral": {
+          "label": "Lateral",
+          "placeholder": "Text..."
+        },
+        "vertical": {
+          "label": "Vertical",
+          "placeholder": "Text..."
+        },
+        "aNoncomitant": {
+          "label": "A Noncomitant"
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "visualField": {
+      "header":"Visual Field ",
+      "confrontation": {
+        "heading": "Confrontation",
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        },
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        }
+      },
+      "autoPerimetry": {
+        "heading": "Auto Perimetry",
+        "os": {
+          "label": "O.S.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        },
+        "od": {
+          "label": "O.D.",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        },
+        "instrument": {
+          "label": "Instrument",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        }
+      },
+      "amslerGrid": {
+        "heading": "Amsler Grid",
+        "od": "O.D.",
+        "os": "O.S.",
+        "otherPlaceholder": "Other Value"
+      },
+      "tangentScreen": {
+        "heading": "Tangent Screen",
+        "scale": {
+          "label": "Scale",
+          "placeholder": "Select",
+          "otherPlaceholder": "Other Value"
+        }
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "colourVision": {
+      "header":"Colour Vision",
+      "test": {
+        "label": "Test",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "os": {
+        "label": "O.S.",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "od": {
+        "label": "O.D.",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "ou": {
+        "label": "O.U.",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "aquired": {
+        "label": "Aquired"
+      },
+      "d15": {
+        "heading": "D 15"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "stereopsis": {
+      "header":"stereopsis ",
+      "brewster": {
+        "label": "Brewster",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "stereoFly": {
+        "label": "Stereo Fly",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "circles": {
+        "label": "Circles",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "forms": {
+        "label": "Forms",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "animals": {
+        "label": "Animals",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other Value"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+   
+  }
+}

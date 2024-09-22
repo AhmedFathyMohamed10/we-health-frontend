@@ -1,0 +1,147 @@
+{
+  "en": {  
+    "internship": {
+      "header": "Internship",
+      "key": {
+        "trainee":"Trainee",
+        "course":"Course",
+        "start_date":"Start Date",
+        "end_date":"End Date",
+        "description": "Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "trainee": {
+        "label": "Trainee",
+        "placeholder": "Enter Trainee"
+      },
+      "course": {
+        "label": "Course",
+        "placeholder": "Enter Course"
+      },
+      "start_date": {
+        "label": "Start Date",
+        "placeholder": "Enter Start Date"
+      },
+      "end_date": {
+        "label": "End Date",
+        "placeholder": "Enter End Date"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Internship",
+        "edit": "Edit Internship",
+        "details": "Internship  Details",
+        "status": "Status Internship "
+      }
+    },
+    "btns": {
+      "new": "New Internship ",
+      "all": "All Internships ",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "internship": {
+      "header": "التدريب",
+      "key": {
+        "trainee":"المتدرب",
+        "course":  "دورة",
+        "start_date":  "تاريخ البداية",
+        "end_date":  "تاريخ النهاية",
+        "description":"الوصف",
+        "status": "الحاله",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "trainee": {
+        "label": "المتدرب",
+        "placeholder": "ادخل المتدرب"
+      },
+      "course": {
+        "label": "دورة",
+        "placeholder": "ادخل دورة"
+      },
+      "start_date": {
+        "label": "تاريخ البداية",
+        "placeholder": "ادخل تاريخ البداية"
+      },
+      "end_date": {
+        "label": "تاريخ النهاية",
+        "placeholder": "ادخل تاريخ النهاية"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "تدريب جديد",
+        "edit": "تعديل تدريب",
+        "details": "تفاصيل تدريب",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "تدريب جديد",
+      "all": "كل التدريبات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

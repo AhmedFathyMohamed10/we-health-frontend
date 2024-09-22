@@ -1,0 +1,118 @@
+{
+    "en":{
+        "sessions":{
+            "title":"Sessions",
+            "issue":{
+                "label":"Issue",
+                "placeholder": "Search or Insert"
+            },
+            "target":{
+                "name":{
+                    "label":"Target",
+                    "placeholder": "Search or Insert"
+                },
+                "currentValue":{
+                    "label":"Current Value",
+                    "placeholder": "Text..."
+                },
+                "targetValue":{
+                    "label":"Target Value",
+                    "placeholder": "Text..."
+                }
+            },
+            "procedure":{
+            "title":"Procedure",
+
+                "name":{
+                    "label":"Treatment Procedure",
+                    "placeholder": "Search or Insert"
+                },
+                "noOfSessions":{
+                    "label":"No. Of Sessions ",
+                    "placeholder": "No."
+                },
+                "currentSession":{
+                    "label":"Current Session No.",
+                    "placeholder": "No."
+                },
+                "time":{
+                    "label":"Session Time",
+                    "placeholder": "00:00 MIN"
+                },
+                "place":{
+                    "label":"Place",
+                    "placeholder": "Select"
+                },
+                "status":{
+                    "label":"Status",
+                    "placeholder": "Select"
+                },
+                "date":{
+                    "label":"Date",
+                    "placeholder": "MM-DD-YYYY"
+                },
+                "comment":{
+                    "label":"Comment",
+                    "placeholder": "Text..."
+                }
+            }
+        }
+    },
+    "ar":{
+        "sessions":{
+            "title":"Sessions",
+            "issue":{
+                "label":"Issue",
+                "placeholder": "Search or Insert"
+            },
+            "target":{
+                "name":{
+                    "label":"Target",
+                    "placeholder": "Search or Insert"
+                },
+                "currentValue":{
+                    "label":"Current Value",
+                    "placeholder": "Text..."
+                },
+                "targetValue":{
+                    "label":"Target Value",
+                    "placeholder": "Text..."
+                }
+            },
+            "procedure":{
+                "name":{
+                    "label":"Treatment Procedure",
+                    "placeholder": "Search or Insert"
+                },
+                "noOfSessions":{
+                    "label":"No. Of Sessions ",
+                    "placeholder": "No."
+                },
+                "currentSession":{
+                    "label":"Current Session No.",
+                    "placeholder": "No."
+                },
+                "time":{
+                    "label":"Session Time",
+                    "placeholder": "00:00 MIN"
+                },
+                "place":{
+                    "label":"Place",
+                    "placeholder": "Select"
+                },
+                "status":{
+                    "label":"Status",
+                    "placeholder": "Select"
+                },
+                "date":{
+                    "label":"Date",
+                    "placeholder": "MM-DD-YYYY"
+                },
+                "comment":{
+                    "label":"Comment",
+                    "placeholder": "Text..."
+                }
+            }
+        }
+    }
+}

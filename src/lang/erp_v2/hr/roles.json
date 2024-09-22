@@ -1,0 +1,138 @@
+{
+  "en": {  
+    "role": {
+      "header": "Role",
+      "key": {
+        "role_name": "Role Name",
+        "department": "Department",
+        "serial_code": "Serial Code",
+        "description": "Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "role_name": {
+        "label": "Role Name",
+        "placeholder": "Enter Role Name"
+      },
+      "serial_code": {
+        "label": "Code",
+        "placeholder": "Enter Code"
+      },
+      "department": {
+        "label": "Department",
+        "placeholder": "Enter Department"
+      },
+  
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "newDep":"New Role",
+        "new": "New Role",
+        "edit": "Edit Role",
+        "details": "Role Details",
+        "status": "Status Role"
+      }
+    },
+    "btns": {
+      "new": "New Role",
+      "all": "All Roles",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "role": {
+      "header": "الأدوار",
+      "key": {
+        "role_name":"إسم الدور",
+        "serial_code":"كود",
+        "department": "قسم",
+        "description": "الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "role_name": {
+        "label": "إسم الدور",
+        "placeholder": "ادخل إسم الدور"
+      },
+      "serial_code": {
+        "label": "كود",
+        "placeholder": "ادخل كود"
+      },
+      "department": {
+        "label": "قسم",
+        "placeholder": "ادخل قسم"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "دور جديد",
+        "edit": "تعديل دور",
+        "details": "تفاصيل دور",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "دور جديد",
+      "all": "كل الادوار",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

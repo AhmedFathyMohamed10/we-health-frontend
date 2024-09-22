@@ -1,0 +1,40 @@
+{
+  "en": {
+    "title": "Find your account",
+    "phone":{
+      "text": "Verify your phone number",
+      "hint": "Please check your phone for a verification code, if you couldn't find it,click resend."
+    },
+    "email":{
+      "text": "Verify your email address",
+      "hint": "Please check your email for a verification code, if you couldn't find it, click resend."
+    },
+    "code":{
+      "label": "Verification code",
+      "placeholder":"Enter the code"
+    },
+    "remaining": "Remaining",
+    "second": "second",
+    "resend": "Resend",
+    "next": "Next"
+  },
+  "ar": {
+    "title": "ابحث عن حسابك",
+    "phone":{
+      "text": "تحقق من رقم الهاتف",
+      "hint": "من فضلك تحقق صندوق الرسائل من اجل كود التحقق , اذا لم تحصل عليه اضغط اعادة الارسال"
+    },
+    "email":{
+      "text": "تحقق من بريدك لالكتروني",
+      "hint": "من فضلك تحقق بريدك الالكتروني من اجل كود التحقق , اذا لم تحصل عليه اضغط اعادة الارسال"
+    },
+    "code":{
+      "label": "كود التحقق",
+      "placeholder":"ادخل الكود"
+    },
+    "remaining": "متبقي",
+    "second": "ثانية",
+    "resend": "اعادة الارسال",
+    "next": "التالي"
+  }
+}

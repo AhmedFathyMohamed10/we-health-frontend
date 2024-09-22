@@ -1,0 +1,146 @@
+{
+  "en": {  
+    "department": {
+      "header": "Department",
+      "key": {
+        "department_name": "Department Name",
+        "description": "Description",
+        "serial_code": "Serial Code",
+        "role": "Role",
+        "parent": "Parent",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "department_name": {
+        "label": "Name",
+        "placeholder": "Enter Name"
+      },
+      "parent": {
+        "label": "Parent",
+        "placeholder": "Enter Parent"
+      },
+      "serial_code": {
+        "label": "Code",
+        "placeholder": "Enter Code"
+      },
+      "role": {
+        "label": "Role",
+        "placeholder": "Enter Role"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Department",
+        "edit": "Edit Department",
+        "details": "Department Details",
+        "status": "Status Department"
+      }
+    },
+    "btns": {
+      "new": "New Department",
+      "all": "All Departments",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "department": {
+      "header": "أقسام",
+      "key": {
+        "department_name": "الاسم",
+        "parent": "الاب",
+        "serial_code":"كود",
+        "role": "دور",
+        "description": "الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "department_name": {
+        "label": "الاسم",
+        "placeholder": "ادخل الاسم"
+      },
+      "parent": {
+        "label": "الاب",
+        "placeholder": "ادخل الاب"
+      },
+      "serial_code": {
+        "label": "كود",
+        "placeholder": "ادخل كود"
+      },
+      "role": {
+        "label": "دور",
+        "placeholder": "ادخل دور"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "قسم جديد",
+        "edit": "تعديل قسم",
+        "details": "تفاصيل قسم",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "قسم جديد",
+      "all": "كل الأقسام",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

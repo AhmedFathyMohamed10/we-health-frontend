@@ -1,0 +1,67 @@
+{
+  "en":{
+    "header":{
+      "title":"Temprature",
+      "insert":"New Temprature Record",
+      "update":"Update Temprature Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "degree":{
+        "label":"Degree",
+        "placeholderValue":" Degree ",
+        "dropdownPlaceholder":"°C "
+       
+      },
+      "reference":{
+        "title":"Reference",
+        "value":"36.5 - 37.5 °C",
+        "result":"Result"
+      }
+    
+    },
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result:" 
+  },
+  "ar":{
+    "header":{
+      "title":"درجة حرارة",
+      "insert":"رقم قياسي جديد لدرجة الحرارة",
+      "update":"تحديث سجل درجة الحرارة"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "degree":{
+        "label":"درجة",
+        "placeholderValue":" درجة ",
+        "dropdownPlaceholder":" درجة مئوية "
+       
+      },
+      "reference":{
+        "title":"مرجع",
+        "value":"36.5 - 37.5 °C ",
+        "result":"نتيجة"
+      } 
+    },
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة : " 
+  }
+}

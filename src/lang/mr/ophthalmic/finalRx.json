@@ -1,0 +1,64 @@
+{
+  "en": {
+    "measurements": {
+      "header": "Final RX",
+      "near": "Near ",
+      "distant": "Distant ",
+      "simple": "Simple ",
+      "advanced": "Advanced ",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "pd": {
+      "header": " DP",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "recommendation": {
+      "header": "Recommendation",
+      "lensType": {
+        "label": "Lens Type",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "measurements": {
+      "header": "Final RX",
+      "near": "Near ",
+      "distant": "Distant ",
+      "simple": "Simple ",
+      "advanced": "Advanced ",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "pd": {
+      "header": " DP",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "recommendation": {
+      "header": "Recommendation",
+      "lensType": {
+        "label": "Lens Type",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

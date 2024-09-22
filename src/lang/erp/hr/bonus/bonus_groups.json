@@ -1,0 +1,115 @@
+{
+    "en": {
+        "group":{
+            "header": "Group",
+            "key":{
+                "name":"Name",
+                "description":"Description",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at"
+                
+
+
+
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Group",
+                "edit":"Edit Group",
+                "details":"Group Details"
+            }
+        },
+        "btns":{
+            "new":"New Group",
+            "all":"All Groups",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "group":{
+            "header":"المجموعة",
+            "key":{
+                "name":"الاسم",
+                "description":"الوصف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم المجموعة",
+                "placeholder":"ادخل اسم المجموعة"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"مجموعة جديدة",
+                "edit":"تعديل المجموعة",
+                "details":"تفاصيل المجموعة",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"مجموعة جديدة",
+            "all":"كل المجموعات",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+

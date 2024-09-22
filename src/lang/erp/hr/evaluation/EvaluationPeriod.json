@@ -1,0 +1,115 @@
+{
+    "en": {
+        "evaluationPeriod":{
+            "header": "Evaluation Period",
+            "key":{
+                "title":"Title",
+                "periodTo":"Period To",
+                "periodFrom":"Period Form",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "title":{
+                "label":"Title",
+                "placeholder":"Enter Title"
+            },
+            "periodTo":{
+                "label":"Period To",
+                "placeholder":"Enter Period To"
+            },
+        
+            "periodFrom":{
+                "label":"Period Form",
+                "placeholder":"Enter Period Form"
+            }
+        },
+        "dialog":{
+            "header":{
+                "newPeriod":"New Evaluation Period",
+                "new":"New Evaluation Period",
+                "edit":"Edit Evaluation Period",
+                "details":"Evaluation Period Details"
+            }
+        },
+        "btns":{
+            "new":"New Evaluation Period",
+            "all":"All Evaluation Periods",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Title or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "evaluationPeriod":{
+            "header":"فتره التقيم",
+            "key":{
+                "title":"العنوان",
+                "periodTo" :"الفتره الي",
+                "periodFrom":"الفتره من",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "title":{
+                "label":"العنوان",
+                "placeholder":"ادخل العنوان"
+            },
+            "periodTo":{
+                "label":"الفتره الي",
+                "placeholder":"ادخل الفتره الي"
+            },
+            "periodFrom":{
+                "label":"الفتره من",
+                "placeholder":"ادخل الفتره من"
+            }
+          
+        },
+        "dialog":{
+            "header":{
+                "newPeriod": "اضافه فتره التقيم جديده" ,
+                "new":"اضافه فتره التقيم جديده" ,
+                "edit":" تعديل فتره التقيم",
+                "details":"تفاصيل فتره التقيم",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه فتره التقيم جديده",
+            "all":"كل فترات التقيم",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

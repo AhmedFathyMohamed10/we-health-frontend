@@ -1,0 +1,22 @@
+{
+  "en": {
+    "serum":{
+        "label":"Serum Bilirubin (mg/dl)",
+        "placeholder":"Serum"
+    },
+    "comment":{
+        "label":"Comment",
+        "placeholder":"Text..."
+    }
+  },
+  "ar": {
+    "serum":{
+        "label":"Serum Bilirubin (mg/dl)",
+        "placeholder":"Serum"
+    },
+    "comment":{
+        "label":"Comment",
+        "placeholder":"Text..."
+    }
+  }
+}

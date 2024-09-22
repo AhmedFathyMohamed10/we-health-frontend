@@ -1,0 +1,246 @@
+{
+  "en": {
+    "client": {
+      "header": "Clients",
+      "headerProvider": "Providers",
+
+      "key": {
+        "name": "Name",
+        "mobile": "Mobile",
+        "address": "Address",
+        "group_name": "Group",
+        "group": "Group",
+        "discount_ratio": "Discount Ratio",
+        "maximum_debt": "Maximum Debt",
+        "job_title": "Job Title",
+        "pricing_pattern": "Pricing Pattern",
+        "status": "Active",
+        "code": "Code",
+        "category": "Category",
+        "created_by": "Created by",
+        "created_at": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "category": {
+        "label": "Categroy"
+      },
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter Name"
+      },
+      "mobile": {
+        "label": "Mobile",
+        "placeholder": "Enter Mobile"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Enter Email"
+      },
+      "address": {
+        "label": "Address",
+        "placeholder": "Enter Address"
+      },
+      "group": {
+        "label": "Group",
+        "placeholder": "Enter Group"
+      },
+      "discount_ratio": {
+        "label": "Discount Ratio",
+        "placeholder": "Enter DiscountRatio"
+      },
+      "maximum_debt": {
+        "label": "Maximum Debt",
+        "placeholder": "Enter MaximumDebt"
+      },
+      "job_title": {
+        "label": "Job Title",
+        "placeholder": "Enter JobTitle"
+      },
+      "pricing_pattern": {
+        "label": "Pricing Pattern",
+        "placeholder": "Enter PricingPattern"
+      },
+      "status": {
+        "label": "Status",
+        "placeholder": "Enter Status"
+      },
+      "code": {
+        "label": "Code",
+        "placeholder": "Enter Code"
+      },
+      "createdBy": {
+        "label": "Created By",
+        "placeholder": "Enter CreatedBy"
+      },
+      "createdAt": {
+        "label": "Created At",
+        "placeholder": "Enter CreatedAt"
+      },
+      "updatedAt": {
+        "label": "Updated At",
+        "placeholder": "Enter UpdatedAt"
+      },
+      "provider": {
+        "label": "Provider"
+      },
+      "client": {
+        "label": "Client"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Client",
+        "editClient": "Edit Client",
+        "editProvider": "Edit Provider",
+        "detailsClient": "Client Details",
+        "detailsProvider": "Provider Details",
+        "status": "Status Client"
+      },
+      "title": {
+        "new": "New Group",
+        "edit": "Edit Group",
+        "details": "Group Details",
+        "status": "Status Group"
+      }
+    },
+    "btns": {
+      "newClient": "New Client",
+      "newProvider": "New Provider",
+      "allClients": "All Clients",
+      "allProviders": "All Providers",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "client": {
+      "header": "العملاء",
+      "headerProvider": "الموردين",
+      "key": {
+        "name": "الاسم",
+        "mobile": "رقم التليفون",
+        "address": "العنوان",
+        "group_name": "المجموعة",
+        "group": "المجموعة",
+        "discount_ratio": "نسبة الخصم",
+        "maximum_debt": "الحد الاعلي للدين",
+        "pricing_pattern": "نمط التسعير",
+        "status": "ألحالة",
+        "controls": "التحكم",
+        "job_title": "المسمي الوظيفي",
+        "created_by": "تم الانشاء بواسطة",
+        "created_at": "التريخ",
+        "updated_at": "تاريخ التعديل",
+        "category": "الفئة"
+      }
+    },
+    "form": {
+      "category": {
+        "label": "الفئة"
+      },
+      "name": {
+        "label": "الاسم",
+        "placeholder": "ادخل اسم"
+      },
+      "mobile": {
+        "label": "رقم التليفون",
+        "placeholder": " ادخل رقم التليفون"
+      },
+      "address": {
+        "label": "العنوان",
+        "placeholder": "ادخل العنوان"
+      },
+      "group": {
+        "label": "المجموعة",
+        "placeholder": "اختر المجموعة"
+      },
+      "discount_ratio": {
+        "label": "نسبة الخصم",
+        "placeholder": "ادخل نسبة الخصم"
+      },
+      "maximum_debt": {
+        "label": "الحد الاعلي للدين",
+        "placeholder": "ادخل الحد الاقصي للدين"
+      },
+      "job_title": {
+        "label": "المهنة",
+        "placeholder": "ادخل المهنة"
+      },
+      "pricing_pattern": {
+        "label": "نمط التسعير",
+        "placeholder": "ادخل نمط التسعير"
+      },
+      "status": {
+        "label": "نشط",
+        "placeholder": "ادخل النشاط"
+      },
+      "provider": {
+        "label": "مورد"
+      },
+      "client": {
+        "label": "عميل"
+      }
+    },
+    "dialog": {
+      "header": {
+        "editClient": "تعديل العميل",
+        "editProvider": "تعديل المورد",
+        "detailsClient": "تفاصيل العميل",
+        "detailsProvider": "تفاصيل المورد",
+        "new": "عميل جديد",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط",
+      "newClient": "عميل جديد",
+      "newProvider": "مورد جديد",
+      "allClients": "كل العملاء",
+      "allProviders": "كل الموردين"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

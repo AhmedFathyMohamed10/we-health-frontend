@@ -1,0 +1,156 @@
+{
+  "en": {  
+    "allowance": {
+      "header": "Allowance",
+      "key": {
+        "employee":"Employee",
+        "allowance": "Allowance",
+        "type":"Type",
+        "amount": "Amount",
+        "due_date": "Due Date",
+        "description": "Description",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee",
+        "placeholder": "Enter Employee"
+      },
+      "allowance": {
+        "label": "Allowance",
+        "placeholder": "Enter Allowance"
+      },
+      "type": {
+        "label": "Type",
+        "placeholder": "Enter Type"
+      },
+      "amount": {
+        "label": "Amount",
+        "placeholder": "Enter Amount"
+      },
+      "due_date": {
+        "label": "Due Date",
+        "placeholder": "Enter Due Date"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Enter Description"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Allowance",
+        "edit": "Edit Allowance",
+        "details": "Allowance Details",
+        "status": "Status Allowance "
+      }
+    },
+    "btns": {
+      "new": "New Allowance ",
+      "all": "All Allowances",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "allowance": {
+      "header": "بدل",
+      "key": {
+        "employee":"الموظف",
+        "allowance":"بدل",
+        "type":"نوع",
+        "amount": "كمية",
+        "due_date": "تاريخ الاستحقاق",
+        "description": "الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "الموظف",
+        "placeholder": "ادخل الموظف"
+      },
+      "allowance": {
+        "label": "بدل",
+        "placeholder": "ادخل بدل"
+      },
+      "type": {
+        "label": "نوع",
+        "placeholder": "ادخل نوع"
+      },
+      "amount": {
+        "label": "كمية",
+        "placeholder": "ادخل كمية"
+      },
+      "due_date": {
+        "label": "تاريخ الاستحقاق",
+        "placeholder": "ادخل تاريخ الاستحقاق"
+      },
+      "description": {
+        "label": "الوصف",
+        "placeholder": "ادخل الوصف"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "بدل جديد",
+        "edit": "تعديل بدل",
+        "details": "تفاصيل بدل",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "بدل جديد",
+      "all": "كل البدلات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

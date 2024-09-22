@@ -1,0 +1,200 @@
+{
+    "en": {
+        "invoiceStatement": {
+            "header": "Invoice Statement"
+        },
+        "form": {
+            "invoice_type":{
+                "label":"Invoice Type",
+                "placeholder":"Select Invoice Type"
+            },
+            "definition":{
+                "label":"Definition",
+                "placeholder":"Select"
+            },
+            "store":{
+                "label":"Store",
+                "placeholder":"Select"
+            },
+            "number":{
+                "label":"Number",
+                "placeholder":"Enter Number"
+            },
+            "date":{
+                "label":"Date/Time",
+                "placeholder":"Date/Time"
+            },
+            "provider_account":{
+                "label":"Provider Account",
+                "placeholder":"Search in Clients"
+            },
+            "discount": {
+              "label": "Discount",
+              "valuePlaceholder": "Amount",
+              "dropdownPlaceholder": "Unit"
+            },
+            "discount_method": {
+              "label": "Discount Method",
+              "placeholder":"Select"
+            },
+            "discount_value": {
+              "label": "Discount Value",
+              "placeholder":"Enter Number"
+            },
+            "total":{
+                "label":"Total after Discount",
+                "placeholder":"Total"
+            },
+            "paid":{
+                "label":"Paid",
+                "placeholder":"Paid"
+            },
+            "returned_from":{
+                "label":"Returned From",
+                "placeholder":"Select"
+            },
+            "products":{
+              "label":"Products"
+            },
+            "updated_at":{
+                "label":"updated at",
+                "placeholder":"updated_at"
+            },
+            "status":{
+                "label":"Status",
+                "placeholder":"Status"
+            },
+            "created_at": {
+                "label": "Date/Time"
+            },
+            "start_date": {
+                "label": "Start Date",
+                "placeholder": "Start Date"
+            },
+            "end_date": {
+                "label": "End Date",
+                "placeholder": "End Date"
+            }         
+        },
+        "btns": {
+            "search": "Search"
+        },
+        "messages": {
+            "resultsfound": "result",
+              "invoicesTotal":"Total",
+              "invoicesTotalPaid":"Total Paid",
+              "difference":"Difference",
+              "forUs":"for Us",
+              "forThem":"for Them"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a Name"
+            }
+        }
+    },
+    "ar": {
+        "invoiceStatement": {
+            "header": "كشف فاتورة"
+        },
+        "form": {
+            "invoice_type":{
+                "label":"نوع الفاتورة",
+                "placeholder":"اختر نوع الفاتورة"
+            },
+            "definition":{
+                "label":"التعريف",
+                "placeholder":"اختر"
+            },
+            "store":{
+                "label":"المخزن",
+                "placeholder":"اختر"
+            },
+            "number":{
+                "label":"رقم",
+                "placeholder":"أدخل الرقم"
+            },
+            "date":{
+                "label":"التاريخ/الوقت",
+                "placeholder":"التاريخ/الوقت"
+            },
+            "provider_account":{
+                "label":"حساب المورد",
+                "placeholder":"البحث في العملاء"
+            },
+            "discount": {
+                "label": "الخصم",
+                "valuePlaceholder": "مبلغ",
+                "dropdownPlaceholder": "الوحدة"
+            },
+            "discount_method": {
+                "label": "طريقة الخصم",
+                "placeholder":"اختر"
+            },
+            "discount_value": {
+                "label": "قيمة الخصم",
+                "placeholder":"أدخل الرقم"
+            },
+            "total":{
+                "label":"الإجمالي بعد الخصم",
+                "placeholder":"الإجمالي"
+            },
+            "paid":{
+                "label":"المدفوع",
+                "placeholder":"المدفوع"
+            },
+            "returned_from":{
+                "label":"مرتجع",
+                "placeholder":"اختر"
+            },
+            "products":{
+                "label":"المنتجات"
+            },        
+            "updated_at":{
+                "label":"تم التحديث في",
+                "placeholder":"تم التحديث في"
+            },
+            "status":{
+                "label":"الحالة",
+                "placeholder":"الحالة"
+            },
+            "created_at": {
+                "label": "التاريخ/الوقت"
+            },
+            "start_date": {
+                "label": "في المدة من",
+                "placeholder": "في المدة من"
+            },
+            "end_date": {
+                "label": "في المدة الي",
+                "placeholder":"في المدة الي"
+            }
+        },
+        "btns": {
+            "search": "بحث"
+        },
+        "messages": {
+            "resultsfound": "نتيجة",
+            "invoicesTotal":"الاجمالي",
+            "invoicesTotalPaid":"اجمالي المدفوع",
+            "difference":"الفرق",
+            "forUs":"لنا",
+            "forThem":"لهم"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم"
+            }
+        }
+    }
+}

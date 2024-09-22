@@ -1,0 +1,141 @@
+{
+    "en": {
+        "subCategory": {
+            "header": "Sub Category",
+            "key": {
+                "name": "Name",
+                "category": "Main Category",
+                "description": "Description",
+                "status": "Active",
+                "createdBy": "Created by",
+                "createdAt": "Date",
+                "updated_at": "Updated at",
+                "main_category_name":"Main Category"
+            }
+        },
+        "form": {
+            "name": {
+                "label": "Name",
+                "placeholder": "Enter Name"
+            },
+            "description": {
+                "label": "Description",
+                "placeholder": "Enter Description"
+            },
+            "category": {
+                "label": "Category",
+                "placeholder": "Enter Category"
+            },
+            "status": {
+                "label": "Active",
+                "placeholder": "Enter Active"
+            }
+        },
+        "dialog": {
+            "header": {
+                "newMain":"New Main Category",
+                "editMain":"Edit Main Category",
+                "new": "New Sub Category",
+                "edit": "Edit Sub Category",
+                "details": "Sub Category Details",
+                "status": "Status Sub Category"
+            }
+        },
+        "btns": {
+            "new": "New Sub Category",
+            "all": "All Sub Category",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status": {
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "subCategory": {
+            "header": "فئة فرعيه",
+            "key": {
+                "name": "الاسم",
+                "description": "الوصف",
+                "category": "الفئة",
+                "status": "الحاله",
+                "createdBy": "أنشئت من قبل",
+                "createdAt": "التاريخ",
+                "updated_at": "تم التحديث في",
+                "main_category_name":"الفئة"
+
+            }
+        },
+        "form": {
+            "name": {
+                "label": "اسم الفئة",
+                "placeholder": "ادخل اسم الفئة"
+            },
+            "description": {
+                "label": "الوصف",
+                "placeholder": "ادخل الوصف"
+            },
+            "category": {
+                "label": "الفئة",
+                "placeholder": "ادخل الفئة"
+            },
+            "status": {
+                "label": "نشط",
+                "placeholder": "ادخل النشاط"
+            }
+        },
+        "dialog": {
+            "header": {
+                "new": "فئة فرعيه جديد",
+                "edit": "تعديل فئة فرعيه",
+                "details": "تفاصيل فئة فرعيه",
+                "delete": "حذف",
+                "status": "الحاله"
+
+            }
+        },
+        "btns": {
+            "new": "فئة فرعيه جديده",
+            "all": "كل فئة فرعيه",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended": "غير نشط"
+        },
+        "status": {
+            "active": "نشط",
+            "suspended": "غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

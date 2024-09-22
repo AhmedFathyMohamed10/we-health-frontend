@@ -1,0 +1,133 @@
+{
+    "en": {
+        "group":{
+            "header": "Group",
+            "key":{
+                "name":"Name",
+                "discount_percentage":"Discount Percentage",
+                "description":"Description",
+                "created_by":"Created by",
+                "created_at":"Date",
+                "updated_at":"Updated at",
+                "status":"Status"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "discount_percentage":{
+                "label":"Discount Percentage",
+                "placeholder":"Enter Discount Percentage"
+            },
+            "description":{
+                "label":"Description",
+                "placeholder":"Enter Description"
+            },
+            "status":{
+                "label":"Status",
+                "placeholder":"Enter Description"
+            }
+            
+        },
+        "dialog":{
+            "header":{
+                "new":"New Group",
+                "edit":"Edit Group",
+                "details":"Group Details"
+            }
+        },
+        "btns":{
+            "new":"New Group",
+            "all":"All Groups",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "status":{
+            "active":"Active",
+            "suspended":"Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "department":{
+            "header":"القسم",
+            "key":{
+                "name":"الاسم",
+                "discount_percentage":"نسبه الخصم",
+                "description":"الوصف",
+                "created_by":"أنشئت من قبل",
+                "created_at":"التاريخ",
+                "updated_at":"تم التحديث في",
+                "status":"الحالة"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم المجموعة",
+                "placeholder":"ادخل اسم المجموعة"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            },
+            "discount_percentage":{
+                "label":"نسبه الخصم",
+                "placeholder":"ادخل نسبه الخصم"
+            },
+            "status":{
+                "label":"الحالة",
+                "placeholder":"ادخل الحالة"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"مجموعه جديد",
+                "edit":"تعديل مجموعه",
+                "details":"تفاصيل مجموعه",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"مجموعه جديد",
+            "all":"كل مجموعه",
+            "search": "بحث",
+            "delete": "حذف"
+        },
+        "status":{
+            "active":"نشط",
+            "suspended":"غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}
+
+
+

@@ -1,0 +1,152 @@
+{
+    "en": {
+        "productProfit": {
+            "header": "Product Profits"
+        },
+        "form": {
+            "product": {
+                "label": "Product Name",
+                "placeholder": "Enter Product Name"
+            },
+            "unit_name": {
+                "label": "Unit"
+            },
+            "total_quantity_out": {
+                "label": "Total Quantity Out"
+            },
+            "total_price_out": {
+                "label": "Total Price Out"
+            },
+            "total_sales_cost":{
+                "label": "Total Sales Cost"
+            },
+            "total_sales_profit":{
+                "label": "Total Sales Profit"
+            },
+            "total_quantity_returns":{
+                "label": "Total Quantity Returns"
+            },
+            "total_price_returns":{
+                "label": "Total Price Returns"
+            },
+            "total_returns_cost":{
+                "label": "Total Returns Cost"
+            },
+            "total_returns_profit":{
+                "label": "Total Returns Profit"
+            },
+            "total_sales":{
+                "label": "Total Sales"
+            },
+            "total_profit":{
+                "label": "Total Profit"
+            },
+            "profit_percentage":{
+                "label": "Profit Percentage"
+            },
+
+            "created_at": {
+                "label": "Date/Time"
+            },
+            "start_date": {
+                "label": "Start Date",
+                "placeholder": "Start Date"
+            },
+            "end_date": {
+                "label": "End Date",
+                "placeholder": "End Date"
+            }         
+        },
+        "btns": {
+            "search": "Search"
+        },
+        "messages": {
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a Name"
+            }
+        }
+    },
+    "ar": {
+        "productProfit": {
+            "header": "أرباح المنتج"
+        },
+        "form": {
+            "product": {
+                "label": "اسم المنتج",
+                "placeholder": "ادخل اسم المنتج"
+            },
+            "unit_name": {
+                "label": "الوحدة"
+            },
+            "total_quantity_out": {
+                "label": "الكمية الإجمالية الخارجة"
+            },
+            "total_price_out": {
+                "label": "السعر الإجمالي الخارج"
+            },  
+            "total_sales_cost":{
+                "label": "إجمالي تكلفة المبيعات"
+            },
+            "total_sales_profit":{
+                "label": "إجمالي ربح المبيعات"
+            },
+            "total_quantity_returns":{
+                "label": "إجمالي إرجاع الكمية"
+            },
+            "total_price_returns":{
+                "label": "إجمالي المرتجعات"
+            },
+            "total_returns_cost":{
+                "label": "إجمالي تكلفة المرتجعات"
+            },
+            "total_returns_profit":{
+                "label": "إجمالي ربح المرتجعات"
+            },
+            "total_sales":{
+                "label": "إجمالي المبيعات"
+            },
+            "total_profit":{
+                "label": "إجمالي الربح"
+            },
+            "profit_percentage":{
+                "label": "نسبة الربح"
+            },                      
+            "created_at": {
+                "label": "التاريخ/الوقت"
+            },
+            "start_date": {
+                "label": "في المدة من",
+                "placeholder": "في المدة من"
+            },
+            "end_date": {
+                "label": "في المدة الي",
+                "placeholder":"في المدة الي"
+            }
+        },
+        "btns": {
+            "search": "بحث"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم"
+            }
+        }
+    }
+}

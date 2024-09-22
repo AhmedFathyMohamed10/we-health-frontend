@@ -1,0 +1,79 @@
+{
+    "en":{
+        "rom":{
+            "label":"R.O.M Status",
+            "placeholder":"Text..."
+        },
+        "muscle":{
+            "label":"Muscle Status",
+            "placeholder":"Text..."
+        },
+        "skin":{
+            "label":"Skin & Soft Tissues/Pain",
+            "placeholder":"Text..."
+        },
+        "cardio":{
+            "label":"Cardio Vascular Status",
+            "placeholder":"Text..."
+        },
+        "gait":{
+            "label":"General Mobility 'Gait'",
+            "placeholder":"Text..."
+        },
+        "transfers":{
+            "label":"Transfers",
+            "placeholder":"Text..."
+        },
+        "balance":{
+            "label":"Balance",
+            "placeholder":"Text..."
+        },
+        "upper":{
+            "label":"Upper Limb Functions",
+            "placeholder":"Text..."
+        },
+        "lower":{
+            "label":"Lower Limb Functions",
+            "placeholder":"Text..."
+        }
+    },
+    "ar":{
+        "rom":{
+            "label":"R.O.M Status",
+            "placeholder":"Text..."
+        },
+        "muscle":{
+            "label":"Muscle Status",
+            "placeholder":"Text..."
+        },
+        "skin":{
+            "label":"Skin & Soft Tissues/Pain",
+            "placeholder":"Text..."
+        },
+        "cardio":{
+            "label":"Cardio Vascular Status",
+            "placeholder":"Text..."
+        },
+        "gait":{
+            "label":"General Mobility 'Gait'",
+            "placeholder":"Text..."
+        },
+        "transfers":{
+            "label":"Transfers",
+            "placeholder":"Text..."
+        },
+        "balance":{
+            "label":"Balance",
+            "placeholder":"Text..."
+        },
+        "upper":{
+            "label":"Upper Limb Functions",
+            "placeholder":"Text..."
+        },
+        "lower":{
+            "label":"Lower Limb Functions",
+            "placeholder":"Text..."
+        }
+    }
+
+}

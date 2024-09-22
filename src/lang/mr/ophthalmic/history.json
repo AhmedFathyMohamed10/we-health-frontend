@@ -1,0 +1,130 @@
+{
+  "en": {
+  
+    "medicalCondition": {
+      "header":"Medical Condition",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      },
+      "other": {
+        "label": "Other",
+        "placeholder": "other value"
+      }
+    },
+    "ocularMedication": {
+      "header":"Ocular Medication",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "ocularHistory": {
+      "header":"Ocular History",
+      "condition": {
+        "label": "Condition",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other"
+      },
+      "eye": {
+        "label": "Eye",
+        "placeholder": "Select"
+      },
+      "date": {
+        "label": "Date",
+        "placeholder": "yy-mm-dd"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "clHabits": {
+      "header":"Cl Habits",
+      "typeReplacement": {
+        "label": "Type / Replacement",
+        "placeholder": "Select"
+      },
+      "comfort": {
+        "label": "Comfort",
+        "placeholder": "Select"
+      },
+      "wearingHabits": {
+        "label": "Wearing Habits",
+        "placeholder": "Select"
+      },
+      "cleaningHabits": {
+        "label": "Cleaning Habits",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+  
+    "medicalCondition": {
+      "header":"Medical Condition",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      },
+      "other": {
+        "label": "Other",
+        "placeholder": "other value"
+      }
+    },
+    "ocularMedication": {
+      "header":"Ocular Medication",
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "ocularHistory": {
+      "header":"Ocular History",
+      "condition": {
+        "label": "Condition",
+        "placeholder": "Select",
+        "otherPlaceholder": "Other"
+      },
+      "eye": {
+        "label": "Eye",
+        "placeholder": "Select"
+      },
+      "date": {
+        "label": "Date",
+        "placeholder": "yy-mm-dd"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    },
+    "clHabits": {
+      "header":"Cl Habits",
+      "typeReplacement": {
+        "label": "Type / Replacement",
+        "placeholder": "Select"
+      },
+      "comfort": {
+        "label": "Comfort",
+        "placeholder": "Select"
+      },
+      "wearingHabits": {
+        "label": "Wearing Habits",
+        "placeholder": "Select"
+      },
+      "cleaningHabits": {
+        "label": "Cleaning Habits",
+        "placeholder": "Select"
+      },
+      "note": {
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

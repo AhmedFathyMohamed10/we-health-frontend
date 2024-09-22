@@ -1,0 +1,50 @@
+{
+  "en": {
+    "signIn": "Sign in",
+    "first": "First time signing?",
+    "signUp": "Sign up",
+    "stay": "Stay Signed in",
+    "differentAccount": "Sign in with different account",
+    "form": {
+      "phoneOrEmailOrUsername": {
+        "label": "Email / Phone / Username",
+        "placeholder": "Enter Email, Phone, Username"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Enter your password"
+      }
+    },
+    "forgetPassword": "Forgot your password?",
+    "continue": "Continue",
+    "or": "Or",
+    "business": {
+      "link": "Create a business page",
+      "text": " for your clinic, pharmacy, laboratory or etc."
+    }
+  },
+  "ar": {
+    "signIn": "تسجيل الدخول",
+    "first": "تسجيل الدخول لأول مرة؟",
+    "signUp": " أنشأ حساب جديد",
+    "stay": "ابقي متصلا",
+    "differentAccount": "تسجيل الدخول عن طريق حساب اخر",
+    "form": {
+      "phoneOrEmailOrUsername": {
+        "label": "اسم المسنخدم / البريد الالكتروني / رقم الهاتف",
+        "placeholder": " ادخل اسم المسنخدم/ البريد الالكتروني / رقم الهاتف"
+      },
+      "password": {
+        "label": "كلمة المرور",
+        "placeholder": "ادخل كلمة المرور"
+      }
+    },
+    "forgetPassword": " هل نسيت كلمة المرور ؟",
+    "continue": "تسجيل الدخول",
+    "or": "أو",
+    "business": {
+      "link": "أنشأ صفحة عمل",
+      "text": " لعيادة أو صيدلية أو مختبر أو غيرها"
+    }
+  }
+}

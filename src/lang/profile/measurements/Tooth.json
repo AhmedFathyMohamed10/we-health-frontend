@@ -1,0 +1,54 @@
+{
+  "en":{
+    "header":{
+      "title":"Tooth Chart",
+      "insert":"New Tooth Chart Record",
+      "update":"Update Tooth Chart Record"
+    },
+    "form":{
+      "beats":{
+        "label":"Beats / Minute",
+        "placeholder":"85 ppm"
+      },
+      "note":{
+        "label":"Note:",
+        "placeholder":"Text..."
+      },
+      "status":{
+        "label":"Status",
+        "dropdownPlaceholder":"Extracted "
+       
+      }
+    }, 
+    "view":"View",
+    "chart":"Chart",
+    "report":"Report",
+    "last":"Last Result:"
+  },
+  "ar":{
+    "header":{
+      "title":"مخطط الأسنان",
+      "insert":"سجل مخطط الأسنان الجديد",
+      "update":"تحديث سجل مخطط الأسنان"
+    },
+    "form":{
+      "beats":{
+        "label":"يدق / دقيقة",
+        "placeholder":"85 جزء في المليون"
+      },
+      "note":{
+        "label":"ملحوظة:",
+        "placeholder":"نص..."
+      },
+      "status":{
+        "label":"حالة",
+        "dropdownPlaceholder":"مستخرج "
+       
+      }
+    }, 
+    "view":"منظر",
+    "chart":"جدول",
+    "report":"تقرير",
+    "last":"النتيجة الاخيرة:"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "en": {
+    "length":{
+        "label":"length (CM)",
+        "placeholder":"length"
+    },
+    "weight":{
+        "label":"weight (KG)",
+        "placeholder":"weight"
+    },
+    "head":{
+        "label":"Head circumference (CM)",
+        "placeholder":"head"
+    },
+    "bmi":{
+        "label":"BMI",
+        "placeholder":"BMI"
+    }
+  },
+  "ar": {
+    "length":{
+        "label":"length (CM)",
+        "placeholder":"length"
+    },
+    "weight":{
+        "label":"weight (KG)",
+        "placeholder":"weight"
+    },
+    "head":{
+        "label":"Head circumference (CM)",
+        "placeholder":"head"
+    },
+    "bmi":{
+        "label":"BMI",
+        "placeholder":"BMI"
+    }
+  }
+}
+

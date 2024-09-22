@@ -1,0 +1,54 @@
+{
+    "en":{
+        "composition":{
+            "label":"Inbody Body Composition Analysis",
+            "placeholder":"Select",
+            "intracellularWater":{
+                "label":"Intracellular Water",
+                "placeholder": "No."
+            },
+            "extracellularWater":{
+                "label":"Extracellular Water",
+                "placeholder": "No."
+            },
+            "protein":{
+                "label":"Protein",
+                "placeholder": "No."
+            },
+            "mineral":{
+                "label":"Mineral",
+                "placeholder": "No."
+            },
+            "bodyFatMass":{
+                "label":"Body Fat Mass",
+                "placeholder": "No."
+            }
+        }
+    },
+    "ar":{
+        "composition":{
+            "label":"Inbody Body Composition Analysis",
+            "placeholder":"Select",
+            "intracellularWater":{
+                "label":"Intracellular Water",
+                "placeholder": "No."
+            },
+            "extracellularWater":{
+                "label":"Extracellular Water",
+                "placeholder": "No."
+            },
+            "protein":{
+                "label":"Protein",
+                "placeholder": "No."
+            },
+            "mineral":{
+                "label":"Mineral",
+                "placeholder": "No."
+            },
+            "bodyFatMass":{
+                "label":"Body Fat Mass",
+                "placeholder": "No."
+            }
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "en": {
+    "vaccinationTab":"Vaccination",
+    "vaccination":{
+      "vaccineName":{
+        "label": "Vaccine Name",
+        "placeholder": "Select"
+      },
+      "tradeName":{
+        "label": "Trade Name",
+        "placeholder": "Search or Insert"
+      },
+      "status":{
+        "label": "Status",
+        "placeholder": "Select"
+      }
+    }
+  },
+  "ar": {
+    "vaccination":{
+      "vaccineName":{
+        "label": "Vaccine Name",
+        "placeholder": "Select"
+      },
+      "tradeName":{
+        "label": "Trade Name",
+        "placeholder": "Search or Insert"
+      },
+      "status":{
+        "label": "Status",
+        "placeholder": "Select"
+      }
+    }
+  }
+}

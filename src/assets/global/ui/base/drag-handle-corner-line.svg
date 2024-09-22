@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="drag-handle-corner-line" transform="translate(0 20) rotate(-90)">
+    <ellipse id="Ellipse_101" data-name="Ellipse 101" cx="2" cy="2" rx="2" ry="2" transform="translate(0 16)" fill="#707070"/>
+    <ellipse id="Ellipse_102" data-name="Ellipse 102" cx="2" cy="2" rx="2" ry="2" transform="translate(8 16)" fill="#707070"/>
+    <ellipse id="Ellipse_103" data-name="Ellipse 103" cx="2" cy="2" rx="2" ry="2" transform="translate(8 8)" fill="#707070"/>
+    <ellipse id="Ellipse_104" data-name="Ellipse 104" cx="2" cy="2" rx="2" ry="2" transform="translate(16)" fill="#707070"/>
+    <ellipse id="Ellipse_105" data-name="Ellipse 105" cx="2" cy="2" rx="2" ry="2" transform="translate(16 16)" fill="#707070"/>
+    <ellipse id="Ellipse_106" data-name="Ellipse 106" cx="2" cy="2" rx="2" ry="2" transform="translate(16 8)" fill="#707070"/>
+  </g>
+</svg>

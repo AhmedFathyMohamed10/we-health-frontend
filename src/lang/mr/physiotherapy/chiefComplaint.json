@@ -1,0 +1,69 @@
+{
+    "en": {
+      "chiefComplaint":{
+        "chiefComplaint":{
+          "label": "Chief complaint",
+          "header":"Chief Complaint"
+      },
+        "physicianName":{
+            "label": "Physician Name",
+            "placeholder": "Search or Insert"
+        },
+        "reason":{
+            "label": "Reason",
+            "placeholder": "Text..."
+          },
+        "date":{
+          "label": "Date Of First Symptoms",
+          "placeholder": "mm-dd-yy"
+        },
+        "treatmentProgram":{
+          "label": "Treatment Program",
+          "placeholder": "Search or Insert"
+        },
+        "period": {
+          "label": "Period",
+          "valuePlaceholder": "Time",
+          "dropdownPlaceholder": "Unit"
+        },      
+        "comment":{
+          "label": "Comment",
+          "placeholder": "Text..."
+        }
+      }
+    },
+    "ar": {
+      "chiefComplaint":{
+        "chiefComplaint":{
+          "label": "Chief complaint",
+          "header":"Chief Complaint"
+      },
+        "physicianName":{
+            "label": "Physician Name",
+            "placeholder": "Search or Insert"
+        },
+        "reason":{
+            "label": "Reason",
+            "placeholder": "Text..."
+        },
+        "date":{
+          "label": "Date Of First Symptoms",
+          "placeholder": "mm-dd-yy"
+        },
+        "treatmentProgram":{
+          "label": "Treatment Program",
+          "placeholder": "Search or Insert"
+        },
+        "period": {
+          "label": "Period",
+          "valuePlaceholder": "Time",
+          "dropdownPlaceholder": "Unit"
+        },      
+        "comment":{
+          "label": "Comment",
+          "placeholder": "Text..."
+        }
+      }
+    }
+  }
+  

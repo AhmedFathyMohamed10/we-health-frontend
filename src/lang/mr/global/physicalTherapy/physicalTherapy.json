@@ -1,0 +1,46 @@
+{
+  "en": {
+    "physicalTherapy":{
+      "header":"Physical Therapy",
+      "treatmentProgram":{
+        "label": "Treatment Program",
+        "placeholder": "Search or Insert"
+      },
+      "recommendedCenter":{
+        "label": "Recommended Center",
+        "placeholder": "Search or Insert"
+      },
+      "period": {
+        "label": "Period",
+        "valuePlaceholder": "Time",
+        "dropdownPlaceholder": "Unit"
+      },      
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  },
+  "ar": {
+    "physicalTherapy":{
+      "header":"Physical Therapy",
+      "treatmentProgram":{
+        "label": "Treatment Program",
+        "placeholder": "Search or Insert"
+      },
+      "recommendedCenter":{
+        "label": "Recommended Center",
+        "placeholder": "Search or Insert"
+      },      
+      "period": {
+        "label": "Period",
+        "valuePlaceholder": "Time",
+        "dropdownPlaceholder": "Unit"
+      },      
+      "comment":{
+        "label": "Comment",
+        "placeholder": "Text..."
+      }
+    }
+  }
+}

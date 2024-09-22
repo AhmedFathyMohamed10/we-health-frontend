@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460.5" height="767.128" viewBox="0 0 460.5 767.128">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.031" x2="0.5" y2="1.045" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7485ff"/>
+      <stop offset="1" stop-color="#7485ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6c9d"/>
+      <stop offset="1" stop-color="#fcaec8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.058" cy="0" r="1.35" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7be495"/>
+      <stop offset="1" stop-color="#329d9c"/>
+    </radialGradient>
+    <filter id="Colour_BG" x="147.5" y="0" width="313" height="283" filterUnits="userSpaceOnUse">
+      <feOffset dx="34" dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="44.5" result="blur"/>
+      <feFlood flood-color="#329d9c" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Colour_BG-2" x="147.5" y="103" width="313" height="286" filterUnits="userSpaceOnUse">
+      <feOffset dx="34" dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="44.5" result="blur-2"/>
+      <feFlood flood-color="#329d9c" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Colour_BG-3" x="147.5" y="216" width="313" height="284" filterUnits="userSpaceOnUse">
+      <feOffset dx="34" dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="44.5" result="blur-3"/>
+      <feFlood flood-color="#329d9c" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Colour_BG-4" x="147.5" y="326" width="313" height="284" filterUnits="userSpaceOnUse">
+      <feOffset dx="34" dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="44.5" result="blur-4"/>
+      <feFlood flood-color="#329d9c" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Colour_BG-5" x="147.5" y="439" width="313" height="285" filterUnits="userSpaceOnUse">
+      <feOffset dx="34" dy="34" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="44.5" result="blur-5"/>
+      <feFlood flood-color="#329d9c" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Colour_BG-6" x="41.99" y="577.959" width="286.618" height="189.169" filterUnits="userSpaceOnUse">
+      <feOffset dx="21" dy="21" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="27.5" result="blur-6"/>
+      <feFlood flood-color="#329d9c" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1182" data-name="Group 1182" transform="translate(-1598.5 -62.436)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="310" height="621" rx="25" transform="translate(1598.5 111.5)" fill="#fff"/>
+    <line id="Line_5" data-name="Line 5" x2="249.715" transform="translate(1643.115 186.826)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_100" data-name="100" transform="translate(1625.392 185.581)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100</tspan></text>
+    <line id="Line_5-2" data-name="Line 5" x2="249.715" transform="translate(1643.115 211.073)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_50" data-name="50" transform="translate(1625.392 209.828)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">50</tspan></text>
+    <line id="Line_5-3" data-name="Line 5" x2="249.715" transform="translate(1643.115 235.321)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_25" data-name="25" transform="translate(1625.392 234.075)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">25</tspan></text>
+    <line id="Line_5-4" data-name="Line 5" x2="249.715" transform="translate(1643.115 259.568)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_0" data-name="0" transform="translate(1625.392 257.323)" fill="#3e4554" font-size="4" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <path id="Path_6" data-name="Path 6" d="M-22,418.9l7.9,5.736,6.813-5.736,6.613,2.475,6.817-13.836h5.669l7.338-29.892,5.1-2.053,6.5,4.91,5.381-2.857L48.743,380.5l7.523,11.428h5.4l7.189,4.263h6.334l5.327,3.679,6.381-3.679,7.662,11.344,5.2-2.648,7.228,2.648,5.347-2.648,5.758,5.107,4.953-2.459h7.363l6.7-2.648h5.755l4.551-8.7,10.9,3.679,8.785-10.188h15.146l8.911-14.092,9.915,16.338,4.938-2.246,5.254-21.969h7.894" transform="translate(1664.508 -180.804)" fill="none" stroke="#7485ff" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_7" data-name="Path 7" d="M219.165,367.714H211.27l-5.254,21.969-4.938,2.246-9.915-16.338-8.911,14.092H167.1l-8.785,10.188-10.9-3.679-4.551,8.7h-5.755l-6.7,2.648h-7.363l-4.953,2.459-5.758-5.107-5.347,2.648-7.228-2.648-5.2,2.648L86.9,396.192l-6.381,3.679-5.327-3.679H68.86l-7.189-4.263h-5.4L48.743,380.5l-12.609-2.857L30.753,380.5l-6.5-4.91-5.1,2.053-7.338,29.892H6.142L-.675,421.371-7.288,418.9l-6.813,5.736L-22,418.9v24.824H219.165Z" transform="translate(1664.508 -180.804)" opacity="0.15" fill="url(#linear-gradient)"/>
+    <g id="Rectangle_55" data-name="Rectangle 55" transform="translate(1746.638 212.586)" fill="#fff" stroke="#7485ff" stroke-width="1">
+      <rect width="9.571" height="8.082" rx="4.041" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.571" height="7.082" rx="3.541" fill="none"/>
+    </g>
+    <g id="Rectangle_55-2" data-name="Rectangle 55" transform="translate(1827.557 204.504)" fill="#fff" stroke="#7485ff" stroke-width="1">
+      <rect width="9.571" height="8.082" rx="4.041" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.571" height="7.082" rx="3.541" fill="none"/>
+    </g>
+    <g id="Rectangle_55-3" data-name="Rectangle 55" transform="translate(1684.862 192.013)" fill="#fff" stroke="#7485ff" stroke-width="1">
+      <rect width="9.571" height="8.082" rx="4.041" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.571" height="7.082" rx="3.541" fill="none"/>
+    </g>
+    <path id="Path_25" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1638.208 289.628)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_100K" data-name="100K" transform="translate(1621.345 288.383)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100K</tspan></text>
+    <path id="Path_25-2" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1638.208 313.875)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_50K" data-name="50K" transform="translate(1621.345 312.63)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">50K</tspan></text>
+    <path id="Path_25-3" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1638.208 338.123)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_5K" data-name="5K" transform="translate(1621.345 336.877)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5K</tspan></text>
+    <path id="Path_25-4" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1638.208 362.37)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_0-2" data-name="0" transform="translate(1621.345 360.125)" fill="#3e4554" font-size="4" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <path id="Path_22" data-name="Path 22" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853v57.84H-1671.04Z" transform="translate(3311.065 -208.65)" opacity="0.15" fill="url(#linear-gradient-2)"/>
+    <path id="Path_23" data-name="Path 23" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853" transform="translate(3311.065 -208.65)" fill="none" stroke="#ff6c9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Rectangle_55-4" data-name="Rectangle 55" transform="translate(1664.85 289.996)" fill="#fff" stroke="#ff6c9d" stroke-width="1">
+      <rect width="9.571" height="8.082" rx="4.041" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.571" height="7.082" rx="3.541" fill="none"/>
+    </g>
+    <text id="case_measurments" data-name="case measurments" transform="translate(1655.5 135.936)" fill="#205072" font-size="19" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">CASE MEASURMENTS</tspan></text>
+    <path id="Path_25-5" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1640.666 401.457)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_100K-2" data-name="100K" transform="translate(1623.803 400.211)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100K</tspan></text>
+    <path id="Path_25-6" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1640.666 425.704)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_50K-2" data-name="50K" transform="translate(1623.803 424.458)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">50K</tspan></text>
+    <path id="Path_25-7" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1640.666 449.951)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_5K-2" data-name="5K" transform="translate(1623.803 448.706)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5K</tspan></text>
+    <path id="Path_25-8" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1640.666 474.198)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_0-3" data-name="0" transform="translate(1623.803 471.953)" fill="#3e4554" font-size="4" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <path id="Path_22-2" data-name="Path 22" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853v57.84H-1671.04Z" transform="translate(3313.523 -96.822)" opacity="0.15" fill="url(#linear-gradient-2)"/>
+    <path id="Path_23-2" data-name="Path 23" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853" transform="translate(3313.523 -96.822)" fill="none" stroke="#ff6c9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Rectangle_55-5" data-name="Rectangle 55" transform="translate(1667.308 401.824)" fill="#fff" stroke="#ff6c9d" stroke-width="1">
+      <rect width="9.571" height="8.082" rx="4.041" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.571" height="7.082" rx="3.541" fill="none"/>
+    </g>
+    <path id="Path_25-9" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 513.285)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_100K-3" data-name="100K" transform="translate(1625.392 512.039)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100K</tspan></text>
+    <path id="Path_25-10" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 537.532)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_50K-3" data-name="50K" transform="translate(1625.392 536.287)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">50K</tspan></text>
+    <path id="Path_25-11" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 561.779)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_5K-3" data-name="5K" transform="translate(1625.392 560.534)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5K</tspan></text>
+    <path id="Path_25-12" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 586.027)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_0-4" data-name="0" transform="translate(1625.392 583.781)" fill="#3e4554" font-size="4" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <path id="Path_22-3" data-name="Path 22" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853v57.84H-1671.04Z" transform="translate(3315.112 15.006)" opacity="0.15" fill="url(#linear-gradient-2)"/>
+    <path id="Path_23-3" data-name="Path 23" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853" transform="translate(3315.112 15.006)" fill="none" stroke="#ff6c9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Rectangle_55-6" data-name="Rectangle 55" transform="translate(1668.896 513.652)" fill="#fff" stroke="#ff6c9d" stroke-width="1">
+      <rect width="9.571" height="8.082" rx="4.041" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.571" height="7.082" rx="3.541" fill="none"/>
+    </g>
+    <path id="Path_25-13" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 622.233)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_100K-4" data-name="100K" transform="translate(1625.392 620.988)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">100K</tspan></text>
+    <path id="Path_25-14" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 646.48)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_50K-4" data-name="50K" transform="translate(1625.392 645.235)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">50K</tspan></text>
+    <path id="Path_25-15" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 670.728)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_5K-4" data-name="5K" transform="translate(1625.392 669.482)" fill="#3e4554" font-size="5" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">5K</tspan></text>
+    <path id="Path_25-16" data-name="Path 25" d="M6.628,0H250.576" transform="translate(1642.254 694.975)" fill="none" stroke="#c0c4cb" stroke-width="0.5" opacity="0.75"/>
+    <text id="_0-5" data-name="0" transform="translate(1625.392 692.729)" fill="#3e4554" font-size="4" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">0</tspan></text>
+    <path id="Path_22-4" data-name="Path 22" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853v57.84H-1671.04Z" transform="translate(3315.112 123.955)" opacity="0.15" fill="url(#linear-gradient-2)"/>
+    <path id="Path_23-4" data-name="Path 23" d="M-1671.04,545.583l1.842-2.851,1.074-6.769.94-5.859h2.9v-3.078l2.087-3.8v-3.911l2.1-1.287,1-2.532,1.6,1.585,1.414-1.585,1.616,1.585,4.987-11.185,2.829-1.1,1.94-2.36h6.378l1.092,1.544h2.188V505.9h2.622l1.161,1.964,1.447-1.964,1.509,3.152h1.341l2.4,6.448,1.59,3.818v2.112l1.294,1.8v2.964l1.643,1.837V530.1l2.64-.925h1.691l2.646,2.335v1.572l4.5,1.993,1.8-1.993,2.058-1.572,3.2-1.409,1.9,1.409h1.72s-.776,1.192,0,1.572,3.376,0,3.376,0v1.993l2.877.885,1.414,2.562h1.844s-.9,1.19,0,1.216a8.117,8.117,0,0,0,2.831-1.216l2.466-.762v-2.685l.947-2.789,1.386,2.789v-2.789l2.255.8v-1.572l1.668.777,1.307-2.186,1.53,2.186,2.441-.777v1.572h3.316v1.993h1.189l2.048.885h1.682a2.149,2.149,0,0,0,1.736,0,2.66,2.66,0,0,0,1.021-.885H-1558l1.891-1.993,1.609,1.993,2.205-1.993,2.091,2.878s.431-1.81,1.075-.885a18.115,18.115,0,0,1,1.366,2.685,1.835,1.835,0,0,1,.961,0c.567.138,1.26,1.978,1.26,1.978s.587-1.668,1.245,0a8.775,8.775,0,0,0,2.242,2.991v1.185h2.374v1.665l2.556,1.516h1.06l2.3-1.516,2.156,1.516,1.962-1.516v-3.957l3.208-1.885.9.874,1.954-.874,2.564-1.216,2.817-.762.915-3.628h3.149l1.294.944,2.3-1.993,2.76,1.993,2.943-1.993h3.31l1.3-2.981,1.228,1.409,2.552-2.335s.123,1.019,1.013.925,3.117-2.074,3.117-2.074v1.149l3.114-4.1,1.695-1.851,1.636-3.911,1.718-1.287,1.141,1.287,1.889-2.233,2.838-1.585,4.117-.868,2.189.868h1.652l1.575,1.585h4.505l2.5.946,3.6-2.532,3.607,1.585a30.385,30.385,0,0,1,3.21.946c.243.2,0,1.287,0,1.287l2.264-1.287,1.536,2.123s1.7-.663,2.032,0a14.3,14.3,0,0,0,1.67,2.078,10.483,10.483,0,0,1,1.646,1c.237.279,1.345,1.851,1.345,1.851l2.026-1.851v4.8l3.478-4.8,2.254-1,.982,1h3.853" transform="translate(3315.112 123.955)" fill="none" stroke="#ff6c9d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Rectangle_55-7" data-name="Rectangle 55" transform="translate(1668.896 622.601)" fill="#fff" stroke="#ff6c9d" stroke-width="1">
+      <rect width="9.571" height="8.082" rx="4.041" stroke="none"/>
+      <rect x="0.5" y="0.5" width="8.571" height="7.082" rx="3.541" fill="none"/>
+    </g>
+    <text id="Heading_3" data-name="Heading 3" transform="translate(1641.5 173.936)" fill="#205072" font-size="13" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Overall Case</tspan></text>
+    <text id="Heading_3-2" data-name="Heading 3" transform="translate(1641.5 276.936)" fill="#205072" font-size="13" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Pulse Rate</tspan></text>
+    <text id="Heading_3-3" data-name="Heading 3" transform="translate(1641.5 389.936)" fill="#205072" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Weight</tspan></text>
+    <text id="Heading_3-4" data-name="Heading 3" transform="translate(1641.5 501.936)" fill="#205072" font-size="14" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Blood Pressure</tspan></text>
+    <text id="Heading_3-5" data-name="Heading 3" transform="translate(1641.5 613.936)" fill="#205072" font-size="13" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Blood Glucose Level</tspan></text>
+    <g id="Group_334" data-name="Group 334" transform="translate(1845.946 161.52)">
+      <g transform="matrix(1, 0, 0, 1, -247.45, -99.08)" filter="url(#Colour_BG)">
+        <rect id="Colour_BG-7" data-name="Colour BG" width="46" height="16" rx="8" transform="translate(247 99.5)" fill="url(#radial-gradient)"/>
+      </g>
+      <text id="Button" transform="translate(21.555 8.416)" fill="#fff" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-12.747" y="0">Details</tspan></text>
+    </g>
+    <g id="Group_333" data-name="Group 333" transform="translate(1845.946 264.905)">
+      <g transform="matrix(1, 0, 0, 1, -247.45, -202.47)" filter="url(#Colour_BG-2)">
+        <rect id="Colour_BG-8" data-name="Colour BG" width="46" height="19" rx="9.5" transform="translate(247 202.5)" fill="url(#radial-gradient)"/>
+      </g>
+      <text id="Button-2" data-name="Button" transform="translate(23.555 11.031)" fill="#fff" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-10.717" y="0">Insert</tspan></text>
+    </g>
+    <g id="Group_332" data-name="Group 332" transform="translate(1845.946 377.603)">
+      <g transform="matrix(1, 0, 0, 1, -247.45, -315.17)" filter="url(#Colour_BG-3)">
+        <rect id="Colour_BG-9" data-name="Colour BG" width="46" height="17" rx="8.5" transform="translate(247 315.5)" fill="url(#radial-gradient)"/>
+      </g>
+      <text id="Button-3" data-name="Button" transform="translate(23.555 9.333)" fill="#fff" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-10.717" y="0">Insert</tspan></text>
+    </g>
+    <g id="Group_336" data-name="Group 336" transform="translate(1845.946 487.508)">
+      <g id="Group_331" data-name="Group 331">
+        <g transform="matrix(1, 0, 0, 1, -247.45, -425.07)" filter="url(#Colour_BG-4)">
+          <rect id="Colour_BG-10" data-name="Colour BG" width="46" height="17" rx="8.5" transform="translate(247 425.5)" fill="url(#radial-gradient)"/>
+        </g>
+        <text id="Button-4" data-name="Button" transform="translate(23.555 9.428)" fill="#fff" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-10.717" y="0">Insert</tspan></text>
+      </g>
+    </g>
+    <g id="Group_335" data-name="Group 335" transform="translate(1845.946 601.138)">
+      <g transform="matrix(1, 0, 0, 1, -247.45, -538.7)" filter="url(#Colour_BG-5)">
+        <rect id="Colour_BG-11" data-name="Colour BG" width="46" height="18" rx="9" transform="translate(247 538.5)" fill="url(#radial-gradient)"/>
+      </g>
+      <text id="Button-5" data-name="Button" transform="translate(23.555 10.798)" fill="#fff" font-size="7" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-10.717" y="0">Insert</tspan></text>
+    </g>
+    <g id="Button-6" data-name="Button" transform="translate(1701.99 701.895)">
+      <g id="Elements_Buttons_Gradient_Small" data-name="Elements/ Buttons – Gradient/ Small" transform="translate(0)">
+        <g transform="matrix(1, 0, 0, 1, -103.49, -639.46)" filter="url(#Colour_BG-6)">
+          <rect id="Colour_BG-12" data-name="Colour BG" width="121.618" height="24.169" rx="12.085" transform="translate(103.49 639.46)" fill="url(#radial-gradient)"/>
+        </g>
+        <text id="Button-7" data-name="Button" transform="translate(57.228 16.087)" fill="#fff" font-size="11" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-30.289" y="0">Load More</tspan></text>
+      </g>
+    </g>
+    <g id="tooth-2" transform="translate(1621.48 160.588)">
+      <path id="Path_465" data-name="Path 465" d="M14.131,15.371l1.49-2.111.994-1.409-.994-1.409L14.131,8.33l2.375,1.324.927.516C17.34,7.233,16.742,5,13.6,5c-1.408,0-2.149.571-3.854.571-.2,0-.38-.009-.554-.023l-.156.278-.439.78a6.135,6.135,0,0,0,1.149.107,7.291,7.291,0,0,0,1.946-.285A7.392,7.392,0,0,1,13.6,6.142a.609.609,0,0,1,.642.571.609.609,0,0,1-.642.571,6.052,6.052,0,0,0-1.561.244,8.729,8.729,0,0,1-2.293.327A8.729,8.729,0,0,1,7.45,7.527a6.052,6.052,0,0,0-1.561-.244.609.609,0,0,1-.642-.571.609.609,0,0,1,.642-.571A7.392,7.392,0,0,1,7.8,6.428c.164.041.327.08.491.117l-.4-.719L7.56,5.249A6.536,6.536,0,0,0,5.889,5,3.25,3.25,0,0,0,2.32,7.784l.358-.635L3.253,8.17l.547.972,1.093.486,1.148.51-1.149.511L3.8,11.134l-.547.972-.574,1.021L2.1,12.105l0-.005c.466,3.4,3.592,7.742,5.716,7.742,1.285,0,0-4.662,0-5.709,0-1.142.75-1.713,1.927-1.713s1.927.571,1.927,1.713c0,1.046-1.285,5.709,0,5.709,1.782,0,4.268-3.061,5.3-6.053l-.462.257Z" transform="translate(-0.751 -2.146)" fill="#56c596" stroke="#205072" stroke-linejoin="round" stroke-width="0.1"/>
+      <path id="Path_466" data-name="Path 466" d="M26.285,2.713l1.285.571-.642-1.142L27.569,1l-1.285.571L25,1l.642,1.142L25,3.283Z" transform="translate(-8.944 -0.429)" fill="#56c596" stroke="#205072" stroke-linejoin="round" stroke-width="0.1"/>
+      <path id="Path_467" data-name="Path 467" d="M2.569,13.283l1.285-.571-1.285-.571L1.927,11l-.642,1.142L0,12.713l1.285.571.642,1.142Z" transform="translate(0 -4.721)" fill="#56c596" stroke="#205072" stroke-linejoin="round" stroke-width="0.1"/>
+      <path id="Path_468" data-name="Path 468" d="M10.927,3.425l.642-1.142,1.285-.571-1.285-.571L10.927,0l-.642,1.142L9,1.713l1.285.571Z" transform="translate(-3.22)" fill="#56c596" stroke="#205072" stroke-linejoin="round" stroke-width="0.1"/>
+      <path id="Path_469" data-name="Path 469" d="M27.854,14l-1.927,1.074L24,14l1.209,1.713L24,17.425l1.927-1.074,1.927,1.074-1.209-1.713Z" transform="translate(-8.586 -6.008)" fill="#56c596" stroke="#205072" stroke-linejoin="round" stroke-width="0.1"/>
+    </g>
+    <g id="stats" transform="translate(1632.94 121.473)">
+      <path id="Path_161" data-name="Path 161" d="M18.5,0a2.564,2.564,0,0,0-2.642,2.478,2.36,2.36,0,0,0,.55,1.5L12.362,9.957a2.819,2.819,0,0,0-.472-.045,2.868,2.868,0,0,0-.476.045l-2-2.947a2.357,2.357,0,0,0,.494-1.434A2.564,2.564,0,0,0,7.266,3.1,2.564,2.564,0,0,0,4.624,5.576,2.357,2.357,0,0,0,5.118,7.01l-2,2.947a2.867,2.867,0,0,0-.476-.045A2.564,2.564,0,0,0,0,12.39a2.564,2.564,0,0,0,2.642,2.478A2.564,2.564,0,0,0,5.285,12.39a2.357,2.357,0,0,0-.494-1.434l2-2.947a2.565,2.565,0,0,0,.953,0l2,2.947a2.357,2.357,0,0,0-.494,1.434,2.564,2.564,0,0,0,2.642,2.478,2.564,2.564,0,0,0,2.642-2.478,2.355,2.355,0,0,0-.5-1.437L18.113,4.92a2.792,2.792,0,0,0,.383.036,2.564,2.564,0,0,0,2.642-2.478A2.564,2.564,0,0,0,18.5,0Z" fill="#56c596" stroke="#205072" stroke-width="0.1"/>
+    </g>
+    <g id="digital-balance" transform="translate(1621.48 372.418)">
+      <path id="Path_300" data-name="Path 300" d="M13.65,3.393a3.9,3.9,0,0,0-7.74,0C2.435,3.594,0,4.057,0,4.6V21.019H19.559V4.6C19.559,4.057,17.125,3.594,13.65,3.393Zm2.334,3.575A.984.984,0,1,1,14.8,7.68.984.984,0,0,1,15.984,6.968Zm-3.475-.889a1.3,1.3,0,1,1,.942,1.6A1.3,1.3,0,0,1,12.509,6.079Zm-7.042-.95a1.313,1.313,0,1,1-.943,1.6A1.3,1.3,0,0,1,5.467,5.129ZM3.575,6.968a.984.984,0,1,1-.707,1.2A.976.976,0,0,1,3.575,6.968ZM1.7,11.515a.657.657,0,1,1,.471-.8A.652.652,0,0,1,1.7,11.515Zm.15-2.072a.652.652,0,1,1,.792.476A.657.657,0,0,1,1.846,9.444ZM8.339,18.46a1.953,1.953,0,0,1-3.723-1.14h0a2.821,2.821,0,0,0-.434-2.2l-1.158-1.68a2.521,2.521,0,0,1,.488-3.389l1.62-1.307a1.223,1.223,0,0,1,1.418-.086A1.245,1.245,0,0,1,7.1,9.975L6.87,11.052a6.663,6.663,0,0,0,.889,4.984l.409.642A1.976,1.976,0,0,1,8.339,18.46ZM9.78,3.284a.654.654,0,0,0-.652.657H7.172a2.608,2.608,0,1,1,5.216,0H10.432A.654.654,0,0,0,9.78,3.284ZM16.535,13.44l-1.157,1.68a2.821,2.821,0,0,0-.434,2.2,1.975,1.975,0,0,1-.551,1.833,1.945,1.945,0,0,1-3.173-.692,1.977,1.977,0,0,1,.173-1.785l.409-.642a6.66,6.66,0,0,0,.888-4.984l-.233-1.077a1.245,1.245,0,0,1,.555-1.318,1.223,1.223,0,0,1,1.418.086l1.62,1.307A2.521,2.521,0,0,1,16.535,13.44Zm.387-3.521a.659.659,0,0,1-.472-.8.651.651,0,0,1,.792-.475.657.657,0,0,1-.32,1.274Zm1.735,1.121a.653.653,0,1,1-.473-.8A.654.654,0,0,1,18.656,11.04Z" fill="#56c596" stroke="#707070" stroke-width="0.1"/>
+    </g>
+    <g id="ekg" transform="translate(1621.48 263.973)">
+      <path id="Path_315" data-name="Path 315" d="M18.267,0a3.924,3.924,0,0,0-3.011,1.49A3.924,3.924,0,0,0,12.246,0,4.5,4.5,0,0,0,8.078,4.254a.817.817,0,0,1,.083,0,1.2,1.2,0,0,1,.9.675h.006c.061,0,.113.016.172.02a3.31,3.31,0,0,1,3.01-3.534A2.784,2.784,0,0,1,14.4,2.481l.861,1.033.861-1.033a2.784,2.784,0,0,1,2.15-1.065,3.311,3.311,0,0,1,3.011,3.539A12.863,12.863,0,0,1,15.256,15.5a12.9,12.9,0,0,1-3.662-3.469.942.942,0,0,1-.141-.013l-.43,1.39a11.138,11.138,0,0,0,4.233,3.583c.6,0,7.225-4.247,7.225-12.034C22.482,2.218,20.595,0,18.267,0Z" transform="translate(-3.214)" fill="#56c596" stroke="#707070" stroke-width="0.1"/>
+      <path id="Path_316" data-name="Path 316" d="M8.606,13.163a.558.558,0,0,0,.426.207h1.806a.717.717,0,0,0,0-1.416H9.281L8.253,10.747a.548.548,0,0,0-.556-.191.645.645,0,0,0-.435.449L5.707,16.032,4.812,7.62A.654.654,0,0,0,4.261,7a.621.621,0,0,0-.626.512L2.557,11.955H.6a.717.717,0,0,0,0,1.416H3.011a.626.626,0,0,0,.579-.514l.393-1.62.839,7.884a.662.662,0,0,0,.53.616.549.549,0,0,0,.068,0,.615.615,0,0,0,.565-.466L8.07,12.534Z" transform="translate(0 -2.045)" fill="#56c596" stroke="#707070" stroke-width="0.1"/>
+    </g>
+    <g id="blood-pressure-monitor" transform="translate(1621.48 484.246)">
+      <circle id="Ellipse_20" data-name="Ellipse 20" cx="0.5" cy="0.5" r="0.5" transform="translate(5.021 3.69)" fill="#56c596" stroke="#707070" stroke-width="0.1"/>
+      <path id="Path_231" data-name="Path 231" d="M19.265,18.4,18.1,17.6a5.38,5.38,0,0,1-2.456-4.415c0-3.169-2.983-5.747-6.65-5.747H6.259V6.692A3.551,3.551,0,0,0,9.388,3.38,3.68,3.68,0,0,0,5.477,0,3.68,3.68,0,0,0,1.565,3.38,3.551,3.551,0,0,0,4.694,6.692v.745H2.347V6.761H1.565c-.433,0-.782.606-.782,1.352s.35,1.352.782,1.352h.782V8.789H4.694v.833C2.6,10.382,0,13.831,0,16.226c0,1.867,1.565,4.733,5.477,4.733s5.477-2.865,5.477-4.733c0-2.395-2.6-5.844-4.694-6.6V8.789H9c2.8,0,5.085,1.971,5.085,4.394a6.667,6.667,0,0,0,3.043,5.471l1.163.8a.854.854,0,0,0,.487.148.832.832,0,0,0,.612-.254A.615.615,0,0,0,19.265,18.4ZM3.129,3.38A2.208,2.208,0,0,1,5.477,1.352,2.208,2.208,0,0,1,7.824,3.38,2.208,2.208,0,0,1,5.477,5.409,2.208,2.208,0,0,1,3.129,3.38Z" fill="#56c596" stroke="#707070" stroke-width="0.1"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(1621.203 596.074)">
+      <g id="thermometer" transform="translate(0)">
+        <path id="Path_463" data-name="Path 463" d="M14.206,12.652H10.48V11.114c.012-4.254,0-2.762,0-4.231H7.5c0,1.469.029,4.248,0,4.231v1.538H3.774c-2.058,0-3.07.791-3.07,1.768v8.133C.7,24.9,4.053,26.8,8.99,26.8s8.5-1.9,8.5-4.243V14.42C17.489,13.443,16.264,12.652,14.206,12.652Zm.745,9.9c0,1.56-2.673,2.829-5.961,2.829s-5.961-1.269-5.961-2.829V14.42c0-.194.335-.354.745-.354H14.206c.41,0,.745.159.745.354Z" transform="translate(-0.703 -6.883)" fill="#56c596"/>
+        <path id="Path_464" data-name="Path 464" d="M7.1,18H5.033C4.462,18,4,18.329,4,18.737V24.63c0,.407.462.737,1.033.737H7.1c.571,0,1.033-.329,1.033-.737V18.737C8.132,18.329,7.67,18,7.1,18Z" transform="translate(2.22 -8.796)" fill="#56c596"/>
+        <rect id="Rectangle_16" data-name="Rectangle 16" width="1.993" height="1.579" transform="translate(7.318 0.286)" fill="red"/>
+      </g>
+      <text id="_5.7" data-name="5.7" transform="translate(8.149 10.888) rotate(90)" fill="#fff" font-size="2" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">5.7</tspan></text>
+    </g>
+  </g>
+</svg>

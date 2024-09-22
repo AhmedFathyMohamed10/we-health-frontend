@@ -1,0 +1,14 @@
+{
+    "en":{
+        "head":"Choose Your Specialty",
+        "btnLabel":"Next",
+        "searchPlaceholder":"search",
+        "noResultMsg":"No Result Found"
+    },
+    "ar":{
+        "head":"اختر تخصصك",
+        "btnLabel":"التالي",
+        "searchPlaceholder":"بحث",
+        "noResultMsg":"لا يوجد نتائج للبحث"
+    }
+}

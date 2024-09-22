@@ -1,0 +1,193 @@
+
+/*phone number input package */
+.vue-phone-number-input{
+    .country-selector{
+        padding: 0 !important;
+        .country-selector__input{
+            background-color: white;
+            color: $secondary;
+            border-radius: 2rem 0px 0px 2rem !important;
+            border-color: rgba($success,0.3) !important;
+            &:focus{
+                outline: 0 none;
+                box-shadow:$shadow-success !important;
+                border-color: rgba($success,0.3) !important;
+            }
+        }
+        .country-selector__toggle{
+            top: 0 ;
+            .country-selector__toggle__arrow{
+                .arrow{
+                    color: $gray;
+                    opacity:0.5;
+                }
+            }
+        }
+        .country-selector__label{
+            color: $secondary !important;
+            opacity:0.5 !important;
+        }
+        .country-selector__list{
+            background:white;
+            .country-selector__list__item__calling-code{
+                color: $secondary;
+                &:hover{
+                    background:$success;
+                }
+            }
+            .dots-text{
+                color: $secondary;
+            }
+        }
+    }
+    .country-selector.is-disabled{
+        .country-selector__input{
+            background-color: white;
+            opacity: 0.6;
+        }
+    }
+    .country-selector.input-country-selector.is-valid{
+        .country-selector__label{
+            color:  $secondary !important;
+            opacity:0.5 !important;
+        }
+    }
+    .country-selector.is-disabled.is-valid{
+        .country-selector__input,.country-selector__label,.country-selector__toggle__arrow{
+            cursor: text ;
+            border-color: rgba($success,0.3) !important;
+            border-color: rgba($success,0.3) !important;
+            &:hover{
+                border-color: rgba($success,0.3) !important;
+            }
+        }
+        .country-selector__input{
+            background-color: white;
+            border-color: $success;
+            color:  $secondary ;
+            opacity: 0.7;
+        }
+        .country-selector__toggle{
+            .country-selector__toggle__arrow{
+                .arrow{
+                }
+            }
+        }
+        .country-selector__label{
+            color:  $secondary !important ;
+        }
+        .country-selector__list{
+            .country-selector__list__item__calling-code{
+                color:  $secondary ;
+                &:hover{
+                }
+            }
+            .dots-text{
+                color:  $secondary ;
+            }
+        }
+    }
+    .input-tel{
+        .input-tel__input:not(.no-country-selector) {
+            border-color: rgba($success,0.3) !important;
+            border-radius: 0px 2rem 2rem 0px !important;
+            background-color:white;
+            color:  $secondary;
+            &::placeholder{
+                color: $secondary;
+                opacity: 0.7;
+            }
+            &:focus{
+                outline: 0 none;
+                box-shadow:$shadow-success !important;
+                border-color: rgba($success,0.3) !important;
+            }
+        }
+        .input-tel__label{
+            color:  $secondary;
+            right: 10px !important;
+            left: auto !important;
+        }
+    }
+    .input-tel.is-valid{
+        .input-tel__label{
+            color:  $secondary !important;
+            opacity:0.5 !important;
+        }
+    }
+    .input-tel.has-error{
+        .input-tel__input{
+            cursor: text ;
+            border-color: $danger !important;
+            &:hover{
+                border-color: $danger !important;
+            }
+        }
+    }
+    .input-tel.is-disabled{
+        .input-tel__input:not(.no-country-selector) {
+            opacity: 0.6;
+        }
+    }
+    .input-tel.is-disabled.is-valid{
+        .input-tel__input{
+            cursor: text ;
+            border-color: rgba($success,0.3) !important;
+            &:hover{
+                border-color: rgba($success,0.3) !important;
+            }
+        }
+        .input-tel__input:not(.no-country-selector) {
+            color: $secondary;
+            opacity: 0.7;
+        }
+        .input-tel__label{
+            color: $secondary !important;
+            cursor: text ;
+        }
+    }
+
+}
+
+.rtl{
+    .vue-phone-number-input{
+        .country-selector{
+            .country-selector__input{
+                border-radius: 0px 2rem 2rem 0px !important;
+            }
+            .country-selector__toggle{
+                top: 0 ;
+                .country-selector__toggle__arrow{
+                    .arrow{
+                    }
+                }
+            }
+            .country-selector__label{
+
+            }
+        }
+        .country-selector.input-country-selector.is-valid{
+            .country-selector__label{
+            }
+        }
+        .input-tel{
+            .input-tel__input:not(.no-country-selector) {
+                border-radius: 2rem 0px 0px 2rem !important;
+                &::placeholder{
+
+                }
+                &:focus{
+                }
+            }
+            .input-tel__label{
+                color:  $secondary;
+                left: 10px !important;
+                right: auto !important;
+            }
+        }
+        .input-tel.is-valid{
+            .input-tel__label{
+            }
+        }
+    }
+}

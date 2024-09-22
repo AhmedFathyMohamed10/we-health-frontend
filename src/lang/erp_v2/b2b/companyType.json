@@ -1,0 +1,177 @@
+{
+    "en": {  
+      "companyType": {
+        "header": "Company Type",
+        "key": {
+          "name_en": "Name EN",
+          "name_ar": "Name AR",
+          "serial_code": "Serial",
+          "description": "Description",
+          "createdBy": "Created by",
+          "createdAt": "Date",
+          "updated_at": "Updated at"
+        }
+      },
+      "form": {
+        "name_en": {
+          "label": "Name EN",
+          "placeholder": "Enter Name EN"
+        },
+        "code": {
+          "label": "Code",
+          "placeholder": "Enter Code"
+        },
+        "account": {
+          "label": "Account",
+          "placeholder": "Enter Account"
+        },
+        "name_ar": {
+          "label": "Name AR",
+          "placeholder": "Enter Other Name"
+        },
+        "serial_code": {
+          "label": "Serial",
+          "placeholder": "Enter Serial"
+        },
+        "parent": {
+          "label": "Parent Company Type",
+          "placeholder": "Enter Parent Company Type"
+        },
+        "description": {
+          "label": "Description",
+          "placeholder": "Enter description"
+        },
+        "note": {
+          "label": "Note",
+          "placeholder": "Enter note"
+        },
+        "no_items": {
+          "label": "No.items"
+        }
+      },
+      "dialog": {
+        "header": {
+          "new": "New Company Type",
+          "edit": "Edit Company Type",
+          "details": "Company Type Details",
+          "status": "Status Company Type"
+        }
+      },
+      "btns": {
+        "new": "New Company Type",
+        "all": "All Company Types",
+        "search": "Search",
+        "delete": "Delete",
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "status": {
+        "active": "Active",
+        "suspended": "Suspended"
+      },
+      "messages": {
+        "status": "Confirm that the status of this item has been permanently changed?",
+        "resultsfound": "result"
+      },
+      "toast": {
+        "select": {
+          "summery": "Select",
+          "details": "Please Select at Least One Record"
+        },
+        "search": {
+          "summery": "Search",
+          "details": "Please Write a Name or Mobile Number"
+        }
+      }
+    },
+    "ar": {
+  
+      "companyType": {
+        "header": "نوع الشركة",
+        "key": {
+          "name": "الاسم",
+          "status": "الحاله",
+          "createdBy": "أنشئت من قبل",
+          "createdAt": "التاريخ",
+          "updated_at": "تم التحديث في",
+          "name_en": "اسم نوع الشركة باللغة الانجليزية",
+          "name_ar": "اسم نوع الشركة باللغة العربية",
+          "serial_code": "الرقم التسلسلي",
+          "description": "الوصف"
+        }
+      },
+      "form": {
+        "name_en": {
+          "label": "اسم نوع الشركة باللغة الانجليزية",
+          "placeholder": "ادخل اسم نوع الشركة باللغة الانجليزية"
+        },
+        "code": {
+          "label": "الكود",
+          "placeholder": "الكود"
+        },
+        "account": {
+          "label": "الحساب",
+          "placeholder": "الحساب"
+        },
+        "name_ar": {
+          "label": "اسم نوع الشركة باللغة العربية",
+          "placeholder": "ادخل اسم نوع الشركة"
+        },
+        "serial_code": {
+          "label": "الرقم التسلسلي",
+          "placeholder": "ادخل الرقم التسلسلي"
+        },
+        "parent": {
+          "label": "الاب",
+          "placeholder": "الاب"
+        },
+        "description": {
+          "label": "الوصف",
+          "placeholder": "ادخل الوصف"
+        },
+        "note": {
+          "label": "الملاحظات",
+          "placeholder": "ادخل الملاحظات"
+        },
+        "no_items": {
+          "label": "No.items"
+        }
+      },
+      "dialog": {
+        "header": {
+          "new": "نوع شركة جديد",
+          "edit": "تعديل نوع الشركة",
+          "details": "تفاصيل نوع الشركة",
+          "delete": "حذف",
+          "status": "الحاله"
+        }
+      },
+      "btns": {
+        "new": "نوع شركة جديد ",
+        "all": "كل انواع الشركات",
+        "search": "بحث",
+        "delete": "حذف",
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "status": {
+        "active": "نشط",
+        "suspended": "غير نشط"
+      },
+      "messages": {
+        "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+        "resultsfound": "نتيجة"
+      },
+      "toast": {
+        "select": {
+          "summery": "تحديد",
+          "details": "الرجاء تحديد سجل واحد على الأقل"
+        },
+        "search": {
+          "summery": "بحث",
+          "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+        }
+      }
+    }
+  }
+  

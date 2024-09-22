@@ -1,0 +1,62 @@
+{
+    "en":{
+        "muscleTest":{
+            "header":"Muscle Test"
+        },
+        "muscleTone":{
+            "label":"Muscle Tone"
+        },
+        "muscle":{
+            "label":"Muscle",
+            "placeholder":"Select"
+        },
+        "right":{
+            "label":"Right",
+            "placeholder":"R"
+        },
+        "left":{
+            "label":"Left",
+            "placeholder":"L"
+        },
+        "baseline":{
+            "label":"At Baseline"
+        },
+        "end":{
+            "label":"At End"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+    },
+    "ar":{
+        "muscleTest":{
+            "header":"Muscle Test"
+        },
+        "muscleTone":{
+            "label":"Muscle Tone"
+        },
+        "muscle":{
+            "label":"Muscle",
+            "placeholder":"Select"
+        },
+        "right":{
+            "label":"Right",
+            "placeholder":"R"
+        },
+        "left":{
+            "label":"Left",
+            "placeholder":"L"
+        },
+        "baseline":{
+            "label":"At Baseline"
+        },
+        "end":{
+            "label":"At End"
+        },
+        "comment":{
+            "label":"Comment",
+            "placeholder":"Text..."
+        }
+    }
+}

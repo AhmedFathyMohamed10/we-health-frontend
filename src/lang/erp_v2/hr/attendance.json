@@ -1,0 +1,172 @@
+{
+  "en": {  
+    "attendance": {
+      "header": "Attendance",
+      "key": {
+        "employee": "Employee",
+        "date": "Date",
+        "shift": "Shift",
+        "departed":  "Departed",
+        "attended": "Attended",
+        "note_departed": "Note departed",
+        "note_attended": "Note attended",
+        "status": "Status",
+        "note":  "Note",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee",
+        "placeholder": "Enter Employee"
+      },
+      "date": {
+        "label": "Date",
+        "placeholder": "Enter Date"
+      },
+      "shift": {
+        "label": "Shift",
+        "placeholder": "Enter Shift"
+      },
+      "departed": {
+        "label": "Departed",
+        "placeholder": "Enter Departed"
+      },
+      "attended": {
+        "label": "Attended",
+        "placeholder": "Enter Attended"
+      },
+      "status": {
+        "label": "Status",
+        "placeholder": "Enter Status"
+      },
+      "note": {
+        "label": "Note",
+        "placeholder": "Enter Note"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "New Attendance",
+        "upload": "Upload",
+        "edit": "Edit Attendance",
+        "details": "Attendance  Details",
+        "status": "Status Attendance "
+      }
+    },
+    "btns": {
+      "new": "New Attendance",
+      "all": "All Attendance",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "attendance": {
+      "header": "الحضور",
+      "key": {
+        "date": "التاريخ",
+        "employee":"الموظف",
+        "shift": "الورديه",
+        "departed":"الانصراف",
+        "attended":"الحضور",
+        "note_departed": "ملاحظة الانصراف",
+        "note_attended":"ملاحظة الحضور",
+        "status": "الحالة",
+        "note": "ملاحظة",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "date": {
+        "label": "التاريخ",
+        "placeholder": "أدخل التاريخ"
+      },
+      "employee": {
+        "label": "الموظف",
+        "placeholder": "أدخل الموظف"
+      },
+      "shift": {
+        "label": "الورديه",
+        "placeholder": "أدخل الورديه"
+      },
+      "departed": {
+        "label": "الانصراف",
+        "placeholder": "أدخل الانصراف"
+      },
+      "attended": {
+        "label": "الحضور",
+        "placeholder": "أدخل الحضور"
+      },
+      "status": {
+        "label": "الحالة",
+        "placeholder": "أدخل الحالة"
+      },
+      "note": {
+        "label": "ملاحظة",
+        "placeholder": "أدخل ملاحظة"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "حضور جديد",
+        "edit": "تعديل الحضور",
+        "details": "تفاصيل الحضور",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "حضور جديد",
+      "all": "كل الحضور",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}
+

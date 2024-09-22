@@ -1,0 +1,128 @@
+{
+    "en": {
+        "accountStatement": {
+            "header": "Account Statement"
+        },
+        "form": {
+            "account": {
+                "label": "Account Name",
+                "placeholder": "Enter Account Name"
+            },
+            "statement_type": {
+                "label": "Statement Type",
+                "placeholder": "Select"
+            },
+            "creditor": {
+                "label": "Creditor"
+            },
+            "debtor": {
+                "label": "Debtor"
+            },
+            "balance": {
+                "label": "Balance"
+            },
+            "statement": {
+                "label": "Statement"
+            },
+            "created_at": {
+                "label": "Date/Time"
+            },
+            "start_date": {
+                "label": "Start Date",
+                "placeholder": "Start Date"
+            },
+            "end_date": {
+                "label": "End Date",
+                "placeholder": "End Date"
+            },
+            "forUs": {
+                "label": "for Us"
+            },
+            "forThem": {
+                "label": "for Them"
+            }            
+        },
+        "btns": {
+            "search": "Search"
+        },
+        "messages": {
+            "resultsfound": "result",
+            "creditor": "Creditor",
+            "debtor": "Debtor",
+            "balance": "Balance"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a Name"
+            }
+        }
+    },
+    "ar": {
+        "accountStatement": {
+            "header": "كشف حساب"
+        },
+        "form": {
+            "account": {
+                "label": "اسم الحساب",
+                "placeholder": "ادخل اسم الحساب"
+            },
+            "statement_type": {
+                "label": "نوع الكشف",
+                "placeholder": "اختر"
+            },
+            "creditor": {
+                "label": "دائن"
+            },
+            "debtor": {
+                "label": "مدين"
+            },
+            "balance": {
+                "label": "الرصيد"
+            },
+            "statement": {
+                "label": "الكشف"
+            },
+            "created_at": {
+                "label": "التاريخ/الوقت"
+            },
+            "start_date": {
+                "label": "في المدة من",
+                "placeholder": "في المدة من"
+            },
+            "end_date": {
+                "label": "في المدة الي",
+                "placeholder":"في المدة الي"
+            },
+            "forUs": {
+                "label": "لنا"
+            },
+            "forThem": {
+                "label": "لهم"
+            }
+        },
+        "btns": {
+            "search": "بحث"
+        },
+        "messages": {
+            "resultsfound": "نتيجة",
+            "creditor": "دائن",
+            "debtor": "مدين",
+            "balance": "الرصيد"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم"
+            }
+        }
+    }
+}

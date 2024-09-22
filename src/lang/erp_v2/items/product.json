@@ -1,0 +1,474 @@
+{
+  "en": {
+    "product_item": "Product",
+    "group": "Group",
+    "itemOperations": "Item Operations",
+    "product": {
+      "age": "Month",
+      "header": "Product",
+      "product_pricing_sheet":"Product Pricing & Units sheet",
+      "key": {
+        "name": "Name",
+        "number": "Number",
+        "group": "Group",
+        "site": "Site",
+        "age_assets": "Age Assets",
+        "starting_date": "Starting Date",
+        "Expiry_date": "Expiry Date",
+        "original_cost": "Original Cost",
+        "Estimated_value": "Estimated Value",
+        "originalAccount_data": "Original Account",
+        "value": "Number Times",
+        "selection": "Period",
+        "type_of_asset": "Type Of Asset",
+        "total_cost": "Total Cost",
+        "total_purchase_price": "Total Purchase Price",
+        "paid_from_the_purchase_price": "Paid From The Purchase Price",
+        "regular_installments": "Regular Installments",
+        "value_of_installment": "Value Of Installment",
+        "value_rent": "Value Rent",
+        "regular_rent": "Regular Rent",
+        "regular_periodic_maintenance": "Regular Periodic Maintenance",
+        "total_depreciation": "Total Depreciation",
+        "group_name": "Group",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "description": "Description",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "name_ar": {
+        "label": "Item Name Ar",
+        "placeholder": "Enter Item Name Ar"
+      },
+      "item_type": {
+        "label": " Item type",
+        "placeholder": "Drop Item type"
+      },
+      "name_en": {
+        "label": "Item Name En",
+        "placeholder": "Enter Item Name En"
+      },
+      "location": {
+        "label": "Location",
+        "placeholder": "Enter Location"
+      },
+      "group": {
+        "label": "Group",
+        "placeholder": "Enter Group"
+      },
+      "item_code": {
+        "label": "Item Code",
+        "placeholder": "Enter Item Code"
+      },
+      "accounting_code": {
+        "label": "Accounting Code",
+        "placeholder": "Enter Accounting Code"
+      }
+    },
+    "general": {
+      "permission": "Permission",
+      "min_limit": {
+        "label": "Min limit",
+        "placeholder": "Enter Min limit"
+      },
+      "max_limit": {
+        "label": "Max limit",
+        "placeholder": "Enter Max limit"
+      },
+      "last_supplier": {
+        "label": "Last supplier",
+        "placeholder": "Enter last supplier"
+      },
+      "inActive": {
+        "label": "Inactive",
+        "placeholder": "Enter inactive"
+      },
+      "prevent_give_discount": {
+        "label": "Prevent give discount",
+        "placeholder": "Enter Prevent give discount"
+      },
+      "prevent_negative_quantity_take_out": {
+        "label": "Prevent negative quantity take out",
+        "placeholder": "Enter prevent negative quantity take out"
+      },
+      "stop_selling": {
+        "label": "Stop selling",
+        "placeholder": "Enter stop selling"
+      },
+      "prevent_price_modifications": {
+        "label": "Prevent price modifications",
+        "placeholder": "Enter prevent price modifications"
+      },
+      "tax_free": {
+        "label": "Tax free",
+        "placeholder": "Enter tax free"
+      },
+      "alert_before_expiration_date": {
+        "label": "Alert before expiration date",
+        "placeholder": "Enter alert before expiration date"
+      }
+    },
+    "pricing": {
+      "units": "Units",
+      "purchasing": "Purchasing",
+      "pricingPolicies": "Pricing Policies",
+      "pricingUnits": "Pricing & Units",
+
+      "unit": {
+        "label": "Unit",
+        "placeholder": "Enter Unit"
+      },
+      "equivalent_to": {
+        "label": "Equivalent to",
+        "placeholder": "Enter Equivalent to"
+      },
+      "pricing": {
+        "label": "Pricing",
+        "placeholder": "Enter Pricing"
+      },
+      "unit_barcode": {
+        "label": "Unit barcode",
+        "placeholder": "Enter Unit barcode"
+      },
+      "purchase": {
+        "label": "Purchase",
+        "placeholder": "Enter Purchase"
+      },
+      "last_purchase": {
+        "label": "Last purchase",
+        "placeholder": "Enter Last purchase"
+      },
+      "profitRatio":{
+        "label":"profit Ratio",
+        "placeholder":"Enter Profit Ratio"
+    }
+    },
+    "mic": {
+      "indication": {
+        "label": "Indication",
+        "placeholder": "Enter indication"
+      },
+      "pharmaceutical_group": {
+        "label": "Pharmaceutical group",
+        "placeholder": "Enter pharmaceutical group"
+      },
+      "dose": {
+        "label": "Dose",
+        "placeholder": "Enter dose"
+      },
+      "contra_indication": {
+        "label": "Contra indication",
+        "placeholder": "Enter contra indication"
+      },
+      "pharmacological_group": {
+        "label": "Pharmacological group",
+        "placeholder": "Enter pharmacological group"
+      },
+      "other": {
+        "label": "Other",
+        "placeholder": "Enter other"
+      },
+      "precaution": {
+        "label": "Precaution",
+        "placeholder": "Enter precaution"
+      },
+      "side_effect": {
+        "label": "Side effect",
+        "placeholder": "Enter side effect"
+      },
+      "active_ingredient": {
+        "label": "Active ingredient",
+        "placeholder": "Enter active ingredient"
+      },
+      "pregnancy": {
+        "label": "Pregnancy",
+        "placeholder": "Enter pregnancy"
+      }
+    },
+    "statusItem": {
+      "dateTime":"Date &Time",
+      "actionType":"Action Type",
+      "user":"User",
+      "reference":"Reference",
+      "patchNo": "Patch No ,Expiration & Amount",
+      "chart": "Product Chart",
+      "log": "Item Log",
+      "totalCost": "Total Cost",
+      "totalAmount": "Total Amount",
+      "totalSell": "Total Sell Price",
+      "totalProfit": "Total Profit of total"
+    },
+    "dialog": {
+      "header": {
+        "new": "New Product",
+        "edit": "Edit Product",
+        "details": "Item profile",
+        "moveGroup": "Move Group"
+
+      }
+    },
+    "btns": {
+      "new": "New Product",
+      "all": "All Products",
+      "search": "Search",
+      "delete": "Delete",
+      "show": "Show"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "product_item": "منتج",
+    "group": "المجموعه",
+    "itemOperations": "عمليات المنتج",
+    "product": {
+      "header": "Product",
+      "product_pricing_sheet":"تسعير المنتجات والوحدات ",
+      "key": {
+        "number": "الرقم",
+        "group": "مجموعه الاصول",
+        "site": "الموقع",
+        "age_assets": "عمر الاصل",
+        "starting_date": "تاريخ البدء",
+        "Expiry_date": "تاريخ الانتهاء",
+        "original_cost": "التكلفه الاصليه",
+        "Estimated_value": "القيمه التقديريه",
+        "final_value": "القيمه النهائية",
+        "accumulated_depreciation": "اهتلاك منتظم",
+        "depreciationTable": "جدول الاهتلاك",
+        "depreciationTable_data": "جدول الاهتلاك",
+        "depreciationAccount_data": "حساب الاهتلاك",
+        "originalAccount_data": "حساب الاصل",
+        "regular_wear": "متراكم الاهتلاك",
+        "value": "عدد المرات",
+        "selection": "المدة",
+        "group_name": "مجموعه الاصول",
+        "description": "الوصف",
+        "type_of_asset": "نوع الأصول",
+        "total_cost": "التكلفة الإجمالية",
+        "total_purchase_price": "السعر الكلي للشراء",
+        "paid_from_the_purchase_price": "المدفوع من سعر الشراء",
+        "regular_installments": "أقساط منتظمة",
+        "value_of_installment": "قيمة القسط",
+        "value_rent": "قيمة الإيجار",
+        "regular_rent": "إيجار منتظم",
+        "regular_periodic_maintenance": "الصيانة الدورية المنتظمة",
+        "name": "الاسم",
+        "total_depreciation": "اهتلاك كلي",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },    
+    "form": {
+      "name_ar": {
+        "label": "الاسم بالعربي",
+        "placeholder": "ادخل الاسم بالعربي"
+      },
+      "item_type": {
+        "label": "نوع المنتج",
+        "placeholder": "اختر نوع المنتج"
+      },
+      "item_code": {
+        "label": "رمز الصنف",
+        "placeholder": "ادخل رمز الصنف"
+      },
+      "name_en": {
+        "label": "الاسم بالانجليزي",
+        "placeholder": "ادخل الاسم بالانجليزي"
+      },
+      "location": {
+        "label": "الموقع",
+        "placeholder": "ادخل الموقع"
+      },
+      "group": {
+        "label": "المجموعه",
+        "placeholder": "ادخل المجموعه"
+      },
+      "accounting_code": {
+        "label": "كود الحساب",
+        "placeholder": "ادخل كود الحساب"
+      }
+    },
+    "general": {
+      "permission": "الاذونات",
+      "min_limit": {
+        "label": "الحد الأدنى",
+        "placeholder": "ادخل الحد الأدنى"
+      },
+      "max_limit": {
+        "label": "الحد الأقصى",
+        "placeholder": "ادخل الحد الأقصى"
+      },
+      "last_supplier": {
+        "label": "المورد الأخير",
+        "placeholder": "ادخل المورد الأخير"
+      },
+      "inActive": {
+        "label": "غير نشط",
+        "placeholder": "ادخل غير نشط"
+      },
+      "prevent_give_discount": {
+        "label": "منع إعطاء الخصم",
+        "placeholder": "ادخل منع إعطاء الخصم"
+      },
+      "prevent_negative_quantity_take_out": {
+        "label": "منع إخراج الكمية السلبية",
+        "placeholder": "ادخل منع إخراج الكمية السلبية"
+      },
+      "stop_selling": {
+        "label": "توقف عن البيع",
+        "placeholder": "ادخل توقف عن البيع"
+      },
+      "prevent_price_modifications": {
+        "label": "منع تعديلات الأسعار",
+        "placeholder": "ادخل منع تعديلات الأسعار"
+      },
+      "tax_free": {
+        "label": "معفاة من الضرائب",
+        "placeholder": "ادخل معفاة من الضرائب"
+      },
+      "alert_before_expiration_date": {
+        "label": "تنبيه قبل تاريخ انتهاء الصلاحية",
+        "placeholder": "ادخل تنبيه قبل تاريخ انتهاء الصلاحية"
+      }
+    },
+    "pricing": {
+      "units": "الوحدات",
+      "purchasing": "شراء",
+      "pricingPolicies": "سياسات التسعير",
+      "pricingUnits": "التسعير والوحدات",
+
+      "unit": {
+        "label": "الوحده",
+        "placeholder": "ادخل الوحده"
+      },
+      "equivalent_to": {
+        "label": "تعادل ل",
+        "placeholder": "ادخل تعادل ل"
+      },
+      "pricing": {
+        "label": "التسعير",
+        "placeholder": "ادخل التسعير"
+      },
+      "unit_barcode": {
+        "label": "باركود الوحده",
+        "placeholder": "ادخل باركود الوحده"
+      },
+      "purchase": {
+        "label": "سعر الشراء",
+        "placeholder": "ادخل سعر الشراء"
+      },
+      "last_purchase": {
+        "label": "آخر عملية شراء",
+        "placeholder": "ادخل آخر عملية شراء"
+      }
+    },
+    "mic": {
+      "indication": {
+        "label": "إشارة",
+        "placeholder": "ادخل إشارة"
+      },
+      "pharmaceutical_group": {
+        "label": "المجموعة الصيدلانية",
+        "placeholder": "ادخل المجموعة الصيدلانية"
+      },
+      "dose": {
+        "label": "جرعة",
+        "placeholder": "ادخل جرعة"
+      },
+      "contra_indication": {
+        "label": "موانع",
+        "placeholder": "ادخل موانع"
+      },
+      "pharmacological_group": {
+        "label": "المجموعة الدوائية",
+        "placeholder": "ادخل المجموعة الدوائية"
+      },
+      "other": {
+        "label": "آخر",
+        "placeholder": "ادخل آخر"
+      },
+      "precaution": {
+        "label": "الاحتياطات",
+        "placeholder": "ادخل الاحتياطات"
+      },
+      "side_effect": {
+        "label": "أثر جانبي",
+        "placeholder": "ادخل أثر جانبي"
+      },
+      "active_ingredient": {
+        "label": "العنصر النشط",
+        "placeholder": "ادخل العنصر النشط"
+      },
+      "pregnancy": {
+        "label": "حمل",
+        "placeholder": "ادخل حمل"
+      }
+    },
+    "statusItem": {
+      "dateTime":"التاريخ والوقت",
+      "actionType":"نوع الإجراء",
+      "user":"المستخدم",
+      "reference":"مرجع",
+      "patchNo": "التصحيح رقم وانتهاء الصلاحية والمبلغ",
+      "chart": "مخطط المنتج",
+      "log": "سجل العنصر",
+      "totalCost": "التكلفة الإجمالية",
+      "totalAmount": "المبلغ الإجمالي",
+      "totalSell": "إجمالي سعر البيع",
+      "totalProfit": "إجمالي الربح الإجمالي"
+   
+    },
+  
+    "dialog": {
+      "header": {
+        "new": "اضافه منتج جديد",
+        "edit": " تعديل منتج",
+        "details": "تفاصيل منتج",
+        "delete": "حذف",
+        "moveGroup": "تغير المجموعة"
+      }
+    },
+    "btns": {
+      "new": "اضافه منتج",
+      "all": "كل المنتجات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+    "en": {
+        "task": {
+            "header": "tasks"
+        },
+        "subtask": {
+            "header": "Subtask"
+        },
+        "form": {
+            "title": {
+                "label": "Title",
+                "placeholder": "Enter Title"
+            },
+            "description": {
+                "label": "Description",
+                "placeholder": "Enter Description"
+            },
+            "group": {
+                "label": "Group",
+                "placeholder": "Select Group"
+            },
+            "status": {
+                "label": "Status",
+                "placeholder": "Select Status"
+            },
+            "createdBy": {
+                "label": "Created by"
+            },
+            "createdAt": {
+                "label": "Created at"
+            },
+            "updated_at": {
+                "label": "Updated at"
+            },
+            "employee": {
+                "label": "Employee",
+                "placeholder": "Search Employee"
+            },
+            "subtasks": {
+                "label": "Subtasks"
+            }
+        },
+        "dialog": {
+            "header": {
+                "new": "New Task",
+                "edit": "Edit Task",
+                "details": "Task Details",
+                "status": "Status Task"
+            }
+        },
+        "btns": {
+            "new": "New Task",
+            "all": "All Tasks",
+            "search": "Search",
+            "delete": "Delete",
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "status": {
+            "active": "Active",
+            "suspended": "Suspended"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a title"
+            }
+        }
+    },
+    "ar": {
+        "task": {
+            "header": "تعريفات المهام"
+        },
+        "subtask": {
+            "header": "مهمة فرعية"
+        },
+        "form": {
+            "title": {
+                "label": "اسم المهمة",
+                "placeholder": "ادخل اسم المهمة"
+            },
+            "description": {
+                "label": "الوصف",
+                "placeholder": "ادخل الوصف"
+            },
+            "group": {
+                "label": "المجموعة",
+                "placeholder": "أختر المحموعة"
+            },
+            "status": {
+                "label": "الحالة",
+                "placeholder": "أختر الحالة"
+            },
+            "createdBy": {
+                "label": "أنشئت من قبل"
+            },
+            "createdAt": {
+                "label": "التاريخ"
+            },
+            "updated_at": {
+                "label": "تم التحديث في"
+            },
+            "subtasks": {
+                "label": "المهام"
+            }
+        },
+        "dialog": {
+            "header": {
+                "new": "مهمة جديدة",
+                "edit": "تعديل المهمة",
+                "details": "تفاصيل المهمة",
+                "delete": "حذف",
+                "status": "الحاله"
+            }
+        },
+        "btns": {
+            "new": "مهمة جديدة",
+            "all": "كل المهام",
+            "search": "بحث",
+            "delete": "حذف",
+            "active": "نشط",
+            "suspended": "غير نشط"
+        },
+        "status": {
+            "active": "نشط",
+            "suspended": "غير نشط"
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم"
+            }
+        }
+    }
+}

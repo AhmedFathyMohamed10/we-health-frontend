@@ -1,0 +1,168 @@
+{
+  "en": {
+    "client": {
+      "header": "Clients",
+
+      "key": {
+        "client_serial": "Serial",
+        "name": "Name",
+        "group": "Group"
+       
+      }
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Enter Name"
+      },
+      "client_serial": {
+        "label": "Serial",
+        "placeholder": "Enter Serial"
+      },
+      "group": {
+        "label": "Group",
+        "placeholder": "Search..."
+      }
+     
+    },
+    "dialog": {
+      "header": {
+        "new": "New Client",
+        "editClient": "Edit Client",
+        "edit": "Edit ",
+        "detailsClient": "Client Details",
+        "details": " Details",
+        "status": "Status Client"
+      },
+      "title": {
+        "new": "New Group",
+        "edit": "Edit Group",
+        "details": "Group Details",
+        "status": "Status Group"
+      }
+    },
+    "btns": {
+      "newClient": "New Client",
+      "new": "New ",
+      "allClients": "All Clients",
+      "all": "All Clients",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+    "client": {
+      "header": "العملاء",
+      "key": {
+        "client_serial": "الرقم التسلسلي",
+        "name": "الاسم",
+        "group": "المجموعة"
+       
+      }
+    },
+    "form": {
+      "category": {
+        "label": "الفئة"
+      },
+      "name": {
+        "label": "الاسم",
+        "placeholder": "ادخل اسم"
+      },
+      "mobile": {
+        "label": "رقم التليفون",
+        "placeholder": " ادخل رقم التليفون"
+      },
+      "client_serial": {
+        "label": " الرقم التسلسلي",
+        "placeholder": "الرقم التسلسلي"
+      },
+      "group": {
+        "label": "المجموعة",
+        "placeholder": "اختر المجموعة"
+      },
+      "discount_ratio": {
+        "label": "نسبة الخصم",
+        "placeholder": "ادخل نسبة الخصم"
+      },
+      "maximum_debt": {
+        "label": "الحد الاعلي للدين",
+        "placeholder": "ادخل الحد الاقصي للدين"
+      },
+      "job_title": {
+        "label": "المهنة",
+        "placeholder": "ادخل المهنة"
+      },
+      "pricing_pattern": {
+        "label": "نمط التسعير",
+        "placeholder": "ادخل نمط التسعير"
+      },
+      "status": {
+        "label": "نشط",
+        "placeholder": "ادخل النشاط"
+      },
+      "": {
+        "label": "مورد"
+      },
+      "client": {
+        "label": "عميل"
+      }
+    },
+    "dialog": {
+      "header": {
+        "editClient": "تعديل العميل",
+        "edit": "تعديل المورد",
+        "detailsClient": "تفاصيل العميل",
+        "details": "تفاصيل المورد",
+        "new": "عميل جديد",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط",
+      "new": "عميل جديد",
+      "all": "كل العملاء"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

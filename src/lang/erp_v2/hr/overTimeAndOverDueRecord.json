@@ -1,0 +1,177 @@
+{
+  "en": {  
+    "overTimeAndOverDue": {
+      "header": "Overtime and Overdue Record",
+      "key": {
+        "employee":"Employee",
+        "overtime":"Overtime",
+        "hours":"Hours",
+        "total_amount":"Total Amount",
+        "due_date":"Due Date",
+        "serial_code":"Overtime Code",
+        "notes":"Notes",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee",
+        "placeholder": "Enter Employee"
+      },
+      "overTime": {
+        "label": "Overtime",
+        "placeholder": "Enter Overtime"
+      },
+      "hours": {
+        "label": "Hours",
+        "placeholder": "Enter Hours"
+      },
+      "total_amount": {
+        "label": "Total Amount",
+        "placeholder": "Enter Total Amount"
+      },
+      "date": {
+        "label": "Date",
+        "placeholder": "Enter Date"
+      },
+      "due_date": {
+        "label": "Due Date",
+        "placeholder": "Enter Due Date"
+      },
+      "serial_code": {
+        "label": "Overtime Code",
+        "placeholder": "Enter Overtime Code"
+      },
+    
+      "notes": {
+        "label": "Notes",
+        "placeholder": "Enter Notes"
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "Add Overtime and Overdue Record",
+        "edit": "Edit Overtime and Overdue Record",
+        "send": "Send to Accounting",
+        "details": "Overtime and Overdue Record Details",
+        "status": "Status"
+      }
+    },
+    "btns": {
+      "new": "New Overtime and Overdue Record",
+      "all": "All Overtime and Overdue Records",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "overTimeAndOverDue": {
+      "header": "وقت إضافي او متأخر",
+      "key": {
+        "employee": "الموظف",
+        "overtime": "الوقت الإضافي",
+        "hours": "الساعات",
+        "total_amount":"المبلغ الإجمالي",
+        "due_date": "تاريخ الاستحقاق",
+        "serial_code":"كود العمل الإضافي",
+        "notes":  "الملاحظات",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+        "employee": {
+          "label": "الموظف",
+          "placeholder": "أدخل الموظف"
+        },
+        "overTime": {
+          "label": "الوقت الإضافي",
+          "placeholder": "أدخل الوقت الإضافي"
+        },
+        "hours": {
+          "label": "الساعات",
+          "placeholder": "أدخل الساعات"
+        },
+        "total_amount": {
+          "label": "المبلغ الإجمالي",
+          "placeholder": "أدخل المبلغ الإجمالي"
+        },
+        "due_date": {
+          "label": "تاريخ الاستحقاق",
+          "placeholder": "أدخل تاريخ الاستحقاق"
+        },
+        "date": {
+          "label": "التاريخ",
+          "placeholder": "أدخل التاريخ"
+        },
+        "serial_code": {
+          "label": "كود العمل الإضافي",
+          "placeholder": "أدخل كود العمل الإضافي"
+        },
+      
+        "notes": {
+          "label": "الملاحظات",
+          "placeholder": "أدخل الملاحظات"
+        }
+    },
+    "dialog": {
+      "header": {
+        "new": "وقت إضافي او متأخر جديد",
+        "edit": "تعديل وقت إضافي او متأخر",
+        "details": "تفاصيل وقت إضافي او متأخر",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "وقت إضافي اومتأخر جديد",
+      "all": "كل الوقت الإضافي والمتأخر",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

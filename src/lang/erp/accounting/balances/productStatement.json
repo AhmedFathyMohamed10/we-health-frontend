@@ -1,0 +1,143 @@
+{
+    "en": {
+        "productStatement": {
+            "header": "Product Statement"
+        },
+        "form": {
+            "product": {
+                "label": "Product Name",
+                "placeholder": "Enter Product Name"
+            },
+            "invoice_type":{
+                "label":"Invoice Type",
+                "placeholder":"Select Invoice Type"
+            },
+            "invoice_number": {
+                "label": "Invoice Number"
+            },
+            "store_name": {
+                "label": "Store"
+            },
+            "total_quantity_in": {
+                "label": "Total Quantity In"
+            },
+            "total_price_in": {
+                "label": "Total Price In"
+            },
+            "total_quantity_out": {
+                "label": "Total Quantity Out"
+            },
+            "total_price_out": {
+                "label": "Total Price Out"
+            },
+            "profit": {
+                "label": "Profit"
+            },
+            "unit_name": {
+                "label": "Unit"
+            },
+            "unit_price": {
+                "label": "Unit Price"
+            },
+            "created_at": {
+                "label": "Date/Time"
+            },
+            "start_date": {
+                "label": "Start Date",
+                "placeholder": "Start Date"
+            },
+            "end_date": {
+                "label": "End Date",
+                "placeholder": "End Date"
+            }         
+        },
+        "btns": {
+            "search": "Search"
+        },
+        "messages": {
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select": {
+                "summery": "Select",
+                "details": "Please Select at Least One Record"
+            },
+            "search": {
+                "summery": "Search",
+                "details": "Please Write a Name"
+            }
+        }
+    },
+    "ar": {
+        "productStatement": {
+            "header": "كشف منتج"
+        },
+        "form": {
+            "product": {
+                "label": "اسم المنتج",
+                "placeholder": "ادخل اسم المنتج"
+            },
+            "invoice_type":{
+                "label":"نوع الفاتورة",
+                "placeholder":"اختر نوع الفاتورة"
+            },
+            "invoice_number": {
+                "label": "رقم الفاتورة"
+            },
+            "store_name": {
+                "label": "المخزن"
+            },
+            "total_quantity_in": {
+                "label": "الكمية الإجمالية الداخلة"
+            },
+            "total_price_in": {
+                "label": "السعر الإجمالي الداخل"
+            },
+            "total_quantity_out": {
+                "label": "الكمية الإجمالية الخارجة"
+            },
+            "total_price_out": {
+                "label": "السعر الإجمالي الخارج"
+            },   
+            "profit": {
+                "label": "الربح"
+            },         
+            "quantity": {
+                "label": "الكمية"
+            },
+            "unit_name": {
+                "label": "الوحدة"
+            },
+            "unit_price": {
+                "label": "سعر الوحدة"
+            },
+            "created_at": {
+                "label": "التاريخ/الوقت"
+            },
+            "start_date": {
+                "label": "في المدة من",
+                "placeholder": "في المدة من"
+            },
+            "end_date": {
+                "label": "في المدة الي",
+                "placeholder":"في المدة الي"
+            }
+        },
+        "btns": {
+            "search": "بحث"
+        },
+        "messages": {
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select": {
+                "summery": "تحديد",
+                "details": "الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search": {
+                "summery": "بحث",
+                "details": "الرجاء كتابة اسم"
+            }
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+  "en": {  
+    "shiftRecord": {
+      "header": "Shift Record",
+      "key": {
+        "employee": "Employee / Department",
+        "description": "Description",
+        "serial_code": "Serial Code",
+        "role": "Role",
+        "parent": "Parent",
+        "createdBy": "Created by",
+        "createdAt": "Date",
+        "updated_at": "Updated at"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "Employee / Department",
+        "placeholder": "Search by Employee or Department"
+      },
+      "shift": {
+        "label": "Shift",
+        "placeholder": "Enter Shift"
+      },
+      "type": {
+        "label": "Type Shift",
+        "placeholder": "Enter Type Shift"
+      },
+      "date": {
+        "label": "Date",
+        "placeholder": "Enter Date"
+      },
+      "validation_from": {
+        "label": "Validation From",
+        "placeholder": "Enter Validation From"
+      },
+      "validation_to": {
+        "label": "Validation To",
+        "placeholder": "Enter Validation To"
+      },
+      "report_type": {
+        "label": "Report Type",
+        "placeholder": "Enter Report Type"
+      },
+      "shift_days_to": {
+        "placeholder": "To"
+      },
+      "work_hour_from": {
+        "placeholder": "..,.."
+      },
+      "work_hour_to": {
+        "placeholder": "..,.."
+      }
+    
+    },
+    "dialog": {
+      "header": {
+        "new": "New Shift Record",
+        "edit": "Edit Shift Record",
+        "details": "Shift Record Details",
+        "status": "Status"
+      }
+    },
+    "btns": {
+      "new": "New Shift Record",
+      "all": "All Shift Records",
+      "search": "Search",
+      "delete": "Delete",
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "status": {
+      "active": "Active",
+      "suspended": "Suspended"
+    },
+    "messages": {
+      "status": "Confirm that the status of this item has been permanently changed?",
+      "resultsfound": "result"
+    },
+    "toast": {
+      "select": {
+        "summery": "Select",
+        "details": "Please Select at Least One Record"
+      },
+      "search": {
+        "summery": "Search",
+        "details": "Please Write a Name or Mobile Number"
+      }
+    }
+  },
+  "ar": {
+
+    "shiftRecord": {
+      "header": "الورديات",
+      "key": {
+        "name": "الاسم",
+        "parent": "الوصف",
+        "createdBy": "أنشئت من قبل",
+        "createdAt": "التاريخ",
+        "updated_at": "تم التحديث في"
+      }
+    },
+    "form": {
+      "employee": {
+        "label": "الموظف / القسم",
+        "placeholder": "البحث بواسطة الموظف / القسم"
+      },
+      "shift": {
+        "label": "ورديه",
+        "placeholder": "ادخل ورديه"
+      },
+      "type": {
+        "label": "نوع الورديه",
+        "placeholder": "ادخل نوع الورديه"
+      },
+      "date": {
+        "label": "التاريخ",
+        "placeholder": "ادخل التاريخ"
+      },
+      "validation_from": {
+        "label": "التاريخ من",
+        "placeholder": "ادخل التاريخ من"
+      },
+      "validation_to": {
+        "label": "التاريخ الي",
+        "placeholder": "ادخل التاريخ الي"
+      },
+      "report_type": {
+        "label": "نوع التقرير",
+        "placeholder": "ادخل نوع التقرير"
+      },
+      "shift_days_to": {
+        "placeholder": "الي"
+      },
+      "work_hour_from": {
+        "placeholder": "..,.."
+      },
+      "work_hour_to": {
+        "placeholder": "..,.."
+      }
+    },
+    "dialog": {
+      "header": {
+        "new": "ورديه جديده",
+        "edit": "تعديل الورديه",
+        "details": "تفاصيل الورديه",
+        "delete": "حذف",
+        "status": "الحاله"
+      }
+    },
+    "btns": {
+      "new": "ورديه جديده",
+      "all": "كل الورديات",
+      "search": "بحث",
+      "delete": "حذف",
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "status": {
+      "active": "نشط",
+      "suspended": "غير نشط"
+    },
+    "messages": {
+      "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+      "resultsfound": "نتيجة"
+    },
+    "toast": {
+      "select": {
+        "summery": "تحديد",
+        "details": "الرجاء تحديد سجل واحد على الأقل"
+      },
+      "search": {
+        "summery": "بحث",
+        "details": "الرجاء كتابة اسم أو رقم هاتف محمول"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+    "en": {
+        "maintenanceGroup":{
+            "header": "Maintenance Group",
+            "key":{
+                "name":"Name",
+                "description":"Description",
+                "parentGroup":"Group Parent",
+                "createdBy":"Created by",
+                "createdAt":"Date",
+                "updated_at":"Updated at"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"Name",
+                "placeholder":"Enter Name"
+            },
+            "description":{
+                "label":"description",
+                "placeholder":"Enter description"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"New Maintenance Group",
+                "edit":"Edit Maintenance Group",
+                "details":"Maintenance Group Details",
+                "delete":"Delete"
+
+            }
+        },
+        "btns":{
+            "new":"New Maintenance Group",
+            "all":"All Maintenance Groups",
+            "search": "Search",
+            "delete": "Delete"
+        },
+        "messages": {
+            "status": "Confirm that the status of this item has been permanently changed?",
+            "resultsfound": "result"
+        },
+        "toast": {
+            "select":{
+                "summery":"Select",
+                "details":"Please Select at Least One Record"
+            },
+            "search":{
+                "summery":"Search",
+                "details":"Please Write a Name or Mobile Number"
+            }
+        }
+    },
+    "ar": {
+        "maintenanceGroup":{
+            "header":"مجموعه الصيانات",
+            "key":{
+                "name":"الاسم",
+                "description" :"الوصف",
+                "parentGroup":"المجموعه الاب",
+                "createdBy":"أنشئت من قبل",
+                "createdAt":"التاريخ",
+                "updated_at":"تم التحديث في"
+            }
+        },
+        "form":{
+            "name":{
+                "label":"اسم المجموعه",
+                "placeholder":"ادخل اسم المجموعه"
+            },
+            "description":{
+                "label":"الوصف",
+                "placeholder":"ادخل الوصف"
+            }
+        },
+        "dialog":{
+            "header":{
+                "new":"اضافه مجموعه صيانات جديده" ,
+                "edit":" تعديل مجموعه صيانات",
+                "details":"تفاصيل مجموعه صيانات",
+                "delete":"حذف"
+            }
+        },
+        "btns":{
+            "new":"اضافه مجموعه صيانات جديده",
+            "all":"كل مجموعه الصيانات",
+            "search": "بحث",
+            "delete": "حذف"            
+        },
+        "messages": {
+            "status": "تأكيد تغير حاله هذا العنصر نهائيا؟",
+            "resultsfound": "نتيجة"
+        },
+        "toast": {
+            "select":{
+                "summery":"تحديد",
+                "details":"الرجاء تحديد سجل واحد على الأقل"
+            },
+            "search":{
+                "summery":"بحث",
+                "details":"الرجاء كتابة اسم أو رقم هاتف محمول"
+            }
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "en":{
+        "rateOptions":{
+            "normal":"Normal",
+            "good":"Good",
+            "poor":"Poor",
+            "notPossible":"Not Possible"
+        },
+        "balance":{
+            "title": "Balance Disorders",
+            "sitting":{
+                "label":"Sitting"
+            },
+            "standing":{
+                "label":"Standing"
+            },
+            "comment":{
+                "label":"Comment",
+                "placeholder": "Text..."
+            }
+        },
+        "coordination":{
+            "title": "Coordination",
+            "upperLimps":{
+                "label":"Upper Limps",
+                "right":{
+                    "label":"Right",
+                    "placeholder": "R"
+                },
+                "left":{
+                    "label":"Left",
+                    "placeholder": "L"
+                }
+            },
+            "lowerLimps":{
+                "label":"Lower Limps",
+                "right":{
+                    "label":"Right",
+                    "placeholder": "R"
+                },
+                "left":{
+                    "label":"Left",
+                    "placeholder": "L"
+                }
+            },
+            "comment":{
+                "label":"Comment",
+                "placeholder": "Text..."
+            }
+        },
+        "gait":{
+            "title":"Gait Analysis",
+            "quality":"Functional quality of the gait",
+            "frontal":{
+                "label":"Frontal Plane",
+                "placeholder": "Text..."
+            },
+            "sagittal":{
+                "label":"Sagittal Plane",
+                "placeholder": "Text..."
+            },
+            "safety":{
+                "label":"Safety"
+            },
+            "cadence":{
+                "label":"Cadence"
+            },
+            "speed":{
+                "label":"Speed"
+            },
+            "fatigue":{
+                "label":"Fatigue"
+            },
+            "remarks":{
+                "label":"Remarks",
+                "placeholder": "Text..."
+            },
+            "comment":{
+                "label":"Comment",
+                "placeholder": "Text..."
+            }
+        }
+    },
+    "ar":{
+        "rateOptions":{
+            "normal":"Normal",
+            "good":"Good",
+            "poor":"Poor",
+            "notPossible":"Not Possible"
+        },
+        "balance":{
+            "title": "Balance Disorders",
+            "sitting":{
+                "label":"Sitting"
+            },
+            "standing":{
+                "label":"Standing"
+            },
+            "comment":{
+                "label":"Comment",
+                "placeholder": "Text..."
+            }
+        },
+        "coordination":{
+            "title": "Coordination",
+            "upperLimps":{
+                "label":"Upper Limps",
+                "right":{
+                    "label":"Right",
+                    "placeholder": "R"
+                },
+                "left":{
+                    "label":"Left",
+                    "placeholder": "L"
+                }
+            },
+            "lowerLimps":{
+                "label":"Lower Limps",
+                "right":{
+                    "label":"Right",
+                    "placeholder": "R"
+                },
+                "left":{
+                    "label":"Left",
+                    "placeholder": "L"
+                }
+            },
+            "comment":{
+                "label":"Comment",
+                "placeholder": "Text..."
+            }
+        },
+        "gait":{
+            "title":"Gait Analysis",
+            "quality":"Functional quality of the gait",
+            "frontal":{
+                "label":"Frontal Plane",
+                "placeholder": "Text..."
+            },
+            "sagittal":{
+                "label":"Sagittal Plane",
+                "placeholder": "Text..."
+            },
+            "safety":{
+                "label":"Safety"
+            },
+            "cadence":{
+                "label":"Cadence"
+            },
+            "speed":{
+                "label":"Speed"
+            },
+            "fatigue":{
+                "label":"Fatigue"
+            },
+            "remarks":{
+                "label":"Remarks",
+                "placeholder": "Text..."
+            },
+            "comment":{
+                "label":"Comment",
+                "placeholder": "Text..."
+            }
+        }
+    }    
+}
